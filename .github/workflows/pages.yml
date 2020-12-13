@@ -25,7 +25,7 @@ jobs:
       - name: Pack 7z Package for nightly
         run: |
           cd nitrofiles
-          7z ../pages.7z pages
+          7z a ../pages.7z pages
       - name: Upload to pages release
         run: |
           ID=35207926
