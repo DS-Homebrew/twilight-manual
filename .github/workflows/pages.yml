@@ -12,7 +12,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Build pages
-    outputs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
