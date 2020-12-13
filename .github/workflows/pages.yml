@@ -35,7 +35,7 @@ jobs:
 
           # Delete old file
           ASSET_ID=$(curl https://api.github.com/repos/${{ github.repository }}/releases/$ID/assets | jq --raw-output '.[0].id')
-          UPLOAD_URL="https://api.github.com/repos/${{ github.repository }}/releases/$ID/assets/$ASSET_ID"
+          UPLOAD_URL="https://api.github.com/repos/${{ github.repository }}/releases/assets/$ASSET_ID"
           curl -XDELETE -H "$AUTH_HEADER" "$UPLOAD_URL"
 
           # Upload new file
