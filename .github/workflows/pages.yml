@@ -4,7 +4,7 @@ on:
   push:
     branches: ["*"]
     paths:
-      - "pages/*""
+      - "pages/*"
       - "nitrofiles/*"
       - ".github/workflows/pages.yml"
 
