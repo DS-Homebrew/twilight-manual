@@ -31,6 +31,7 @@ jobs:
           ID=35207926
           AUTH_HEADER="Authorization: token ${{ secrets.GITHUB_TOKEN }}"
 
+          UPLOAD_URL="https://api.github.com/repos/${{ github.repository }}/releases/$ID"
           curl -XPATCH -H "$AUTH_HEADER" "$UPLOAD_URL" -d "{\"body\": \"This release always has the latest page files\n\nLast updated: $(git rev-parse --short HEAD)\"}"
 
           for file in pages.7z; do
