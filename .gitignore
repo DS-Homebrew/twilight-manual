@@ -1,3 +1,6 @@
+nitrofiles/pages/*/*
+!nitrofiles/pages/english/*.ini
+
 *.DS_Store
 .sass-cache
 _site
