@@ -14,7 +14,7 @@ body {
 .ds-size {
 	width: 256px;
 	min-height: 368px;
-	background: repeating-linear-gradient(to bottom, #404040, #404040 1px, #383838 1px, #383838 2px);
+	background-image: url(../images/background.png);
 }
 .banner {
 	display: flex;
