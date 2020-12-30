@@ -13,8 +13,7 @@ SED			:= sed -i
 	endif
 endif
 
-# Acholi is the default for Crowdin's In-Context translations
-EXCLUDE		:= Acholi assets
+EXCLUDE		:= In-Context assets
 LANGS		:= $(filter-out $(EXCLUDE),$(subst /,,$(wildcard */)))
 NITROFILES	:= ../nitrofiles
 
