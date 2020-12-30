@@ -26,6 +26,9 @@ body {
 	margin: 0 2px;
 	text-align: left;
 }
+html[dir="rtl"] .ds-margin {
+	text-align: right;
+}
 .section-title {
 	font-size: 14px;
 	font-weight: bold;
@@ -44,12 +47,20 @@ body {
 	border-radius: 0 10px 10px 10px;
 	padding: 5px 10px 10px 10px;
 }
+html[dir="rtl"] .section-body {
+	border-radius: 10px 0 10px 10px;
+
+}
 .section-body:not(:last-child) {
 	margin-bottom: 6px;
 }
 .twilightLogo {
 	float: right;
 	margin-right: 2px;
+}
+html[dir="rtl"] .twilightLogo {
+	float: left;
+	margin-left: 2px;
 }
 .button-action-group {
 	display: flex;
