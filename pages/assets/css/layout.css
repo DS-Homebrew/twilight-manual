@@ -5,6 +5,10 @@
 	font-style: normal;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 body {
 	margin: 0;
 	font-family: 'nintendo_ntlg-db_001regular', 'Arial', sans-serif;
@@ -38,9 +42,10 @@ html[dir="rtl"] .ds-margin {
 	width: -moz-fit-content;
 	margin-bottom: 0;
 	padding: 5px 10px 0 10px;
+	max-width: calc(100% - 10px);
 }
 .ds-margin > .section-title:first-of-type {
-	max-width: 60%;
+	max-width: calc(100% - 87px);
 }
 .section-body {
 	background-color: #cecece;
