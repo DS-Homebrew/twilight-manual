@@ -1,5 +1,5 @@
 ifeq ($(OS),Windows_NT)
-CHROMIUM	:= chromium.exe
+CHROMIUM	:= chromium.exe --disable-gpu
 SED			:= sed.exe -i
 else
 	ifeq ($(shell uname -s),Darwin)
@@ -36,7 +36,7 @@ killserver:
 $(NITROFILES)/pages/%.gif	:	%.html
 	@echo $$(basename $(@D))/$$(basename $<)
 	@[ -d "$(@D)" ] || mkdir -p "$(@D)"
-	$(CHROMIUM) --no-sandbox --hide-scrollbars --headless --disable-gpu --window-size=256,3000 1>/dev/null 2>&1 --screenshot$(SCREENSHOT) http://127.0.0.1:8000/$<
+	$(CHROMIUM) --no-sandbox --hide-scrollbars --headless --window-size=256,3000 1>/dev/null 2>&1 --screenshot$(SCREENSHOT) http://127.0.0.1:8000/$<
 	@ffmpeg -i screenshot.png -vf "palettegen=max_colors=246" palette.png -y -loglevel error
 	@ffmpeg -i screenshot.png -i palette.png -filter_complex "$$(ffmpeg -loop 1 -i screenshot.png -frames:v 3 -vf 'negate,cropdetect=0:2:0' -f null - 2>&1 | awk '/y2/ {print $$NF}' | tail -1),paletteuse" $@ -y -loglevel error
 	@rm -f screenshot.png palette.png
