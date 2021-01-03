@@ -7,3 +7,5 @@ pages/screenshot.png
 *.DS_Store
 .sass-cache
 _site
+/.vs/slnx.sqlite
+/.vs
