@@ -1,7 +1,32 @@
 @font-face {
 	font-family: 'nintendo_ntlg-db_001regular';
 	src: url('../font/nintendo_NTLG-DB.ttf') format('truetype');
-	font-weight: bold;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans Hebrew';
+	src: url('../font/NotoSansHebrew-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	src: url('../font/NotoSansKR-Medium.otf') format('opentype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans SC';
+	src: url('../font/NotoSansSC-Medium.otf') format('opentype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	src: url('../font/NotoSansTC-Medium.otf') format('opentype');
+	font-weight: 500;
 	font-style: normal;
 }
 
@@ -11,9 +36,12 @@
 
 body {
 	margin: 0;
-	font-family: 'nintendo_ntlg-db_001regular', 'Arial', sans-serif;
-	font-weight: bold;
+	font-family: 'nintendo_ntlg-db_001regular', 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans KR', 'Noto Sans Hebrew', 'Arial', sans-serif;
+	font-weight: 500;
 	font-size: 13px;
+}
+html[lang="zh"] body {
+	font-family: 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans KR', 'Noto Sans Hebrew', 'nintendo_ntlg-db_001regular', 'Arial', sans-serif;
 }
 .ds-size {
 	width: 256px;

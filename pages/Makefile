@@ -1,5 +1,5 @@
 ifeq ($(OS),Windows_NT)
-CHROMIUM	:= chromium.exe --disable-gpu
+CHROMIUM	:= chromium.exe
 SED			:= sed.exe -i
 else
 	ifeq ($(shell uname -s),Darwin)
@@ -23,20 +23,14 @@ TARGETS		:= $(foreach file,$(INPUTS:.html=.gif),$(addprefix $(NITROFILES)/pages/
 INIFILES	:= $(wildcard $(NITROFILES)/pages/english/*.ini)
 INITARGETS	:= $(foreach file,$(INIFILES),$(foreach lang,$(filter-out english,$(LANGS)),$(subst english,$(lang),$(file))))
 
-.PHONY: all clean server killserver
+.PHONY: all clean
 
-all:	inifiles server $(TARGETS) killserver
-
-server:
-	python3 -m http.server 1>/dev/null 2>&1 & echo $$! > server.pid
-
-killserver:
-	if [ -f server.pid ]; then kill $$(cat server.pid); rm server.pid; fi
+all:	inifiles $(TARGETS)
 
 $(NITROFILES)/pages/%.gif	:	%.html
 	@echo $$(basename $(@D))/$$(basename $<)
 	@[ -d "$(@D)" ] || mkdir -p "$(@D)"
-	$(CHROMIUM) --no-sandbox --hide-scrollbars --headless --window-size=256,3000 1>/dev/null 2>&1 --screenshot$(SCREENSHOT) http://127.0.0.1:8000/$<
+	$(CHROMIUM) --disable-gpu --no-sandbox --hide-scrollbars --headless --run-all-compositor-stages-before-draw --virtual-time-budget=10000 --window-size=256,3000 --screenshot $< 1>/dev/null 2>&1
 	@ffmpeg -i screenshot.png -vf "palettegen=max_colors=246" palette.png -y -loglevel error
 	@ffmpeg -i screenshot.png -i palette.png -filter_complex "$$(ffmpeg -loop 1 -i screenshot.png -frames:v 3 -vf 'negate,cropdetect=0:2:0' -f null - 2>&1 | awk '/y2/ {print $$NF}' | tail -1),paletteuse" $@ -y -loglevel error
 	@rm -f screenshot.png palette.png
