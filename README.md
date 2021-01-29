@@ -2,7 +2,7 @@
 The manual for TWiLight Menu++
 
 
-## Tranlating
+## Translating
 If you'd like to help translate this (and the rest of TWiLight Menu++) you can do so on its [Crowdin project](https://crowdin.com/project/TwilightMenu). Please don't PR directly to this repo since that won't work with Crowdin.
 
 ## Generating images for TWiLight Menu++
