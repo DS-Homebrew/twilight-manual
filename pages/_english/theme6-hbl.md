@@ -64,7 +64,7 @@ title: Homebrew Launcher Theme
 <div class="section-title">Page System</div>
 <div class="section-body">
 	<p>
-		The Nintendo DSi theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+		The Homebrew Launcher theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
 	</p>
 	<ul>
 		<li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>

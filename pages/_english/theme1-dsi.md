@@ -96,7 +96,7 @@ title: Nintendo DSi Theme
 	</p>
 	<ul>
 		<li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-		<li><strong>Settings</strong>: Selecting this will launch a menu for configuring for TWiLight Menu++ and its launchers</li>
+		<li><strong>Settings</strong>: Selecting this will launch a menu for configuring TWiLight Menu++ and its launchers</li>
 		<li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
 		<li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
 	</ul>
