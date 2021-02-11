@@ -1,12 +1,12 @@
 name: Build pages for TWiLight Menu++
 
 on:
-#   push:
-#     branches: ["*"]
-#     paths:
-#       - "pages/**"
-#       - "nitrofiles/**"
-#       - ".github/workflows/pages.yml"
+  push:
+    branches: ["*"]
+    paths:
+      - "pages/**"
+      - "nitrofiles/**"
+      - ".github/workflows/pages.yml"
 
 jobs:
   build:
