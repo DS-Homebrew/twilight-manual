@@ -7,18 +7,29 @@
 		<link rel="stylesheet" href="/assets/css/style.css">
 
 		<link rel="preload" href="/assets/font/nintendo_NTLG-DB.ttf" as="font">
-		<link rel="preload" href="/assets/font/NotoSansHebrew-Medium.ttf" as="font">
-		<link rel="preload" href="/assets/font/NotoSansKR-Medium.otf" as="font">
-		<link rel="preload" href="/assets/font/NotoSansSC-Medium.otf" as="font">
-		<link rel="preload" href="/assets/font/NotoSansTC-Medium.otf" as="font">
+		{% if page.collection == "hebrew" %}
+			<link rel="preload" href="/assets/font/NotoSansHebrew-Medium.ttf" as="font">
+		{% elsif page.collection == "korean" %}
+			<link rel="preload" href="/assets/font/NotoSansKR-Medium.otf" as="font">
+		{% elsif page.collection == "chinese_s" %}
+			<link rel="preload" href="/assets/font/NotoSansSC-Medium.otf" as="font">
+		{% elsif page.collection == "chinese_t" %}
+			<link rel="preload" href="/assets/font/NotoSansTC-Medium.otf" as="font">
+		{% endif %}
 		
 		{% if content contains "<strong>" or content contains "<b>" %}
-			<link rel="preload" href="/assets/font/NotoSans-Bold.otf" as="font">
-			<link rel="preload" href="/assets/font/NotoSansHebrew-Bold.ttf" as="font">
-			<link rel="preload" href="/assets/font/NotoSansJP-Bold.otf" as="font">
-			<link rel="preload" href="/assets/font/NotoSansKR-Bold.otf" as="font">
-			<link rel="preload" href="/assets/font/NotoSansSC-Bold.otf" as="font">
-			<link rel="preload" href="/assets/font/NotoSansTC-Bold.otf" as="font">
+			<link rel="preload" href="/assets/font/NotoSans-Bold.ttf" as="font">
+			{% if page.collection == "hebrew" %}
+				<link rel="preload" href="/assets/font/NotoSansHebrew-Bold.ttf" as="font">
+			{% elsif page.collection == "japanese" %}
+				<link rel="preload" href="/assets/font/NotoSansJP-Bold.otf" as="font">
+			{% elsif page.collection == "korean" %}
+				<link rel="preload" href="/assets/font/NotoSansKR-Bold.otf" as="font">
+			{% elsif page.collection == "chinese_s" %}
+				<link rel="preload" href="/assets/font/NotoSansSC-Bold.otf" as="font">
+			{% elsif page.collection == "chinese_t" %}
+				<link rel="preload" href="/assets/font/NotoSansTC-Bold.otf" as="font">
+			{% endif %}
 		{% endif %}
 
 		<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicon/apple-icon-57x57.png">

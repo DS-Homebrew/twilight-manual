@@ -1,11 +1,13 @@
 nitrofiles/pages/*/*
-!nitrofiles/pages/english/*.ini
 
-jekyll.pid
 screenshot.png
+palette.png
 
 *.DS_Store
 .sass-cache
 _site
 .jekyll-cache
 Gemfile.lock
+
+node_modules
+package-lock.json
