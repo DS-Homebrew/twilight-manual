@@ -59,42 +59,42 @@ title: Home
 <div class="section-body">
 	<p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
 	<div class="grid-container-3">
-		<a class="grid-item-link" href="theme1-dsi">
-			<div class="grid-item">
-				<img src="/assets/images/dsicon.png">
-				<p>Nintendo DSi</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="theme2-3ds">
-			<div class="grid-item">
-				<img src="/assets/images/3dsicon.png">
-				<p>Nintendo 3DS</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="theme6-hbl">
-			<div class="grid-item">
-				<img src="/assets/images/hblicon.png">
-				<p>Homebrew Launcher</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="theme4-acekard">
-			<div class="grid-item">
-				<img src="/assets/images/akicon.png">
-				<p>Wood UI</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="theme3-r4">
-			<div class="grid-item">
-				<img src="/assets/images/r4icon.png">
-				<p>Original R4</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="theme5-saturn">
-			<div class="grid-item">
-				<img src="/assets/images/saturn-logo.png">
-				<p>SEGA Saturn</p>
-			</div>
-		</a>
+		<div class="grid-item">
+			<img src="/assets/images/dsicon.png">
+			<p>
+				<a href="theme1-dsi">Nintendo DSi</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/3dsicon.png">
+			<p>
+				<a href="theme2-3ds">Nintendo 3DS</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/hblicon.png">
+			<p>
+				<a href="theme6-hbl">Homebrew Launcher</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/akicon.png">
+			<p>
+				<a href="theme4-acekard">Wood UI</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/r4icon.png">
+			<p>
+				<a href="theme3-r4">Original R4</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/saturn-logo.png">
+			<p>
+				<a href="theme5-saturn">SEGA Saturn</a>
+			</p>
+		</div>
 	</div>
 </div>
 
@@ -102,36 +102,36 @@ title: Home
 <div class="section-body">
 	<p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
 	<div class="grid-container-2">
-		<a class="grid-item-link" href="nds-bootstrap">
-			<div class="grid-item">
-				<img src="/assets/images/ndsbicon.png">
-				<p>nds-bootstrap</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="gbarunner2">
-			<div class="grid-item">
-				<img src="/assets/images/gbaicon.png">
-				<p>GBARunner2</p>
-			</div>
-		</a>
+		<div class="grid-item">
+			<img src="/assets/images/ndsbicon.png">
+			<p>
+				<a href="nds-bootstrap">nds-bootstrap</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/gbaicon.png">
+			<p>
+				<a href="gbarunner2">GBARunner2</a>
+			</p>
+		</div>
 	</div>
 </div>
 
 <div class="section-title">Other Information</div>
 <div class="section-body">
 	<div class="grid-container-2 mb-2">
-		<a class="grid-item-link" href="chat">
-			<div class="grid-item">
-				<img src="/assets/images/chaticon.png">
-				<p>Chat</p>
-			</div>
-		</a>
-		<a class="grid-item-link" href="settings">
-			<div class="grid-item">
-				<img src="/assets/images/settingsicon.png">
-				<p>Settings</p>
-			</div>
-		</a>
+		<div class="grid-item">
+			<img src="/assets/images/chaticon.png">
+			<p>
+				<a href="chat">Chat</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/settingsicon.png">
+			<p>
+				<a href="settings">Settings</a>
+			</p>
+		</div>
 	</div>
 	<p>
 		Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>

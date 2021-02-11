@@ -17,50 +17,50 @@ title: Wood UI Theme
 <div class="section-title">Button Controls</div>
 <div class="section-body">
 	<div class="button-action-group">
-		<span class="button-action button">&#xE07D;</span>
-		<span class="button-action-text">Previous / next entry</span>
+		<p class="button-action button">&#xE07D;</p>
+		<p class="button-action-text">Previous / next item</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action button">&#xE07E;</span>
-		<span class="button-action-text">Move up / down by 10</span>
+		<p class="button-action button">&#xE07E;</p>
+		<p class="button-action-text">Move up / down by 10</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action button">&#xE000;</span>
-		<span class="button-action-text">Launch selected application</span>
+		<p class="button-action button">&#xE000;</p>
+		<p class="button-action-text">Launch selected application</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action button">&#xE001; / &#xE004;</span>
-		<span class="button-action-text">Go up a directory level</span>
+		<p class="button-action button">&#xE001; / &#xE004;</p>
+		<p class="button-action-text">Go up a directory level</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action button">&#xE003;</span>
-		<span class="button-action-text">Open per-game settings</span>
+		<p class="button-action button">&#xE003;</p>
+		<p class="button-action-text">Open per-game settings</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action">START</span>
-		<span class="button-action-text">Open the Start Menu</span>
+		<p class="button-action">START</p>
+		<p class="button-action-text">Open the Start Menu</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action">SELECT</span>
-		<span class="button-action-text">Change the view mode</span>
+		<p class="button-action">SELECT</p>
+		<p class="button-action-text">Change the view mode</p>
 	</div>
 </div>
 
 <div class="section-title">Touch Controls</div>
 <div class="section-body">
 	<div class="button-action-group">
-		<span class="button-action"><img src="/assets/images/up-down.png"></span>
-		<span class="button-action-text">Scroll through the list</span>
+		<p class="button-action"><img src="/assets/images/up-down.png"></p>
+		<p class="button-action-text">Scroll through the list</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
-		<span class="button-action"><img src="/assets/images/tap.png"></span>
-		<span class="button-action-text">Launch selected application</span>
+		<p class="button-action"><img src="/assets/images/tap.png"></p>
+		<p class="button-action-text">Launch selected application</p>
 	</div>
 </div>
