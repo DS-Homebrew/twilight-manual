@@ -13,10 +13,11 @@ title: Index
 	</div>
 	<div class="section-body">
 		<ul>
-			{% assign collection = site.collections | find_exp: "item", "site.data.lang-names[item.label] == lang" %}
-			{% assign index = site[collection.label] | find_exp: "item", "item.url contains 'index.html'" %}
-			{% if index %}
-				<li><a href="{{ index.url | remove: "index.html" }}">{{ index.title }}</a></li>
+			{% assign collection = site.collections | where_exp: "item", "site.data.lang-names[item.label] == lang" %}
+			{% assign collection = collection[0] %}
+			{% assign index = site[collection.label] | where_exp: "item", "item.url contains 'index.html'" %}
+			{% if index[0] %}
+				<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index[0].title }}</a></li>
 			{% endif %}
 			{% for item in site[collection.label] %}
 				{% unless item.url contains "index.html" %}
@@ -35,9 +36,9 @@ title: Index
 		You can translate on <a href="https://crowdin.com/project/TWiLightMenu">Crowdin</a> or using Crowdin's In-Context on the following pages:
 	</p>
 	<ul>
-		{% assign index = site["In-Context"] | find_exp: "item", "item.url contains 'index.html'" %}
+		{% assign index = site["In-Context"] | where_exp: "item", "item.url contains 'index.html'" %}
 		{% if index %}
-			<li><a href="{{ index.url | remove: "index.html" }}">{{ index.title }}</a></li>
+			<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index.title }}</a></li>
 		{% endif %}
 		{% for item in site["In-Context"] %}
 			{% unless item.url contains "index.html" %}
