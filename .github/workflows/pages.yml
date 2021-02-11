@@ -1,6 +1,6 @@
 name: Build pages for TWiLight Menu++
 
-# on:
+on:
 #   push:
 #     branches: ["*"]
 #     paths:
