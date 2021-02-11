@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.data.lang-codes[page.collection] }}" {% if site.data.rtl contains page.collection %}dir="rtl"{% endif %}>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ page.title }} - {{ site.data[page.collection].strings.title }}</title>
+		<link rel="stylesheet" href="/assets/css/normalize.css">
+		<link rel="stylesheet" href="/assets/css/style.css">
+
+		<link rel="preload" href="/assets/font/nintendo_NTLG-DB.ttf" as="font">
+		<link rel="preload" href="/assets/font/NotoSansHebrew-Medium.ttf" as="font">
+		<link rel="preload" href="/assets/font/NotoSansKR-Medium.otf" as="font">
+		<link rel="preload" href="/assets/font/NotoSansSC-Medium.otf" as="font">
+		<link rel="preload" href="/assets/font/NotoSansTC-Medium.otf" as="font">
+		
+		{% if content contains "<strong>" or content contains "<b>" %}
+			<link rel="preload" href="/assets/font/NotoSans-Bold.otf" as="font">
+			<link rel="preload" href="/assets/font/NotoSansHebrew-Bold.ttf" as="font">
+			<link rel="preload" href="/assets/font/NotoSansJP-Bold.otf" as="font">
+			<link rel="preload" href="/assets/font/NotoSansKR-Bold.otf" as="font">
+			<link rel="preload" href="/assets/font/NotoSansSC-Bold.otf" as="font">
+			<link rel="preload" href="/assets/font/NotoSansTC-Bold.otf" as="font">
+		{% endif %}
+
+		<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/assets/images/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/assets/images/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#383838">
+		<meta name="msapplication-TileImage" content="/assets/images/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#383838">
+
+		{% if page.collection == "In-Context" %}
+			<script type="text/javascript">
+				var _jipt = [];
+				_jipt.push(['project', 'TwilightMenu']);
+			</script>
+			<script type="text/javascript" src="//cdn.crowdin.com/jipt/jipt.js"></script>
+		{% endif %}
+	</head>
+	<body>
+		<div class="ds-size">
+			{% if page.banner %}
+				<div class="banner">
+						<img src="{{ page.banner }}">
+				</div>
+			{% endif %}
+			<div class="bottom-screen">
+				<img class="twilight-logo" src="../assets/images/twilight.png">
+				<div class="ds-margin">
+					{{ content }}
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

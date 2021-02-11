@@ -1,0 +1,304 @@
+---
+---
+
+@font-face {
+	font-family: 'nintendo_NTLG-DB_001';
+	src: url("../font/nintendo_NTLG-DB.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans Hebrew';
+	src: url("../font/NotoSansHebrew-Medium.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans Hebrew';
+	src: url("../font/NotoSansHebrew-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans JP';
+	src: url("../font/NotoSansJP-Bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	src: url("../font/NotoSansKR-Medium.otf") format("opentype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	src: url("../font/NotoSansKR-Bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans SC';
+	src: url("../font/NotoSansSC-Medium.otf") format("opentype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans SC';
+	src: url("../font/NotoSansSC-Bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans TC';
+	src: url("../font/NotoSansTC-Medium.otf") format("opentype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	src: url("../font/NotoSansTC-Bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	src: url("../font/NotoSans-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	line-height: 1.33;
+}
+
+body {
+	margin: 0;
+	font-family: 'nintendo_NTLG-DB_001', 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans KR', 'Noto Sans Hebrew', 'Arial', sans-serif;
+	font-weight: 500;
+	font-size: 13px;
+}
+
+p {
+	margin: 0;
+}
+
+p:not(:last-of-type) {
+	margin-bottom: 0.5rem;
+}
+
+a {
+	color: #0645ad;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+strong, b {
+	font-family: 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans Hebrew', 'Arial', sans-serif;
+	font-weight: 700;
+}
+
+.ds-size {
+	width: 256px;
+	min-height: 368px;
+	background-image: url(../images/background.png);
+}
+
+.banner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 177px;
+}
+
+.ds-margin {
+	margin: 0 2px;
+	text-align: left;
+}
+
+.section-title {
+	font-size: 14px;
+	background-color: #cecece;
+	border-radius: 10px 10px 0 0;
+	width: fit-content;
+	width: -moz-fit-content;
+	margin-bottom: 0;
+	padding: 5px 10px 0 10px;
+	max-width: calc(100% - 10px);
+}
+
+.ds-margin > .section-title:first-of-type {
+	max-width: calc(100% - 87px);
+}
+
+.section-body {
+	background-color: #cecece;
+	border-radius: 0 10px 10px 10px;
+	padding: 5px 10px 10px 10px;
+}
+
+.section-body:not(:last-child) {
+	margin-bottom: 6px;
+}
+
+.twilight-logo {
+	float: right;
+	margin-right: 2px;
+}
+
+.button-action-group {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.button-action {
+	flex-basis: 32%;
+	flex-grow: 0;
+	text-align: center;
+}
+
+.button-action-text {
+	flex-basis: 68%;
+	flex-grow: 0;
+}
+
+.button-action.button, .button-action .button {
+	font-size: 20px;
+}
+
+p.button-action-text, p.button-action {
+	margin-bottom: 0;
+}
+
+.grid-container-3 {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+}
+
+.grid-container-2 {
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
+.grid-item {
+	text-align: center;
+	margin-top: 5px;
+}
+
+a.grid-item-link {
+	color: black;
+}
+
+a.grid-item-link:hover {
+	text-decoration: none;
+}
+
+a > .grid-item {
+	background-color: #B2B2B2;
+	padding-top: 3px;
+	margin: 3px;
+	border-radius: 0.5rem;
+}
+
+a > .grid-item:hover {
+	background-color: #A1A1A1;
+}
+
+.section-title-icon {
+	height: 16px;
+	vertical-align: middle;
+}
+
+code, pre {
+	background: none;
+	text-shadow: 0 1px #A1A1A1;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-weight: normal;
+	word-wrap: normal;
+	word-break: normal;
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+code.wrap {
+	word-wrap: break-word;
+}
+
+:not(pre) > code, pre {
+	background-color: #B2B2B2;
+}
+
+:not(pre) > code {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+ul {
+	padding-inline-start: 30px;
+	margin-block-start: 0.5em;
+	margin-block-end: 0.5em;
+}
+
+ul.bottom-of-section {
+	margin-block-end: 0;
+}
+
+.mt-0 { margin-top: 0; }
+.mb-0 { margin-bottom: 0; }
+.mt-1 { margin-top: 0.25rem; }
+.mb-1 { margin-bottom: 0.25rem; }
+.mt-2 { margin-top: 0.5rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mt-3 { margin-top: 1rem; }
+.mb-3 { margin-bottom: 1rem; }
+
+html[lang="zh-CN"] {
+	body {
+		font-family: 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans KR', 'Noto Sans Hebrew', 'nintendo_NTLG-DB_001', 'Arial', sans-serif;
+	}
+
+	strong, b {
+	font-family: 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Hebrew', 'Arial', sans-serif;
+	}
+}
+
+html[lang="zh-TW"] {
+	body {
+		font-family: 'Noto Sans TC', 'Noto Sans SC', 'Noto Sans KR', 'Noto Sans Hebrew', 'nintendo_NTLG-DB_001', 'Arial', sans-serif;
+	}
+	strong, b {
+		font-family: 'Noto Sans TC', 'Noto Sans SC', 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Hebrew', 'Arial', sans-serif;
+	}
+}
+
+html[dir="rtl"] {
+	.section-body {
+		border-radius: 10px 0 10px 10px;
+	}
+	.ds-margin {
+		text-align: right;
+	}
+	.twilight-logo {
+		float: left;
+		margin-left: 2px;
+	}
+}

@@ -1,12 +1,12 @@
 name: Build pages for TWiLight Menu++
 
-on:
-  push:
-    branches: ["*"]
-    paths:
-      - "pages/**"
-      - "nitrofiles/**"
-      - ".github/workflows/pages.yml"
+# on:
+#   push:
+#     branches: ["*"]
+#     paths:
+#       - "pages/**"
+#       - "nitrofiles/**"
+#       - ".github/workflows/pages.yml"
 
 jobs:
   build:
@@ -18,9 +18,11 @@ jobs:
       - name: Install tools
         run: |
           sudo apt-get update
-          sudo apt-get install chromium-browser ffmpeg jq libxml2-utils p7zip-full python3 -y
+          sudo apt-get install chromium-browser ffmpeg jq p7zip-full python3 -y
+
+          gem install bundler jekyll
       - name: Build manual pages
-        run: make -C pages
+        run: make
       - name: Pack 7z Package for nightly
         run: |
           cd nitrofiles

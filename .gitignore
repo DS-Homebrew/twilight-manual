@@ -1,9 +1,11 @@
 nitrofiles/pages/*/*
 !nitrofiles/pages/english/*.ini
 
-pages/server.pid
-pages/screenshot.png
+jekyll.pid
+screenshot.png
 
 *.DS_Store
 .sass-cache
 _site
+.jekyll-cache
+Gemfile.lock
