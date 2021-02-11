@@ -37,12 +37,16 @@ title: Index
 	</p>
 	<ul>
 		{% assign index = site["In-Context"] | where_exp: "item", "item.url contains 'index.html'" %}
-		{% if index %}
-			<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index.title }}</a></li>
-		{% endif %}
-		{% for item in site["In-Context"] %}
+		{% if index[0] %}
+			{% assign file = index[0].url | split: "/" | last %}
+			{% assign title = site.english | where_exp: "item", "item.url contains file" %}
+			<li><a href="{{ index[0].url | remove: "index.html" }}">{{ title[0].title }}</a></li>
+			{% endif %}
+			{% for item in site["In-Context"] %}
 			{% unless item.url contains "index.html" %}
-				<li><a href="{{ item.url | remove: ".html" }}">{{ item.title }}</a></li>
+				{% assign file = item.url | split: "/" | last %}
+				{% assign title = site.english | where_exp: "item", "item.url contains file" %}
+				<li><a href="{{ item.url | remove: ".html" }}">{{ title[0].title }}</a></li>
 			{% endunless %}
 		{% endfor %}
 	</ul>
