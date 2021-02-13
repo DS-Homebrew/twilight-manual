@@ -5,16 +5,16 @@ const puppeteer = require('puppeteer');
 const { spawnSync, spawn } = require('child_process');
 
 (async () => {
-	let local = process.argv.includes("local");
+	let web = process.argv.includes("web");
 	let jekyll = null;
-	if(local) {
+	if(web) {
+		console.log("Generating images from https://manual.ds-homebrew.com...");
+	} else {
 		console.log("Generating images from local files...");
 		jekyll = spawn("bundle", ["exec", "jekyll", "serve"]);
 		
 		// Wait 5s for jekyll to be ready
 		await new Promise(resolve => setTimeout(resolve, 5000));
-	} else {
-		console.log("Generating images from https://manual.ds-homebrew.com...");
 	}
 
 	const browser = await puppeteer.launch();
@@ -31,7 +31,7 @@ const { spawnSync, spawn } = require('child_process');
 			let outPath = `nitrofiles/pages/${dir.substr(1)}/${page.substr(0, page.indexOf("."))}.gif`;
 			if(!fs.existsSync(outPath) || fs.statSync(outPath).mtime < fs.statSync(`pages/${dir}/${page}`).mtime) {
 				console.log(dir, page);
-				await tab.goto(`${local ? "http://127.0.0.1:4000/" : "https://manual.ds-homebrew.com/"}${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`, {waitUntil: "networkidle0"});
+				await tab.goto(`${web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/"}${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`, {waitUntil: "networkidle0"});
 				await tab.screenshot({path: "screenshot.png"});
 				spawnSync("ffmpeg", ["-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y"]);
 				const crop = spawnSync("ffmpeg", ["-loop", "1", "-i", "screenshot.png", "-frames:v", "3", "-vf", "negate,cropdetect=0:2:0", "-f", "null", "-"]).stderr.toString().match(/crop=.*:.*:.*:.*/)[0];
@@ -40,7 +40,7 @@ const { spawnSync, spawn } = require('child_process');
 
 			outPath = `nitrofiles/pages/${dir.substr(1)}/${page.substr(0, page.indexOf("."))}.ini`;
 			if(!fs.existsSync(outPath) || fs.statSync(outPath).mtime < fs.statSync(`pages/${dir}/${page}`).mtime) {
-				await tab.goto(`${local ? "http://127.0.0.1:4000/" : "https://manual.ds-homebrew.com/"}${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`);
+				await tab.goto(`${web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/"}${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`);
 
 				let links = await tab.evaluate(() => {
 					let out = `
@@ -51,7 +51,7 @@ BG_COLOR_2 = 0xA108
 `;
 					const links = document.querySelectorAll("a");
 					for(const i in Array.from(links)) {
-						if(links[i].href.startsWith("http://127.0.0.1:4000/")) {
+						if(links[i].href.startsWith(web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/")) {
 							out += `
 [LINK${parseInt(i) + 1}]
 X = ${Math.round(links[i].getBoundingClientRect().x)}
@@ -72,7 +72,7 @@ DEST = ${links[i].href.substr(links[i].href.lastIndexOf("/") + 1)}
 
 	await browser.close();
 
-	if(process.argv.includes("local"))
+	if(jekyll)
 		process.kill(jekyll.pid);
 
 	if(fs.existsSync("screenshot.png"))

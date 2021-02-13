@@ -17,12 +17,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install ffmpeg jq nodejs npm p7zip-full -y
 
-          # sudo gem install bundler jekyll
-          # bundle install
-
           npm install
       - name: Build manual pages
-        run: ./convert.js
+        run: ./convert.js web
       - name: Pack 7z Package for nightly
         run: |
           cd nitrofiles

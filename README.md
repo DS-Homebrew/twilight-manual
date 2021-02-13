@@ -10,4 +10,5 @@ The HTML files in this repo need to be converted into images for TWiLight Menu++
 1. Install [`ffmpeg`](https://ffmpeg.org), [`jekyll`](https://jekyllrb.com), and [`nodejs`](https://nodejs.org/en/) (and `npm`)
 1. Install puppeteer with `npm install`
 1. Run `./convert.js` in the root of this repo
+   - If you pass `web` as an argument then it'll generate from https://manual.ds-homebrew.com instead of the local files, jekyll is not required this way
 1. Merge the `nitrofiles` folder with the `manual/nitrofiles` folder in the [TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) repo
