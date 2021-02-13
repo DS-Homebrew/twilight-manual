@@ -4,7 +4,7 @@ repo        : "DS-Homebrew/wiki"
 color       : "#072f4f"
 image       : "https://avatars1.githubusercontent.com/u/46971470?s=200&v=4"
 
-exclude: [nitrofiles, node_modules]
+exclude: [nitrofiles, node_modules, screenshot.png, palette.png]
 
 collections_dir: pages
 
