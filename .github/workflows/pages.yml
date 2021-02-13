@@ -17,8 +17,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install ffmpeg jq nodejs npm p7zip-full -y
 
-          sudo gem install bundler jekyll
-          bundle install
+          # sudo gem install bundler jekyll
+          # bundle install
 
           npm install
       - name: Build manual pages
