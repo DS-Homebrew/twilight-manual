@@ -17,7 +17,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install ffmpeg jq nodejs npm p7zip-full -y
 
-          gem install bundler jekyll
+          sudo gem install bundler jekyll
           bundle install
 
           npm install
