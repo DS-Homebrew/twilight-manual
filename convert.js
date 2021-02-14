@@ -51,7 +51,7 @@ BG_COLOR_2 = 0xA108
 `;
 					const links = document.querySelectorAll("a");
 					for(const i in Array.from(links)) {
-						if(links[i].href.startsWith(web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/")) {
+						if(links[i].href.startsWith("https://manual.ds-homebrew.com/") || links[i].href.startsWith("http://127.0.0.1:4000/")) {
 							out += `
 [LINK${parseInt(i) + 1}]
 X = ${Math.round(links[i].getBoundingClientRect().x)}
