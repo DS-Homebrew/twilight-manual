@@ -1,5 +1,5 @@
 # twilight-manual
-The manual for TWiLight Menu++
+The manual for [TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu)
 
 
 ## Translating
