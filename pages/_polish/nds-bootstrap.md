@@ -14,10 +14,10 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div class="section-title">Kompatybilność</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Aby sprawdzić, czy gra jest kompatybilna z nds-bootstrap, sprawdź listę kompatybilności: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
         For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
@@ -27,33 +27,33 @@ title: nds-bootstrap
 <div class="section-title">Controls</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Przytrzymaj &#xE004;, &#xE005;, &#xE07A; i &#xE001; przez dwie sekundy, aby powrócić do TWiLight Menu++.
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Naciśnij &#xE004;, &#xE005; START i SELECT, aby zresetować grę.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Przytrzymaj &#xE004;, &#xE005;, &#xE07A; i &#xE000; przez dwie sekundy, aby stworzyć dump RAMu.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Przytrzymaj &#xE004;, &#xE005;, &#xE002; i &#xE079; przez jedną sekundę, aby zamienić ekrany.
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div class="section-title">Oszustwa</div>
 <div class="section-body">
     <p>
         nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Baza oszustw DeadSkullzJr'a jest rekomendowana, iż jest to największa i najbardziej aktualna dotychczas:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatywnie, jeżeli chcesz zrobić swoją bazę, możesz użyć R4CEE na komputerze: <br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>

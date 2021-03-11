@@ -1,69 +1,69 @@
 ---
 layout: manual-page
 banner: /assets/images/settings.png
-title: Settings
+title: 设置
 ---
 
-<div class="section-title">Controls</div>
+<div class="section-title">操作方式</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">上一个/下一个项目</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">更改值</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">更改值<br>进入子菜单</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">退出设置</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">上一页</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">下一页</p>
     </div>
 </div>
 
-<div class="section-title">GUI settings</div>
+<div class="section-title">用户界面设置</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>设置主题或是其他有关ROM选择菜单的设定。</p>
 </div>
 
-<div class="section-title">Emulation/HB settings</div>
+<div class="section-title">模拟器/自制程序设置</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>选定加载指定格式的非Nintendo DS平台的ROM所使用的模拟器。</p>
 </div>
 
-<div class="section-title">GBARunner2 settings</div>
+<div class="section-title">GBARunner2设置</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>在这里您可以进行GBA Rom的加载方式以及相关模拟设定。</p>
 </div>
 
-<div class="section-title">Games and Apps settings</div>
+<div class="section-title">游戏与软件设置</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>您可以在这里进行本软件的整体设定。 其中许多不同的内容因运行TWiLight Menu++的方式而异, 例如是使用NDS烧录卡内核或nds-bootstrap来运行游戏。</p>
 </div>
 
-<div class="section-title">Misc. settings</div>
+<div class="section-title">其他​​ 设置</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>这里可以设置使用语言，是否自动加载上次游玩的ROM，或是软件开启界面等等其他项目的设置。</p>
 </div>
 
-<div class="section-title">Unlaunch settings</div>
+<div class="section-title">Unlaunch设置</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>这里可以进行Unlaunch相关设置。</p>
+    <p>该选项仅会在Nintendo DSi/Nintendo DSi LL本体（而非烧录卡）启动时显示。 烧录卡用户和3DS用户将不会看到此页面</p>
 </div>

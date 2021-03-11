@@ -1,57 +1,57 @@
 ---
 layout: manual-page
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn Theme
+title: SEGA Saturn téma
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Gombvezérlők</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Elem mozgatása<br>(a rendezési metódus "Egyedi"-re kell legyen állítva)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Előző / következő elem</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Ugrás egy könyvtárral feljebb</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Elem törlése / elrejtése</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Játékonkénti beállítások megnyitása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Nyisd meg a SELECT menüt vagy a DS Classic menüt</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Érintésvezérlők</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Görgetés a listában</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <!-- <hr>
     <div>
@@ -61,29 +61,29 @@ title: SEGA Saturn Theme
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Oldal rendszer</div>
 <div class="section-body">
     <p>
-        The SEGA Saturn theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        A SEGA Saturn téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>A &#xE004; megnyomása a balszélső oldalon az oldal első elemére visz</p></li>
+        <li><p>A &#xE005; megnyomása a jobbszélső oldalon az oldal utolsó elemére visz</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Ha a gombjaid nem működnek, használhatod a SELECT + &#xE07E; helyette.
     </p>
 </div>
 
-<div class="section-title">SELECT Menu</div>
+<div class="section-title">SELECT menü</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the SEGA Saturn theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        A SELECT megnyomása a SEGA Saturn témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatja a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring for TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Kezdőlap menü:</strong> Nintendo DSi és Nintendo 3DS konzolokon ez az opció a kezdőlapra visszatéréshez jelenik meg</li>
+        <li><strong>Beállítások</strong>: Ezt választva betölt egy menüt, amiben állíthatók a TWiLight Menu++ beállításai és a betöltői</li>
+        <li><strong>Cartridge opciók</strong>: Egy eredeti DS-en vagy DS Lite-on, a Slot-2 eszköz innen indítható. Egy Nintendo DSi vagy Nintendo 3DS esetén, ami SD kártyáról fut, lehetősége van egyszer a Slot-1 kártyát vagy bizonyos flash kártákat futtatni vagy választani melyik SD kártyán navigáljon a TWiLight Menu++</li>
+        <li><strong>Kézikönyv</strong>: Ez elindítja a TWiLight Menu++ kézikönyvét, ez az amit nézel épp most :P</li>
     </ul>
 </div>

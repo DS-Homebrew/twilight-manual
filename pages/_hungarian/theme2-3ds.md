@@ -1,57 +1,57 @@
 ---
 layout: manual-page
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: Nintendo 3DS téma
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Gombvezérlők</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Elem mozgatása<br>(a rendezési metódus "Egyedi"-re kell legyen állítva)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Előző / következő elem</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Ugrás egy könyvtárral feljebb</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Elem törlése / elrejtése</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Játékonkénti beállítások megnyitása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Nyisd meg a SELECT menüt vagy a DS Classic menüt</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Érintésvezérlők</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Görgetés a listában</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <!-- <hr>
     <div>
@@ -61,16 +61,16 @@ title: Nintendo 3DS Theme
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Oldal rendszer</div>
 <div class="section-body">
     <p>
-        The Nintendo 3DS theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        A Nintendo 3DS téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>A &#xE004; megnyomása a balszélső oldalon az oldal első elemére visz</p></li>
+        <li><p>A &#xE005; megnyomása a jobbszélső oldalon az oldal utolsó elemére visz</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Ha a gombjaid nem működnek, használhatod a SELECT + &#xE07E; helyette.
     </p>
 </div>

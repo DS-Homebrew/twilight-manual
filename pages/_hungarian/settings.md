@@ -1,69 +1,69 @@
 ---
 layout: manual-page
 banner: /assets/images/settings.png
-title: Settings
+title: Beállítások
 ---
 
-<div class="section-title">Controls</div>
+<div class="section-title">Irányítás</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Előző / Következő opció</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">Érték módosítása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">Érték módosítása<br>Belépés almenübe</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">Kilépési beállítások</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">Előző oldal</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">Következő oldal</p>
     </div>
 </div>
 
-<div class="section-title">GUI settings</div>
+<div class="section-title">GUI beállítások</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>Ezen az oldalon beállíthatja a témát amit használna és egyéb opciókat, amik befolyásolják a TWiLight Menu++ kinézetét.</p>
 </div>
 
-<div class="section-title">Emulation/HB settings</div>
+<div class="section-title">Emuláció/HB beállítások</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>Itt kiválaszthatja, hogy mely platformok jelenjenek meg és melyik emulátor legyen használva.</p>
 </div>
 
-<div class="section-title">GBARunner2 settings</div>
+<div class="section-title">GBARunner2 beállítások</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>Ezek a beállítások lehetővé teszik, hogy kiválassza a játékok hogyan jelenjenek meg a gyorsabb futásért vagy a nagyobb kompatibilitásért.</p>
 </div>
 
-<div class="section-title">Games and Apps settings</div>
+<div class="section-title">Játék és App beállítások</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>Itt találhatók az általános beállításai annak, hogyan fussanak a játékok. Sok közülük változik attól függően, hogyan futtatja a TWiLight Menu++-t, mint például flashcard kernel-t használ vagy nds-bootstrap-et.</p>
 </div>
 
-<div class="section-title">Misc. settings</div>
+<div class="section-title">Egyéb beállítások</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Ez ahol minden beállítás található, ami máshova nem fért, mint például a használandó nyelv, hogy betöltse-e automatikusan az utoljára játszott játékot és hogy mutassa-e a nyitóképernyőt induláskor és hasonlók.</p>
 </div>
 
-<div class="section-title">Unlaunch settings</div>
+<div class="section-title">Unlaunch beállítások</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Ezek a beállítások lehetővé teszik, hogy megváltoztassa, hogy működjön az Unlaunch, és ezek az Unlaunch patchelésével dolgoznak, így újra kell installálni a változások érvényre jutásához.</p>
+    <p>Ez az oldal csak Nintendo DSi konzolon jelenik meg, ha nem flashcard-ról lett indítva. Flashcard és 3DS felhasználók nem fogják látni ezt az oldalt.</p>
 </div>

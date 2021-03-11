@@ -4,59 +4,59 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div class="section-title">Az NDS Bootstrap-ről</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        Az nds-bootstrap egy homebrew alkalmazás, amit a TWiLight Menu++ használ a DS cartridge mentések és DS-mód homebrew alkalmazások betöltésére a Nintendo DSi / 3DS SD kártyájáról.
     </p>
     <p>
-        There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+        Létezik egy verzió a B4DS flash kártyákhoz, ami kizárólag homebrew-ra alkalmas kártya és alacsony kompatibilitású flash kártyákhoz.
     </p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div class="section-title">Kompatibilitás</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Ahhoz, hogy láthassa, mely játékok kompatibilisek az nds-bootstrap-pel, tekintse meg a kompatibilitási listát:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+        A legjobb B4DS kompatibilitáshoz javasoljuk a DS Memory Expansion Pak beszerzését.
     </p>
 </div>
 
-<div class="section-title">Controls</div>
+<div class="section-title">Irányítás</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE001; gombokat 2 másodpercig, hogy visszatérj a TWiLight Menu++-ba.
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Nyomj &#xE004;, &#xE005;, START és SELECT gombot a játék alaphelyzetbe állításához.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE000; gombokat 2 másodpercig, hogy készíts egy RAM dumpot.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Tartsd nyomva a &#xE004;, &#xE005;,&#xE002; és a &#xE079; gombokat 1 másodpercig, hogy váltsd a képernyőket.
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div class="section-title">Csalások</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        Az nds-bootstrap Action Replay csalásokat tud használni <code>usrcheat.dat</code> adatbázison keresztül, amit az <code>sd:/_nds/TWiLightMenu/extras</code> útvonalra kell rakni. Ha az adatbázis egyszer ott van, csak ki kell választanod a csalásokat amit használni szeretnél, a játékonkénti beállításoknál a TWiLight Menu++-ban.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr csalás adatbázis ajánlott, mert az a legnagyobb és a lesűrűbben frissített:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatívaként, ha szeretnél csinálni magadnak egyet, használhatod az R4CEE-t egy számítógépen:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Kérjük tartsa észben, hogy az nds-bootstrap E-type csalás implementációja instabil, és ennek eredményeként a kódja vagy működni fog, vagy nem. Ez nem a adatbázis hibája, és reméljük az nds-bootstrap-ben hamarosan javításra kerül.
     </p>
 </div>

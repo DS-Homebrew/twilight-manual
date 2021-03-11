@@ -8,56 +8,56 @@ title: Home
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">Przewiń w górę i w dół</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">Poprzednia / następna strona</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">Powróć do poprzednio wybranej strony</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">Wyłącz instrukcję</p>
     </div>
 </div>
 
 <div class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Przewiń w górę / w dół na ekranie dotykowym"></p>
+        <p class="button-action-text">Przewiń w górę i w dół</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Dotknij ekran dotykowy"></p>
+        <p class="button-action-text">Dotknij na link, aby przejść na jego stronę</p>
     </div>
 </div>
 
 <div class="section-title">TWiLight Menu++ Boot Shortcuts</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        Trzymaj &#xE000;, &#xE001;, &#xE002; i &#xE003; aby zrezestować ustawienia TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        Przytrzymaj SELECT, aby przejść bezpośrednio do menu ustawień.
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the menu or the last ran ROM, depending on if autobooting the last ran rom is enabled.
+        Przytrzymaj &#xE001; aby załadować menu albo ostatnio uruchomiony ROM, w zależności od tego, czy włączone jest autobootowanie ostatnio uruchomionego ROMa.
     </p>
 </div>
 
-<div class="section-title">Theme Information</div>
+<div class="section-title">Informacje o motywach</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">TWiLight Menu++ ma 6 różnych motywów, które możesz wybrać. To są alternatywne menu, każdy z nich ma inny wygląd, a niektóre kompletnie inny styl nawigacji.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsicon.png">
@@ -98,9 +98,9 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">Game Loaders</div>
+<div class="section-title">Loadery gier</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">TWiLight Menu++, jak nazwa wskazuje, jest tylko menu. Samo z siebie nie ładuje ono ROMów. Tutaj są strony instrukcji dla loaderów ROMów:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsbicon.png">
@@ -117,23 +117,23 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">Other Information</div>
+<div class="section-title">Inne informacje</div>
 <div class="section-body">
     <div class="grid-container-2 mb-2">
         <div class="grid-item">
             <img src="/assets/images/chaticon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Czat</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settingsicon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Ustawienia</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Chcesz więcej informacji o TWiLight Menu++? Zobacz Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

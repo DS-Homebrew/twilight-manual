@@ -4,59 +4,59 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div class="section-title">关于</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap是本软件所使用的一个Nintendo DSi自制程序，用于在Nintendo DSi/Nintendo 3DS的内置DS卡内加载NDS ROM文件或是已完成编译的Nintendo DS自制软件。
     </p>
     <p>
-        There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+        同时，TwiLight Menu++还内置了B4DS自制程序，以在仅限于使用自制程序的烧录卡或是低兼容性的烧录卡中实现同样的效果。
     </p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div class="section-title">兼容性</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        要检索nds-bootstrap对于游戏的兼容性，请前往<br>cutt.ly/nds-compatibility<a href="https://cutt.ly/nds-compatibility">进行查阅。</a>
     </p>
     <p>
-        For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+        为了能最大限度保证B4DS的兼容性，我们建议您同时使用DS Memory Expansion Pak。(DS/DS Lite专用内存扩展卡)
     </p>
 </div>
 
-<div class="section-title">Controls</div>
+<div class="section-title">控制</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE001; 2秒后返回到 TWiLight Menu++。
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        按 &#xE004;, &#xE005;, START, 和 SELECT 重置游戏。
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE000; 2秒来创建RAM转储。
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        按住&#xE004;, &#xE005;, &#xE002;, and &#xE079; 1秒来切换屏幕。
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div class="section-title">金手指</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap 可以从 <code>usrcheat.dat</code> 使用即时金手指，如果您想使用它，请将此文件放入 <code>sd:/_nds/TWiLightMenu/extras</code> 。 如果数据库存在，您可以在TWiLight Menu++中在子菜单中选择金手指。
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        推荐使用目前存储量最大最全的DeadSkullz Jr's金手指数据库:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        或者您可以自行在电脑使用R4CEE来制作金手指数据库:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        请注意，nds-bootstrap的e-type金手指有稳定性问题，您的金手指可能会不起作用。 这并非金手指代码文件的错误，并且我们希望早日在nds-bootstrap中修复这个问题。
     </p>
 </div>

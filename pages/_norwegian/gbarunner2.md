@@ -39,7 +39,7 @@ title: GBARunner2
 <div class="section-title">I Spill</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Trykk på berøringsskjermen"></p>
         <p class="button-action-text">Åpne meny</p>
     </div>
 </div>

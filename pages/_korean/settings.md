@@ -1,69 +1,69 @@
 ---
 layout: manual-page
 banner: /assets/images/settings.png
-title: Settings
+title: 설정
 ---
 
-<div class="section-title">Controls</div>
+<div class="section-title">조작법</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">이전 / 다음 항목</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">값 변경</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">값 변경<br>서브메뉴 진입</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">설정 나가기</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">이전 페이지</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">다음 페이지</p>
     </div>
 </div>
 
-<div class="section-title">GUI settings</div>
+<div class="section-title">GUI 설정</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>이 페이지에서는 사용할 테마를 고르거나, TWiLight Menu++의 모습에 영향을 끼치는 각종 옵션들이 존재합니다.</p>
 </div>
 
-<div class="section-title">Emulation/HB settings</div>
+<div class="section-title">에뮬레이션/홈브류 설정</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>메뉴에 띄울 플랫폼과 사용할 에뮬레이터를 여기서 선택할 수 있습니다.</p>
 </div>
 
-<div class="section-title">GBARunner2 settings</div>
+<div class="section-title">GBARunner2 설정</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>이 설정에서 게임을 표시하는 방식과 게임의 최적화 관련 옵션을 선택할 수 있습니다.</p>
 </div>
 
-<div class="section-title">Games and Apps settings</div>
+<div class="section-title">게임 및 앱 설정</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>게임을 구동하는 방식에 대한 일반적인 설정들이 있습니다. 이 설정들 중 대부분은 flashcard 커널을 사용할지, 또는 nds-bootstrap을 사용할지 등 TWiLight Menu++를 실행하는 방법에 따라 달라집니다.</p>
 </div>
 
-<div class="section-title">Misc. settings</div>
+<div class="section-title">기타 설정</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>메뉴에서 사용할 언어와 마지막에 플레이한 게임을 자동으로 부팅할지의 여부, 부팅할 때 부팅 화면을 띄울지의 여부 등등 위의 어느 곳에도 맞지 않는 설정이 모두 여기에 있습니다.</p>
 </div>
 
-<div class="section-title">Unlaunch settings</div>
+<div class="section-title">Unlaunch 설정</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>여기서 Unlaunch 작동 방식을 설정할 수 있으며, Unlaunch 설치기를 패치함으로써 작동하므로 이 설정을 적용하려면 재설치가 필요합니다.</p>
+    <p>이 페이지는 flashcard를 통해 실행하지 않은 DSi 콘솔에서만 뜹니다. Flashcard와 3DS 유저에게는 이 페이지가 보이지 않을 것입니다.</p>
 </div>

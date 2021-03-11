@@ -4,50 +4,50 @@ banner: /assets/images/manual-home.png
 title: Home
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Tuş kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">Yukarı ve aşağı kaydır</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">Önceki / sonraki sayfa</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">Önceki sayfaya dön</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">Kılavuzu kapat</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Dokunma kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">Aşağı ve yukarı kaydır</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Ekrana dokunun"></p>
+        <p class="button-action-text">Sayfasına gitmek için linke tıkla</p>
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div class="section-title">TWiLight Menu++ Sıfırlama Kısayolları</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        TWiLight Menu++ ayarlarını sıfırlamak için &#xE000;, &#xE001;, &#xE002;, ve &#xE003; basılı tutun.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        Ayarlar menüsüne direk gitmek için SELECT tuşunu basılı tutun.
     </p>
     <hr>
     <p>
@@ -80,7 +80,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/akicon.png">
             <p>
-                <a href="theme4-acekard">Wood UI</a>
+                <a href="theme4-acekard">Wood Arayüzü</a>
             </p>
         </div>
         <div class="grid-item">
@@ -123,17 +123,17 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/chaticon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Sohbet</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settingsicon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Ayarlar</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        TWiLight Menu++ hakkında daha fazla bilgi sahibi olmak ister misiniz? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

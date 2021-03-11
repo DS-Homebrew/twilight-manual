@@ -1,66 +1,66 @@
 ---
 layout: manual-page
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Fa UI téma
 ---
 
-<div class="section-title">Temporarily disabled</div>
+<div class="section-title">Ideiglenesen letiltva</div>
 <div class="section-body">
     <p>
-        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
+        Ez a téma átmenetileg tiltásra került az SD kártya korrupció miatt. A visszahozása új SD kártya driver készítését igényli, ami sok időbe és erőforrásba kerül.
     </p>
     <p>
-        Please be patient; it may not be back for a while.
+        Kérjük légy türelmes; előfordulhat, hogy nem tér vissza egy ideig.
     </p>
 </div>
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Gomb vezérlő</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Előző / következő elem</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Mozgás fel / le 10-zel</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001; / &#xE004;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Ugrás egy könyvtárral feljebb</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Játékonkénti beállítások megnyitása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Open the Start Menu</p>
+        <p class="button-action-text">A fő menü megnyitása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Change the view mode</p>
+        <p class="button-action-text">A megjelenítési mód váltása</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Érintés vezérlő</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Görgetés a listában</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
 </div>

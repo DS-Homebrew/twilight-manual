@@ -1,69 +1,69 @@
 ---
 layout: manual-page
 banner: /assets/images/settings.png
-title: Settings
+title: Inställningar
 ---
 
-<div class="section-title">Controls</div>
+<div class="section-title">Kontroller</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Föregående / nästa alternativ</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">Ändra värde</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">Ändra värde<br>Ange undermeny</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">Lämna inställningarna</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">Föregående sida</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">Nästa sida</p>
     </div>
 </div>
 
-<div class="section-title">GUI settings</div>
+<div class="section-title">GUI-inställningar</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>På den här sidan kan du välja vilket tema som ska användas och andra alternativ som påverkar utseendet på TWiLight Menu++.</p>
 </div>
 
-<div class="section-title">Emulation/HB settings</div>
+<div class="section-title">Emulations/HB inställningar</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>Här kan du välja vilka plattformar som ska visas och vilken emulator som ska användas.</p>
 </div>
 
-<div class="section-title">GBARunner2 settings</div>
+<div class="section-title">GBARunner2 inställningar</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>Med dessa inställningar kan du välja hur spel visas och för att köra snabbare eller ha bättre kompatibilitet.</p>
 </div>
 
-<div class="section-title">Games and Apps settings</div>
+<div class="section-title">Spel & App inställningar</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>Dessa är de allmänna inställningarna för hur spel ska köras. Många av dessa varierar beroende på hur du kör TWiLight Menu++, till exempel om du ska använda din minneskort-kärna eller nds-bootstrap.</p>
 </div>
 
-<div class="section-title">Misc. settings</div>
+<div class="section-title">Övriga inställningar</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Det är här alla inställningar som inte passar dom andra kategorierna går, till exempel vilket språk som ska användas, om du vill starta upp det senaste spelet du kört automatiskt och om du ska visa startskärmen vid uppstart, bland annat.</p>
 </div>
 
-<div class="section-title">Unlaunch settings</div>
+<div class="section-title">Unlaunch inställningar</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Inställningarna här låter dig ändra hur Unlaunch fungerar genom att patcha Unlaunch installationsprogrammet så att du måste installera om det för att dessa inställningar ska påverkas.</p>
+    <p>Denna sida visas endast på Nintendo DSi konsoler när den inte startas upp från ett minneskort. Minneskort och 3DS användare kommer inte se denna sida.</p>
 </div>

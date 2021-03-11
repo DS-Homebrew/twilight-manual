@@ -1,24 +1,24 @@
 ---
 layout: manual-page
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: Nintendo 3DS Tema
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Knappstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Flytta objekt<br>(sorteringsmetod måste vara inställd på "Anpassad")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Föregående / nästa objekt</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Starta vald applikation</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -28,30 +28,30 @@ title: Nintendo 3DS Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Ta bort / dölj objekt</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Öppna spelspecifika inställningar</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Öppna SELECT menyn eller DS Classic Menu</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Touchstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Bläddra igenom listan</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Starta vald applikation</p>
     </div>
     <!-- <hr>
     <div>
@@ -64,13 +64,13 @@ title: Nintendo 3DS Theme
 <div class="section-title">Page System</div>
 <div class="section-body">
     <p>
-        The Nintendo 3DS theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Nintendo 3DS temat delar upp objekt i sidor med högst 40 objekt per sida. Du kan navigera genom sidorna med hjälp av &#xE004; och &#xE005;.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>Att trycka &#xE004; på den vänstra sidan tar dig till den första objekten på sidan</p></li>
+        <li><p>Att trycka &#xE005; på den högra sidan tar dig till den sista objekten på sidan</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Om dina triggers inte fungerar så kan du använda SELECT + &#xE07E; istället.
     </p>
 </div>

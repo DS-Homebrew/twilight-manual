@@ -4,60 +4,60 @@ banner: /assets/images/manual-home.png
 title: Home
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Comandi Pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">Scorri su e giù</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">Elemento precedente / successivo</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">Torna alla pagina selezionata in precedenza</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">Chiudi manuale</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Controlli Touch</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scorri verso l'alto o verso il basso sul touch screen"></p>
+        <p class="button-action-text">Scorri su e giù</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca lo schermo touch"></p>
+        <p class="button-action-text">Tocca un link per andare alla sua pagina</p>
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div class="section-title">TWiLight Menu++ Scorciatoie di Avvio</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        Tieni premuto &#xE000;, &#xE001;, &#xE002; e &#xE003; per resettare le impostazioni TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        Tieni premuto SELECT per andare direttamente alle impostazioni del menu.
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the menu or the last ran ROM, depending on if autobooting the last ran rom is enabled.
+        Tieni premuto &#xE001; per caricare il menu o l' ultima ROM eseguita, a seconda che l' autoavvio dell' ultima rom eseguita sia abilitato.
     </p>
 </div>
 
-<div class="section-title">Theme Information</div>
+<div class="section-title">Informazioni Tema</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">TWiLight Menu++ ha 6 temi diversi tra cui puoi scegliere. Questi sono menù alternativi che hanno tutti stili diversi, alcuni dei quali hanno stili di navigazione completamente separati.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsicon.png">
@@ -80,7 +80,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/akicon.png">
             <p>
-                <a href="theme4-acekard">Wood UI</a>
+                <a href="theme4-acekard">Wood IU</a>
             </p>
         </div>
         <div class="grid-item">
@@ -98,9 +98,9 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">Game Loaders</div>
+<div class="section-title">Caricatori dei Giochi</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">TWiLight Menu++, come suggerisce il nome, è solo un menu. In realtà non avvia le ROM. Ecco una pagina di manuale per ogni caricatore di ROM che abbiamo:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsbicon.png">
@@ -117,7 +117,7 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">Other Information</div>
+<div class="section-title">Altre informazioni</div>
 <div class="section-body">
     <div class="grid-container-2 mb-2">
         <div class="grid-item">
@@ -129,11 +129,11 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/settingsicon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Impostazioni</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Vuoi maggiori informazioni su TWiLight Menu++? Scopri la Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

@@ -1,80 +1,80 @@
 ---
 layout: manual-page
 banner: /assets/images/manual-home.png
-title: Home
+title: 홈
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">버튼 조작</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">페이지 위/아래로 스크롤</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">이전 / 다음 페이지</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">이전 페이지로 돌아가기</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">메뉴얼 닫기</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">터치 조작</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="터치스크린 위/아래로 스크롤"></p>
+        <p class="button-action-text">페이지 위/아래로 스크롤</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="터치 스크린을 누르세요"></p>
+        <p class="button-action-text">링크를 텝하여 해당 페이지로 이동</p>
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div class="section-title">TWiLight Menu++ 부팅 단축키</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        &#xE000;, &#xE001;, &#xE002; 와 &#xE003; 를 길게 눌러 TWiLight Menu++ 설정을 리셋합니다.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        SELECT를 눌러서 설정 메뉴에 진입합니다.
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the menu or the last ran ROM, depending on if autobooting the last ran rom is enabled.
+        &#xE001; 를 길게 눌르면 메뉴를 열거나, 마지막으로 열은 ROM을 자동 부팅하도록 설정 되 있으면, 그것을 열읍니다.
     </p>
 </div>
 
-<div class="section-title">Theme Information</div>
+<div class="section-title">테마 정보</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">TWiLight Menu++는 6개의 선택 가능한 테마를 가지고 있습니다. 모두 각기 다른 디자인의 메뉴들이고, 그 중 몇 개는 완전히 다른 검색 스타일을 갖고 있습니다.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsicon.png">
             <p>
-                <a href="theme1-dsi">Nintendo DSi</a>
+                <a href="theme1-dsi">닌텐도 DSi</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/3dsicon.png">
             <p>
-                <a href="theme2-3ds">Nintendo 3DS</a>
+                <a href="theme2-3ds">닌텐도 3DS</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/hblicon.png">
             <p>
-                <a href="theme6-hbl">Homebrew Launcher</a>
+                <a href="theme6-hbl">홈브류 런처</a>
             </p>
         </div>
         <div class="grid-item">
@@ -92,15 +92,15 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/saturn-logo.png">
             <p>
-                <a href="theme5-saturn">SEGA Saturn</a>
+                <a href="theme5-saturn">세가 새턴</a>
             </p>
         </div>
     </div>
 </div>
 
-<div class="section-title">Game Loaders</div>
+<div class="section-title">게임 로더</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">TWiLight Menu++는 이름에서 알 수 있듯이, 그냥 하나의 메뉴이며, ROM 자체를 스스로 실행하지 않습니다. 여기에 ROM 로더를 위한 설명서 페이지가 있습니다:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsbicon.png">
@@ -117,23 +117,23 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">Other Information</div>
+<div class="section-title">기타 정보</div>
 <div class="section-body">
     <div class="grid-container-2 mb-2">
         <div class="grid-item">
             <img src="/assets/images/chaticon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">채팅</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settingsicon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">설정</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        TWiLight Menu++와 관련된 정보가 더 필요하신가요? 이 위키를 확인해 보세요: <br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

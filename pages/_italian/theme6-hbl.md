@@ -1,57 +1,57 @@
 ---
 layout: manual-page
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher Theme
+title: Tema Homebrew Launcher
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Comandi Pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Sposta elemento<br>(Il metodo di selezione deve essere impostato su "Personalizzato")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Elemento precedente / successivo</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Avvia l'applicazione selezionata</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Sali di un livello della directory</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Elimina / nascondi elemento</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Apri impostazioni per gioco</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Apri il menu SELECT o il menu DS Classic</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Controlli Touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Scorri attraverso la lista</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Avvia l'applicazione selezionata</p>
     </div>
     <!-- <hr>
     <div>
@@ -61,29 +61,29 @@ title: Homebrew Launcher Theme
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Sistema di Pagina</div>
 <div class="section-body">
     <p>
-        The Homebrew Launcher theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Il tema Homebrew Launcher divide gli elementi in pagine con un massimo di 40 elementi per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>Premere &#xE004; sulla pagina più a sinistra ti porterà al primo elemento della pagina</p></li>
+        <li><p>Premere &#xE005; sulla pagina più a destra ti porterà all'ultimo elemento della pagina</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Se i grilletti non funzionano, è possibile utilizzare SELECT + &#xE07E; invece.
     </p>
 </div>
 
-<div class="section-title">SELECT Menu</div>
+<div class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the Homebrew Launcher theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        Premere SELECT nel tema Homebrew Launcher apre il Menu Classico DS per impostazione predefinita. Tuttavia, nelle impostazioni del menu TWiLight ++, è possibile modificarlo per avviare il menu SELECT, un menu in miniatura incorporato all'interno del tema stesso. Ecco le opzioni di menu per il menu SELECT.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring for TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Home Menu:</strong> Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>
+        <li><strong>Impostazioni:</strong> Selezionandolo verrà avviato un menu per attivare/disattivare le impostazioni per TWiLight Menu++ e i suoi launcher</li>
+        <li><strong>Opzioni Cartuccia:</strong> Su un DS originale o DS Lite, è possibile avviare un dispositivo Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1 o su determinate flashcart, scambiare che scheda SD TWiLight Menu++ naviga</li>
+        <li><strong>Manuale</strong>: Questo avvierà il manuale per TWiLight Menu++, quello che stai guardando in questo momento :P</li>
     </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: manual-page
 banner: /assets/images/chat.png
-title: Chat
+title: Chatt
 ---
 
 <div class="section-title">
@@ -12,9 +12,9 @@ title: Chat
 </div>
 <div class="section-body">
     <p>
-        Looking for a community of TWiLight Menu++ users? Join the DS<sup>(i)</sup> Mode Hacking Discord server on a compatible device in order to meet up with other TWLMenu++ users like yourself!
+        Letar du efter en grupp av TWiLight Menu++ användare? Gå med i DS<sup>(i)</sup> Mode Hacking Discord-servern på en kompatibel enhet för att möta upp med andra TWLMenu++-användare som dig själv!
     </p>
     <p>
-        Server invite code: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Inbjudningskod: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
     </p>
 </div>

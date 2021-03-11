@@ -1,66 +1,66 @@
 ---
 layout: manual-page
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Тема Wood UI
 ---
 
-<div class="section-title">Temporarily disabled</div>
+<div class="section-title">Временно отключено</div>
 <div class="section-body">
     <p>
-        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
+        Эта тема временно отключена, из-за ошибки SD-карты. Чтобы вернуть его, необходимо создать новый драйвер SD-карты, который занимает много времени и усилий.
     </p>
     <p>
-        Please be patient; it may not be back for a while.
+        Пожалуйста, будьте терпеливы; он не может быть возвращен через некоторое время.
     </p>
 </div>
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Управление</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Предыдущий / следующий файл</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Переместить вверх / вниз на 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Запустить выбранное приложение</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001; / &#xE004;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Перейти на предыдущий каталог</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Открыть настройки игры</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Open the Start Menu</p>
+        <p class="button-action-text">Открыть главное меню</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Change the view mode</p>
+        <p class="button-action-text">Изменить режим просмотра</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Касания</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Прокрутить список</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Запустить выбранное приложение</p>
     </div>
 </div>

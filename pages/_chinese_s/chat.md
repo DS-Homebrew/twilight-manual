@@ -12,7 +12,8 @@ title: 联系我们
 </div>
 <div class="section-body">
     <p>
-        您是否在寻找能用以讨论本软件的讨论群？ Join the DS<sup>(i)</sup> Mode Hacking Discord server on a compatible device in order to meet up with other TWLMenu++ users like yourself!
+        您是否在寻找能用以讨论本软件的讨论群？ 欢迎加入 <b>DS<sup>(i)</sup> Mode Hacking</b> Discord社群，在这里您可以与其他同样热衷于TWLMenu++讨论的玩家相会！
+注意：如果您身处中国大陆等网络访问受限制的国家/地区，您可能需要通过科学上网才能正常访问本社群。
     </p>
     <p>
         社群邀请代码：<a href="https://discord.gg/yD3spjv">yD3spjv</a>

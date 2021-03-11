@@ -4,59 +4,59 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div class="section-title">Acerca de</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap es una aplicación homebrew usada por TWiLight Menu++ para ejecutar copias de seguridad de cartuchos de DS y homebrew en Modo DS desde la tarjeta SD de la Nintendo DSi/3DS.
     </p>
     <p>
-        There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+        También hay una versión para flashcards llamada B4DS, destinada a flashcards solo para homebrew y flashcards con baja compatibilidad.
     </p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div class="section-title">Compatibilidad</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Para ver si un juego es compatible con nds-bootstrap, comprueba la lista de compatibilidad:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+        Para tener mayor compatibilidad con B4DS, recomendamos tener un Memory Expansion Pak de DS.
     </p>
 </div>
 
-<div class="section-title">Controls</div>
+<div class="section-title">Controles</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE001; durante 2 segundos para volver a TWiLight Menu++.
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Pulsa &#xE004;, &#xE005;, START y SELECT para reiniciar el juego.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE000; durante 2 segundos para hacer un volcado de RAM.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Mantén pulsado &#xE004;, &#xE005;, &#xE002; y &#xE079; durante 1 segundo para intercambiar las pantallas.
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div class="section-title">Trucos</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap puede aplicar trucos de Action Replay a través de una base de datos <code>usrcheat.dat</code>, que debe colocarse en <code>sd:/_nds/TWiLightMenu/extras</code>. Una vez colocada la base de datos, puedes seleccionar qué trucos usar en el menú de configuración de cada juego en TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Recomendamos la base de datos de trucos de DeadSkullzJr ya que es la más grande y actualizada:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternativamente, si quieres crear una propia, puedes usar R4CEE en un ordenador:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Ten en cuenta que la implementación de trucos de tipo E de nds-bootstrap es inestable y, como resultado, tu código puede no llegar a funcionar. Esto no es culpa de la base de datos, y esperamos solucionar este problema en nds-bootstrap lo antes posible.
     </p>
 </div>

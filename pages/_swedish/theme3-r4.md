@@ -1,29 +1,29 @@
 ---
 layout: manual-page
 banner: /assets/images/r4-theme.png
-title: R4 Original Theme
+title: R4 Original Teman
 ---
 
-<div class="section-title">Main Menu</div>
+<div class="section-title">Huvudmeny</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Föregående / nästa alternativ</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Open selected option</p>
+        <p class="button-action-text">Öppna valt alternativ</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Reboot TWiLight Menu++</p>
+        <p class="button-action-text">Starta om TWiLight Menu++</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START / SELECT</p>
-        <p class="button-action-text">Open settings</p>
+        <p class="button-action-text">Öppna inställningar</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -32,21 +32,21 @@ title: R4 Original Theme
     </div>
 </div>
 
-<div class="section-title">File Browser</div>
+<div class="section-title">Filhanterare</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Föregående / nästa punkt</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Flytta upp/ner med 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Starta vald applikation</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -56,7 +56,7 @@ title: R4 Original Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Ta bort / dölj objekt</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -66,6 +66,6 @@ title: R4 Original Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Return to Main Menu</p>
+        <p class="button-action-text">Tillbaka Till Huvudmenyn</p>
     </div>
 </div>

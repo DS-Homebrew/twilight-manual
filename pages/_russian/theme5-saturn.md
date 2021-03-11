@@ -1,57 +1,57 @@
 ---
 layout: manual-page
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn Theme
+title: Тема SEGA SATURN
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Управление</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Переместить элемент<br>(Метод сортировки должен быть установлен на "Пользовательский")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Предыдущий / следующий файл</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Запустить выбранное приложение</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Перейти на предыдущий каталог</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Удалить / скрыть элемент</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Открыть настройки игры</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Открыть SELECT Menu или DS Classic Menu</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Касания</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Прокрутить список</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Запустить выбранное приложение</p>
     </div>
     <!-- <hr>
     <div>
@@ -61,29 +61,29 @@ title: SEGA Saturn Theme
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Система</div>
 <div class="section-body">
     <p>
-        The SEGA Saturn theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Тема SEGA Saturn отображает максимум 40 элементов на каждой странице. Вы можете перемещаться по страницам, используя &#xE004; и &#xE005; триггеры.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>Нажатие &#xE004; на самой левой странице приведет вас к первому элементу на странице</p></li>
+        <li><p>Нажатие &#xE005; на самой правой странице приведет вас к последнему элементу на странице</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Если ваши триггеры не работают, вы можете использовать SELECT + &#xE07E; вместо этого.
     </p>
 </div>
 
-<div class="section-title">SELECT Menu</div>
+<div class="section-title">SELECT меню</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the SEGA Saturn theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        Нажатие SELECT в теме SEGA Saturn по умолчанию вызовет DS Classic меню. Тем не менее, в настройках TWiLight Menu++ вы можете изменить его, чтобы запустить мини-меню встроенного внутри самого шаблона. Ниже приведены опции SELECT меню.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring for TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Главное меню</strong>: На консолях Nintendo DSi и Nintendo 3DS опция для возврата в главное меню</li>
+        <li><strong>Настройки</strong>: Выбор этой опции запустит меню для переключения настроек TWiLight Menu++ и его лаунчеров</li>
+        <li><strong>Параметры картриджа</strong>: На оригинальной DS или DS Lite, вы можете запустить ваше устройство Slot-2 отсюда. На Nintendo DSi и Nintendo 3DS с SD-карты, вы можете запустить вашу карту Slot-1 или на некоторых флешкартриджах, переключив режим навигации по SD-карте TWiLight Menu++.</li>
+        <li><strong>Руководство</strong>: Запустит руководство для TWiLight Menu++, которое вы сейчас смотрите :P</li>
     </ul>
 </div>

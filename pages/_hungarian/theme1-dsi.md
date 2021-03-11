@@ -1,57 +1,57 @@
 ---
 layout: manual-page
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi Theme
+title: Nintendo DSi téma
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Gombvezérlők</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Elem mozgatása<br>(a rendezési metódus "Egyedi"-re kell legyen állítva)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Előző / következő elem</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Ugrás egy könyvtárral feljebb</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Elem törlése / elrejtése</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Játékonkénti beállítások megnyitása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Nyisd meg a SELECT menüt vagy a DS Classic menüt</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Érintésvezérlők</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Görgetés a listában</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Kiválasztott alkalmazás indítása</p>
     </div>
     <!-- <hr>
     <div>
@@ -61,43 +61,43 @@ title: Nintendo DSi Theme
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Oldal rendszer</div>
 <div class="section-body">
     <p>
-        The Nintendo DSi theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        A Nintendo DSi téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>A &#xE004; megnyomása a balszélső oldalon az oldal első elemére visz</p></li>
+        <li><p>A &#xE005; megnyomása a jobbszélső oldalon az oldal utolsó elemére visz</p></li>
     </ul>
     <p>
-        The scrollbar at the bottom represents all of the items on a page so you can tap on it to quickly move to a specific location in the page.
+        A gördítősáv az összes elemet reprezentálja, az oldalon, így megérintve azt gyorsan odanavigálhat egy adott helyre az oldalon.
     </p>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Ha a gombjaid nem működnek, használhatod a SELECT + &#xE07E; helyette.
     </p>
 </div>
 
-<div class="section-title">Custom Top Screen Image</div>
+<div class="section-title">Egyéni felső képernyő kép</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
-    <p>TWiLight Menu++ supports displaying custom photos on the top screen, just like the official Nintendo DSi Menu. However, rather than have it pull from the Nintendo DSi Camera application, you can place PNG images in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>A TWiLight Menu++ támogatja az egyedi képek megjelenítését a felső képernyőn, mint például a hivatalos Nintendo DSi menü. Azonban, ahelyett, hogy a Nintendo DSi Camera alkalmazástól kérné, elhelyezhet egy tetszőleges PNG képet az <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code> könyvtárba</p>
     <ul>
-        <li>Maximum width: 208 pixels</li>
-        <li>Maximum height: 156 pixels</li>
+        <li>Maximum szélesség: 208 pixel</li>
+        <li>Maximum magasság: 156 pixel</li>
     </ul>
-    <p>If the image size is less than the maximum, it will be centered with black boarders.</p>
+    <p>Ha a kép mérete kisebb, mint a maximum, középre lesz igazítva fekete kerettel.</p>
 </div>
 
-<div class="section-title">SELECT Menu</div>
+<div class="section-title">SELECT menü</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the Nintendo DSi theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        A SELECT megnyomása a Nintendo DSi témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatja a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Kezdőlap menü:</strong> Nintendo DSi és Nintendo 3DS konzolokon ez az opció a kezdőlapra visszatéréshez használható</li>
+        <li><strong>Beállítások</strong>: Ezt választva betölt egy menüt, amiben állíthatók a TWiLight Menu++ beállításai és a betöltői</li>
+        <li><strong>Cartridge opciók</strong>: Egy eredeti DS-en vagy DS Lite-on, a Slot-2 eszköz innen indítható. Egy Nintendo DSi vagy Nintendo 3DS esetén, ami SD kártyáról fut, lehetősége van egyszer a Slot-1 kártyát vagy bizonyos flash kártákat futtatni vagy választani melyik SD kártyán navigáljon a TWiLight Menu++</li>
+        <li><strong>Kézikönyv</strong>: Ez elindítja a TWiLight Menu++ kézikönyvét, ez az amit nézel épp most :P</li>
     </ul>
 </div>

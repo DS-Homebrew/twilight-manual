@@ -1,34 +1,34 @@
 ---
 layout: manual-page
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Wood UI Tema
 ---
 
-<div class="section-title">Temporarily disabled</div>
+<div class="section-title">Tillfälligt inaktiverad</div>
 <div class="section-body">
     <p>
-        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
+        Detta tema har tillfälligt inaktiverats på grund av att den korrumperar SD-kort. Att få tillbaka temat kräver att man skapar en ny SD-kort drivrutin, vilket skulle ta en hel del tid.
     </p>
     <p>
-        Please be patient; it may not be back for a while.
+        Ha tålamod, temat kommer nog inte återvända för ett tag.
     </p>
 </div>
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Knappstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Föregående / nästa objekt</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Flytta upp/ner med 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Starta vald applikation</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -38,29 +38,29 @@ title: Wood UI Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Öppna spelspecifika inställningar</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Open the Start Menu</p>
+        <p class="button-action-text">Öppna Start menyn</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Change the view mode</p>
+        <p class="button-action-text">Ändra vymodell</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Touchstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Bläddra igenom listan</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Starta vald applikation</p>
     </div>
 </div>

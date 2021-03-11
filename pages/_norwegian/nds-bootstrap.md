@@ -4,59 +4,59 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div class="section-title">Om</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap er en homebrew applikasjon brukt av TWiLight Menu++ for å laste kort dumper og DS-modus homebrew fra Nintendo DSi/3DS SD-kortet.
     </p>
     <p>
-        There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+        Det finnes også en versjon for flashkort kalt B4DS, kun ment for homebrew-flashkort og flashkort med lav kompatibilitet.
     </p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        For å se om et spill er kompatibel med nds-bootstrap, sjekk kompabilitetslisten:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-kompatibilitet</a>
     </p>
     <p>
-        For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+        For best kompatibilitet med B4DS, anbefaler vi å få en DS Memory Expansion Pakke.
     </p>
 </div>
 
-<div class="section-title">Controls</div>
+<div class="section-title">Styring</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE001; i 2 sekunder for å gå tilbake til TWiLight Menu++.
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Trykk &#xE004;, &#xE005;, START, og SELECT for å tilbakestille spillet.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE000; i 2 sekunder for å lage en RAM dump.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Hold &#xE004;, &#xE005;, &#xE002;, og &#xE079; i 1 sekund for å bytte skjermene.
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div class="section-title">Juksekoder</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap kan bruke Action Replay juksekoder via en <code>usrcheat.dat</code> database, som må plasseres på <code>sd:/_nds/TWiLightMenu/extras</code>. Når databasen er der, kan du velge hvilken juksekode du skal bruke fra menyen for hvert spill i TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadullzJr's juksedatabase anbefales da det er den største og mest oppdatert:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternativt hvis du vil lage en selv, kan du bruke R4CEE på en datamaskin:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Husk at implementeringen av nds-bootstraps E-type juksekode er ustabil, og at koden din kan fungere eller kanskje ikke. Dette er ikke en feil i databasen, og vi håper å få dette problemet fikset i nds-bootstrap snart.
     </p>
 </div>
