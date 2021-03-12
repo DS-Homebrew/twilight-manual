@@ -74,6 +74,13 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Cousine';
+	src: url("../font/Cousine-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
 * {
 	box-sizing: border-box;
 }
@@ -225,7 +232,7 @@ a > .grid-item:hover {
 code, pre {
 	background: none;
 	text-shadow: 0 1px #A1A1A1;
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans KR', 'Cousine', 'nintendo_NTLG-DB_001', monospace;
 	font-weight: normal;
 	word-wrap: normal;
 	word-break: normal;
@@ -277,7 +284,7 @@ html[lang="zh-CN"] {
 	}
 
 	strong, b {
-	font-family: 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Hebrew', 'Arial', sans-serif;
+		font-family: 'Noto Sans SC', 'Noto Sans TC', 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans Hebrew', 'Arial', sans-serif;
 	}
 }
 
