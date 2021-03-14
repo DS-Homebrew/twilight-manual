@@ -4,59 +4,59 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div class="section-title">Tentang</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap adalah aplikasi homebrew yang digunakan TWiLight Menu++ untuk memuat dump kartu DS dan juga homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+        Ada juga untuk flashcard namanya B4DS, ditujukan untuk flashcard yang hanya-homebrew dan flashcard dengan kesesuaian rendah.
     </p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div class="section-title">Kesesuaian/Compatibility</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Untuk melihat apa permainannya sesuai/compatible di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+        Untuk kesesuaian yang lebih baik di B4DS, kami sarankan dapatkan DS Memory Expansion Pak (Penambah RAM).
     </p>
 </div>
 
-<div class="section-title">Controls</div>
+<div class="section-title">Kendali</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik agar kembali ke TWiLight Menu++.
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang/reset.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE000; selama 2 detik agar dump RAM dibuat.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Tahan &#xE004;, &#xE005;, &#xE002;, dan &#xE079; selama 1 detik agar layarnya pindah.
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div class="section-title">Curangan/Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap dapat menggunakan curangan Action Replay lewat pangkalan data/database <code>usrcheat.dat</code>, dan harus ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Pangkalan data/database curangan DeadSkullzJr's paling disarankan karena yang terbesar dan terbaru:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Cara lainnya, jika ingin buat sendiri, kamu bisa dengan aplikasi R4CEE di komputer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih tidak kukuh/stabil, jadi kode-mu bisa jalan bisa tidak. Ini bukan karena pangkalan data curangannya, dan kami berharap akan memperbaiki masalah ini di nds-bootstrap.
     </p>
 </div>

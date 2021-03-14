@@ -7,10 +7,10 @@ title: Tema Wood IU
 <div class="section-title">Disabilitato temporaneamente</div>
 <div class="section-body">
     <p>
-        Questo tema è stato temporaneamente disabilitato, a causa della corruzione della scheda SD. Portarlo indietro richiede di fare un nuovo driver di scheda SD, che richiede molto tempo e sforzo.
+        Questo tema è stato temporaneamente disabilitato, a causa della corruzione della scheda SD. Rimetterlo richiede di fare un nuovo driver della scheda SD, che richiede molto tempo e sforzo.
     </p>
     <p>
-        Si prega di essere paziente; potrebbe non essere di nuovo per un po'.
+        Si prega di essere paziente; potrebbe non esserci di nuovo per un po'.
     </p>
 </div>
 

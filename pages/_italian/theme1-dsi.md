@@ -61,10 +61,10 @@ title: Tema Nintendo DSi
     </div> -->
 </div>
 
-<div class="section-title">Sistema di Pagina</div>
+<div class="section-title">Sistema a pagine</div>
 <div class="section-body">
     <p>
-        Il tema Nintendo DSi divide gli elementi in pagine con un massimo di 40 elementi per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
+        Il tema Nintendo DSi divide gli elementi in pagine con un massimo di 40 per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
     </p>
     <ul>
         <li><p>Premere &#xE004; sulla pagina più a sinistra ti porterà al primo elemento della pagina</p></li>
@@ -78,7 +78,7 @@ title: Tema Nintendo DSi
     </p>
 </div>
 
-<div class="section-title">Immagine Personalizzata sullo Schermo Superiore</div>
+<div class="section-title">Immagine personalizzata sullo schermo superiore</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>TWiLight Menu++ supporta la visualizzazione di foto personalizzate nella schermata superiore, proprio come il Menù Nintendo DSi. Tuttavia, invece di utilizzare quelle dell'applicazione "Fotocamera Nintendo DSi", è possibile inserire qualsiasi immagine PNG in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>

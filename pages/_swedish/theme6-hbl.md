@@ -23,7 +23,7 @@ title: Homebrew Launcher Tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Gå upp en nivå</p>
     </div>
     <hr>
     <div class="button-action-group">

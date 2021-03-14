@@ -10,7 +10,8 @@ title: nds-bootstrap
         nds-bootstrap è un applicazione Homebrew per Nintendo DSi utilizzata da TWiLight Menu++ per avviare dump delle Cartuccie e Copie Homebrew in modalità DS dalla scheda SD del Nintendo DSi / Nintendo 3DS.
     </p>
     <p>
-        C'è anche una versione per le Flashcart in modalità Ds intitolata B4DS, pensato per homebrew-only flashcart ed esecuzione tramite launcher nds esterni.
+        C'è anche una versione per le Flashcart in modalità DS intitolata B4DS, pensata per 
+le Flashcart homebrew-only e a quelle con bassa compatibilità.
     </p>
 </div>
 
@@ -46,14 +47,14 @@ title: nds-bootstrap
 <div class="section-title">Trucchi</div>
 <div class="section-body">
     <p>
-        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dovrebbe essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta che lì, è possibile selezionare quali trucchi usare dal menu delle impostazioni per gioco di TWiLight Menu++.
+        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dovrebbe essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta che è lì, è possibile selezionare quali trucchi usare dal menu delle impostazioni per gioco di TWiLight Menu++.
     </p>
     <hr>
     <p>
         Il database dei trucchi di DeadSkullzJr è consigliato in quanto è il più grande e aggiornato fino ad oggi:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        In alternativa, se vuoi fare te stesso, puoi usare R4CEE su un computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        In alternativa, se vuoi fare da solo, puoi usare R4CEE su un computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>

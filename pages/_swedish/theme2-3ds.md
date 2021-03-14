@@ -23,7 +23,7 @@ title: Nintendo 3DS Tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Gå upp en nivå</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -61,7 +61,7 @@ title: Nintendo 3DS Tema
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Sidsystem</div>
 <div class="section-body">
     <p>
         Nintendo 3DS temat delar upp objekt i sidor med högst 40 objekt per sida. Du kan navigera genom sidorna med hjälp av &#xE004; och &#xE005;.

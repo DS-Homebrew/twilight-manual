@@ -86,7 +86,7 @@ title: Thème Nintendo DSi
         <li>Largeur maximale : 208 pixels</li>
         <li>Hauteur maximale : 156 pixels</li>
     </ul>
-    <p>Si la taille de l'image est inférieure au maximum, elle sera centrée avec des planches noires.</p>
+    <p>Si la taille de l'image est inférieure au maximum, elle sera centrée avec des bords noirs.</p>
 </div>
 
 <div class="section-title">Menu SELECT</div>

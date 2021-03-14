@@ -28,7 +28,7 @@ title: R4 Original Teman
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Open option</p>
+        <p class="button-action-text">Öppna alternativ</p>
     </div>
 </div>
 
@@ -51,7 +51,7 @@ title: R4 Original Teman
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Gå upp en nivå</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -61,7 +61,7 @@ title: R4 Original Teman
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Öppna spelspecifika inställningar</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -4,13 +4,13 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div class="section-title">O programie</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap jest aplikacją homebrew używaną przez TWiLight Menu++ do wgrywania gier DS i homebrew z karty SD Nintendo DSi / 3DS.
     </p>
     <p>
-        There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+        Istnieje również wersja dla kart flash o nazwie B4DS, przeznaczonych dla homebrew obsługiwanych tylko przez Kf. i Kf. o niskiej kompatybilności.
     </p>
 </div>
 
@@ -20,11 +20,11 @@ title: nds-bootstrap
         Aby sprawdzić, czy gra jest kompatybilna z nds-bootstrap, sprawdź listę kompatybilności: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+        Aby uzyskać najlepszą kompatybilność z B4DS, zalecamy nabycie DS Memory Expansion Pack.
     </p>
 </div>
 
-<div class="section-title">Controls</div>
+<div class="section-title">Sterowanie</div>
 <div class="section-body">
     <p class="mb-0">
         Przytrzymaj &#xE004;, &#xE005;, &#xE07A; i &#xE001; przez dwie sekundy, aby powrócić do TWiLight Menu++.
@@ -46,7 +46,7 @@ title: nds-bootstrap
 <div class="section-title">Oszustwa</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap może używać cheatów Replay za pośrednictwem bazy danych <code>usrcheat.dat</code>, która musi znajdować się w <code>sd:/_nds/TWiLightMenu/extras</code>. Gdy baza danych będzie dostępna, możesz wybrać, które kody mają być użyte z menu ustawień gry w TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -57,6 +57,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Pamiętaj, że implementacja oszustw nds-bootstrapu jest niestabilna i w rezultacie Twój kod może działać lub może nie działać. To nie jest błąd bazy danych i mamy nadzieję wkrótce naprawić ten problem w nds-bootstrap.
     </p>
 </div>

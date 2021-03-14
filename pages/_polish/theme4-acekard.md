@@ -1,66 +1,66 @@
 ---
 layout: manual-page
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Motyw Wood UI
 ---
 
-<div class="section-title">Temporarily disabled</div>
+<div class="section-title">Tymczasowo wyłączone</div>
 <div class="section-body">
     <p>
-        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
+        Ten motyw został tymczasowo wyłączony ze względu na uszkodzenie karty SD. Przywrócenie go wymaga stworzenia nowego sterownika karty SD, który zajmuje dużo czasu i wysiłku.
     </p>
     <p>
-        Please be patient; it may not be back for a while.
+        Proszę o cierpliwość; może nie wrócić przez długą chwilę.
     </p>
 </div>
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Sterowanie przyciskami</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Poprzedni / następny element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Przesuń w górę / w dół o 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Uruchom wybraną aplikację</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001; / &#xE004;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Przejdź do góry z poziomu katalogu</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Otwórz ustawienia dla gry</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Open the Start Menu</p>
+        <p class="button-action-text">Otwórz Menu Start</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Change the view mode</p>
+        <p class="button-action-text">Zmień tryb widoku</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Reakcje na dotyk</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Przewiń przez listę</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Uruchom wybraną aplikację</p>
     </div>
 </div>

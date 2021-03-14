@@ -51,7 +51,7 @@ title: Home
     </p>
     <hr>
     <p>
-        Tieni premuto &#xE001; per caricare il menu o l' ultima ROM eseguita, a seconda che l' autoavvio dell' ultima rom eseguita sia abilitato.
+        Tieni premuto &#xE001; per caricare il menu o l'ultima ROM eseguita, a seconda che l'autoavvio dell'ultima rom eseguita sia abilitato.
     </p>
 </div>
 

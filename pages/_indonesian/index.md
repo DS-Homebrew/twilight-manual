@@ -8,7 +8,7 @@ title: Beranda
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Gulir/Scroll ke atas ke bawah</p>
+        <p class="button-action-text">Gulir/Scroll ke atas dan ke bawah</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -31,7 +31,7 @@ title: Beranda
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Gulir ke atas/bawah pada layar sentuh"></p>
-        <p class="button-action-text">Gulir/Scroll ke atas ke bawah</p>
+        <p class="button-action-text">Gulir/Scroll ke atas dan ke bawah</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -43,7 +43,7 @@ title: Beranda
 <div class="section-title">Pintasan Penjalan TWiLight Menu++</div>
 <div class="section-body">
     <p>
-        Tahan &#xE000;, &#xE001;, &#xE002;, dan &#xE003; untuk balik atur/reset Pengaturan TWiLight Menu++.
+        Tahan &#xE000;, &#xE001;, &#xE002;, dan &#xE003; untuk mengatur ulang/reset Pengaturan TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -51,7 +51,7 @@ title: Beranda
     </p>
     <hr>
     <p>
-        Tahan &#xE001; untuk memuat menu atau ROM terakhir main, tergantung jika Langsung Mulai rom terakhir main dinyalakan.
+        Tahan &#xE001; untuk memuat menu / ROM terakhir main, tergantung jika pilihan langsung mulai ROM terbaru main dinyalakan.
     </p>
 </div>
 
@@ -100,7 +100,7 @@ title: Beranda
 
 <div class="section-title">Pemuat Permainan</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, seperti namanya, hanyalah menu. BUKAN yang memuat atau memainkan ROM. Berikut halaman manual untuk pemuat ROM-nya:</p>
+    <p class="mb-2">TWiLight Menu++, seperti namanya, hanyalah menu. Jadi BUKAN yang memuat atau memainkan ROM. Berikut halaman manual untuk pemuat ROM-nya:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsbicon.png">

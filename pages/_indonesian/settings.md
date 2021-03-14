@@ -1,69 +1,69 @@
 ---
 layout: manual-page
 banner: /assets/images/settings.png
-title: Settings
+title: Pengaturan
 ---
 
-<div class="section-title">Controls</div>
+<div class="section-title">Kendali</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Pilihan sebelum / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">Ubah taraf/value</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">Ubah taraf<br>Masuk submenu</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">Keluar pengaturan</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">Halaman sebelumnya</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">Halaman berikutnya</p>
     </div>
 </div>
 
-<div class="section-title">GUI settings</div>
+<div class="section-title">Pengaturan GUI</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>Di halaman ini kamu dapat memilih tema dan juga pilihan lainnya yang mengubah tampilan antarmuka TWiLight Menu++.</p>
 </div>
 
-<div class="section-title">Emulation/HB settings</div>
+<div class="section-title">Pengaturan Emulasi/HB</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>Kamu dapat memilih serambi/platform mana yang muncul dan emulator mana yang digunakan.</p>
 </div>
 
-<div class="section-title">GBARunner2 settings</div>
+<div class="section-title">Pengaturan GBARunner2</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>Pengaturan ini bantu memilih bagaimana tampilannya dan agar jalannya cepat atau kesesuaian/compatibility-nya meningkat.</p>
 </div>
 
-<div class="section-title">Games and Apps settings</div>
+<div class="section-title">Penga. Permainan dan Aplikasi</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>Ini bentuk pengaturan umum bagaimana permainan dijalankan. Tapi dapat berubah atau diubah tergantung bagaimana TWiLight Menu++ dijalankan, seperti menggunakan kernel flashcard atau nds-bootstrap.</p>
 </div>
 
-<div class="section-title">Misc. settings</div>
+<div class="section-title">Pengaturan lainnya</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Ini tempat bagi pengaturan yang tidak pas di bagian lain, seperti bahasa apa yang digunakan, langsung dimainkan kah permainan yang terakhir main, dimunculkan atau tidak layar splash di awal buka/startup, dan lainnya.</p>
 </div>
 
-<div class="section-title">Unlaunch settings</div>
+<div class="section-title">Pengaturan Unlaunch</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Pengaturan di sini dapat mengubah cara kerja Unlaunch, caranya dengan menambal pemasang/installer Unlaunch jadi kamu perlu memasangnya ulang agar pengaturannya berubah.</p>
+    <p>Halaman ini hanya muncul di konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna Flashcard dan 3DS tidak akan melihat ini.</p>
 </div>

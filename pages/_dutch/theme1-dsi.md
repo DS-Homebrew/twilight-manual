@@ -86,7 +86,7 @@ title: Nintendo DSi Theme
         <li>Maximum width: 208 pixels</li>
         <li>Maximum height: 156 pixels</li>
     </ul>
-    <p>If the image size is less than the maximum, it will be centered with black boarders.</p>
+    <p>Als de beeldgrootte kleiner is dan maximum, zal het worden gecentreerd met zwarte balken.</p>
 </div>
 
 <div class="section-title">SELECT Menu</div>

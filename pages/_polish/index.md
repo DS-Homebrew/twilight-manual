@@ -1,10 +1,10 @@
 ---
 layout: manual-page
 banner: /assets/images/manual-home.png
-title: Home
+title: Strona główna
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Sterowanie przyciskami</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Reakcje na dotyk</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Przewiń w górę / w dół na ekranie dotykowym"></p>
@@ -40,7 +40,7 @@ title: Home
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div class="section-title">TWiLight Menu++ skróty startowe</div>
 <div class="section-body">
     <p>
         Trzymaj &#xE000;, &#xE001;, &#xE002; i &#xE003; aby zrezestować ustawienia TWiLight Menu++.
@@ -86,7 +86,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/r4icon.png">
             <p>
-                <a href="theme3-r4">Original R4</a>
+                <a href="theme3-r4">Oygginalny R4</a>
             </p>
         </div>
         <div class="grid-item">

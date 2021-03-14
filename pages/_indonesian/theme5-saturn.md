@@ -1,57 +1,57 @@
 ---
 layout: manual-page
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn Theme
+title: Tema SEGA Saturn
 ---
 
-<div class="section-title">Button Controls</div>
+<div class="section-title">Tombol Kendali</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Pindahi barang<br>(Bentuk Urutannya harus yang "Diubah Suai")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Barang sebelum / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Luncurkan aplikasi terpilih</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Ke direktori sebelumnya</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Hapus / sembunyi barang</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Buka setelan tiap-permainan</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Buka Menu SELECT atau Menu DS Klasik</p>
     </div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div class="section-title">Kendali Sentuh</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Gulir/Scroll daftar</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Luncurkan aplikasi terpilih</p>
     </div>
     <!-- <hr>
     <div>
@@ -61,29 +61,29 @@ title: SEGA Saturn Theme
     </div> -->
 </div>
 
-<div class="section-title">Page System</div>
+<div class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
-        The SEGA Saturn theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Tema SEGA Saturn membagi barangnya berhalaman dengan jumlah batasnya 40 barang tiap halaman. Kamu dapat menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>Menekan &#xE004; di pojok kanan halaman akan langsung ke barang pertama halamannya</p></li>
+        <li><p>Menekan &#xE005; di pojok kiri halaman akan langsung ke barang terakhir halamannya</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Jika tombol &#xE004; &#xE005; tidak bisa, gunakan tombol SELECT + &#xE07E; saja.
     </p>
 </div>
 
-<div class="section-title">SELECT Menu</div>
+<div class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the SEGA Saturn theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        Menekan SELECT di tema SEGA Saturn akan menampilkan menu DS Klasik secara asali/default. Namun, di pengaturan TWiLight Menu++, kamu dapat mengubahnya menjadi Menu SELECT, yaitu menu bentuk kecil yang terbenam/embedded di temanya. Berikut pilihan menu pada Menu SELECT.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring for TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi dan Nintendo 3DS, pilihan ini dapat digunakan untuk kembali ke menu beranda asli</li>
+        <li><strong>Pengaturan</strong>: Kalau dipilih akan meluncurkan menu untuk menata atur TWiLight Menu++ dan peluncurnya</li>
+        <li><strong>Pengaturan Kartu Main</strong>: Di DS original atau DS Lite, kartu main/cartridge Slot-2 seperti GBA dapat diluncurkan dari sini. Di Nintendo DSi dan Nintendo 3DS yang dibaca dari kartu SD, kartu Slot-1 juga dapat dijalankan, kalau dengan flashcard tertentu, dapat diganti kartu SD mana yang TWiLight Menu++ navigasi</li>
+        <li><strong>Manual</strong>: Pilihan ini akan meluncurkan manual TWiLight Menu++, ini kamu sedang lihat :P</li>
     </ul>
 </div>
