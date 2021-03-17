@@ -13,12 +13,12 @@ title: Pengaturan
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Ubah taraf/value</p>
+        <p class="button-action-text">Ubah nilai (value)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Ubah taraf<br>Masuk submenu</p>
+        <p class="button-action-text">Ubah nilai<br>Masuk submenu</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -44,26 +44,26 @@ title: Pengaturan
 
 <div class="section-title">Pengaturan Emulasi/HB</div>
 <div class="section-body">
-    <p>Kamu dapat memilih serambi/platform mana yang muncul dan emulator mana yang digunakan.</p>
+    <p>Kamu dapat memilih serambi (platform) mana yang muncul dan emulator mana yang digunakan.</p>
 </div>
 
 <div class="section-title">Pengaturan GBARunner2</div>
 <div class="section-body">
-    <p>Pengaturan ini bantu memilih bagaimana tampilannya dan agar jalannya cepat atau kesesuaian/compatibility-nya meningkat.</p>
+    <p>Pengaturan ini bantu kamu memilih bagaimana tampilannya dan agar jalannya cepat atau kesesuaiannya (compatibility) meningkat.</p>
 </div>
 
 <div class="section-title">Penga. Permainan dan Aplikasi</div>
 <div class="section-body">
-    <p>Ini bentuk pengaturan umum bagaimana permainan dijalankan. Tapi dapat berubah atau diubah tergantung bagaimana TWiLight Menu++ dijalankan, seperti menggunakan kernel flashcard atau nds-bootstrap.</p>
+    <p>Ini bentuk pengaturan umum untuk bagaimana permainan dijalankan. Tapi akan beragam dari cara kamu menjalankan TWiLight Menu++, seperti menggunakan kernel flashcard atau nds-bootstrap.</p>
 </div>
 
 <div class="section-title">Pengaturan lainnya</div>
 <div class="section-body">
-    <p>Ini tempat bagi pengaturan yang tidak pas di bagian lain, seperti bahasa apa yang digunakan, langsung dimainkan kah permainan yang terakhir main, dimunculkan atau tidak layar splash di awal buka/startup, dan lainnya.</p>
+    <p>Ini tempat bagi pengaturan yang tidak pas di bagian lain, seperti bahasa apa yang digunakan, langsung dimulai kah permainan yang terakhir main, dimunculkan atau tidak layar splash di awal buka (startup), dan lainnya.</p>
 </div>
 
 <div class="section-title">Pengaturan Unlaunch</div>
 <div class="section-body">
-    <p>Pengaturan di sini dapat mengubah cara kerja Unlaunch, caranya dengan menambal pemasang/installer Unlaunch jadi kamu perlu memasangnya ulang agar pengaturannya berubah.</p>
+    <p>Pengaturan di sini dapat mengubah cara kerja Unlaunch, caranya dengan menambal pemasang (installer) Unlaunch jadi kamu perlu memasangnya ulang agar pengaturannya berubah.</p>
     <p>Halaman ini hanya muncul di konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna Flashcard dan 3DS tidak akan melihat ini.</p>
 </div>

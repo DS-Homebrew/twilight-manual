@@ -8,7 +8,7 @@ title: Tema Nintendo 3DS
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Pindahi barang<br>(Bentuk Urutannya harus yang "Diubah Suai")</p>
+        <p class="button-action-text">Pindahi barang<br>(Bentuk Urutannya harus ke "Ubah Suai")</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -46,7 +46,7 @@ title: Tema Nintendo 3DS
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Gulir/Scroll daftar</p>
+        <p class="button-action-text">Gulir (Scroll) daftar</p>
     </div>
     <hr>
     <div class="button-action-group">

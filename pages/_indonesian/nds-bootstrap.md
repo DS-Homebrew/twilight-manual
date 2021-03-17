@@ -10,14 +10,14 @@ title: nds-bootstrap
         nds-bootstrap adalah aplikasi homebrew yang digunakan TWiLight Menu++ untuk memuat dump kartu DS dan juga homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Ada juga untuk flashcard namanya B4DS, ditujukan untuk flashcard yang hanya-homebrew dan flashcard dengan kesesuaian rendah.
+        Ada juga untuk flashcard namanya B4DS, ditujukan untuk flashcard hanya-homebrew dan flashcard dengan kesesuaian rendah.
     </p>
 </div>
 
 <div class="section-title">Kesesuaian/Compatibility</div>
 <div class="section-body">
     <p>
-        Untuk melihat apa permainannya sesuai/compatible di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Untuk melihat apa permainannya sesuai (compatible) di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
         Untuk kesesuaian yang lebih baik di B4DS, kami sarankan dapatkan DS Memory Expansion Pak (Penambah RAM).
@@ -31,7 +31,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang/reset.
+        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang (reset).
     </p>
     <hr>
     <p class="mb-0">
@@ -46,17 +46,17 @@ title: nds-bootstrap
 <div class="section-title">Curangan/Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap dapat menggunakan curangan Action Replay lewat pangkalan data/database <code>usrcheat.dat</code>, dan harus ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
+        nds-bootstrap dapat menggunakan curangan Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, dan harus ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Pangkalan data/database curangan DeadSkullzJr's paling disarankan karena yang terbesar dan terbaru:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Pangkalan data curangan (cheat) DeadSkullzJr's paling disarankan karena yang terbesar dan terbaru:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Cara lainnya, jika ingin buat sendiri, kamu bisa dengan aplikasi R4CEE di komputer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Cara lainnya, jika kamu ingin buat sendiri, bisa dengan aplikasi R4CEE di komputer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih tidak kukuh/stabil, jadi kode-mu bisa jalan bisa tidak. Ini bukan karena pangkalan data curangannya, dan kami berharap akan memperbaiki masalah ini di nds-bootstrap.
+        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih goyah (unstable), sehingga kodemu bisa jalan bisa tidak. Ini bukan karena pangkalan data curangannya, dan kami berharap akan memperbaiki masalah ini di nds-bootstrap.
     </p>
 </div>

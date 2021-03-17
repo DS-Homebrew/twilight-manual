@@ -28,7 +28,7 @@ title: Tema R4 yang Asli
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Buka pemilihan</p>
+        <p class="button-action-text">Buka pilihan (option)</p>
     </div>
 </div>
 

@@ -4,13 +4,13 @@ banner: /assets/images/theme4-acekard.png
 title: Tema Wood UI
 ---
 
-<div class="section-title">Sementara dimatikan</div>
+<div class="section-title">Sementara di-nonaktif-kan</div>
 <div class="section-body">
     <p>
-        Tema ini di-nonaktif-kan sementara karena bermasalah merusak kartu SD. Kalau dikembalikan butuh membuat pengandar/driver kartu SD baru, yang mana butuh banyak waktu dan usaha.
+        Tema ini dimatikan sementara karena bermasalah merusak kartu SD. Kalau dikembalikan butuh membuat pengandar (driver) kartu SD baru, yang mana butuh banyak waktu dan usaha.
     </p>
     <p>
-        Mohon bersabar ya; memang masih lama baliknya.
+        Mohon bersabar ya; mungkin masih lama baliknya.
     </p>
 </div>
 
@@ -56,7 +56,7 @@ title: Tema Wood UI
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Gulir/Scroll daftar</p>
+        <p class="button-action-text">Gulir (Scroll) daftar</p>
     </div>
     <hr>
     <div class="button-action-group">
