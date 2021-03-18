@@ -60,31 +60,31 @@ title: Home
 	<p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
 	<div class="grid-container-3">
 		<div class="grid-item">
-			<img src="/assets/images/dsicon.png">
+			<img src="/assets/images/dsi-icon.png">
 			<p>
 				<a href="theme1-dsi">Nintendo DSi</a>
 			</p>
 		</div>
 		<div class="grid-item">
-			<img src="/assets/images/3dsicon.png">
+			<img src="/assets/images/3ds-icon.png">
 			<p>
 				<a href="theme2-3ds">Nintendo 3DS</a>
 			</p>
 		</div>
 		<div class="grid-item">
-			<img src="/assets/images/hblicon.png">
+			<img src="/assets/images/hbl-icon.png">
 			<p>
 				<a href="theme6-hbl">Homebrew Launcher</a>
 			</p>
 		</div>
 		<div class="grid-item">
-			<img src="/assets/images/akicon.png">
+			<img src="/assets/images/ak-icon.png">
 			<p>
 				<a href="theme4-acekard">Wood UI</a>
 			</p>
 		</div>
 		<div class="grid-item">
-			<img src="/assets/images/r4icon.png">
+			<img src="/assets/images/r4-icon.png">
 			<p>
 				<a href="theme3-r4">Original R4</a>
 			</p>
@@ -103,13 +103,13 @@ title: Home
 	<p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
 	<div class="grid-container-2">
 		<div class="grid-item">
-			<img src="/assets/images/ndsbicon.png">
+			<img src="/assets/images/ndsb-icon.png">
 			<p>
 				<a href="nds-bootstrap">nds-bootstrap</a>
 			</p>
 		</div>
 		<div class="grid-item">
-			<img src="/assets/images/gbaicon.png">
+			<img src="/assets/images/gba-icon.png">
 			<p>
 				<a href="gbarunner2">GBARunner2</a>
 			</p>
@@ -119,15 +119,21 @@ title: Home
 
 <div class="section-title">Other Information</div>
 <div class="section-body">
-	<div class="grid-container-2 mb-2">
+	<div class="grid-container-3 mb-2">
 		<div class="grid-item">
-			<img src="/assets/images/chaticon.png">
+			<img src="/assets/images/ds-icon.png">
+			<p>
+				<a href="ds-classic-menu">DS Classic Menu</a>
+			</p>
+		</div>
+		<div class="grid-item">
+			<img src="/assets/images/chat-icon.png">
 			<p>
 				<a href="chat">Chat</a>
 			</p>
 		</div>
 		<div class="grid-item">
-			<img src="/assets/images/settingsicon.png">
+			<img src="/assets/images/settings-icon.png">
 			<p>
 				<a href="settings">Settings</a>
 			</p>
