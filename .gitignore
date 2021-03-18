@@ -8,6 +8,7 @@ palette.png
 _site
 .jekyll-cache
 Gemfile.lock
+.jekyll-metadata
 
 node_modules
 package-lock.json

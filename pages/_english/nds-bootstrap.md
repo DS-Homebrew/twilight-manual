@@ -27,15 +27,11 @@ title: nds-bootstrap
 <div class="section-title">Controls</div>
 <div class="section-body">
 	<p class="mb-0">
-		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+		Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
 	</p>
 	<hr>
 	<p class="mb-0">
 		Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
-	</p>
-	<hr>
-	<p class="mb-0">
-		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
 	</p>
 	<hr>
 	<p class="mb-0">
