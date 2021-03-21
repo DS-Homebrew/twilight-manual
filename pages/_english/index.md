@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Home
 ---
 
-<div class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
 	<div class="button-action-group">
 		<p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Home
 	</div>
 </div>
 
-<div class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
 	<div class="button-action-group">
 		<p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
@@ -40,7 +40,7 @@ title: Home
 	</div>
 </div>
 
-<div class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
 <div class="section-body">
 	<p>
 		Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
@@ -55,7 +55,7 @@ title: Home
 	</p>
 </div>
 
-<div class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Theme Information</div>
 <div class="section-body">
 	<p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
 	<div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Home
 	</div>
 </div>
 
-<div class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Game Loaders</div>
 <div class="section-body">
 	<p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
 	<div class="grid-container-2">
@@ -117,7 +117,7 @@ title: Home
 	</div>
 </div>
 
-<div class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Other Information</div>
 <div class="section-body">
 	<div class="grid-container-3 mb-2">
 		<div class="grid-item">

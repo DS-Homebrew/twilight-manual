@@ -4,7 +4,7 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">About</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
 	<p>
 		nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
@@ -14,7 +14,7 @@ title: nds-bootstrap
 	</p>
 </div>
 
-<div class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
 	<p>
 		To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
@@ -24,7 +24,7 @@ title: nds-bootstrap
 	</p>
 </div>
 
-<div class="section-title">Controls</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
 	<p class="mb-0">
 		Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
@@ -39,7 +39,7 @@ title: nds-bootstrap
 	</p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
 	<p>
 		nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.

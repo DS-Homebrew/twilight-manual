@@ -4,7 +4,7 @@ banner: /assets/images/ds-classic-menu.png
 title: DS Classic Menu
 ---
 
-<div class="section-title">Controls</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
 	<div class="button-action-group">
 		<p class="button-action button">&#xE006;</p>
