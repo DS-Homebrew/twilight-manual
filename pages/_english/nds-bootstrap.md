@@ -10,7 +10,7 @@ title: nds-bootstrap
 		nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS cartridge dumps and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
 	</p>
 	<p>
-		There is also a version for flashcards called B4DS, intended for homebrew-only flashcards and flashcards with low compatibility.
+		It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
 	</p>
 </div>
 
@@ -20,7 +20,7 @@ title: nds-bootstrap
 		To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
 	</p>
 	<p>
-		For the best compatibility with B4DS, we recommend getting a DS Memory Expansion Pak.
+		For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
 	</p>
 </div>
 
