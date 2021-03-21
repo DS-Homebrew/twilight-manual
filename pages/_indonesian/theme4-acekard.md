@@ -4,17 +4,17 @@ banner: /assets/images/theme4-acekard.png
 title: Tema Wood UI
 ---
 
-<div class="section-title">Sementara di-nonaktif-kan</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
-        Tema ini dimatikan sementara karena bermasalah merusak kartu SD. Kalau dikembalikan butuh membuat pengandar (driver) kartu SD baru, yang mana butuh banyak waktu dan usaha.
+        Tema ini sementara dimatikan karena bermasalah dapat merusak kartu SD. Kalau dikembalikan butuh membuat pengandar (driver) kartu SD baru, yang mana butuh banyak waktu dan usaha.
     </p>
     <p>
         Mohon bersabar ya; mungkin masih lama baliknya.
     </p>
 </div>
 
-<div class="section-title">Tombol Kendali</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -23,7 +23,7 @@ title: Tema Wood UI
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gerak ke atas / bawah 10</p>
+        <p class="button-action-text">Gerak ke atas / bawah lewat 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -52,7 +52,7 @@ title: Tema Wood UI
     </div>
 </div>
 
-<div class="section-title">Kendali Sentuh</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

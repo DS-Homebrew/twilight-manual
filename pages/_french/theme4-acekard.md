@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Thème Wood UI
 ---
 
-<div class="section-title">Temporairement désactivé</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
         Ce thème a été temporairement désactivé, en raison de la corruption de la carte SD. Pour le restaurer, il faut faire un nouveau pilote de carte SD, ce qui prend beaucoup de temps et d'efforts.
@@ -14,7 +14,7 @@ title: Thème Wood UI
     </p>
 </div>
 
-<div class="section-title">Contrôles des boutons</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Thème Wood UI
     </div>
 </div>
 
-<div class="section-title">Contrôles tactiles</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

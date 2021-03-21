@@ -4,7 +4,7 @@ banner: /assets/images/hbl-theme.png
 title: Motyw Homebrew Launcher
 ---
 
-<div class="section-title">Sterowanie przyciskami</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Motyw Homebrew Launcher
     </div>
 </div>
 
-<div class="section-title">Kontrolowanie gier dotykiem</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Motyw Homebrew Launcher
     </div> -->
 </div>
 
-<div class="section-title">Strona Systemu</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Motyw Homebrew Launcher dzieli elementy na strony z maksymalnie 40 elementami na stronę. Możesz nawigować przez strony za pomocą wyzwalaczy &#xE004; i &#xE005;.
@@ -75,7 +75,7 @@ title: Motyw Homebrew Launcher
     </p>
 </div>
 
-<div class="section-title">Menu SELECT</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         Naciśnięcie SELECT w szablonie Homebrew Launcher domyślnie pokaże menu klasycznego DS. Jednak w ustawieniach TWiLight Menu++ możesz je zmienić, aby uruchomić SELECT Menu, miniaturę menu osadzoną wewnątrz samego motywu. Oto opcje menu dla menu SELECT.

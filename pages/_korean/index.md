@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: 홈
 ---
 
-<div class="section-title">버튼 조작</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: 홈
     </div>
 </div>
 
-<div class="section-title">터치 조작</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="터치스크린 위/아래로 스크롤"></p>
@@ -40,7 +40,7 @@ title: 홈
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++ 부팅 단축키</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
 <div class="section-body">
     <p>
         &#xE000;, &#xE001;, &#xE002; 와 &#xE003; 를 길게 눌러 TWiLight Menu++ 설정을 리셋합니다.
@@ -55,36 +55,36 @@ title: 홈
     </p>
 </div>
 
-<div class="section-title">테마 정보</div>
+<div id="theme-information" class="section-title">Theme Information</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++는 6개의 선택 가능한 테마를 가지고 있습니다. 모두 각기 다른 디자인의 메뉴들이고, 그 중 몇 개는 완전히 다른 검색 스타일을 갖고 있습니다.</p>
     <div class="grid-container-3">
         <div class="grid-item">
-            <img src="/assets/images/dsicon.png">
+            <img src="/assets/images/dsi-icon.png">
             <p>
                 <a href="theme1-dsi">닌텐도 DSi</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/3dsicon.png">
+            <img src="/assets/images/3ds-icon.png">
             <p>
                 <a href="theme2-3ds">닌텐도 3DS</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/hblicon.png">
+            <img src="/assets/images/hbl-icon.png">
             <p>
                 <a href="theme6-hbl">홈브류 런처</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/akicon.png">
+            <img src="/assets/images/ak-icon.png">
             <p>
                 <a href="theme4-acekard">Wood UI</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/r4icon.png">
+            <img src="/assets/images/r4-icon.png">
             <p>
                 <a href="theme3-r4">Original R4</a>
             </p>
@@ -98,18 +98,18 @@ title: 홈
     </div>
 </div>
 
-<div class="section-title">게임 로더</div>
+<div id="game-loaders" class="section-title">Game Loaders</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++는 이름에서 알 수 있듯이, 그냥 하나의 메뉴이며, ROM 자체를 스스로 실행하지 않습니다. 여기에 ROM 로더를 위한 설명서 페이지가 있습니다:</p>
     <div class="grid-container-2">
         <div class="grid-item">
-            <img src="/assets/images/ndsbicon.png">
+            <img src="/assets/images/ndsb-icon.png">
             <p>
                 <a href="nds-bootstrap">nds-bootstrap</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/gbaicon.png">
+            <img src="/assets/images/gba-icon.png">
             <p>
                 <a href="gbarunner2">GBARunner2</a>
             </p>
@@ -117,19 +117,25 @@ title: 홈
     </div>
 </div>
 
-<div class="section-title">기타 정보</div>
+<div id="other-information" class="section-title">Other Information</div>
 <div class="section-body">
-    <div class="grid-container-2 mb-2">
+    <div class="grid-container-3 mb-2">
         <div class="grid-item">
-            <img src="/assets/images/chaticon.png">
+            <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="chat">채팅</a>
+                <a href="ds-classic-menu">DS Classic Menu</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/settingsicon.png">
+            <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="settings">설정</a>
+                <a href="chat">Chat</a>
+            </p>
+        </div>
+        <div class="grid-item">
+            <img src="/assets/images/settings-icon.png">
+            <p>
+                <a href="settings">Settings</a>
             </p>
         </div>
     </div>

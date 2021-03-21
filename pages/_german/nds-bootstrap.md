@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">Über</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
     <p>
         nds-bootstrap ist ein Nintendo DSi Homebrew, das von TWiLight Menu++ benutzt wird, um DS Cartridge Dumps und Nintendo DS-Modus-Homebrew von der Nintendo DSi/Nintendo 3DS SD-Karte zu starten.
     </p>
     <p>
-        Es gibt auch eine Version für Flashkarten mit dem Namen B4DS, die für nur-Homebrew-Flashkarten und Flashkarten mit niedriger Kompatibilität gedacht ist.
+        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div class="section-title">Kompatibilität</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
     <p>
         Um zu sehen ob ein Spiel mit nds-bootstrap kompatibel ist, überprüfe die Kompatibilitätsliste:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        Für die beste Kompatibilität mit B4DS empfehlen wir ein DS Memory Expansion Pak.
+        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
     </p>
 </div>
 
-<div class="section-title">Steuerung</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
     <p class="mb-0">
-        Halte &#xE004;, &#xE005;, &#xE07A;, und &#xE001; für 2 Sekunden gedrückt, um zu TWiLight Menu++ zurückzukehren.
+        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,15 +35,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Halte &#xE004;, &#xE005;, &#xE07A;, und &#xE000; für 2 Sekunden gedrückt, um einen RAM Dump zu erstellen.
-    </p>
-    <hr>
-    <p class="mb-0">
-        Halte &#xE004;, &#xE005;, &#xE002;, und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
+        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 
-<div class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
         nds-bootstrap kann Action Replay Cheats über eine <code>usrcheat.dat</code> Datenbank anwenden, die in <code>sd:/_nds/TWiLightMenu/extras</code> platziert werden muss. Sobald die Datenbank vorhanden ist, kannst du in TWiLight Menu++ im Spieleinstellungsmenü eines Spiels auswählen, welche Cheats verwendet werden sollen.

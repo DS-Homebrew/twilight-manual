@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Wood UI 테마
 ---
 
-<div class="section-title">일시적으로 비활성화되었습니다</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
         이 테마는 SD카드 오류로 인해 일시적으로 비활성화되었습니다. 이 테마를 다시 활성화 하려면 새로운 SD카드 드라이버를 만드는 것이 필요한데, 이를 위해서는 많은 시간과 노력이 필요합니다.
@@ -14,7 +14,7 @@ title: Wood UI 테마
     </p>
 </div>
 
-<div class="section-title">버튼 조작</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Wood UI 테마
     </div>
 </div>
 
-<div class="section-title">터치 조작</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">关于</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
     <p>
         nds-bootstrap是本软件所使用的一个Nintendo DSi自制程序，用于在Nintendo DSi/Nintendo 3DS的内置DS卡内加载NDS ROM文件或是已完成编译的Nintendo DS自制软件。
     </p>
     <p>
-        同时，TwiLight Menu++还内置了B4DS自制程序，以在仅限于使用自制程序的烧录卡或是低兼容性的烧录卡中实现同样的效果。
+        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div class="section-title">兼容性</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
     <p>
         要检索nds-bootstrap对于游戏的兼容性，请前往<br>cutt.ly/nds-compatibility<a href="https://cutt.ly/nds-compatibility">进行查阅。</a>
     </p>
     <p>
-        为了能最大限度保证B4DS的兼容性，我们建议您同时使用DS Memory Expansion Pak。(DS/DS Lite专用内存扩展卡)
+        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
     </p>
 </div>
 
-<div class="section-title">控制</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
     <p class="mb-0">
-        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE001; 2秒后返回到 TWiLight Menu++。
+        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,15 +35,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE000; 2秒来创建RAM转储。
-    </p>
-    <hr>
-    <p class="mb-0">
-        按住&#xE004;, &#xE005;, &#xE002;, and &#xE079; 1秒来切换屏幕。
+        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 
-<div class="section-title">金手指</div>
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
         nds-bootstrap 可以从 <code>usrcheat.dat</code> 使用即时金手指，如果您想使用它，请将此文件放入 <code>sd:/_nds/TWiLightMenu/extras</code> 。 如果数据库存在，您可以在TWiLight Menu++中在子菜单中选择金手指。

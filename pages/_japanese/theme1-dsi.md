@@ -4,7 +4,7 @@ banner: /assets/images/dsi-theme.png
 title: ニンテンドーDSiテーマ
 ---
 
-<div class="section-title">ボタンコントロール</div>
+<div id="button-controls" class="section-title">ボタンコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: ニンテンドーDSiテーマ
     </div>
 </div>
 
-<div class="section-title">タッチコントロール</div>
+<div id="touch-controls" class="section-title">タッチコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: ニンテンドーDSiテーマ
     </div> -->
 </div>
 
-<div class="section-title">ページシステム</div>
+<div id="page-system" class="section-title">ページシステム</div>
 <div class="section-body">
     <p>
         ニンテンドーDSiテーマは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
@@ -78,7 +78,7 @@ title: ニンテンドーDSiテーマ
     </p>
 </div>
 
-<div class="section-title">カスタム上画面の画像</div>
+<div id="custom-top-screen-image" class="section-title">カスタム上画面の画像</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>TWilight Menu++は、公式のニンテンドーDSiメニュー同様に、カスタム写真を上画面に表示することができます。 ただし、ニンテンドーDSiカメラアプリから取得するのではなく、PNG画像を<code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code>に配置できます。</p>
@@ -89,7 +89,7 @@ title: ニンテンドーDSiテーマ
     <p>画像サイズが最大より小さい場合は、黒い境界線で中央に配置されます。</p>
 </div>
 
-<div class="section-title">SELECTメニュー</div>
+<div id="select-menu" class="section-title">SELECTメニュー</div>
 <div class="section-body">
     <p>
         ニンテンドーDSiテーマでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、テーマ自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：

@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Тема Wood UI
 ---
 
-<div class="section-title">Временно отключено</div>
+<div id="temporarily-disabled" class="section-title">Временно отключено</div>
 <div class="section-body">
     <p>
         Эта тема временно отключена, из-за ошибки SD-карты. Чтобы вернуть его, необходимо создать новый драйвер SD-карты, который занимает много времени и усилий.
@@ -14,7 +14,7 @@ title: Тема Wood UI
     </p>
 </div>
 
-<div class="section-title">Управление</div>
+<div id="button-controls" class="section-title">Управление</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Тема Wood UI
     </div>
 </div>
 
-<div class="section-title">Касания</div>
+<div id="touch-controls" class="section-title">Касания</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

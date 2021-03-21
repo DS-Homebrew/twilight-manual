@@ -4,7 +4,7 @@ banner: /assets/images/saturn-theme.png
 title: Тема SEGA SATURN
 ---
 
-<div class="section-title">Управление</div>
+<div id="button-controls" class="section-title">Управление</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Тема SEGA SATURN
     </div>
 </div>
 
-<div class="section-title">Касания</div>
+<div id="touch-controls" class="section-title">Касания</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Тема SEGA SATURN
     </div> -->
 </div>
 
-<div class="section-title">Система</div>
+<div id="page-system" class="section-title">Система страниц</div>
 <div class="section-body">
     <p>
         Тема SEGA Saturn отображает максимум 40 элементов на каждой странице. Вы можете перемещаться по страницам, используя &#xE004; и &#xE005; триггеры.
@@ -75,7 +75,7 @@ title: Тема SEGA SATURN
     </p>
 </div>
 
-<div class="section-title">SELECT меню</div>
+<div id="select-menu" class="section-title">SELECT меню</div>
 <div class="section-body">
     <p>
         Нажатие SELECT в теме SEGA Saturn по умолчанию вызовет DS Classic меню. Тем не менее, в настройках TWiLight Menu++ вы можете изменить его, чтобы запустить мини-меню встроенного внутри самого шаблона. Ниже приведены опции SELECT меню.

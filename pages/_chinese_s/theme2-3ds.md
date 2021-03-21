@@ -4,7 +4,7 @@ banner: /assets/images/3ds-theme.png
 title: Nintendo 3DS主题
 ---
 
-<div class="section-title">按键控制</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Nintendo 3DS主题
     </div>
 </div>
 
-<div class="section-title">触摸控制方法</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Nintendo 3DS主题
     </div> -->
 </div>
 
-<div class="section-title">翻页系统</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Nintendo 3DS 主题将条目分割成页面，每页最多40项。 您可以通过&#xE004; 和&#xE005; 来触发导航页面。

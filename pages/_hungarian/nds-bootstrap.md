@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">Az NDS Bootstrap-ről</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
     <p>
         Az nds-bootstrap egy homebrew alkalmazás, amit a TWiLight Menu++ használ a DS cartridge mentések és DS-mód homebrew alkalmazások betöltésére a Nintendo DSi / 3DS SD kártyájáról.
     </p>
     <p>
-        Létezik egy verzió a B4DS flash kártyákhoz, ami kizárólag homebrew-ra alkalmas kártya és alacsony kompatibilitású flash kártyákhoz.
+        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div class="section-title">Kompatibilitás</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
     <p>
         Ahhoz, hogy láthassa, mely játékok kompatibilisek az nds-bootstrap-pel, tekintse meg a kompatibilitási listát:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        A legjobb B4DS kompatibilitáshoz javasoljuk a DS Memory Expansion Pak beszerzését.
+        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
     </p>
 </div>
 
-<div class="section-title">Irányítás</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
     <p class="mb-0">
-        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE001; gombokat 2 másodpercig, hogy visszatérj a TWiLight Menu++-ba.
+        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,15 +35,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE000; gombokat 2 másodpercig, hogy készíts egy RAM dumpot.
-    </p>
-    <hr>
-    <p class="mb-0">
-        Tartsd nyomva a &#xE004;, &#xE005;,&#xE002; és a &#xE079; gombokat 1 másodpercig, hogy váltsd a képernyőket.
+        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 
-<div class="section-title">Csalások</div>
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
         Az nds-bootstrap Action Replay csalásokat tud használni <code>usrcheat.dat</code> adatbázison keresztül, amit az <code>sd:/_nds/TWiLightMenu/extras</code> útvonalra kell rakni. Ha az adatbázis egyszer ott van, csak ki kell választanod a csalásokat amit használni szeretnél, a játékonkénti beállításoknál a TWiLight Menu++-ban.

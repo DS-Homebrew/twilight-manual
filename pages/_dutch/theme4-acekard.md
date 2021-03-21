@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Wood UI Thema
 ---
 
-<div class="section-title">Tijdelijk uitgeschakeld</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
         Dit thema is tijdelijk uitgeschakeld vanwege corruptie op de SD-kaart. Het terug brengen vergt een nieuw SD-kaart stuurprogramma maken, wat veel tijd en moeite kost.
@@ -14,7 +14,7 @@ title: Wood UI Thema
     </p>
 </div>
 
-<div class="section-title">Knopinstellingen</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Wood UI Thema
     </div>
 </div>
 
-<div class="section-title">Aanraakbediening</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

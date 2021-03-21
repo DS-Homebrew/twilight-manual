@@ -4,7 +4,7 @@ banner: /assets/images/3ds-theme.png
 title: Nintendo 3DS téma
 ---
 
-<div class="section-title">Gombvezérlők</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Nintendo 3DS téma
     </div>
 </div>
 
-<div class="section-title">Érintésvezérlők</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Nintendo 3DS téma
     </div> -->
 </div>
 
-<div class="section-title">Oldal rendszer</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         A Nintendo 3DS téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.

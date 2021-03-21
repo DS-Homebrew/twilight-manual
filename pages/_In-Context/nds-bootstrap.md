@@ -4,30 +4,30 @@ banner: crwdns17668:0crwdne17668:0
 title: crwdns17670:0crwdne17670:0
 ---
 
-<div class="section-title">crwdns17674:0crwdne17674:0</div>
+<div id="about" class="section-title">crwdns20470:0crwdne20470:0</div>
 <div class="section-body">
     <p>
         crwdns17678:0crwdne17678:0
     </p>
     <p>
-        crwdns17682:0crwdne17682:0
+        crwdns20472:0crwdne20472:0
     </p>
 </div>
 
-<div class="section-title">crwdns17686:0crwdne17686:0</div>
+<div id="compatibility" class="section-title">crwdns20474:0crwdne20474:0</div>
 <div class="section-body">
     <p>
         crwdns17690:0crwdne17690:0
     </p>
     <p>
-        crwdns17694:0crwdne17694:0
+        crwdns20476:0crwdne20476:0
     </p>
 </div>
 
-<div class="section-title">crwdns17698:0crwdne17698:0</div>
+<div id="controls" class="section-title">crwdns20478:0crwdne20478:0</div>
 <div class="section-body">
     <p class="mb-0">
-        crwdns17700:0crwdne17700:0
+        crwdns20480:0crwdne20480:0
     </p>
     <hr>
     <p class="mb-0">
@@ -35,15 +35,11 @@ title: crwdns17670:0crwdne17670:0
     </p>
     <hr>
     <p class="mb-0">
-        crwdns17704:0crwdne17704:0
-    </p>
-    <hr>
-    <p class="mb-0">
-        crwdns17712:0crwdne17712:0
+        crwdns20482:0crwdne20482:0
     </p>
 </div>
 
-<div class="section-title">crwdns17736:0crwdne17736:0</div>
+<div id="cheats" class="section-title">crwdns20484:0crwdne20484:0</div>
 <div class="section-body">
     <p>
         crwdns17742:0crwdne17742:0 crwdns17748:0crwdne17748:0

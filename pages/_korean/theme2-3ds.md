@@ -4,7 +4,7 @@ banner: /assets/images/3ds-theme.png
 title: 닌텐도 3DS 테마
 ---
 
-<div class="section-title">버튼 조작</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: 닌텐도 3DS 테마
     </div>
 </div>
 
-<div class="section-title">터치 조작</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: 닌텐도 3DS 테마
     </div> -->
 </div>
 
-<div class="section-title">페이지 시스템</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         닌텐도 3DS 테마는 한 페이지당 최대 40개로 항목을 분할합니다. &#xE004; 와 &#xE005; 트리거를 이용해서 페이지를 탐색할 수 있습니다.

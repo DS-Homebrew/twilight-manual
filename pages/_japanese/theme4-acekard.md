@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Wood UIテーマ
 ---
 
-<div class="section-title">一時的に無効にした</div>
+<div id="temporarily-disabled" class="section-title">一時的に無効にした</div>
 <div class="section-body">
     <p>
         このテーマは、SDカードの破損のために一時的に無効にしました。 それを取り戻すには、新しいSDカードドライバーを作成するが必要です。これは多くの時間と労力がかかりまる。
@@ -14,7 +14,7 @@ title: Wood UIテーマ
     </p>
 </div>
 
-<div class="section-title">ボタンコントロール</div>
+<div id="button-controls" class="section-title">ボタンコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Wood UIテーマ
     </div>
 </div>
 
-<div class="section-title">タッチコントロール</div>
+<div id="touch-controls" class="section-title">タッチコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

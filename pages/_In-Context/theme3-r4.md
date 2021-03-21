@@ -4,7 +4,7 @@ banner: crwdns17952:0crwdne17952:0
 title: crwdns17954:0crwdne17954:0
 ---
 
-<div class="section-title">crwdns17956:0crwdne17956:0</div>
+<div id="main-menu" class="section-title">crwdns20462:0crwdne20462:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">crwdns17958:0crwdne17958:0</p>
@@ -32,7 +32,7 @@ title: crwdns17954:0crwdne17954:0
     </div>
 </div>
 
-<div class="section-title">crwdns17978:0crwdne17978:0</div>
+<div id="file-browser" class="section-title">crwdns20468:0crwdne20468:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">crwdns17980:0crwdne17980:0</p>

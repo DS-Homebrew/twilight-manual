@@ -4,7 +4,7 @@ banner: /assets/images/dsi-theme.png
 title: Nintendo DSi téma
 ---
 
-<div class="section-title">Gombvezérlők</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Nintendo DSi téma
     </div>
 </div>
 
-<div class="section-title">Érintésvezérlők</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Nintendo DSi téma
     </div> -->
 </div>
 
-<div class="section-title">Oldal rendszer</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         A Nintendo DSi téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
@@ -78,7 +78,7 @@ title: Nintendo DSi téma
     </p>
 </div>
 
-<div class="section-title">Egyéni felső képernyő kép</div>
+<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>A TWiLight Menu++ támogatja az egyedi képek megjelenítését a felső képernyőn, mint például a hivatalos Nintendo DSi menü. Azonban, ahelyett, hogy a Nintendo DSi Camera alkalmazástól kérné, elhelyezhet egy tetszőleges PNG képet az <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code> könyvtárba</p>
@@ -89,7 +89,7 @@ title: Nintendo DSi téma
     <p>Ha a kép mérete kisebb, mint a maximum, középre lesz igazítva fekete kerettel.</p>
 </div>
 
-<div class="section-title">SELECT menü</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         A SELECT megnyomása a Nintendo DSi témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatja a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.

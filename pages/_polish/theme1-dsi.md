@@ -4,7 +4,7 @@ banner: /assets/images/dsi-theme.png
 title: Motyw Nintendo DSi
 ---
 
-<div class="section-title">Sterowanie przyciskami</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Motyw Nintendo DSi
     </div>
 </div>
 
-<div class="section-title">Reakcje na dotyk</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Motyw Nintendo DSi
     </div> -->
 </div>
 
-<div class="section-title">Strona Systemu</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Motyw Nintendo DSi dzieli elementy na strony maksymalnie 40 elementów na stronę. Możesz nawigować przez strony za pomocą analogów &#xE004; i &#xE005;.
@@ -78,7 +78,7 @@ title: Motyw Nintendo DSi
     </p>
 </div>
 
-<div class="section-title">Niestandardowy obraz górnego ekranu</div>
+<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>TWiLight Menu++ obsługuje wyświetlanie niestandardowych zdjęć na górnym ekranie, podobnie jak oficjalne menu Nintendo DSi. Jednakże, zamiast wyciągać je z aplikacji Nintendo DSi Camera możesz umieścić obrazy PNG w <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/zdjęciach</code></p>
@@ -89,7 +89,7 @@ title: Motyw Nintendo DSi
     <p>Jeśli rozmiar obrazu jest mniejszy niż maksymalny, zostanie on wyśrodkowany czarnymi granicami.</p>
 </div>
 
-<div class="section-title">Menu SELECT</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         Naciśnięcie SELECT w szablonie Nintendo DSi domyślnie przeniesie cie do menu klasycznego DS. Jednak w ustawieniach TWiLight Menu++ możesz je zmienić, aby uruchomić Menu SELECT, miniaturę menu osadzoną wewnątrz samego motywu. Oto opcje menu dla menu SELECT.

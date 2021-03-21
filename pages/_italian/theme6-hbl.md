@@ -4,7 +4,7 @@ banner: /assets/images/hbl-theme.png
 title: Tema Homebrew Launcher
 ---
 
-<div class="section-title">Comandi Pulsanti</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Tema Homebrew Launcher
     </div>
 </div>
 
-<div class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Tema Homebrew Launcher
     </div> -->
 </div>
 
-<div class="section-title">Sistema di Pagina</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Il tema Homebrew Launcher divide gli elementi in pagine con un massimo di 40 elementi per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
@@ -75,7 +75,7 @@ title: Tema Homebrew Launcher
     </p>
 </div>
 
-<div class="section-title">Menu SELECT</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         Premere SELECT nel tema Homebrew Launcher apre il Menu Classico DS per impostazione predefinita. Tuttavia, nelle impostazioni del menu TWiLight ++, è possibile modificarlo per avviare il menu SELECT, un menu in miniatura incorporato all'interno del tema stesso. Ecco le opzioni di menu per il menu SELECT.
@@ -83,7 +83,7 @@ title: Tema Homebrew Launcher
     <ul>
         <li><strong>Home Menu:</strong> Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>
         <li><strong>Impostazioni:</strong> Selezionandolo verrà avviato un menu per attivare/disattivare le impostazioni per TWiLight Menu++ e i suoi launcher</li>
-        <li><strong>Opzioni Cartuccia:</strong> Su un DS originale o DS Lite, è possibile avviare un dispositivo Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1 o su determinate flashcart, scambiare che scheda SD TWiLight Menu++ naviga</li>
-        <li><strong>Manuale</strong>: Questo avvierà il manuale per TWiLight Menu++, quello che stai guardando in questo momento :P</li>
+        <li><strong>Opzioni Cartuccia:</strong> Su un DS originale o DS Lite, è possibile avviare un dispositivo Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1, o su determinate flashcard, scambiare che scheda SD TWiLight Menu++ naviga</li>
+        <li><strong>Manuale</strong>: Questo avvierà il manuale di TWiLight Menu++, quello che stai guardando in questo momento :P</li>
     </ul>
 </div>

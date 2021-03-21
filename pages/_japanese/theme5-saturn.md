@@ -4,7 +4,7 @@ banner: /assets/images/saturn-theme.png
 title: セガサターンテーマ
 ---
 
-<div class="section-title">ボタンコントロール</div>
+<div id="button-controls" class="section-title">ボタンコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: セガサターンテーマ
     </div>
 </div>
 
-<div class="section-title">タッチコントロール</div>
+<div id="touch-controls" class="section-title">タッチコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: セガサターンテーマ
     </div> -->
 </div>
 
-<div class="section-title">ページシステム</div>
+<div id="page-system" class="section-title">ページシステム</div>
 <div class="section-body">
     <p>
         セガサターンテーマは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
@@ -75,7 +75,7 @@ title: セガサターンテーマ
     </p>
 </div>
 
-<div class="section-title">SELECTメニュー</div>
+<div id="select-menu" class="section-title">SELECTメニュー</div>
 <div class="section-body">
     <p>
         セガサターンテーマでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、テーマ自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：

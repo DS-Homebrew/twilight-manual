@@ -4,38 +4,34 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">ついて</div>
+<div id="about" class="section-title">ついて</div>
 <div class="section-body">
     <p>
         nds-bootstrapは、ニンテンドーDSi・3DSのSDカードからDSカートリッジダンプとDSモードhomebrewを読み取りための、TWiLight Menu++で使われるhomebrewアプリケーションです。
     </p>
     <p>
-        また、フラッシュカードためにB4DSというのバージョンがあり、homebrewのみのフラッシュカードや、低い互換性のフラッシュカード向け。
+        フラッシュカードにも使えますが、互換性が低いため、主にhomebrewのみのフラッシュカードや低い互換性のフラッシュカードを対象としています。
     </p>
 </div>
 
-<div class="section-title">互換性</div>
+<div id="compatibility" class="section-title">互換性</div>
 <div class="section-body">
     <p>
         ゲームがnds-bootstrapと互換性があるかどうかを確認するには、互換性リストを確認してください：<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        B4DSと最高な互換性のために、DSメモリー拡張カートリッジを取得するをお勧めます。
+        フラッシュカードで最高な互換性のために、DSメモリー拡張カートリッジを取得するをお勧めます。
     </p>
 </div>
 
-<div class="section-title">コントロール</div>
+<div id="controls" class="section-title">コントロール</div>
 <div class="section-body">
     <p class="mb-0">
-        &#xE004;、&#xE005;、&#xE07A;、&#xE001;を2秒で長押してTWILight Menu++に戻ります。
+        &#xE004;、&#xE07A;、SELECTを押してゲーム内メニューを開きます。
     </p>
     <hr>
     <p class="mb-0">
-        &#xE004;、&#xE005;、START、SELECTを押してゲームをリセットはます。
-    </p>
-    <hr>
-    <p class="mb-0">
-        &#xE004;、&#xE005;、&#xE07A;、&#xE000;を2秒で長押してRAMダンプを作成します。
+        &#xE004;、&#xE005;、START、SELECTを押してゲームをリセットします。
     </p>
     <hr>
     <p class="mb-0">
@@ -43,7 +39,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div class="section-title">チート</div>
+<div id="cheats" class="section-title">チート</div>
 <div class="section-body">
     <p>
         nds-bootstrapは、<code>usrcheat.dat</code>データベースからAction Replayチートを使用できます。これは<code>sd:/_nds/TWiLightMenu/extras</code>に配置するが必要です。 データベースがあると、TWiLight Menu++でゲームのゲームごとの設定メニューからどのチートを使用するかを選択できます。

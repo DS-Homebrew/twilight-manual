@@ -4,7 +4,7 @@ banner: /assets/images/hbl-theme.png
 title: Thème Homebrew Launcher
 ---
 
-<div class="section-title">Contrôles des boutons</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Thème Homebrew Launcher
     </div>
 </div>
 
-<div class="section-title">Contrôles tactiles</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Thème Homebrew Launcher
     </div> -->
 </div>
 
-<div class="section-title">Système de page</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Le thème Homebrew Launcher divise les éléments en pages avec un maximum de 40 éléments par page. Vous pouvez naviguer à travers les pages en utilisant les gâchettes &#xE004; et &#xE005;.
@@ -75,7 +75,7 @@ title: Thème Homebrew Launcher
     </p>
 </div>
 
-<div class="section-title">Menu SELECT</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         Appuyer sur SELECT dans le thème de l'Homebrew Launcher affichera le Menu DS Classic par défaut. Cependant, dans les paramètres du TWiLight Menu++, vous pouvez le modifier pour lancer le menu SELECT, un menu miniature intégré dans le thème lui-même. Voici les options de menu du menu SELECT.

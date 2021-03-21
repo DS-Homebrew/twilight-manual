@@ -4,7 +4,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div class="section-title">メニュー</div>
+<div id="menu" class="section-title">メニュー</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -36,14 +36,14 @@ title: GBARunner2
         <p class="button-action-text">設定を開く</p>
     </div>
 </div>
-<div class="section-title">ゲーム内</div>
+<div id="in-game" class="section-title">ゲーム内</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="タッチ画面をタップ"></p>
         <p class="button-action-text">メニューを開く</p>
     </div>
 </div>
-<div class="section-title">BIOSファイル</div>
+<div id="bios-file" class="section-title">BIOSファイル</div>
 <div class="section-body">
     <p>
         GBARunner2は、公式のGBA BIOSのダンプを使用して互換性を向上させることができます。 ファイル名は<code>bios.bin</code>であるが必要です。SDカードのルート、<code>sd:/gba</code>または<code>sd:/_gba</code>に配置できます。

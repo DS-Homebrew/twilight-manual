@@ -4,7 +4,7 @@ banner: /assets/images/r4-theme.png
 title: Tema R4 yang Asli
 ---
 
-<div class="section-title">Menu Utama</div>
+<div id="main-menu" class="section-title">Main Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
@@ -32,7 +32,7 @@ title: Tema R4 yang Asli
     </div>
 </div>
 
-<div class="section-title">Peramban Berkas</div>
+<div id="file-browser" class="section-title">File Browser</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -41,7 +41,7 @@ title: Tema R4 yang Asli
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gerak ke atas / bawah 10</p>
+        <p class="button-action-text">Gerak ke atas / bawah lewat 10</p>
     </div>
     <hr>
     <div class="button-action-group">

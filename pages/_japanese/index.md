@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: ホーム
 ---
 
-<div class="section-title">ボタンコントロール</div>
+<div id="button-controls" class="section-title">ボタンコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: ホーム
     </div>
 </div>
 
-<div class="section-title">タッチコントロール</div>
+<div id="touch-controls" class="section-title">タッチコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="タッチ画面で上下にスクロール"></p>
@@ -40,7 +40,7 @@ title: ホーム
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++の起動時のショートカット</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++の起動時のショートカット</div>
 <div class="section-body">
     <p>
         &#xE000;、&#xE001;、&#xE002;、&#xE003;を押し続けて、TWiLight Menu++の設定をリセットします。
@@ -55,36 +55,36 @@ title: ホーム
     </p>
 </div>
 
-<div class="section-title">テーマ情報</div>
+<div id="theme-information" class="section-title">テーマ情報</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++には6種類のテーマがある。 これらはすべて異なるデザインのメニューであり、一部は完全に別個なナビゲーションがある。</p>
     <div class="grid-container-3">
         <div class="grid-item">
-            <img src="/assets/images/dsicon.png">
+            <img src="/assets/images/dsi-icon.png">
             <p>
                 <a href="theme1-dsi">ニンテンドーDSi</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/3dsicon.png">
+            <img src="/assets/images/3ds-icon.png">
             <p>
                 <a href="theme2-3ds">ニンテンドー3DS</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/hblicon.png">
+            <img src="/assets/images/hbl-icon.png">
             <p>
                 <a href="theme6-hbl">Homebrew Launcher</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/akicon.png">
+            <img src="/assets/images/ak-icon.png">
             <p>
                 <a href="theme4-acekard">Wood UI</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/r4icon.png">
+            <img src="/assets/images/r4-icon.png">
             <p>
                 <a href="theme3-r4">オリジナルR4</a>
             </p>
@@ -98,18 +98,18 @@ title: ホーム
     </div>
 </div>
 
-<div class="section-title">ゲームローダー</div>
+<div id="game-loaders" class="section-title">ゲームローダー</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++は、名前が示すようにメニューだけ。 ROM自体を起動しません。 ここには各ROMローダーの説明書がある。</p>
     <div class="grid-container-2">
         <div class="grid-item">
-            <img src="/assets/images/ndsbicon.png">
+            <img src="/assets/images/ndsb-icon.png">
             <p>
                 <a href="nds-bootstrap">nds-bootstrap</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/gbaicon.png">
+            <img src="/assets/images/gba-icon.png">
             <p>
                 <a href="gbarunner2">GBARunner2</a>
             </p>
@@ -117,17 +117,23 @@ title: ホーム
     </div>
 </div>
 
-<div class="section-title">その他の情報</div>
+<div id="other-information" class="section-title">その他の情報</div>
 <div class="section-body">
-    <div class="grid-container-2 mb-2">
+    <div class="grid-container-3 mb-2">
         <div class="grid-item">
-            <img src="/assets/images/chaticon.png">
+            <img src="/assets/images/ds-icon.png">
+            <p>
+                <a href="ds-classic-menu">DSクラシックメニュー</a>
+            </p>
+        </div>
+        <div class="grid-item">
+            <img src="/assets/images/chat-icon.png">
             <p>
                 <a href="chat">チャット</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/settingsicon.png">
+            <img src="/assets/images/settings-icon.png">
             <p>
                 <a href="settings">設定</a>
             </p>

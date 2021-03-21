@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">Om</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
     <p>
         nds-bootstrap er en homebrew-app, der bruges af TWiLight Menu++ til at køre dumps af spilkassetter og DS-homebrew fra DSi/3DS-konsollens SD-kort.
     </p>
     <p>
-        Der er også en version til flashcarts ved navn B4DS, tiltænkt flashcarts kun lavet til homebrew eller med lav kompatibilitet.
+        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div class="section-title">Kompatibilitet</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
     <p>
         For at se om et spil er kompatibelt med nds-bootstrap, kan du tjekke kompatibilitetslisten: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For bedst kompatibilitet med B4DS, forslår vi at skaffe en "DS Memory Expansion Pak".
+        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
     </p>
 </div>
 
-<div class="section-title">Styring</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE001; i 2 sekunder for at vende tilbage til TWiLight Menu++.
+        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,15 +35,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE000; nede i 2 sekunder for at lave et RAM-dump.
-    </p>
-    <hr>
-    <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002; og &#xE079; nede i et sekund for at bytte om på skærmene.
+        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 
-<div class="section-title">Snydekoder</div>
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
         nds-bootstrap kan anvende Action Replay-koder via en <code>usrcheat.dat</code>-database, der kan placeres i <code>sd:/_nds/TWiLightMenu/extras</code>. Når databasen er fundet, kan du vælge, hvilke snydekoder der skal bruges fra menuen til indstillinger for et spil i TWiLight Menu++.

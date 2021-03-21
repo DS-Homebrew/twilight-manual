@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div class="section-title">Tentang</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
     <p>
         nds-bootstrap adalah aplikasi homebrew yang digunakan TWiLight Menu++ untuk memuat dump kartu DS dan juga homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Ada juga untuk flashcard namanya B4DS, ditujukan untuk flashcard hanya-homebrew dan flashcard dengan kesesuaian rendah.
+        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div class="section-title">Kesesuaian/Compatibility</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
     <p>
         Untuk melihat apa permainannya sesuai (compatible) di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        Untuk kesesuaian yang lebih baik di B4DS, kami sarankan dapatkan DS Memory Expansion Pak (Penambah RAM).
+        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
     </p>
 </div>
 
-<div class="section-title">Kendali</div>
+<div id="controls" class="section-title">Controls</div>
 <div class="section-body">
     <p class="mb-0">
-        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik agar kembali ke TWiLight Menu++.
+        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,15 +35,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE000; selama 2 detik agar dump RAM dibuat.
-    </p>
-    <hr>
-    <p class="mb-0">
-        Tahan &#xE004;, &#xE005;, &#xE002;, dan &#xE079; selama 1 detik agar layarnya pindah.
+        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 
-<div class="section-title">Curangan/Cheat</div>
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
         nds-bootstrap dapat menggunakan curangan Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, dan harus ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
@@ -57,6 +53,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih goyah (unstable), sehingga kodemu bisa jalan bisa tidak. Ini bukan karena pangkalan data curangannya, dan kami berharap akan memperbaiki masalah ini di nds-bootstrap.
+        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih goyah (unstable), sehingga kodemu bisa jalan bisa tidak. <br>Ini bukan karena pangkalan data curangannya, dan kami berharap untuk memperbaiki masalah ini di nds-bootstrap.
     </p>
 </div>

@@ -4,7 +4,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div class="section-title">메뉴</div>
+<div id="menu" class="section-title">Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -36,14 +36,14 @@ title: GBARunner2
         <p class="button-action-text">설정 열기</p>
     </div>
 </div>
-<div class="section-title">인게임</div>
+<div id="in-game" class="section-title">In-Game</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="터치 스크린을 누르세요"></p>
         <p class="button-action-text">메뉴 열기</p>
     </div>
 </div>
-<div class="section-title">BIOS 파일</div>
+<div id="bios-file" class="section-title">BIOS File</div>
 <div class="section-body">
     <p>
         GBARunner2는 호환성 향상을 위해 덤프된 공식 GBA BIOS를 사용할 수 있습니다. 파일 이름은 <code>bios.bin</code> 이어야 하며 SD card의 최상단에 위치해야 합니다: <code>sd:/gba</code> 혹은 <code>sd:/_gba</code>.

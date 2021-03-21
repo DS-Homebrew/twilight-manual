@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Wood UI-tema
 ---
 
-<div class="section-title">Midlertidigt utilgængeligt</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
         Dette tema er midlertidigt utilgængeligt, da det kan beskadige filerne på SD-kortet. At bringe det tilbage igen vil kræve at en ny driver til SD-kortlæseren bliver skrevet, hvilket er en del arbejde og kommer til at tage noget tid.
@@ -14,7 +14,7 @@ title: Wood UI-tema
     </p>
 </div>
 
-<div class="section-title">Knapfunktioner</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Wood UI-tema
     </div>
 </div>
 
-<div class="section-title">Touch-funktioner</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

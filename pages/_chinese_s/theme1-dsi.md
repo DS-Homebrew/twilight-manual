@@ -4,7 +4,7 @@ banner: /assets/images/dsi-theme.png
 title: Nintendo DSi 主题
 ---
 
-<div class="section-title">操作方式</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Nintendo DSi 主题
     </div>
 </div>
 
-<div class="section-title">触摸控制方法</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Nintendo DSi 主题
     </div> -->
 </div>
 
-<div class="section-title">翻页系统</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Nintendo DSi 主题将条目分割成页面，每页最多40项。 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
@@ -78,7 +78,7 @@ title: Nintendo DSi 主题
     </p>
 </div>
 
-<div class="section-title">自定义上屏幕壁纸</div>
+<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>如同Nintendo DSi的系统界面，TWiLight Menu++ 支持在上屏幕中显示自定义的图像。 并且，不仅是Nintendo DSi趣照内的照片，您可以在本软件中随意设置PNG图像文件。以下为放置目录：
@@ -90,7 +90,7 @@ title: Nintendo DSi 主题
     <p>如果图像大小小于最大分辨率，将会使用黑框镶嵌显示。</p>
 </div>
 
-<div class="section-title">SELECT菜单</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         默认状态下，在Nintendo DSi菜单按下SELECT键将会进入DS Classic菜单。 但是，如果您在TWiLight Menu++设置中将此项目设定为"SELECT菜单"，按下SELECT键后将会显示一个小型菜单。 以下为SELECT菜单内选项的说明。

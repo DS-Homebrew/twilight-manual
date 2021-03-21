@@ -4,7 +4,7 @@ banner: /assets/images/r4-theme.png
 title: R4原生
 ---
 
-<div class="section-title">主菜单</div>
+<div id="main-menu" class="section-title">Main Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
@@ -32,7 +32,7 @@ title: R4原生
     </div>
 </div>
 
-<div class="section-title">文件浏览器</div>
+<div id="file-browser" class="section-title">File Browser</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

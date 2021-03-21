@@ -4,7 +4,7 @@ banner: crwdns17482:0crwdne17482:0
 title: crwdns17484:0crwdne17484:0
 ---
 
-<div class="section-title">crwdns17486:0crwdne17486:0</div>
+<div id="button-controls" class="section-title">crwdns20434:0crwdne20434:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">crwdns17488:0crwdne17488:0</p>
@@ -42,7 +42,7 @@ title: crwdns17484:0crwdne17484:0
     </div>
 </div>
 
-<div class="section-title">crwdns17516:0crwdne17516:0</div>
+<div id="touch-controls" class="section-title">crwdns20436:0crwdne20436:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="crwdns17518:0crwdne17518:0"></p>
@@ -61,7 +61,7 @@ title: crwdns17484:0crwdne17484:0
     </div> -->
 </div>
 
-<div class="section-title">crwdns17526:0crwdne17526:0</div>
+<div id="page-system" class="section-title">crwdns20438:0crwdne20438:0</div>
 <div class="section-body">
     <p>
         crwdns17528:0crwdne17528:0 crwdns17530:0crwdne17530:0
@@ -78,7 +78,7 @@ title: crwdns17484:0crwdne17484:0
     </p>
 </div>
 
-<div class="section-title">crwdns17540:0crwdne17540:0</div>
+<div id="custom-top-screen-image" class="section-title">crwdns20440:0crwdne20440:0</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="crwdns17542:0crwdne17542:0"></div>
     <p>crwdns17544:0crwdne17544:0 crwdns17546:0crwdne17546:0</p>
@@ -89,7 +89,7 @@ title: crwdns17484:0crwdne17484:0
     <p>crwdns19448:0crwdne19448:0</p>
 </div>
 
-<div class="section-title">crwdns17554:0crwdne17554:0</div>
+<div id="select-menu" class="section-title">crwdns20442:0crwdne20442:0</div>
 <div class="section-body">
     <p>
         crwdns17556:0crwdne17556:0 crwdns17558:0crwdne17558:0 crwdns17560:0crwdne17560:0

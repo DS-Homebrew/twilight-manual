@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Wood UI
 ---
 
-<div class="section-title">暂时不可用</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
         由于发生SD卡适配性问题，该主题暂时禁用。 将其带回需要一个新的 SD 卡驱动器，这需要很多时间和精力。
@@ -14,7 +14,7 @@ title: Wood UI
     </p>
 </div>
 
-<div class="section-title">操作方式</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Wood UI
     </div>
 </div>
 
-<div class="section-title">触摸控制方法</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

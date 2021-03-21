@@ -4,17 +4,17 @@ banner: /assets/images/theme4-acekard.png
 title: Tema Wood IU
 ---
 
-<div class="section-title">Disabilitato temporaneamente</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
-        Questo tema è stato temporaneamente disabilitato, a causa della corruzione della scheda SD. Rimetterlo richiede di fare un nuovo driver della scheda SD, che richiede molto tempo e sforzo.
+        Questo tema è stato temporaneamente disabilitato, a causa della corruzione della scheda SD. Rimetterlo richiederebbe di rifare un nuovo driver della scheda SD, che richiede molto tempo e sforzo.
     </p>
     <p>
-        Si prega di essere paziente; potrebbe non esserci di nuovo per un po'.
+        Si prega di essere pazienti; potrebbe non esserci di nuovo per un po'.
     </p>
 </div>
 
-<div class="section-title">Comandi Pulsanti</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Tema Wood IU
     </div>
 </div>
 
-<div class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

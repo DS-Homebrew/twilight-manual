@@ -4,7 +4,7 @@ banner: /assets/images/settings.png
 title: Inställningar
 ---
 
-<div class="section-title">Kontroller</div>
+<div id="conrols" class="section-title">Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -37,32 +37,32 @@ title: Inställningar
     </div>
 </div>
 
-<div class="section-title">GUI-inställningar</div>
+<div id="gui-settings" class="section-title">GUI settings</div>
 <div class="section-body">
     <p>På den här sidan kan du välja vilket tema som ska användas och andra alternativ som påverkar utseendet på TWiLight Menu++.</p>
 </div>
 
-<div class="section-title">Emulations/HB inställningar</div>
+<div id="emulation-hb-settings" class="section-title">Emulation/HB settings</div>
 <div class="section-body">
     <p>Här kan du välja vilka plattformar som ska visas och vilken emulator som ska användas.</p>
 </div>
 
-<div class="section-title">GBARunner2 inställningar</div>
+<div id="gbarunner2-settings" class="section-title">GBARunner2 settings</div>
 <div class="section-body">
     <p>Med dessa inställningar kan du välja hur spel visas och för att köra snabbare eller ha bättre kompatibilitet.</p>
 </div>
 
-<div class="section-title">Spel & App inställningar</div>
+<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
 <div class="section-body">
     <p>Dessa är de allmänna inställningarna för hur spel ska köras. Många av dessa varierar beroende på hur du kör TWiLight Menu++, till exempel om du ska använda din minneskort-kärna eller nds-bootstrap.</p>
 </div>
 
-<div class="section-title">Övriga inställningar</div>
+<div id="misc-settings" class="section-title">Misc. settings</div>
 <div class="section-body">
     <p>Det är här alla inställningar som inte passar dom andra kategorierna går, till exempel vilket språk som ska användas, om du vill starta upp det senaste spelet du kört automatiskt och om du ska visa startskärmen vid uppstart, bland annat.</p>
 </div>
 
-<div class="section-title">Unlaunch inställningar</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
 <div class="section-body">
     <p>Inställningarna här låter dig ändra hur Unlaunch fungerar genom att patcha Unlaunch installationsprogrammet så att du måste installera om det för att dessa inställningar ska påverkas.</p>
     <p>Denna sida visas endast på Nintendo DSi konsoler när den inte startas upp från ett minneskort. Minneskort och 3DS användare kommer inte se denna sida.</p>

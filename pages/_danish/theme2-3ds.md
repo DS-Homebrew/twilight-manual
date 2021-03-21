@@ -4,7 +4,7 @@ banner: /assets/images/3ds-theme.png
 title: Nintendo 3DS-tema
 ---
 
-<div class="section-title">Knapfunktioner</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Nintendo 3DS-tema
     </div>
 </div>
 
-<div class="section-title">Touch-funktioner</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Nintendo 3DS-tema
     </div> -->
 </div>
 
-<div class="section-title">Sidesystemet</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Nintendo 3DS-temaet opdeler elementer i sider med højst 40 elementer pr. side. Du kan navigere gennem siderne ved at trykke på &#xE004;- og &#xE005;-knapperne.

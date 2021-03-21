@@ -4,7 +4,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div class="section-title">Menu</div>
+<div id="menu" class="section-title">Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -36,14 +36,14 @@ title: GBARunner2
         <p class="button-action-text">Åbn indstillinger</p>
     </div>
 </div>
-<div class="section-title">In-Game</div>
+<div id="in-game" class="section-title">In-Game</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Tryk på skærmen"></p>
         <p class="button-action-text">Åbn menu</p>
     </div>
 </div>
-<div class="section-title">BIOS-fil</div>
+<div id="bios-file" class="section-title">BIOS File</div>
 <div class="section-body">
     <p>
         GBARunner2 kan bruge et dump af det officielle GBA-BIOS for at forbedre kompatibiliteten. Filen skal navngives <code>bios.bin</code> og kan være i roden af SD-kortet, <code>sd:/gba</code> eller <code>sd:/_gba</code>.

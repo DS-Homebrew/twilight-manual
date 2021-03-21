@@ -4,7 +4,7 @@ banner: /assets/images/hbl-theme.png
 title: 启动 Homebrew Launcher (通过频道)
 ---
 
-<div class="section-title">操作方式</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: 启动 Homebrew Launcher (通过频道)
     </div>
 </div>
 
-<div class="section-title">触摸控制方法</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: 启动 Homebrew Launcher (通过频道)
     </div> -->
 </div>
 
-<div class="section-title">翻页系统</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         Nintendo DSi 主题将条目分割成页面，每页最多40项。 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
@@ -75,7 +75,7 @@ title: 启动 Homebrew Launcher (通过频道)
     </p>
 </div>
 
-<div class="section-title">SELECT菜单</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         按Select键启动时会默认使用DS经典菜单。 但是，如果您在TWiLight Menu++设置中将此项目设定为"SELECT菜单"，按下SELECT键后将会显示一个小型菜单。 以下为SELECT菜单内选项的说明。

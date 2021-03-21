@@ -4,7 +4,7 @@ banner: /assets/images/theme4-acekard.png
 title: Fa UI téma
 ---
 
-<div class="section-title">Ideiglenesen letiltva</div>
+<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
 <div class="section-body">
     <p>
         Ez a téma átmenetileg tiltásra került az SD kártya korrupció miatt. A visszahozása új SD kártya driver készítését igényli, ami sok időbe és erőforrásba kerül.
@@ -14,7 +14,7 @@ title: Fa UI téma
     </p>
 </div>
 
-<div class="section-title">Gomb vezérlő</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -52,7 +52,7 @@ title: Fa UI téma
     </div>
 </div>
 
-<div class="section-title">Érintés vezérlő</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

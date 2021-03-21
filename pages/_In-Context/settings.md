@@ -4,7 +4,7 @@ banner: crwdns17992:0crwdne17992:0
 title: crwdns17998:0crwdne17998:0
 ---
 
-<div class="section-title">crwdns18004:0crwdne18004:0</div>
+<div id="conrols" class="section-title">crwdns20418:0crwdne20418:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">crwdns18008:0crwdne18008:0</p>
@@ -37,32 +37,32 @@ title: crwdns17998:0crwdne17998:0
     </div>
 </div>
 
-<div class="section-title">crwdns18040:0crwdne18040:0</div>
+<div id="gui-settings" class="section-title">crwdns20420:0crwdne20420:0</div>
 <div class="section-body">
     <p>crwdns18042:0crwdne18042:0</p>
 </div>
 
-<div class="section-title">crwdns18044:0crwdne18044:0</div>
+<div id="emulation-hb-settings" class="section-title">crwdns20422:0crwdne20422:0</div>
 <div class="section-body">
     <p>crwdns18046:0crwdne18046:0</p>
 </div>
 
-<div class="section-title">crwdns18054:0crwdne18054:0</div>
+<div id="gbarunner2-settings" class="section-title">crwdns20424:0crwdne20424:0</div>
 <div class="section-body">
     <p>crwdns18060:0crwdne18060:0</p>
 </div>
 
-<div class="section-title">crwdns18066:0crwdne18066:0</div>
+<div id="games-and-apps-settings" class="section-title">crwdns20426:0crwdne20426:0</div>
 <div class="section-body">
     <p>crwdns18072:0crwdne18072:0 crwdns18078:0crwdne18078:0</p>
 </div>
 
-<div class="section-title">crwdns18090:0crwdne18090:0 crwdns18096:0crwdne18096:0</div>
+<div id="misc-settings" class="section-title">crwdns20428:0crwdne20428:0 crwdns20430:0crwdne20430:0</div>
 <div class="section-body">
     <p>crwdns18100:0crwdne18100:0</p>
 </div>
 
-<div class="section-title">crwdns18106:0crwdne18106:0</div>
+<div id="unlaunch-settings" class="section-title">crwdns20432:0crwdne20432:0</div>
 <div class="section-body">
     <p>crwdns18112:0crwdne18112:0</p>
     <p>crwdns18118:0crwdne18118:0 crwdns18120:0crwdne18120:0</p>

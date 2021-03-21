@@ -4,7 +4,7 @@ banner: crwdns17574:0crwdne17574:0
 title: crwdns17576:0crwdne17576:0
 ---
 
-<div class="section-title">crwdns17578:0crwdne17578:0</div>
+<div id="temporarily-disabled" class="section-title">crwdns20494:0crwdne20494:0</div>
 <div class="section-body">
     <p>
         crwdns17580:0crwdne17580:0 crwdns17582:0crwdne17582:0
@@ -14,7 +14,7 @@ title: crwdns17576:0crwdne17576:0
     </p>
 </div>
 
-<div class="section-title">crwdns17586:0crwdne17586:0</div>
+<div id="button-controls" class="section-title">crwdns20496:0crwdne20496:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">crwdns18200:0crwdne18200:0</p>
@@ -52,7 +52,7 @@ title: crwdns17576:0crwdne17576:0
     </div>
 </div>
 
-<div class="section-title">crwdns17602:0crwdne17602:0</div>
+<div id="touch-controls" class="section-title">crwdns20498:0crwdne20498:0</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="crwdns18228:0crwdne18228:0"></p>

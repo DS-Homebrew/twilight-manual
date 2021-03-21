@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Strona główna
 ---
 
-<div class="section-title">Sterowanie przyciskami</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Strona główna
     </div>
 </div>
 
-<div class="section-title">Reakcje na dotyk</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Przewiń w górę / w dół na ekranie dotykowym"></p>
@@ -40,7 +40,7 @@ title: Strona główna
     </div>
 </div>
 
-<div class="section-title">TWiLight Menu++ skróty startowe</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
 <div class="section-body">
     <p>
         Trzymaj &#xE000;, &#xE001;, &#xE002; i &#xE003; aby zrezestować ustawienia TWiLight Menu++.
@@ -55,36 +55,36 @@ title: Strona główna
     </p>
 </div>
 
-<div class="section-title">Informacje o motywach</div>
+<div id="theme-information" class="section-title">Theme Information</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ ma 6 różnych motywów, które możesz wybrać. To są alternatywne menu, każdy z nich ma inny wygląd, a niektóre kompletnie inny styl nawigacji.</p>
     <div class="grid-container-3">
         <div class="grid-item">
-            <img src="/assets/images/dsicon.png">
+            <img src="/assets/images/dsi-icon.png">
             <p>
                 <a href="theme1-dsi">Nintendo DSi</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/3dsicon.png">
+            <img src="/assets/images/3ds-icon.png">
             <p>
                 <a href="theme2-3ds">Nintendo 3DS</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/hblicon.png">
+            <img src="/assets/images/hbl-icon.png">
             <p>
                 <a href="theme6-hbl">Homebrew Launcher</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/akicon.png">
+            <img src="/assets/images/ak-icon.png">
             <p>
                 <a href="theme4-acekard">Wood UI</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/r4icon.png">
+            <img src="/assets/images/r4-icon.png">
             <p>
                 <a href="theme3-r4">Oygginalny R4</a>
             </p>
@@ -98,18 +98,18 @@ title: Strona główna
     </div>
 </div>
 
-<div class="section-title">Loadery gier</div>
+<div id="game-loaders" class="section-title">Game Loaders</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, jak nazwa wskazuje, jest tylko menu. Samo z siebie nie ładuje ono ROMów. Tutaj są strony instrukcji dla loaderów ROMów:</p>
     <div class="grid-container-2">
         <div class="grid-item">
-            <img src="/assets/images/ndsbicon.png">
+            <img src="/assets/images/ndsb-icon.png">
             <p>
                 <a href="nds-bootstrap">nds-bootstrap</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/gbaicon.png">
+            <img src="/assets/images/gba-icon.png">
             <p>
                 <a href="gbarunner2">GBARunner2</a>
             </p>
@@ -117,19 +117,25 @@ title: Strona główna
     </div>
 </div>
 
-<div class="section-title">Inne informacje</div>
+<div id="other-information" class="section-title">Other Information</div>
 <div class="section-body">
-    <div class="grid-container-2 mb-2">
+    <div class="grid-container-3 mb-2">
         <div class="grid-item">
-            <img src="/assets/images/chaticon.png">
+            <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="chat">Czat</a>
+                <a href="ds-classic-menu">DS Classic Menu</a>
             </p>
         </div>
         <div class="grid-item">
-            <img src="/assets/images/settingsicon.png">
+            <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="settings">Ustawienia</a>
+                <a href="chat">Chat</a>
+            </p>
+        </div>
+        <div class="grid-item">
+            <img src="/assets/images/settings-icon.png">
+            <p>
+                <a href="settings">Settings</a>
             </p>
         </div>
     </div>

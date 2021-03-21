@@ -4,7 +4,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div class="section-title">Menu</div>
+<div id="menu" class="section-title">Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -36,14 +36,14 @@ title: GBARunner2
         <p class="button-action-text">Abrir Definições</p>
     </div>
 </div>
-<div class="section-title">In-Game</div>
+<div id="in-game" class="section-title">In-Game</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Toque no ecrã táctil"></p>
         <p class="button-action-text">Abrir menu</p>
     </div>
 </div>
-<div class="section-title">Ficheiro BIOS</div>
+<div id="bios-file" class="section-title">BIOS File</div>
 <div class="section-body">
     <p>
         O GBARunner2 pode usar um dump da BIOS oficial do GBA para melhorar a compatibilidade. O ficheiro deve ter o nome <code>bios.bin</code> e pode ser colocado na pasta raíz do cartão SD, <code>sd:/gba</code> ou <code>sd:/_gba</code>.

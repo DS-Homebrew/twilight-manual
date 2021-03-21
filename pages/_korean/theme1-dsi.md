@@ -4,7 +4,7 @@ banner: /assets/images/dsi-theme.png
 title: 닌텐도 DSi 테마
 ---
 
-<div class="section-title">버튼 조작</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: 닌텐도 DSi 테마
     </div>
 </div>
 
-<div class="section-title">터치 조작</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: 닌텐도 DSi 테마
     </div> -->
 </div>
 
-<div class="section-title">페이지 시스템</div>
+<div id="page-system" class="section-title">Page System</div>
 <div class="section-body">
     <p>
         닌텐도 DSi 테마는 한 페이지당 최대 40개로 항목을 분할합니다. &#xE004; 와 &#xE005; 트리거를 이용해서 페이지를 탐색할 수 있습니다.
@@ -78,7 +78,7 @@ title: 닌텐도 DSi 테마
     </p>
 </div>
 
-<div class="section-title">사용자 지정 상단 화면 이미지</div>
+<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>TWiLight Menu++는 닌텐도 DSi 공식 메뉴에서 상단 화면에 사용자 지정 사진을 띄우는것을 지원합니다. 하지만, DSi 카메라 애플리케이션에서 꺼내오고 싶지않으면, <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code>에 PNG 파일을 놓으세요.</p>
@@ -89,7 +89,7 @@ title: 닌텐도 DSi 테마
     <p>이미지가 최대 크기보다 작다면, 검정 테두리를 만든 채로 가운데 정렬시킵니다.</p>
 </div>
 
-<div class="section-title">SELECT 메뉴</div>
+<div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
         닌텐도 DSi 테마에서 SELECT 버튼을 누르면, 기본적으로 DS 클래식 메뉴가 나옵니다. 하지만, TWiLight Menu++ 설정에서는 테마 자체에 내장된 메뉴인 SELECT Menu를 실행하도록 변경할 수 있습니다. SELECT 메뉴에 대한 옵션은 다음과 같습니다.
