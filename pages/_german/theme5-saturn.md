@@ -4,7 +4,7 @@ banner: /assets/images/saturn-theme.png
 title: SEGA Saturn Theme
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tasten-Steuerung</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: SEGA Saturn Theme
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Touch-Steuerung</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: SEGA Saturn Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Seitensystem</div>
 <div class="section-body">
     <p>
         Das SEGA Saturn-Theme teilt Elemente in Seiten mit maximal 40 Elementen pro Seite auf. Du kannst mit den &#xE004; und &#xE005; Triggern durch die Seiten navigieren.
@@ -75,7 +75,7 @@ title: SEGA Saturn Theme
     </p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">SELECT-Menü</div>
 <div class="section-body">
     <p>
         Das Drücken von SELECT im SEGA Saturn-Thema öffnet standardmäßig das Klassische DS-Menü. In den TWiLight Menu++ Einstellungen kannst du es jedoch so ändern, dass es das SELECT-Menü öffnet, ein Miniaturmenü, das im Thema selbst eingebettet ist. Hier sind die Menüoptionen für das SELECT-Menü.

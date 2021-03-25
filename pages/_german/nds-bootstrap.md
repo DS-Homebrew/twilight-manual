@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">About</div>
+<div id="about" class="section-title">Über</div>
 <div class="section-body">
     <p>
         nds-bootstrap ist ein Nintendo DSi Homebrew, das von TWiLight Menu++ benutzt wird, um DS Cartridge Dumps und Nintendo DS-Modus-Homebrew von der Nintendo DSi/Nintendo 3DS SD-Karte zu starten.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Es kann auch auf Flashkarten verwendet werden, aber die Kompatibilität auf Flashkarten ist niedriger und ist daher hauptsächlich für nur-Homebrew-Flashkarten und Flashkarten mit geringer Kompatibilität gedacht.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Kompatibilität</div>
 <div class="section-body">
     <p>
         Um zu sehen ob ein Spiel mit nds-bootstrap kompatibel ist, überprüfe die Kompatibilitätsliste:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        Für die beste Kompatibilität mit Flashkarten empfehlen wir ein DS Memory Expansion Pak.
     </p>
 </div>
 
-<div id="controls" class="section-title">Controls</div>
+<div id="controls" class="section-title">Steuerung</div>
 <div class="section-body">
     <p class="mb-0">
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        Drücke &#xE004;, &#xE07A;, und SELECT, um das Ingame-Menü zu öffnen.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,7 +35,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Halte &#xE004;, &#xE005;, &#xE002;, und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
     </p>
 </div>
 

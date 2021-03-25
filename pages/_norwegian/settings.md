@@ -1,48 +1,48 @@
 ---
 layout: manual-page
 banner: /assets/images/settings.png
-title: Settings
+title: Innstillinger
 ---
 
-<div id="conrols" class="section-title">Controls</div>
+<div id="conrols" class="section-title">Styring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Forrige / neste alternativ</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">Endre verdi</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">Endrer verdi<br>Skriv inn undermeny</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">Gå ut av innstillinger</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">Forrige side</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">Neste side</p>
     </div>
 </div>
 
-<div id="gui-settings" class="section-title">GUI settings</div>
+<div id="gui-settings" class="section-title">GUI innstillinger</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>På denne siden kan du velge hvilket tema du vil bruke og andre alternativer som påvirker utseendet på TWiLight-menu++.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Emulation/HB settings</div>
+<div id="emulation-hb-settings" class="section-title">Emulasjon/HB innstillinger</div>
 <div class="section-body">
     <p>Here you can select which platforms to show and which emulator should be used.</p>
 </div>

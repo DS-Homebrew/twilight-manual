@@ -4,30 +4,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">About</div>
+<div id="about" class="section-title">Acerca de</div>
 <div class="section-body">
     <p>
         O nds-bootstrap é uma aplicação homebrew usado pelo TWiLight Menu++ para carregar dumps de Game Cards e homebrew no modo DS através de um Cartão SD nos sistemas Nintendo DSi / 3DS.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Também pode ser usado em flashcards, no entanto, a compatibilidade com flashcards é pouca, por isso, só se é designado para flashcards para Homebrew, ou flashcards com pouca compatibilidade.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Compatibilidade</div>
 <div class="section-body">
     <p>
         Para ver se o teu jogo é compatível com o nds-bootstrap, visite o website e veja se o teu jogo é compatível em:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        Para melhor compatibilidade com o B4DS, recomendamos que compre/use um DS Memory Expansion Pak. (só para Nintendo DS Original ou DS Lite)
     </p>
 </div>
 
-<div id="controls" class="section-title">Controls</div>
+<div id="controls" class="section-title">Controlos</div>
 <div class="section-body">
     <p class="mb-0">
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu in-game.
     </p>
     <hr>
     <p class="mb-0">
@@ -35,7 +35,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Mantenha premido os botões &#xE004;, &#xE005;, &#xE002;, e &#xE079; por 1 segundo para trocar ecrãs.
     </p>
 </div>
 

@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Início
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Controlos de Botão</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Início
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Controlos por toque</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Deslize para cima/baixo no ecrã táctil"></p>
@@ -40,7 +40,7 @@ title: Início
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Atalhos de arranque TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Mantenha premido &#xE000;, &#xE001;, &#xE002;, e &#xE003; para reiniciar as definições do TWiLight Menu++.
@@ -55,7 +55,7 @@ title: Início
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Informações sobre os temas</div>
 <div class="section-body">
     <p class="mb-2">O TWiLight Menu++ tem 6 temas diferentes à escolha. Estes são menus alternativos com diferentes estilos de visualização, alguns tendo estilos de navegação completamente separados.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Início
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Iniciadores de Jogos</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, como o nome indica, é apenas um menu. E não inicia ROMs sozinho. Aqui estão as páginas do manual para os iniciadores de ROMs:</p>
     <div class="grid-container-2">
@@ -117,25 +117,25 @@ title: Início
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Outras informações</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Menu DS Clássico</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Conversa</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Definições</a>
             </p>
         </div>
     </div>

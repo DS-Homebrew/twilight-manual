@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Kezdőlap
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Gombvezérlés</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Kezdőlap
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Érintésvezérlés</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Görgessen fel / le az érintőképernyőn"></p>
@@ -40,7 +40,7 @@ title: Kezdőlap
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot gyorsindítók</div>
 <div class="section-body">
     <p>
         Tartsa lenyomva az &#xE000;, &#xE001;, &#xE002; és &#xE003; gombot a TWiLight Menu ++ beállításainak visszaállításához.
@@ -55,7 +55,7 @@ title: Kezdőlap
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Téma információ</div>
 <div class="section-body">
     <p class="mb-2">A TWiLight Menu++ 6 különböző választható témával rendelkezik. Ezek alternatív menük, amik más-más dizájnnal rendelkeznek, néhány egészen más navigálási stílussal rendelkezik.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Kezdőlap
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Játék betöltők</div>
 <div class="section-body">
     <p class="mb-2">A TWiLight Menu++, ahogy a nevében is van, csak egy menü. Valójában nem tölti be a ROM-ot magában. Itt találhatók az útmutató oldalak a ROM betöltőkhöz:</p>
     <div class="grid-container-2">
@@ -117,13 +117,13 @@ title: Kezdőlap
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Egyéb információk</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">DS Classic menü</a>
             </p>
         </div>
         <div class="grid-item">
@@ -135,7 +135,7 @@ title: Kezdőlap
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Beállítások</a>
             </p>
         </div>
     </div>

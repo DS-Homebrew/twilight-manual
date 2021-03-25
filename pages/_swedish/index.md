@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Hem
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Knappstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Hem
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Touchstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Rulla upp/ner på pekskärmen"></p>
@@ -40,7 +40,7 @@ title: Hem
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Genvägar för uppstart</div>
 <div class="section-body">
     <p>
         Håll &#xE000;, &#xE001;, &#xE002;, och &#xE003; för att återställa TWiLight Menu+ + inställningar.
@@ -55,7 +55,7 @@ title: Hem
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Temainformation</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ har 6 olika teman du kan välja från. Dessa är alternativa menyer som alla har olika designer, och några av dem har helt separata navigationsstilar.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Hem
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Spelladdare</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, som namnet antyder, är bara en meny. Den laddar faktiskt inte ROMs av sig själv. Här finns de manuella sidorna för ROM-laddare:</p>
     <div class="grid-container-2">
@@ -117,25 +117,25 @@ title: Hem
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Övrig information</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">DS Classic Meny</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Chatt</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Inställningar</a>
             </p>
         </div>
     </div>

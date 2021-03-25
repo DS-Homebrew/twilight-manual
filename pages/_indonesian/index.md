@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Beranda
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tombol Kendali</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Beranda
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Kendali Sentuh</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Gulir ke atas/bawah pada layar sentuh"></p>
@@ -40,7 +40,7 @@ title: Beranda
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Pintasan Penjalan TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Tahan &#xE000;, &#xE001;, &#xE002;, dan &#xE003; untuk mengatur ulang (reset) Pengaturan TWiLight Menu++.
@@ -55,7 +55,7 @@ title: Beranda
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Informasi Tema</div>
 <div class="section-body">
     <p class="mb-2">Di TWiLight Menu++ terdapat 6 tema berbeda yang dapat dipilih. Semua tampilan menu di sini mempunyai bentuk yang beragam, bahkan ada tema yang gaya navigasinya sangat berbeda.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Beranda
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Pemuat (Loader) Permainan</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, seperti namanya, hanyalah menu. Jadi BUKAN yang memainkan atau memuat ROM. Berikut halaman manual untuk pemuat ROM-nya:</p>
     <div class="grid-container-2">
@@ -117,29 +117,29 @@ title: Beranda
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Informasi lainnya</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Menu DS Klasik</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Obrolan</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Pengaturan</a>
             </p>
         </div>
     </div>
     <p>
-        Ingin cari informasi lebih tentang TWiLight Menu++? Coba periksa Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Ingin cari informasi lebih tentang TWiLight Menu++? Coba periksa di Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

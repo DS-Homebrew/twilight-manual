@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Inicio
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Botones</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Inicio
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Controles Táctiles</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Desplazarse arriba/abajo en la pantalla táctil"></p>
@@ -40,7 +40,7 @@ title: Inicio
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Atajos de inicio de TWILight Menu++</div>
 <div class="section-body">
     <p>
         Mantén &#xE000;, &#xE001;, &#xE002; y &#xE003; para restablecer los ajustes de TWiLight Menu++.
@@ -55,7 +55,7 @@ title: Inicio
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Acerca de los temas</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ tiene 6 temas diferentes entre los que puedes elegir. Estos son menús alternativos con diseños diferentes, algunos de ellos con estilos de navegación completamente distintos.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Inicio
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Lanzadores de juegos</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, como su propio nombre indica, es simplemente un menú. No lanza las ROMs por sí mismo. Aquí están los manuales para los lanzadores de ROMs:</p>
     <div class="grid-container-2">
@@ -117,13 +117,13 @@ title: Inicio
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Más información</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Menú Clásico DS</a>
             </p>
         </div>
         <div class="grid-item">
@@ -135,7 +135,7 @@ title: Inicio
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Configuración</a>
             </p>
         </div>
     </div>

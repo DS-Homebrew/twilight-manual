@@ -4,7 +4,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div id="menu" class="section-title">Menu</div>
+<div id="menu" class="section-title">Меню</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -36,14 +36,14 @@ title: GBARunner2
         <p class="button-action-text">Открыть настройки</p>
     </div>
 </div>
-<div id="in-game" class="section-title">In-Game</div>
+<div id="in-game" class="section-title">В игре</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Коснитесь сенсорного экрана"></p>
         <p class="button-action-text">Открыть меню</p>
     </div>
 </div>
-<div id="bios-file" class="section-title">BIOS File</div>
+<div id="bios-file" class="section-title">BIOS файл</div>
 <div class="section-body">
     <p>
         GBARunner2 может использовать дамп официального GBA BIOS для улучшения совместимости. Файл должен быть назван <code>bios.bin</code> и должен быть в корне SD-карты, <code>sd:/gba</code> или <code>sd:/_gba</code>.

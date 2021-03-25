@@ -4,7 +4,7 @@ banner: /assets/images/r4-theme.png
 title: Tema Original R4
 ---
 
-<div id="main-menu" class="section-title">Main Menu</div>
+<div id="main-menu" class="section-title">Menu principal</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
@@ -32,7 +32,7 @@ title: Tema Original R4
     </div>
 </div>
 
-<div id="file-browser" class="section-title">File Browser</div>
+<div id="file-browser" class="section-title">Explorador de Ficheiros</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

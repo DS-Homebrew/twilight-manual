@@ -43,7 +43,7 @@ title: GBARunner2
         <p class="button-action-text">Abrir menu</p>
     </div>
 </div>
-<div id="bios-file" class="section-title">BIOS File</div>
+<div id="bios-file" class="section-title">Ficheiro BIOS</div>
 <div class="section-body">
     <p>
         O GBARunner2 pode usar um dump da BIOS oficial do GBA para melhorar a compatibilidade. O ficheiro deve ter o nome <code>bios.bin</code> e pode ser colocado na pasta raíz do cartão SD, <code>sd:/gba</code> ou <code>sd:/_gba</code>.

@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Hjem
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Knapp styring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Hjem
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Touch styring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Rull opp/ned på berøringsskjermen"></p>
@@ -40,7 +40,7 @@ title: Hjem
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Oppstart snarveier</div>
 <div class="section-body">
     <p>
         Hold &#xE000;, &#xE001;, &#xE002;, og &#xE003; for å tilbakestille TWiLight Menu++ Innstillinger.
@@ -55,7 +55,7 @@ title: Hjem
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Tema Informasjon</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ har 6 forskjellige bakgrunns temaer du kan velge fra. Dette er alternative menyer som alle har forskjellige design og noen av dem har helt individuelle navigasjonsstiler.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Hjem
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Spill lastere</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, som navnet tilsier, er bare en meny. Det laster ikke selve ROM-ene. Her er håndbok sidene for ROM-loadere:</p>
     <div class="grid-container-2">
@@ -117,13 +117,13 @@ title: Hjem
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Annen informasjon</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">DS Classic Meny</a>
             </p>
         </div>
         <div class="grid-item">
@@ -135,7 +135,7 @@ title: Hjem
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Innstillinger</a>
             </p>
         </div>
     </div>

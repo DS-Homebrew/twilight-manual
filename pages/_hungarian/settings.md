@@ -4,7 +4,7 @@ banner: /assets/images/settings.png
 title: Beállítások
 ---
 
-<div id="conrols" class="section-title">Controls</div>
+<div id="conrols" class="section-title">Irányítás</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -37,32 +37,32 @@ title: Beállítások
     </div>
 </div>
 
-<div id="gui-settings" class="section-title">GUI settings</div>
+<div id="gui-settings" class="section-title">GUI beállítások</div>
 <div class="section-body">
     <p>Ezen az oldalon beállíthatja a témát amit használna és egyéb opciókat, amik befolyásolják a TWiLight Menu++ kinézetét.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Emulation/HB settings</div>
+<div id="emulation-hb-settings" class="section-title">Emuláció/HB beállítások</div>
 <div class="section-body">
     <p>Itt kiválaszthatja, hogy mely platformok jelenjenek meg és melyik emulátor legyen használva.</p>
 </div>
 
-<div id="gbarunner2-settings" class="section-title">GBARunner2 settings</div>
+<div id="gbarunner2-settings" class="section-title">GBARunner2 beállítások</div>
 <div class="section-body">
     <p>Ezek a beállítások lehetővé teszik, hogy kiválassza a játékok hogyan jelenjenek meg a gyorsabb futásért vagy a nagyobb kompatibilitásért.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Játék és App beállítások</div>
 <div class="section-body">
     <p>Itt találhatók az általános beállításai annak, hogyan fussanak a játékok. Sok közülük változik attól függően, hogyan futtatja a TWiLight Menu++-t, mint például flashcard kernel-t használ vagy nds-bootstrap-et.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">Egyéb beállítások</div>
 <div class="section-body">
     <p>Ez ahol minden beállítás található, ami máshova nem fért, mint például a használandó nyelv, hogy betöltse-e automatikusan az utoljára játszott játékot és hogy mutassa-e a nyitóképernyőt induláskor és hasonlók.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch beállítások</div>
 <div class="section-body">
     <p>Ezek a beállítások lehetővé teszik, hogy megváltoztassa, hogy működjön az Unlaunch, és ezek az Unlaunch patchelésével dolgoznak, így újra kell installálni a változások érvényre jutásához.</p>
     <p>Ez az oldal csak Nintendo DSi konzolon jelenik meg, ha nem flashcard-ról lett indítva. Flashcard és 3DS felhasználók nem fogják látni ezt az oldalt.</p>

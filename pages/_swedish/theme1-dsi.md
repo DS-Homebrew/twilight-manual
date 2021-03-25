@@ -4,7 +4,7 @@ banner: /assets/images/dsi-theme.png
 title: Nintendo DSi Tema
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Knappstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Nintendo DSi Tema
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Touchstyrning</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Nintendo DSi Tema
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Sidsystem</div>
 <div class="section-body">
     <p>
         Nintendo DSi temat delar upp objekt i sidor med högst 40 objekt per sida. Du kan navigera genom sidorna med hjälp av &#xE004; och &#xE005;.
@@ -78,7 +78,7 @@ title: Nintendo DSi Tema
     </p>
 </div>
 
-<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
+<div id="custom-top-screen-image" class="section-title">Anpassad toppbildsbild</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
     <p>TWiLight Menu+ + stöder visning av anpassade bilder på den översta skärmen, precis som den officiella Nintendo DSi Menyn. I stället för att ta bilder från appen Nintendo DSi Camera kan du placera PNG-bilder i <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
@@ -89,7 +89,7 @@ title: Nintendo DSi Tema
     <p>Om bildstorleken är mindre än den maximala kommer svarta kanter att omge din bild.</p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">SELECT meny</div>
 <div class="section-body">
     <p>
         Att trycka på SELECT i Nintendo DSi temat kommer att ta upp DS Classic Menu som standard. Men i TWiLight Menu++'s inställningar kan du ändra det till att öppna SELECT menyn, en miniatyrmeny inbäddad i själva temat. Här är menyalternativen för SELECT menyn.

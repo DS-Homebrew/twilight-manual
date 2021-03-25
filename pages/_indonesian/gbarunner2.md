@@ -36,17 +36,17 @@ title: GBARunner2
         <p class="button-action-text">Buka pengaturan</p>
     </div>
 </div>
-<div id="in-game" class="section-title">In-Game</div>
+<div id="in-game" class="section-title">Dalam Permainan</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Sentuh layar bawah"></p>
         <p class="button-action-text">Buka menu</p>
     </div>
 </div>
-<div id="bios-file" class="section-title">BIOS File</div>
+<div id="bios-file" class="section-title">Berkas BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 dapat menggunakan dump BIOS GBA resmi untuk menambah kesesuaian (compatibility). Berkasnya harus bernama <code>bios.bin</code> dan taruhnya boleh di root Kartu SD, <code>sd:/gba</code> atau <code>sd:/_gba</code>.
+        GBARunner2 dapat memakai dump BIOS GBA resmi untuk menambah kesesuaian (compatibility). Berkasnya harus bernama <code>bios.bin</code> dan taruhnya boleh di root kartu SD, <code>sd:/gba</code> atau <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>

@@ -4,7 +4,7 @@ banner: /assets/images/hbl-theme.png
 title: Homebrew Launcher téma
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Gombvezérlés</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Homebrew Launcher téma
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Érintésvezérlés</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Homebrew Launcher téma
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Oldal rendszer</div>
 <div class="section-body">
     <p>
         A Homebrew Launcher téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
@@ -75,7 +75,7 @@ title: Homebrew Launcher téma
     </p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">SELECT menü</div>
 <div class="section-body">
     <p>
         A SELECT megnyomása a Homebrew Launcher témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatja a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.

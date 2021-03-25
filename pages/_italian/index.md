@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Home
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Comandi Pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Home
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Controlli Touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Scorri verso l'alto o verso il basso sul touch screen"></p>
@@ -40,7 +40,7 @@ title: Home
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Scorciatoie di Avvio TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Tieni premuto &#xE000;, &#xE001;, &#xE002; e &#xE003; per resettare le impostazioni TWiLight Menu++.
@@ -55,7 +55,7 @@ title: Home
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Informazioni Tema</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ ha 6 temi diversi tra cui puoi scegliere. Sono dei menu alternativi che hanno tutti stili diversi, alcuni dei quali hanno stili di navigazione completamente differenti.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Home
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Caricatori dei Giochi</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, come suggerisce il nome, è solo un menu. In realtà non avvia le ROM. Ecco le pagine del manuale per ogni caricatore di ROM che abbiamo:</p>
     <div class="grid-container-2">
@@ -117,7 +117,7 @@ title: Home
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Altre informazioni</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
@@ -135,7 +135,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Impostazioni</a>
             </p>
         </div>
     </div>

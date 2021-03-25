@@ -4,7 +4,7 @@ banner: /assets/images/saturn-theme.png
 title: Tema SEGA Saturn
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tombol Kendali</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Tema SEGA Saturn
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Kendali Sentuh</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Tema SEGA Saturn
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
         Tema SEGA Saturn membagi barangnya berhalaman dengan jumlah batasnya 40 barang tiap halaman. Kamu dapat menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
@@ -75,15 +75,15 @@ title: Tema SEGA Saturn
     </p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Menekan SELECT di tema SEGA Saturn akan menampilkan menu DS Klasik secara asali (default). Namun, di pengaturan TWiLight Menu++, kamu dapat mengubahnya menjadi Menu SELECT, yaitu menu bentuk kecil yang terbenam (embedded) di dalam temanya. Berikut pilihan menu pada Menu SELECT.
+        Menekan SELECT di tema SEGA Saturn akan menampilkan menu DS Klasik secara asali (default). Namun, kamu dapat mengubahnya di pengaturan TWiLight Menu++ menjadi Menu SELECT, yaitu menu bentuk kecil yang terbenam (embedded) di dalam temanya. Berikut pilihan menu pada Menu SELECT.
     </p>
     <ul>
-        <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi dan Nintendo 3DS, pilihan (option) ini dapat digunakan untuk kembali ke menu beranda asli</li>
+        <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi dan Nintendo 3DS, pilihan (option) ini dapat digunakan untuk kembali ke menu beranda</li>
         <li><strong>Pengaturan</strong>: Memilih ini akan meluncurkan menu untuk menata atur TWiLight Menu++ dan peluncurnya</li>
-        <li><strong>Pilihan Kartu Main</strong>: Di DS original atau DS Lite, kartu main (cartridge) Slot-2 seperti GBA dapat diluncur dari sini. Di Nintendo DSi dan Nintendo 3DS yang dibaca dari kartu SD, kartu Slot-1 dapat dijalankan, kalau dengan flashcard tertentu, dapat diganti kartu SD mana yang TWiLight Menu++ navigasi</li>
-        <li><strong>Manual</strong>: Ini untuk meluncurkan manual TWiLight Menu++, nih kamu sedang lihat :P</li>
+        <li><strong>Pilihan Kartu Main</strong>: Di DS original atau DS Lite, kartu main (cartridge) Slot-2 seperti GBA dapat diluncur dari sini. Di Nintendo DSi dan Nintendo 3DS yang dibaca dari kartu SD, kartu Slot-1 juga dapat dijalankan, kalau dengan flashcard tertentu, dapat diganti kartu SD mana yang TWiLight Menu++ navigasi</li>
+        <li><strong>Manual</strong>: Ini akan meluncurkan manual TWiLight Menu++, nih kamu sedang lihat :P</li>
     </ul>
 </div>

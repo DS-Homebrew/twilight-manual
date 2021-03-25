@@ -4,7 +4,7 @@ banner: /assets/images/manual-home.png
 title: Главная
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Управление</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: Главная
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Касания</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Прокрутка вверх/вниз на сенсорном экране"></p>
@@ -40,7 +40,7 @@ title: Главная
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ ярлыки загрузки</div>
 <div class="section-body">
     <p>
         Удерживайте &#xE000;, &#xE001;, &#xE002;, и &#xE003; для сброса настроек TWiLight меню++.
@@ -55,7 +55,7 @@ title: Главная
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Информация о темах</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ имеет 6 различных тем на выбор. Это альтернативный интерфейс с различным дизайном и стилями.</p>
     <div class="grid-container-3">
@@ -98,7 +98,7 @@ title: Главная
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Загрузчики игр</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, как видно из названия, это всего лишь меню. На самом деле оно не запускает игры. Вот страницы руководств для каждого загрузчика:</p>
     <div class="grid-container-2">
@@ -117,25 +117,25 @@ title: Главная
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Другая информация</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Классич DS меню</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Чат</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Настройки</a>
             </p>
         </div>
     </div>

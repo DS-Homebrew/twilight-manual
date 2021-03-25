@@ -4,7 +4,7 @@ banner: /assets/images/3ds-theme.png
 title: Tema Nintendo 3DS
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tombol Kendali</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -42,7 +42,7 @@ title: Tema Nintendo 3DS
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Kendali Sentuh</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -61,7 +61,7 @@ title: Tema Nintendo 3DS
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
         Tema Nintendo 3DS membagi barangnya berhalaman dengan jumlah batasnya 40 barang tiap halaman. Kamu dapat menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
