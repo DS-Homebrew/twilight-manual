@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/saturn-theme.png
 title: Tema SEGA Saturn
 ---

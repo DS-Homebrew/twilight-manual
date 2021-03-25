@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/r4-theme.png
 title: Tema Original R4
 ---

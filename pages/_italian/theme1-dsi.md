@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/dsi-theme.png
 title: Tema Nintendo DSi
 ---

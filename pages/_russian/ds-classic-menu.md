@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/ds-classic-menu.png
 title: Классич DS меню
 ---

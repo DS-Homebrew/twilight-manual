@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/dsi-theme.png
 title: Nintendo DSi 主题
 ---

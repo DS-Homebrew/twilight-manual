@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: crwdns17952:0crwdne17952:0
 title: crwdns17954:0crwdne17954:0
 ---

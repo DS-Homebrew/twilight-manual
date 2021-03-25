@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/saturn-theme.png
 title: 세가 새턴 테마
 ---

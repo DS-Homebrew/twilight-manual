@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---

@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/settings.png
 title: Настройки
 ---

@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/hbl-theme.png
 title: 启动 Homebrew Launcher (通过频道)
 ---

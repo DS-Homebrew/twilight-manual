@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---

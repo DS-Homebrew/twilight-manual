@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/hbl-theme.png
 title: Homebrew Launcher Tema
 ---

@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/theme4-acekard.png
 title: Wood UI Theme
 ---

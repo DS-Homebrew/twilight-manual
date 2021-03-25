@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/manual-home.png
 title: 主页
 ---

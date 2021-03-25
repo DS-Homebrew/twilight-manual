@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/hbl-theme.png
 title: 홈브류 런처 테마
 ---

@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/chat.png
 title: Chatt
 ---

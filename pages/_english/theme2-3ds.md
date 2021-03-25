@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/3ds-theme.png
 title: Nintendo 3DS Theme
 ---

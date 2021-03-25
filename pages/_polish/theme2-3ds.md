@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/3ds-theme.png
 title: Motyw Nintendo 3DS
 ---

@@ -8,6 +8,12 @@ exclude: [nitrofiles, node_modules, screenshot.png, palette.png]
 
 collections_dir: pages
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "manual-page"
+
 collections:
   english:
     output: true

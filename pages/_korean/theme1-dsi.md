@@ -1,5 +1,4 @@
 ---
-layout: manual-page
 banner: /assets/images/dsi-theme.png
 title: 닌텐도 DSi 테마
 ---
