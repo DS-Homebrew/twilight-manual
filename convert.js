@@ -22,7 +22,7 @@ const { spawnSync, spawn } = require('child_process');
 	await tab.setViewport({width: 256, height: 3000});
 
 	for(const dir of fs.readdirSync("pages")) {
-		if(dir == "_In-Context")
+		if(dir == "_ic")
 			continue;
 
 		fs.mkdirSync(`nitrofiles/pages/${dir.substr(1)}`, {recursive: true});
