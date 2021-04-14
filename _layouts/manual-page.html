@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.data.lang-codes[page.collection] }}" {% if site.data.rtl contains page.collection %}dir="rtl"{% endif %}>
+<html lang="{{ page.collection }}" {% if site.data.rtl contains page.collection %}dir="rtl"{% endif %}>
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }} - {{ site.data[page.collection].strings.title | default: site.data.english.strings.title }}</title>
@@ -24,7 +24,7 @@
 		<meta name="msapplication-TileImage" content="/assets/images/favicon/ms-icon-144x144.png">
 		<meta name="theme-color" content="#383838">
 
-		{% if page.collection == "In-Context" %}
+		{% if page.collection == "ic" %}
 			<script type="text/javascript">
 				var _jipt = [];
 				_jipt.push(['project', 'TwilightMenu']);
