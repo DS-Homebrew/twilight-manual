@@ -50,10 +50,13 @@ for (const dir of rootPagesFolder) {
 				clip: {x: 0, y:0, width:256, height: dimensions.height}
 			});
 
-			const process = Deno.run({
-				cmd: `ffmpeg -i screenshot.png -vf palettegen=max_colors=246 -f image2pipe - | ffmpeg -i screenshot.png -i - -filter_complex paletteuse nitrofiles/pages/${rootPath}.gif -y`.split(" ")
-			});                                                                                              
-			await process.status();
+			const paletteProcess = Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y"]});
+			await paletteProcess.status();
+
+			const conversionProcess = Deno.run({
+				cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", "paletteuse", `nitrofiles/pages/${rootPath}.gif`, "-y"]
+			})
+			await conversionProcess.status();
 		}
 
 		if (!existsSync(`nitrofiles/pages/${rootPath}.ini`) || Deno.statSync(`nitrofiles/pages/${rootPath}.ini`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
