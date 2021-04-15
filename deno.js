@@ -67,7 +67,7 @@ for (const dir of rootPagesFolder) {
 
 				const links = document.querySelectorAll("a");
 				const arrayLinks = Array.from(links)
-					.filter(link => link.href.startsWith("https://manual.ds-homebrew.com/") || link.href.startsWith("http://127.0.0.1:4000/")
+					.filter(link => link.href.startsWith("https://manual.ds-homebrew.com/") || link.href.startsWith("http://127.0.0.1:4000/"))
 
 				for (const i in arrayLinks)
 					out += dedent`
