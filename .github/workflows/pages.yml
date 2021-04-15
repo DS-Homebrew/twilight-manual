@@ -26,7 +26,7 @@ jobs:
         with:
           deno-version: ${{ matrix.deno-version }}
       - name: Build Deno Module
-        run: deno run --unstable --allow-env --allow-run --allow-net=https://127.0.0.1:4000,https://manual.ds-homebrew.com/ --allow-read=pages/ --allow-write=nitrofiles/ deno.js web
+        run: deno run --unstable --allow-env --allow-run --allow-net=https://127.0.0.1:4000,https://manual.ds-homebrew.com/ --allow-read=pages/,/tmp --allow-write=nitrofiles/,/tmp deno.js web
       - name: Pack 7z Package for nightly
         run: |
           cd nitrofiles
