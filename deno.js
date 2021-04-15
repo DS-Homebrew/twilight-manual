@@ -82,7 +82,7 @@ for (const dir of rootPagesFolder) {
 						`
 
 				return out;
-			});
+			}, dedent);
 
 			Deno.writeTextFileSync(`nitrofiles/pages/${rootPath}.ini`, links);
 		}
