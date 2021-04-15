@@ -39,7 +39,7 @@ for (const dir of pagesFolder) {
 			Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", `${crop},paletteuse`, `nitrofiles/pages/${rootPath}.gif`, "-y"]}).stderr.toString();
 		}
 
-		if (!fs.existsSync(`nitrofiles/pages/${rootPath}.ini`) || fs.statSync(`nitrofiles/pages/${rootPath}.ini`).mtime < fs.statSync(`pages/${dir}/${page}`).mtime) {
+		if (!Deno.existsSync(`nitrofiles/pages/${rootPath}.ini`) || Deno.statSync(`nitrofiles/pages/${rootPath}.ini`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
 			let links = await tab.evaluate(() => {
 				let out = `
 [INFO]
@@ -63,7 +63,7 @@ DEST = ${links[i].href.substr(links[i].href.lastIndexOf("/") + 1)}
 				return out;
 			});
 			
-			fs.writeFileSync(`nitrofiles/pages/${rootPath}.ini`, links);
+			Deno.writeFileSync(`nitrofiles/pages/${rootPath}.ini`, links);
 		}
 	}
 }
