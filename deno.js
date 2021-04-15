@@ -16,17 +16,21 @@ const browser = await puppeteer.launch({product: 'chrome'});
 const tab = await browser.newPage();
 await tab.setViewport({width: 256, height: 3000});
 
-const pagesFolder = Deno.readdirSync("pages")
+const rootPagesFolder = Deno.readDirSync("pages")
 	.filter(entry => entry.isDirectory)
 	.map(entry => entry.name)
 
-for (const dir of pagesFolder) {
+for (const dir of rootPagesFolder) {
 	if(dir == "_ic")
 		continue;
 
 	Deno.mkdirSync(`nitrofiles/pages/${dir.substr(1)}`, {recursive: true});
 
-	for (const page of Deno.readdirSync(`pages/${dir}`)) {
+	let subPageFolder = Deno.readDirSync(`pages/${dir}`)
+		.filter(entry => !entry.isDirectory)
+		.map(entry => entry.name)
+
+	for (const page of subPageFolder) {
 		console.log(dir, page);
 
 		let rootPath = `${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`;
