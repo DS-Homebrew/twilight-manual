@@ -12,7 +12,7 @@ if (web) {
 	await new Promise(resolve => setTimeout(resolve, 5000));
 }
 
-const browser = await puppeteer.launch();
+const browser = await puppeteer.launch({product: 'chrome'});
 const tab = await browser.newPage();
 await tab.setViewport({width: 256, height: 3000});
 
