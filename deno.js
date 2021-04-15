@@ -2,11 +2,11 @@ import puppeteer from "https://deno.land/x/puppeteer@5.5.1/mod.ts";
 
 const web = Deno.args.includes("web");
 let jekyll = null;
-if(web) {
+if (web) {
 	console.log("Generating images from https://manual.ds-homebrew.com...");
 } else {
 	console.log("Generating images from local files...");
-  jekyll = Deno.run({ cmd: ["bundle", "exec", "jekyll", "serve"] });
+	jekyll = Deno.run({ cmd: ["bundle", "exec", "jekyll", "serve"] });
 
 	// Wait 5s for jekyll to be ready
 	await new Promise(resolve => setTimeout(resolve, 5000));
@@ -17,8 +17,8 @@ const tab = await browser.newPage();
 await tab.setViewport({width: 256, height: 3000});
 
 const pagesFolder = Deno.readdirSync("pages")
-  .filter(entry => entry.isDirectory)
-  .map(entry => entry.name)
+	.filter(entry => entry.isDirectory)
+	.map(entry => entry.name)
 
 for (const dir of pagesFolder) {
 	if(dir == "_ic")
@@ -27,10 +27,10 @@ for (const dir of pagesFolder) {
 	Deno.mkdirSync(`nitrofiles/pages/${dir.substr(1)}`, {recursive: true});
 
 	for (const page of Deno.readdirSync(`pages/${dir}`)) {
-    console.log(dir, page);
+		console.log(dir, page);
 
-    let rootPath = `${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`;
-    await tab.goto((web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/") + rootPath, {waitUntil: "networkidle0"});
+		let rootPath = `${dir.substr(1)}/${page.substr(0, page.indexOf("."))}`;
+		await tab.goto((web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/") + rootPath, {waitUntil: "networkidle0"});
 
 		if (!Deno.existsSync(`nitrofiles/pages/${rootPath}.gif`) || Deno.statSync(`nitrofiles/pages/${rootPath}.gif`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
 			await tab.screenshot({path: "screenshot.png"});
@@ -63,7 +63,7 @@ DEST = ${links[i].href.substr(links[i].href.lastIndexOf("/") + 1)}
 				return out;
 			});
 			
-			Deno.writeFileSync(`nitrofiles/pages/${rootPath}.ini`, links);
+			Deno.writeTextFileSync(`nitrofiles/pages/${rootPath}.ini`, links);
 		}
 	}
 }
