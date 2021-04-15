@@ -38,32 +38,34 @@ for (const dir of rootPagesFolder) {
 		await tab.goto((web ? "https://manual.ds-homebrew.com/" : "http://127.0.0.1:4000/") + rootPath, {waitUntil: "networkidle0"});
 
 		if (!existsSync(`nitrofiles/pages/${rootPath}.gif`) || Deno.statSync(`nitrofiles/pages/${rootPath}.gif`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
-			await tab.screenshot({path: "screenshot.png"});
-			Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y"]});
-	
-			const cropProcess = Deno.run({
-				cmd: ["ffmpeg", "-loop", "1", "-i", "screenshot.png", "-frames:v", "3", "-vf", "negate,cropdetect=0:2:0", "-f", "null", "-"],
-				stderr: "piped"
+			const dimensions = await tab.evaluate(() => {
+				return {
+					width: document.documentElement.clientWidth,
+					height: document.documentElement.clientHeight,
+					deviceScaleFactor: window.devicePixelRatio,
+				};
 			});
-			await cropProcess.status();
 
-			const rawError = await cropProcess.stderrOutput();
-			const crop = new TextDecoder().decode(rawError).match(/crop=.*:.*:.*:.*/)[0];
+			await tab.setViewport({width: 256, height: dimensions.height});
+			await tab.screenshot({path: "screenshot.png"});
+
+			const paletteProcess = Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y"]});
+			await paletteProcess.status();
 
 			const conversionProcess = Deno.run({
-				cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", `${crop},paletteuse`, `nitrofiles/pages/${rootPath}.gif`, "-y"]
+				cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", `paletteuse`, `nitrofiles/pages/${rootPath}.gif`, "-y"]
 			})
 			await conversionProcess.status();
 		}
 
 		if (!existsSync(`nitrofiles/pages/${rootPath}.ini`) || Deno.statSync(`nitrofiles/pages/${rootPath}.ini`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
 			let links = await tab.evaluate(() => {
-				let out = dedent(`
+				let out = dedent`
 					[INFO]
 					TITLE = ${document.title}
 					BG_COLOR_1 = 0x9CE7
 					BG_COLOR_2 = 0xA108
-				`);
+				`;
 
 				const links = document.querySelectorAll("a");
 				const arrayLinks = Array.from(links)
