@@ -40,22 +40,20 @@ for (const dir of rootPagesFolder) {
 		if (!existsSync(`nitrofiles/pages/${rootPath}.gif`) || Deno.statSync(`nitrofiles/pages/${rootPath}.gif`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
 			const dimensions = await tab.evaluate(() => {
 				return {
-					width: document.documentElement.clientWidth,
-					height: document.documentElement.clientHeight,
+					width: document.body.clientWidth,
+					height: document.body.clientHeight,
 					deviceScaleFactor: window.devicePixelRatio,
 				};
 			});
+			await tab.screenshot({
+				path: "screenshot.png",
+				clip: {x: 0, y:0, width:256, height: dimensions.height}
+			});
 
-			await tab.setViewport({width: 256, height: dimensions.height});
-			await tab.screenshot({path: "screenshot.png"});
-
-			const paletteProcess = Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y"]});
-			await paletteProcess.status();
-
-			const conversionProcess = Deno.run({
-				cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", `paletteuse`, `nitrofiles/pages/${rootPath}.gif`, "-y"]
-			})
-			await conversionProcess.status();
+			const process = Deno.run({
+				cmd: `ffmpeg -i screenshot.png -vf palettegen=max_colors=246 -f image2pipe - | ffmpeg -i screenshot.png -i - -filter_complex paletteuse nitrofiles/pages/${rootPath}.gif -y`.split(" ")
+			});                                                                                              
+			await process.status();
 		}
 
 		if (!existsSync(`nitrofiles/pages/${rootPath}.ini`) || Deno.statSync(`nitrofiles/pages/${rootPath}.ini`).mtime < Deno.statSync(`pages/${dir}/${page}`).mtime) {
