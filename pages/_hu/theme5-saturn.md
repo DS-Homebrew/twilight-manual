@@ -82,7 +82,7 @@ title: SEGA Saturn téma
     <ul>
         <li><strong>Kezdőlap menü:</strong> Nintendo DSi és Nintendo 3DS konzolokon ez az opció a kezdőlapra visszatéréshez jelenik meg</li>
         <li><strong>Beállítások</strong>: Ezt választva betölt egy menüt, amiben állíthatók a TWiLight Menu++ beállításai és a betöltői</li>
-        <li><strong>Cartridge opciók</strong>: Egy eredeti DS-en vagy DS Lite-on, a Slot-2 eszköz innen indítható. Egy Nintendo DSi vagy Nintendo 3DS esetén, ami SD kártyáról fut, lehetősége van egyszer a Slot-1 kártyát vagy bizonyos flash kártákat futtatni vagy választani melyik SD kártyán navigáljon a TWiLight Menu++</li>
+        <li><strong>Cartridge opciók</strong>: Egy eredeti DS-en vagy DS Lite-on, a Slot-2 eszköz innen indítható. Egy Nintendo DSi vagy Nintendo 3DS esetén, ami SD kártyáról fut, lehetőséged van egyszer a Slot-1 kártyát vagy bizonyos flash kártyákat futtatni vagy választani melyik SD kártyán navigáljon a TWiLight Menu++</li>
         <li><strong>Kézikönyv</strong>: Ez elindítja a TWiLight Menu++ kézikönyvét, ez az amit nézel épp most :P</li>
     </ul>
 </div>

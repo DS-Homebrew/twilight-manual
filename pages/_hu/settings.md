@@ -48,21 +48,21 @@ title: Beállítások
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2 beállítások</div>
 <div class="section-body">
-    <p>Ezek a beállítások lehetővé teszik, hogy kiválassza a játékok hogyan jelenjenek meg a gyorsabb futásért vagy a nagyobb kompatibilitásért.</p>
+    <p>Ezek a beállítások lehetővé teszik, hogy kiválaszd a játékok hogyan jelenjenek meg és hogy gyorsabb fussanak-e vagy a nagyobb kompatibilitással.</p>
 </div>
 
 <div id="games-and-apps-settings" class="section-title">Játék és App beállítások</div>
 <div class="section-body">
-    <p>Itt találhatók az általános beállításai annak, hogyan fussanak a játékok. Sok közülük változik attól függően, hogyan futtatja a TWiLight Menu++-t, mint például flashcard kernel-t használ vagy nds-bootstrap-et.</p>
+    <p>Itt találhatók az általános beállításai annak, hogyan fussanak a játékok. Sok közülük változik attól függően, hogy hogyan futtatod a TWiLight Menu++-t, mint például flashcard kernel-t használsz vagy nds-bootstrap-et.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Egyéb beállítások</div>
 <div class="section-body">
-    <p>Ez ahol minden beállítás található, ami máshova nem fért, mint például a használandó nyelv, hogy betöltse-e automatikusan az utoljára játszott játékot és hogy mutassa-e a nyitóképernyőt induláskor és hasonlók.</p>
+    <p>Ez az a hely, ahol minden beállítás található, ami máshova nem fért, mint például a használandó nyelv, hogy betöltse-e automatikusan az utoljára játszott játékot és hogy mutassa-e a nyitóképernyőt induláskor és hasonlók.</p>
 </div>
 
 <div id="unlaunch-settings" class="section-title">Unlaunch beállítások</div>
 <div class="section-body">
-    <p>Ezek a beállítások lehetővé teszik, hogy megváltoztassa, hogy működjön az Unlaunch, és ezek az Unlaunch patchelésével dolgoznak, így újra kell installálni a változások érvényre jutásához.</p>
+    <p>Ezek a beállítások lehetővé teszik, hogy megváltoztasd, hogy működjön az Unlaunch, és ezek az Unlaunch patchelésével dolgoznak, így újra kell installálni a változások érvényre jutásához.</p>
     <p>Ez az oldal csak Nintendo DSi konzolon jelenik meg, ha nem flashcard-ról lett indítva. Flashcard és 3DS felhasználók nem fogják látni ezt az oldalt.</p>
 </div>

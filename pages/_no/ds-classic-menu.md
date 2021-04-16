@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/ds-classic-menu.png
-title: DS Classic Menu
+title: DS Classic Meny
 ---
 
 <div id="controls" class="section-title">Styring</div>

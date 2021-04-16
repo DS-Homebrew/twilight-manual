@@ -11,7 +11,7 @@ title: Chat
 </div>
 <div class="section-body">
     <p>
-        TWiLight Menu ++ felhasználók közösségét keresi? Csatlakozzon a DS<sup>(i)</sup> mód hackelés Discord szerverhez egy kompatibilis eszközön, hogy találkozzon más TWLMenu++ felhasználókkal, mint ön!
+        TWiLight Menu ++ felhasználók közösségét keresed? Csatlakozz a DS<sup>(i)</sup> mód hackelés Discord szerverhez egy kompatibilis eszközön, hogy találkozz más TWLMenu++ felhasználókkal!
     </p>
     <p>
         Szerver meghívó kód: <a href="https://discord.gg/yD3spjv">yD3spjv</a>

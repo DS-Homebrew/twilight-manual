@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/settings.png
-title: Settings
+title: Настройки
 ---
 
 <div id="conrols" class="section-title">Управление</div>

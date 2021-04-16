@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn Theme
+title: Тема SEGA SATURN
 ---
 
 <div id="button-controls" class="section-title">Управление</div>

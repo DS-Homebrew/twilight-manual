@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilitás</div>
 <div class="section-body">
     <p>
-        Ahhoz, hogy láthassa, mely játékok kompatibilisek az nds-bootstrap-pel, tekintse meg a kompatibilitási listát:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Ahhoz, hogy lásd, mely játékok kompatibilisek az nds-bootstrap-pel, tekintsd meg a kompatibilitási listát:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
         A legjobb flashcard kompatibilitáshoz javasoljuk a DS Memory Expansion Pak beszerzését.
@@ -52,6 +52,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Kérjük tartsa észben, hogy az nds-bootstrap E-type csalás implementációja instabil, és ennek eredményeként a kódja vagy működni fog, vagy nem. Ez nem a adatbázis hibája, és reméljük az nds-bootstrap-ben hamarosan javításra kerül.
+        Kérjük tartsd észben, hogy az nds-bootstrap E-type csalás implementációja instabil, és ennek eredményeként a kód vagy működni fog, vagy nem. Ez nem a adatbázis hibája, és reméljük az nds-bootstrap-ben hamarosan javításra kerül.
     </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/settings.png
-title: Settings
+title: Innstillinger
 ---
 
 <div id="conrols" class="section-title">Styring</div>
@@ -43,26 +43,26 @@ title: Settings
 
 <div id="emulation-hb-settings" class="section-title">Emulasjon/HB innstillinger</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>Her kan du velge hvilke plattformer du skal vise og hvilken emulator som skal brukes.</p>
 </div>
 
-<div id="gbarunner2-settings" class="section-title">GBARunner2 settings</div>
+<div id="gbarunner2-settings" class="section-title">GBARunner2 innstillinger</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>Disse innstillingene lar deg velge hvordan spill vises og for å kjøre raskere eller ha bedre kompatibilitet.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Innstillinger for spill og apper</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>Dette er de generelle innstillingene for hvordan spill skal kjøres. Mange av disse er forskjellig på hvordan du kjører TWiLight-menu++, som om du skal bruke flashkort-kjerne eller nds-bootstrap.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">Diverse. innstillinger</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Dette er hvor alle innstillingene som ikke passer andre steder du vil ha, for eksempel hvilket språk du skal bruke, om det skal automatisk starte forrige spilte spill, og om blant annet skal vise splash skjermbildene ved oppstart.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch innstillinger</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Innstillingene her lar deg endre hvordan Unlaunch virker. De fungerer ved å patche Unlaunch installasjonsprogrammet slik at du må installere det på nytt for at disse innstillingene trer i kraft.</p>
+    <p>Denne siden vises kun på Nintendo DSi-konsoller når den ikke ble lansert fra flashkort. Flashcart og 3DS brukere vil ikke se denne siden.</p>
 </div>

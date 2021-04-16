@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/manual-home.png
-title: Home
+title: Hjem
 ---
 
 <div id="button-controls" class="section-title">Knapp styring</div>

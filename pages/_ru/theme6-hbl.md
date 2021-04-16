@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher Theme
+title: Тема Homebrew Launcher
 ---
 
 <div id="button-controls" class="section-title">Управление</div>

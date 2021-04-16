@@ -53,7 +53,7 @@ title: Pengaturan
 
 <div id="games-and-apps-settings" class="section-title">Penga. Permainan dan Aplikasi</div>
 <div class="section-body">
-    <p>Ini bentuk pengaturan umum untuk bagaimana permainan dijalankan. Tapi akan beragam dari cara kamu menjalankan TWiLight Menu++, seperti menggunakan kernel flashcard atau nds-bootstrap.</p>
+    <p>Ini bentuk pengaturan umum untuk bagaimana permainan dijalankan. Tapi akan beragam dari cara kamu menjalankan TWiLight Menu++, seperti jika menggunakan kernel flashcard atau nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Pengaturan lainnya</div>

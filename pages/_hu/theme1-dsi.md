@@ -70,7 +70,7 @@ title: Nintendo DSi téma
         <li><p>A &#xE005; megnyomása a jobbszélső oldalon az oldal utolsó elemére visz</p></li>
     </ul>
     <p>
-        A gördítősáv az összes elemet reprezentálja, az oldalon, így megérintve azt gyorsan odanavigálhat egy adott helyre az oldalon.
+        A gördítősáv az összes elemet reprezentálja, az oldalon, így megérintve azt gyorsan odanavigálhatsz egy adott helyre az oldalon.
     </p>
     <p>
         Ha a gombjaid nem működnek, használhatod a SELECT + &#xE07E; helyette.
@@ -91,12 +91,12 @@ title: Nintendo DSi téma
 <div id="select-menu" class="section-title">SELECT menü</div>
 <div class="section-body">
     <p>
-        A SELECT megnyomása a Nintendo DSi témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatja a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.
+        A SELECT megnyomása a Nintendo DSi témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatod a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.
     </p>
     <ul>
         <li><strong>Kezdőlap menü:</strong> Nintendo DSi és Nintendo 3DS konzolokon ez az opció a kezdőlapra visszatéréshez használható</li>
         <li><strong>Beállítások</strong>: Ezt választva betölt egy menüt, amiben állíthatók a TWiLight Menu++ beállításai és a betöltői</li>
-        <li><strong>Cartridge opciók</strong>: Egy eredeti DS-en vagy DS Lite-on, a Slot-2 eszköz innen indítható. Egy Nintendo DSi vagy Nintendo 3DS esetén, ami SD kártyáról fut, lehetősége van egyszer a Slot-1 kártyát vagy bizonyos flash kártákat futtatni vagy választani melyik SD kártyán navigáljon a TWiLight Menu++</li>
+        <li><strong>Cartridge opciók</strong>: Egy eredeti DS-en vagy DS Lite-on, a Slot-2 eszköz innen indítható. Egy Nintendo DSi vagy Nintendo 3DS esetén, ami SD kártyáról fut, lehetőséged van egyszer a Slot-1 kártyát vagy bizonyos flash kártyákat futtatni vagy választani melyik SD kártyán navigáljon a TWiLight Menu++</li>
         <li><strong>Kézikönyv</strong>: Ez elindítja a TWiLight Menu++ kézikönyvét, ez az amit nézel épp most :P</li>
     </ul>
 </div>

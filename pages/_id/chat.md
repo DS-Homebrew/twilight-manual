@@ -11,7 +11,7 @@ title: Obrolan
 </div>
 <div class="section-body">
     <p>
-        Sedang mencari perkumpulan pengguna TWiLight Menu++? Coba gabung ke server Discord DS<sup>(i)</sup> Mode Hacking lewat peranti yang didukung agar dapat bertemu dengan para pengguna TWiLight Menu++ lainnya!
+        Sedang mencari perkumpulan pengguna TWiLight Menu++? <br>Coba gabung ke server Discord DS<sup>(i)</sup> Mode Hacking lewat peranti yang didukung agar dapat bertemu dengan para pengguna TWiLight Menu++ lainnya!
     </p>
     <p>
         Kode undangan server: <a href="https://discord.gg/yD3spjv">yD3spjv</a>

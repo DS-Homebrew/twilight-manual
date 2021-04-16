@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi Theme
+title: Тема Nintendo DSi
 ---
 
 <div id="button-controls" class="section-title">Управление</div>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: Тема Nintendo 3DS
 ---
 
 <div id="button-controls" class="section-title">Управление</div>

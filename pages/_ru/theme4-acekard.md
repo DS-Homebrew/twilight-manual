@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Тема Wood UI
 ---
 
 <div id="temporarily-disabled" class="section-title">Временно отключено</div>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/ds-classic-menu.png
-title: DS Classic Menu
+title: Классич DS меню
 ---
 
 <div id="controls" class="section-title">Управление</div>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/manual-home.png
-title: Home
+title: Главная
 ---
 
 <div id="button-controls" class="section-title">Управление</div>

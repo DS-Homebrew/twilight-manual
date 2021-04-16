@@ -32,26 +32,26 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Beállításokat kinyitni</p>
+        <p class="button-action-text">Beállítások megnyitása</p>
     </div>
 </div>
 <div id="in-game" class="section-title">Játékon belül</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Koppintson az érintőképernyőre"></p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Koppints az érintőképernyőre"></p>
         <p class="button-action-text">Menü megnyitása</p>
     </div>
 </div>
 <div id="bios-file" class="section-title">BIOS fájl</div>
 <div class="section-body">
     <p>
-        A GBARunner2 egy hivatalos GBA BIOS mentést is fel tud használni a jobb kompatibilitás érdekében. A fájl nevének <code>bios.bin</code> kell lennie, és lehet az SD kártya gyökerében, <code>sd:/gba</code> vagy <code>sd:/_gba</code>.
+        A GBARunner2 egy hivatalos GBA BIOS mentést is fel tud használni a jobb kompatibilitás érdekében. A fájl nevének <code>bios.bin</code>-nek kell lennie, és lehet az SD kártya gyökerében vagy az <code>sd:/gba</code> vagy az <code>sd:/_gba</code> mappában.
     </p>
     <hr>
     <p>
-        Győződjön meg arról, hogy a GBA BIOS dump megfelel a következő CRC32 hash-nak: <code>81977335</code>
+        Győződj meg arról, hogy a GBA BIOS dump megfelel a következő CRC32 hash-nak: <code>81977335</code>
     </p>
     <p>
-        Ezt ellenőrizheti ezen a weboldalon:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Ezt ellenőrizheted ezen a weboldalon:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>

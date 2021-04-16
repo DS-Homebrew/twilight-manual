@@ -22,35 +22,35 @@ title: Kezdőlap
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Zárja be a kézikönyvet</p>
+        <p class="button-action-text">Kézikönyv bezárása</p>
     </div>
 </div>
 
 <div id="touch-controls" class="section-title">Érintésvezérlés</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Görgessen fel / le az érintőképernyőn"></p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Görgess fel / le az érintőképernyőn"></p>
         <p class="button-action-text">Görgessen fel és le</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Koppintson az érintőképernyőre"></p>
-        <p class="button-action-text">Érintsen meg egy linket az oldalára lépéshez</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Koppints az érintőképernyőre"></p>
+        <p class="button-action-text">Érints meg egy linket az oldalára lépéshez</p>
     </div>
 </div>
 
 <div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot gyorsindítók</div>
 <div class="section-body">
     <p>
-        Tartsa lenyomva az &#xE000;, &#xE001;, &#xE002; és &#xE003; gombot a TWiLight Menu ++ beállításainak visszaállításához.
+        Tartsd lenyomva az &#xE000;, &#xE001;, &#xE002; és &#xE003; gombot a TWiLight Menu ++ beállításainak visszaállításához.
     </p>
     <hr>
     <p>
-        Tartsa nyomva a SELECT-et, hogy közvetlenül a beállításokhoz jusson.
+        Tartsd nyomva a SELECT-et, hogy közvetlenül a beállításokhoz juss.
     </p>
     <hr>
     <p>
-        Tartsa lenyomva az &#xE001; gombot a menü vagy az utolsó futtatott ROM betöltéséhez, attól függően, hogy engedélyezve van-e az utoljára futtatott ROM automatikus indítása.
+        Tartsd lenyomva az &#xE001; gombot a menü vagy az utolsó futtatott ROM betöltéséhez, attól függően, hogy engedélyezve van-e az utoljára futtatott ROM automatikus indítása.
     </p>
 </div>
 
@@ -139,6 +139,6 @@ title: Kezdőlap
         </div>
     </div>
     <p>
-        Szeretnél több információt a TWiLight Menu++-ról? Nézze meg a Wikit:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Szeretnél több információt a TWiLight Menu++-ról? Nézd meg a Wikit:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>
