@@ -50,11 +50,11 @@ for (const dir of rootPagesFolder) {
 				clip: {x: 0, y:0, width:256, height: dimensions.height}
 			});
 
-			const paletteProcess = Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y"]});
+			const paletteProcess = Deno.run({ cmd: ["ffmpeg", "-i", "screenshot.png", "-vf", "palettegen=max_colors=246", "palette.png", "-y", "-loglevel", "error"]});
 			await paletteProcess.status();
 
 			const conversionProcess = Deno.run({
-				cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", "paletteuse", `nitrofiles/pages/${rootPath}.gif`, "-y"]
+				cmd: ["ffmpeg", "-i", "screenshot.png", "-i", "palette.png", "-filter_complex", "paletteuse", `nitrofiles/pages/${rootPath}.gif`, "-y", "-loglevel", "error"]
 			})
 			await conversionProcess.status();
 		}
