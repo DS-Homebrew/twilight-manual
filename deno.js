@@ -113,7 +113,7 @@ for (const dir of rootPagesFolder) {
 
 				for (const i in arrayLinks)
 					out += dedent`
-						[LINK${parseInt(i) + 1}]
+						\n\n[LINK${parseInt(i) + 1}]
 						X = ${Math.round(links[i].getBoundingClientRect().x)}
 						Y = ${Math.round(links[i].getBoundingClientRect().y)}
 						W = ${Math.round(links[i].getBoundingClientRect().width)}
