@@ -12,7 +12,7 @@ title: Menu DS Klasik
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Pilih barang</p>
+        <p class="button-action-text">Pilih butir (item)</p>
     </div>
     <hr>
     <div class="button-action-group">

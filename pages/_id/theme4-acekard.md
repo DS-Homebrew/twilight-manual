@@ -17,7 +17,7 @@ title: Tema Wood UI
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Barang sebelum / berikutnya</p>
+        <p class="button-action-text">Butir (item) sebelum / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -55,7 +55,7 @@ title: Tema Wood UI
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Gulir (Scroll) daftar</p>
+        <p class="button-action-text">Gulir (scroll) daftar</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -35,7 +35,7 @@ title: Tema R4 yang Asli
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Barang sebelum / berikutnya</p>
+        <p class="button-action-text">Butir (item) sebelum / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -55,7 +55,7 @@ title: Tema R4 yang Asli
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Hapus / sembunyi barang</p>
+        <p class="button-action-text">Hapus / sembunyi butir (item)</p>
     </div>
     <hr>
     <div class="button-action-group">
