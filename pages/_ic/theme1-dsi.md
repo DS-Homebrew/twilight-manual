@@ -79,7 +79,7 @@ title: crwdns21118:0crwdne21118:0
 
 <div id="custom-top-screen-image" class="section-title">crwdns20440:0crwdne20440:0</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="crwdns17542:0crwdne17542:0"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="crwdns21752:0{{ page.collection }}crwdne21752:0"></div>
     <p>crwdns17544:0crwdne17544:0 crwdns17546:0crwdne17546:0</p>
     <ul>
         <li>crwdns17548:0crwdne17548:0</li>

@@ -79,7 +79,7 @@ title: 닌텐도 DSi 테마
 
 <div id="custom-top-screen-image" class="section-title">사용자 지정 상단 화면 이미지</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>TWiLight Menu++는 닌텐도 DSi 공식 메뉴에서 상단 화면에 사용자 지정 사진을 띄우는것을 지원합니다. 하지만, DSi 카메라 애플리케이션에서 꺼내오고 싶지않으면, <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code>에 PNG 파일을 놓으세요.</p>
     <ul>
         <li>최대 너비: 208픽셀</li>

@@ -79,7 +79,7 @@ title: Θέμα Nintendo DSi
 
 <div id="custom-top-screen-image" class="section-title">Προσαρμοσμένη Εικόνα Πάνω Οθόνης</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>TWiLight Menu++ υποστηρίζει την εμφάνιση προσαρμοσμένων φωτογραφιών στην κορυφή της οθόνης, ακριβώς όπως το επίσημο μενού Nintendo DSi. Ωστόσο, αντί να το τραβήξετε από την εφαρμογή κάμερας Nintendo DSi, μπορείτε να τοποθετήσετε εικόνες PNG σε <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Μέγιστο πλάτος: 208 pixels</li>

@@ -79,7 +79,7 @@ title: Nintendo DSi Tema
 
 <div id="custom-top-screen-image" class="section-title">Anpassad toppbildsbild</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>TWiLight Menu+ + stöder visning av anpassade bilder på den översta skärmen, precis som den officiella Nintendo DSi Menyn. I stället för att ta bilder från appen Nintendo DSi Camera kan du placera PNG-bilder i <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Maximal bredd: 208 pixlar</li>

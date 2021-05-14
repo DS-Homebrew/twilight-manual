@@ -79,7 +79,7 @@ title: Nintendo DSi 主题
 
 <div id="custom-top-screen-image" class="section-title">自定义上屏幕壁纸</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>如同Nintendo DSi的系统界面，TWiLight Menu++ 支持在上屏幕中显示自定义的图像。 并且，不仅是Nintendo DSi趣照内的照片，您可以在本软件中随意设置PNG图像文件。以下为放置目录：
  <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>

@@ -79,7 +79,7 @@ title: Tema Nintendo DSi
 
 <div id="custom-top-screen-image" class="section-title">Immagine personalizzata sullo schermo superiore</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>TWiLight Menu++ supporta la visualizzazione di foto personalizzate nella schermata superiore, proprio come il Menù Nintendo DSi. Tuttavia, invece di utilizzare quelle dell'applicazione "Fotocamera Nintendo DSi", è possibile inserire qualsiasi immagine PNG in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Larghezza massima: 208 pixel</li>

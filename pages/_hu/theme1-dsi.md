@@ -79,7 +79,7 @@ title: Nintendo DSi téma
 
 <div id="custom-top-screen-image" class="section-title">Egyéni felső képernyő kép</div>
 <div class="section-body">
-    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="/assets/images/photo-default.png"></div>
+    <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>A TWiLight Menu++ támogatja az egyedi képek megjelenítését a felső képernyőn, mint például a hivatalos Nintendo DSi menü. Azonban, ahelyett, hogy a Nintendo DSi Camera alkalmazástól kérné, elhelyezhet egy tetszőleges PNG képet az <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code> könyvtárba</p>
     <ul>
         <li>Maximum szélesség: 208 pixel</li>
