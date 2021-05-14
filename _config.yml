@@ -23,6 +23,8 @@ collections:
     output: true
   de:
     output: true
+  el:
+    output: true
   es:
     output: true
   fr:
