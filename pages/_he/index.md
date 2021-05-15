@@ -1,62 +1,62 @@
 ---
 banner: /assets/images/manual-home.png
-title: Home
+title: דף הבית
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">שליטה באמצעות הכפתורים</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">גלילה מעלה ומטה</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">העמוד הקודם \ הבא</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">חזרה אל הדף הקודם שנבחר</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">סגירת המדריך</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">שליטה באמצעות מגע</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="גללו מעלה\מטה במסך המגע"></p>
+        <p class="button-action-text">גלילה מעלה ומטה</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="לחצו על מסך המגע"></p>
+        <p class="button-action-text">לחצו על קישור בכדי לבקר בעמוד שלו</p>
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">קיצורים לשימוש באתחול<br>++TWiLight Menu</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        החזיקו &#xE000;, &#xE001;, &#xE002; ו-&#xE003; בכדי לאפס את הגדרות TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        החזיקו SELECT בכדי להגיע ישירות לתפריט ההגדרות.
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the menu or the last ran ROM, depending on if autobooting the last ran rom is enabled.
+        החזיקו &#xE001; בכדי לטעון את התפריט או את המשחק האחרון שהופעל, זה תלוי במצב ההגדרה להפעלת ה-ROM האחרון ששוחק.
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">מידע על ערכות נושא</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">++TWiLight Menu מכיל 6 ערכות נושא שונות שביכולתכם לבחור. אלו הם תפריטים חלופיים בעלי עיצובים שונים, לחלקם סגנונות ניווט שונים לגמרי.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -97,9 +97,9 @@ title: Home
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">טועני משחקים</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">++TWiLight Menu, כמו שהשם מרמז, הוא רק תפריט. הוא לא טוען ממש את הרום בעצמו. להלן דפי המדריך לטועני המשחקים:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,29 +116,29 @@ title: Home
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">מידע נוסף</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">תפריט DS קלאסי</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">צ'אט</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">הגדרות</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        מעוניין במידע נוסף על TWiLight Menu++? עיינו ב-Wiki: <br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>
