@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.collection }}" {% if site.data.rtl contains page.collection %}dir="rtl"{% endif %}>
+<html lang="{{ page.collection | default: site.language }}" {% if site.data.rtl contains page.collection %}dir="rtl"{% endif %}>
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }} - {{ site.data[page.collection].strings.title | default: site.data.english.strings.title }}</title>

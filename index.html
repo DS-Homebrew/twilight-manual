@@ -7,14 +7,15 @@ title: Index
 {% endfor %}
 {% assign langs = langs | split: "," | sort_natural %}
 {% for lang in langs %}
-	<div class="section-title" id="{{ lang }}">
+	{% assign collection = site.collections | where_exp: "item", "site.data.lang-names[item.label] == lang" %}
+	{% assign collection = collection[0] %}
+	{% assign index = site[collection.label] | where_exp: "item", "item.url contains 'index.html'" %}
+
+	<div class="section-title" id="{{ lang }}" lang="{{ collection.label }}">
 		<a href="#{{ lang }}">{{ lang }}</a>
 	</div>
-	<div class="section-body">
+	<div class="section-body" lang="{{ collection.label }}">
 		<ul>
-			{% assign collection = site.collections | where_exp: "item", "site.data.lang-names[item.label] == lang" %}
-			{% assign collection = collection[0] %}
-			{% assign index = site[collection.label] | where_exp: "item", "item.url contains 'index.html'" %}
 			{% if index[0] %}
 				<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index[0].title }}</a></li>
 			{% endif %}
