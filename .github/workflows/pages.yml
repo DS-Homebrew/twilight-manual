@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        deno-version: [1.9.0]
+        deno-version: [1.10.2]
 
     steps:
       - name: Checkout repo
