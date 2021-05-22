@@ -50,7 +50,7 @@ title: Home
 	</p>
 	<hr>
 	<p>
-		Hold &#xE001; to load the menu or the last ran ROM, depending on if autobooting the last ran rom is enabled.
+		Hold &#xE001; to load the last ran ROM.
 	</p>
 </div>
 
