@@ -27,7 +27,7 @@ jobs:
           deno-version: ${{ matrix.deno-version }}
       - name: Build Deno Module
         run: |
-          PUPPETEER_PRODUCT=chrome deno run --unstable --allow-env --allow-net --allow-read=/tmp,/home/runner/.cache/deno/deno_puppeteer --allow-write=/tmp,"~/.cache/deno/deno_puppeteer" https://deno.land/x/puppeteer@5.5.1/install.ts
+          PUPPETEER_PRODUCT=chrome deno run --unstable --allow-env --allow-net --allow-read=/tmp,/home/runner/.cache/deno/deno_puppeteer --allow-write=/tmp,/home/runner/.cache/deno/deno_puppeteer https://deno.land/x/puppeteer@5.5.1/install.ts
           deno run --unstable --allow-env --allow-run --allow-net=127.0.0.1,manual.ds-homebrew.com --allow-read=nitrofiles/,pages/,/tmp,/home/runner/.cache/deno/deno_puppeteer,screenshot.png,palette.png,CNAME --allow-write=nitrofiles/,/tmp,/home/runner/.cache/deno/deno_puppeteer,screenshot.png,palette.png deno.js web
       - name: Pack 7z Package for nightly
         run: |
