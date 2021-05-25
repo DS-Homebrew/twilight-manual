@@ -3,30 +3,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">About</div>
+<div id="about" class="section-title">O programie</div>
 <div class="section-body">
     <p>
-        nds-bootstrap jest aplikacją homebrew używaną przez TWiLight Menu++ do wgrywania gier DS i homebrew z karty SD Nintendo DSi / 3DS.
+        ds-bootstrap to aplikacja homebrew używana przez TWiLight Menu++ do ładowania zrzutów kartridży DS(i), DSiWare i homebrew DS z karty SD Nintendo DSi / 3DS.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Można go również stosować na flashcartach, jednak kompatybilność flashcartów jest niższa, więc jest ona przeznaczona głównie dla flashcardów i flashcardów homebrew o niskiej kompatybilności.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Kompatybilność</div>
 <div class="section-body">
     <p>
         Aby sprawdzić, czy gra jest kompatybilna z nds-bootstrap, sprawdź listę kompatybilności: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        Dla jak najlepszej kompatybilności na flashcard, zalecamy otrzymanie Pakietu Pamięci DS.
     </p>
 </div>
 
-<div id="controls" class="section-title">Controls</div>
+<div id="controls" class="section-title">Sterowanie</div>
 <div class="section-body">
     <p class="mb-0">
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        Naciśnij &#xE004;, &#xE07A; i SELECT, aby otworzyć menu w grze.
     </p>
     <hr>
     <p class="mb-0">
@@ -34,11 +34,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Przytrzymaj &#xE004;, &#xE005;, &#xE002; i &#xE079; przez jedną sekundę, aby zamienić ekrany.
     </p>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Cheaty</div>
 <div class="section-body">
     <p>
         nds-bootstrap może używać cheatów Replay za pośrednictwem bazy danych <code>usrcheat.dat</code>, która musi znajdować się w <code>sd:/_nds/TWiLightMenu/extras</code>. Gdy baza danych będzie dostępna, możesz wybrać, które kody mają być użyte z menu ustawień gry w TWiLight Menu++.

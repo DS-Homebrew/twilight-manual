@@ -50,7 +50,7 @@ title: Startseite
     </p>
     <hr>
     <p>
-        Halte &#xE001; gedrückt, um das Menü oder das zuletzt ausgeführte ROM zu laden, je nachdem, ob das Autobooten der zuletzt ausgeführten ROM aktiviert ist.
+        Halte &#xE001; gedrückt, um das zuletzt ausgeführte ROM zu laden.
     </p>
 </div>
 

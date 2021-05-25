@@ -50,7 +50,7 @@ title: Hem
     </p>
     <hr>
     <p>
-        Håll &#xE001; för att ladda in menyn eller den senast körda ROMen, beroende på om inställningen för att automatiskt starta den senaste körda ROMen är aktiverad.
+        Håll &#xE001; för att ladda den sista körda ROM.
     </p>
 </div>
 

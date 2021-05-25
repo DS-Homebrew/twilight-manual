@@ -3,7 +3,7 @@ banner: /assets/images/manual-home.png
 title: Strona główna
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Sterowanie przyciskami</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -26,7 +26,7 @@ title: Strona główna
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Przewiń w górę / w dół na ekranie dotykowym"></p>
@@ -39,7 +39,7 @@ title: Strona główna
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ skróty startowe</div>
 <div class="section-body">
     <p>
         Trzymaj &#xE000;, &#xE001;, &#xE002; i &#xE003; aby zrezestować ustawienia TWiLight Menu++.
@@ -50,11 +50,11 @@ title: Strona główna
     </p>
     <hr>
     <p>
-        Przytrzymaj &#xE001; aby załadować menu albo ostatnio uruchomiony ROM, w zależności od tego, czy włączone jest autobootowanie ostatnio uruchomionego ROMa.
+        Przytrzymaj &#xE001;, aby załadować ostatni uruchomiony ROM.
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Informacje o Motywie</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ ma 6 różnych motywów, które możesz wybrać. To są alternatywne menu, każdy z nich ma inny wygląd, a niektóre kompletnie inny styl nawigacji.</p>
     <div class="grid-container-3">
@@ -97,7 +97,7 @@ title: Strona główna
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Loadery gier</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, jak nazwa wskazuje, jest tylko menu. Samo z siebie nie ładuje ono ROMów. Tutaj są strony instrukcji dla loaderów ROMów:</p>
     <div class="grid-container-2">
@@ -116,25 +116,25 @@ title: Strona główna
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Inne informacje</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Menu DS Classic</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Czat</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Ustawienia</a>
             </p>
         </div>
     </div>

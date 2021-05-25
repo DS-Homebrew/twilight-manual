@@ -50,7 +50,7 @@ title: Início
     </p>
     <hr>
     <p>
-        Mantenha premido o &#xE001; para carregar o menu ou o último ROM executado, dependendo se a opção de autoboot está activada ou não.
+        Hold &#xE001; to load the last ran ROM.
     </p>
 </div>
 

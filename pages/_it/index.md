@@ -39,7 +39,7 @@ title: Home
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">Scorciatoie di Avvio TWiLight Menu++</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Scorciatoie d'Avvio di TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Tieni premuto &#xE000;, &#xE001;, &#xE002; e &#xE003; per resettare le impostazioni TWiLight Menu++.
@@ -50,13 +50,13 @@ title: Home
     </p>
     <hr>
     <p>
-        Tieni premuto &#xE001; per caricare il menu o l'ultima ROM eseguita, a seconda che l'autoavvio dell'ultima rom eseguita sia abilitato.
+        Tieni premuto &#xE001; per caricare l'ultima ROM avviata.
     </p>
 </div>
 
 <div id="theme-information" class="section-title">Informazioni Tema</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ ha 6 temi diversi tra cui puoi scegliere. Sono dei menu alternativi che hanno tutti stili diversi, alcuni dei quali hanno stili di navigazione completamente differenti.</p>
+    <p class="mb-2">TWiLight Menu++ ha 6 temi diversi tra cui puoi scegliere. Sono dei menu alternativi che hanno tutti stili differenti, alcuni dei quali hanno stili di navigazione completamente separati.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

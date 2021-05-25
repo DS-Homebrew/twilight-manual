@@ -50,7 +50,7 @@ title: Kezdőlap
     </p>
     <hr>
     <p>
-        Tartsd lenyomva az &#xE001; gombot a menü vagy az utolsó futtatott ROM betöltéséhez, attól függően, hogy engedélyezve van-e az utoljára futtatott ROM automatikus indítása.
+        Tarts &#xE001;-t nyomva az utolsó futtatott ROM betöltéséhez.
     </p>
 </div>
 

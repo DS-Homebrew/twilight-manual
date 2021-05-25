@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Motyw Wood UI
 ---
 
-<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
+<div id="temporarily-disabled" class="section-title">Tymczasowo wyłączone</div>
 <div class="section-body">
     <p>
         Ten motyw został tymczasowo wyłączony ze względu na uszkodzenie karty SD. Przywrócenie go wymaga stworzenia nowego sterownika karty SD, który zajmuje dużo czasu i wysiłku.
@@ -13,7 +13,7 @@ title: Wood UI Theme
     </p>
 </div>
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Sterowanie przyciskami</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -51,7 +51,7 @@ title: Wood UI Theme
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

@@ -6,7 +6,7 @@ title: nds-bootstrap
 <div id="about" class="section-title">О программе</div>
 <div class="section-body">
     <p>
-        nds-bootstrap - это Nintendo DSi Homebrew, используемый TWiLight Menu++ для запуска дампов Картриджей и Nintendo DS-mode хоумбрю файлов с SD-карты Nintendo DSi/Nintendo 3DS.
+        nds-bootstrap - это Nintendo DS(i) Homebrew, используемый TWiLight Menu++ для запуска дампов картриджей, DSiWare и DS-mode хоумбрю файлов с SD-карты Nintendo DSi / 3DS.
     </p>
     <p>
         Он также может быть использован на флешкартах, однако совместимость с флешкартами ниже, так что в первую очередь он предназначен только для homebrew-карт и флешкартами с низкой совместимостью.

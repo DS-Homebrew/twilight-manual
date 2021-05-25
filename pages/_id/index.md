@@ -50,7 +50,7 @@ title: Beranda
     </p>
     <hr>
     <p>
-        Tahan &#xE001; untuk memuat menu / ROM terbaru main, tergantung jika ROM terakhir main di awal buka (startup) dinyalakan.
+        Tahan &#xE001; untuk memuat ROM terakhir main.
     </p>
 </div>
 

@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: Motyw Nintendo 3DS
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Sterowanie przyciskami</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -41,7 +41,7 @@ title: Nintendo 3DS Theme
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -60,7 +60,7 @@ title: Nintendo 3DS Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Strona Systemu</div>
 <div class="section-body">
     <p>
         Motyw Nintendo 3DS dzieli elementy na strony maksymalnie 40 elementów na stronę. Możesz nawigować przez strony za pomocą analogów &#xE004; i &#xE005;.

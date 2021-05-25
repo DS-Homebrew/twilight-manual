@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher Theme
+title: Homebrew Başlatıcı Teması
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tuş Kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>

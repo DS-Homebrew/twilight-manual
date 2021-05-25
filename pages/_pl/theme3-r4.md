@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4 Original Theme
+title: Oryginalny motyw R4
 ---
 
-<div id="main-menu" class="section-title">Main Menu</div>
+<div id="main-menu" class="section-title">Menu główne</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
@@ -31,7 +31,7 @@ title: R4 Original Theme
     </div>
 </div>
 
-<div id="file-browser" class="section-title">File Browser</div>
+<div id="file-browser" class="section-title">Menedżer plików</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

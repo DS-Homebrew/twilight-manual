@@ -6,7 +6,7 @@ title: nds-bootstrap
 <div id="about" class="section-title">אודות</div>
 <div class="section-body">
     <p>
-        nds-bootstrap היא אפליקציית הומברו (Homebrew) אשר ++TWiLight Menu עושה בה שימוש בכדי לטעון רומים שהוצאו מכרטיסי DS והומברו של DS-mode מכרטיס SD של Nintendo DSi / 3DS.
+        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
     </p>
     <p>
         ניתן להשתמש בה גם על flashcards, אך התאימות עלייהם נמוכה יותר ולכן היא מכוונת יותר ל-flashcards בעלי תאימות נמוכה או כאלו שנועדו להפעלת הומברו בלבד.

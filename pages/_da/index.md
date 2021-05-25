@@ -50,7 +50,7 @@ title: Hjem
     </p>
     <hr>
     <p>
-        Hold &#xE001; nede for at indlæse menuen eller den sidste kørte ROM, afhængigt af om autoopstart af den sidste kørte ROM er aktiveret.
+        Hold &#xE001; nede for at starte det sidst-kørte ROM.
     </p>
 </div>
 

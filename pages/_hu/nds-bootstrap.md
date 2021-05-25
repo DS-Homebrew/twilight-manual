@@ -6,7 +6,7 @@ title: nds-bootstrap
 <div id="about" class="section-title">Névjegy</div>
 <div class="section-body">
     <p>
-        Az nds-bootstrap egy homebrew alkalmazás, amit a TWiLight Menu++ használ a DS cartridge mentések és DS-mód homebrew alkalmazások betöltésére a Nintendo DSi / 3DS SD kártyájáról.
+        Az nds-bootstrap egy homebrew alkalmazás, amit a TWiLight Menu++ használ a DS(i) cartridge mentések, DSiWare és DS-mód homebrew alkalmazások betöltésére a Nintendo DSi / 3DS SD kártyájáról.
     </p>
     <p>
         Használható továbbá flashcard-okon, habár a kompatibilitás flashcard-okon alacsonyabb, így elsősorban csak homebrew-only flashcard-ok és alacsony kompatibilitású flashcard-ok esetén.

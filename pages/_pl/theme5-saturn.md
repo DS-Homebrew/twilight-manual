@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn Theme
+title: Motyw Saturn SEGA
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Sterowanie przyciskami</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -41,7 +41,7 @@ title: SEGA Saturn Theme
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -60,7 +60,7 @@ title: SEGA Saturn Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Strona Systemu</div>
 <div class="section-body">
     <p>
         Motyw Sega Saturn dzieli elementy na strony z maksymalnie 40 elementami na stronę. Możesz nawigować przez strony za pomocą analogów &#xE004; i &#xE005;.
@@ -74,7 +74,7 @@ title: SEGA Saturn Theme
     </p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
         Naciskanie SELECT w motywie segi saturn przeniesie cię do menu klasycznego DS. Jednak w ustawieniach TWiLight Menu++ możesz je zmienić, aby uruchomić menu SELECT, miniaturę menu osadzoną wewnątrz samego motywu. Oto opcje menu dla menu SELECT.

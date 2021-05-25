@@ -50,7 +50,7 @@ title: Inicio
     </p>
     <hr>
     <p>
-        Mantén pulsado &#xE001; para cargar el menú o la última ROM jugada, dependiendo de si el arranque automático de la última ROM está activado.
+        Mantén pulsado &#xE001; para cargar la última ROM.
     </p>
 </div>
 

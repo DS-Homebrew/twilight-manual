@@ -50,7 +50,7 @@ title: Accueil
     </p>
     <hr>
     <p>
-        Maintenez &#xE001; pour charger le menu ou la dernière ROM exécutée, selon que le démarrage automatique de la dernière rom est activé.
+        Maintenez &#xE001; pour charger la dernière ROM exécutée.
     </p>
 </div>
 

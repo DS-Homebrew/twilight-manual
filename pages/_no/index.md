@@ -50,7 +50,7 @@ title: Hjem
     </p>
     <hr>
     <p>
-        Hold &#xE001; for å laste inn menyen eller sist kjørte ROM, avhengig av om autobooting av den siste kjørte rom er aktivert.
+        Hold &#xE001; for å laste inn siste kjørte ROM.
     </p>
 </div>
 
