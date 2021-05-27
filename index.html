@@ -11,20 +11,22 @@ title: Index
 	{% assign collection = collection[0] %}
 	{% assign index = site[collection.label] | where_exp: "item", "item.url contains 'index.html'" %}
 
-	<div class="section-title" id="{{ lang }}" lang="{{ collection.label }}">
-		<a href="#{{ lang }}">{{ lang }}</a>
-	</div>
-	<div class="section-body" lang="{{ collection.label }}">
-		<ul>
-			{% if index[0] %}
-				<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index[0].title }}</a></li>
-			{% endif %}
-			{% for item in site[collection.label] %}
-				{% unless item.url contains "index.html" %}
-					<li><a href="{{ item.url | remove: ".html" }}">{{ item.title }}</a></li>
-				{% endunless %}
-			{% endfor %}
-		</ul>
+	<div lang="{{ collection.label }}" {% if site.data.rtl contains collection.label %}dir="rtl"{% endif %}>
+		<div class="section-title" id="{{ lang }}">
+			<a href="#{{ lang }}">{{ lang }}</a>
+		</div>
+		<div class="section-body">
+			<ul>
+				{% if index[0] %}
+					<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index[0].title }}</a></li>
+				{% endif %}
+				{% for item in site[collection.label] %}
+					{% unless item.url contains "index.html" %}
+						<li><a href="{{ item.url | remove: ".html" }}">{{ item.title }}</a></li>
+					{% endunless %}
+				{% endfor %}
+			</ul>
+		</div>
 	</div>
 {% endfor %}
 

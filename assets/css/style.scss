@@ -156,7 +156,7 @@ strong, b {
 	padding: 5px 10px 10px 10px;
 }
 
-.section-body:not(:last-child) {
+.section-body:not(:last-child), div:not(:last-child) > .section-body {
 	margin-bottom: 6px;
 }
 
@@ -297,7 +297,9 @@ html[lang="zh-TW"] {
 	}
 }
 
-html[dir="rtl"] {
+[dir="rtl"] {
+	text-align: right;
+
 	.section-body {
 		border-radius: 10px 0 10px 10px;
 	}
