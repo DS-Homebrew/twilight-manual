@@ -56,13 +56,13 @@ title: Impostazioni
     <p>Queste sono le impostazioni generali per come i giochi dovrebbero essere avviati. Molte di queste variano da come si esegue TWiLight Menu++, ad esempio se si utilizza il kernel di una flashcard o nds-bootstrap.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Impostazioni varie</div>
+<div id="misc-settings" class="section-title">Impostazioni Varie</div>
 <div class="section-body">
     <p>Qui sono comprese tutte le impostazioni che non si adattano altrove, come la lingua da usare, se avviare automaticamente l'ultimo gioco giocato, e se mostrare le schermate di avvio, tra le altre.</p>
 </div>
 
 <div id="unlaunch-settings" class="section-title">Impostazioni Unlaunch</div>
 <div class="section-body">
-    <p>Le impostazioni qui consentono di modificare il funzionamento di Unlaunch. Esse funzionano patchando il programma di installazione di Unlaunch in modo che si dovrà reinstallare per far si che queste impostazioni prendano effetto.</p>
+    <p>Le impostazioni qui consentono di modificare il funzionamento di Unlaunch. Esse funzionano patchando il programma di installazione di Unlaunch in modo tale che lo si dovrà reinstallarlo per far si che queste impostazioni prendano effetto.</p>
     <p>Questa pagina appare solo sulle console Nintendo DSi quando non vengono avviate da flashcard. Gli utenti che usano flashcard e 3DS non vedranno questa pagina.</p>
 </div>

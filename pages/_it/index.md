@@ -3,7 +3,7 @@ banner: /assets/images/manual-home.png
 title: Home
 ---
 
-<div id="button-controls" class="section-title">Comandi Pulsanti</div>
+<div id="button-controls" class="section-title">Controlli dei Pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -122,7 +122,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Menu Classico DS</a>
             </p>
         </div>
         <div class="grid-item">

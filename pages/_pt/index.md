@@ -50,7 +50,7 @@ title: Início
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the last ran ROM.
+        Segure &#xE001; para carregar o último ROM executado.
     </p>
 </div>
 

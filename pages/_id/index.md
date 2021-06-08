@@ -39,7 +39,7 @@ title: Beranda
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">Pintasan Memulai TWiLight Menu++</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Pintasan Awal Nyala TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Tahan &#xE000;, &#xE001;, &#xE002;, dan &#xE003; untuk mengatur ulang (reset) Pengaturan TWiLight Menu++.

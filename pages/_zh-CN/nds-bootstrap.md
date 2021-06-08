@@ -6,7 +6,7 @@ title: nds-bootstrap
 <div id="about" class="section-title">关于</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap是TWiLight Menu++所使用的一种自制程序，用于读取DS/DSi卡带ROM，DSiWare（DSi创软）以及在Nintendo DSi/3DS主机一侧的SD卡的DS自制程序。
     </p>
     <p>
         它也可以用于烧录卡，但烧录卡上的兼容性较低，所以它主要是用于自制烧录卡和兼容性较低的烧录卡。

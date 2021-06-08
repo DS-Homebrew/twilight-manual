@@ -22,7 +22,7 @@ title: Tema Wood IU
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Sposta su / giù di 10</p>
+        <p class="button-action-text">Sposta sù / giù di 10</p>
     </div>
     <hr>
     <div class="button-action-group">

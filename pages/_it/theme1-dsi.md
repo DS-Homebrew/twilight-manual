@@ -37,7 +37,7 @@ title: Tema Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Apri il menu SELECT o il menu DS Classic</p>
+        <p class="button-action-text">Apri il menu SELECT o il Menu Classico DS</p>
     </div>
 </div>
 
@@ -94,7 +94,7 @@ title: Tema Nintendo DSi
         Premere SELECT nel Tema Nintendo DSi farà apparire il Menu Classico DS per impostazione predefinita. Tuttavia, nelle impostazioni del menu TWiLight ++, è possibile modificarlo per avviare il menù SELECT, un menu in miniatura incorporato all'interno del tema stesso. Ecco le opzioni di menu per il menu SELECT.
     </p>
     <ul>
-        <li><strong>Home Menu:</strong> Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>
+        <li><strong>Menu Home</strong>: Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>
         <li><strong>Impostazioni:</strong> Selezionandolo verrà avviato un menu per attivare/disattivare le impostazioni per TWiLight Menu++ e i suoi launcher</li>
         <li><strong>Opzioni Cartuccia:</strong> Su un DS originale o su DS Lite, è possibile avviare delle cartucce Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1, o su determinate flashcard, scambiare che scheda SD TWiLight Menu++ naviga</li>
         <li><strong>Manuale</strong>: Questo avvierà il manuale di TWiLight Menu++, quello che stai guardando in questo momento :P</li>

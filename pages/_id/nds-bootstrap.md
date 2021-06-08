@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kesesuaian(Compatibility)</div>
 <div class="section-body">
     <p>
-        Untuk melihat apakah permainannya sesuai (compatible) dimainkan di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Untuk melihat apa permainannya sesuai (compatible) dimainkan di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
         Untuk kesesuaian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
@@ -41,7 +41,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Curangan (Cheat)</div>
 <div class="section-body">
     <p>
-        nds-bootstrap dapat menggunakan cheat Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, dan harus ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, dan harus ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
     </p>
     <hr>
     <p>
