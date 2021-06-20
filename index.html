@@ -12,8 +12,8 @@ title: Index
 	{% assign index = site[collection.label] | where_exp: "item", "item.url contains 'index.html'" %}
 
 	<div lang="{{ collection.label }}" {% if site.data.rtl contains collection.label %}dir="rtl"{% endif %}>
-		<div class="section-title" id="{{ lang }}">
-			<a href="#{{ lang }}">{{ lang }}</a>
+		<div class="section-title" id="{{ lang | downcase | replace: " ", "-" }}">
+			<a href="#{{ lang | downcase | replace: " ", "-" }}">{{ lang }}</a>
 		</div>
 		<div class="section-body">
 			<ul>

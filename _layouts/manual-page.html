@@ -36,11 +36,11 @@
 		<div class="ds-size">
 			{% if page.banner %}
 				<div class="banner">
-						<img src="{{ page.banner }}">
+						<img src="{{ page.banner }}" alt="{{ page.banner | split: "/" | last | split: "." | first | replace: "-", " " }} banner image">
 				</div>
 			{% endif %}
 			<div class="bottom-screen">
-				<img class="twilight-logo" src="../assets/images/twilight.png">
+				<img class="twilight-logo" src="../assets/images/twilight.png" alt="TWiLight Menu++ logo">
 				<div class="ds-margin">
 					{{ content }}
 				</div>
