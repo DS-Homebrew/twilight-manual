@@ -6,10 +6,10 @@ title: nds-bootstrap
 <div id="about" class="section-title">ついて</div>
 <div class="section-body">
     <p>
-        nds-bootstrapは、ニンテンドーDSi・3DSのSDカードからDSカートリッジダンプ、DSiウェアとDSモードhomebrewを読み取りための、TWiLight Menu++で使われるhomebrewアプリケーションです。
+        nds-bootstrapは、ニンテンドーDSi・3DSのSDカードからDSカートリッジダンプ、DSiウェアとDSモードの自作ソフトを読み取りための、TWiLight Menu++で使われる自作アプリです。
     </p>
     <p>
-        フラッシュカードにも使えますが、互換性が低いため、主にhomebrewのみのフラッシュカードや低い互換性のフラッシュカードを対象としています。
+        フラッシュカードにも使えますが、互換性が低いため、主に自作ソフトのみのフラッシュカードや低い互換性のフラッシュカードを対象としています。
     </p>
 </div>
 

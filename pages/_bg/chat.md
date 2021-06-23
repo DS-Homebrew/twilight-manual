@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/chat.png
-title: Chat
+title: Чат
 ---
 
 <div id="discord" class="section-title">
@@ -13,7 +13,7 @@ title: Chat
 </div>
 <div class="section-body">
     <p>
-        TWiLight Menu++ topluluğu mu arıyorsunuz? Join the DS<sup>(i)</sup> Mode Hacking Discord server on a compatible device in order to meet up with other TWLMenu++ users like yourself!
+        Търсите ли за общност на потребители от TWiLight Menu++? Join the DS<sup>(i)</sup> Mode Hacking Discord server on a compatible device in order to meet up with other TWLMenu++ users like yourself!
     </p>
     <p>
         Server invite code: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
