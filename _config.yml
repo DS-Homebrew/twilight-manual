@@ -20,6 +20,8 @@ collections:
     output: true
   ic:
     output: true
+  bg:
+    output: true
   da:
     output: true
   de:
