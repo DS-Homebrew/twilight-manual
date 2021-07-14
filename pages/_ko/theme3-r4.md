@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4 오리지널 테마
+title: R4 기본 테마
 ---
 
 <div id="main-menu" class="section-title">메인 메뉴</div>
@@ -45,7 +45,7 @@ title: R4 오리지널 테마
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">선택한 응용프로그램 실행</p>
+        <p class="button-action-text">선택한 프로그램 실행</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -60,11 +60,11 @@ title: R4 오리지널 테마
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">게임 별 설정 열기</p>
+        <p class="button-action-text">게임별 설정 열기</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">메인 매뉴로 이동</p>
+        <p class="button-action-text">메인 메뉴로 이동</p>
     </div>
 </div>

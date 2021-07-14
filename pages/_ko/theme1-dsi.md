@@ -17,7 +17,7 @@ title: 닌텐도 DSi 테마
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">선택한 응용프로그램 실행</p>
+        <p class="button-action-text">선택한 프로그램 실행</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -32,7 +32,7 @@ title: 닌텐도 DSi 테마
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">게임 별 설정 열기</p>
+        <p class="button-action-text">게임별 설정 열기</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -50,7 +50,7 @@ title: 닌텐도 DSi 테마
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">선택한 응용프로그램 실행</p>
+        <p class="button-action-text">선택한 프로그램 실행</p>
     </div>
     <!-- <hr>
     <div>

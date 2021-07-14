@@ -45,13 +45,13 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr의 치트 데이터베이스가 제일 크고 계속 업데이트 되고 있으며, 이것을 권장합니다:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr의 치트 데이터베이스가 가장 크고 계속 업데이트 되고 있으며, 이것을 권장합니다:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        그 외, 치트를 직접 입력하고 싶으시다면, PC에서 R4CCE 응용프로그렘을 사용하시면 됩니다:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        그 외, 치트를 직접 입력하고 싶으시다면, 컴퓨터에서 R4CCE 프로그램을 사용하시면 됩니다:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        nds-bootstrap의 E-type 치트는 불안정하므로, 사용자의 코드가 제대로 작동하지 않을 수 있음을 명심하십시오. 이는 데이터베이스의 문제가 아니며, nds-bootstarp에서 이 문제가 빠른 시일 내에 해결되기를 기다리고있습니다.
+        nds-bootstrap의 E-type 치트는 불안정하므로, 사용자의 코드가 제대로 작동하지 않을 수 있음을 명심하십시오. 이는 데이터베이스의 문제가 아니며, nds-bootstarp에서 이 문제가 빠른 시일 내에 해결되기를 기다리고 있습니다.
     </p>
 </div>
