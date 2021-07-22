@@ -1,68 +1,68 @@
 ---
 banner: /assets/images/settings.png
-title: Settings
+title: Ayarlar
 ---
 
-<div id="conrols" class="section-title">Controls</div>
+<div id="conrols" class="section-title">Kontroller</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Önceki/sonraki seçenek</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">Değeri değiştir</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">Değer değiştir<br>Altmenüye gir</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">Ayarlardan çık</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">Önceki sayfa</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">Sonraki sayfa</p>
     </div>
 </div>
 
-<div id="gui-settings" class="section-title">GUI settings</div>
+<div id="gui-settings" class="section-title">Grafik Arayüzü Ayarları</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>Bu sayfada hangi temanın kullanılacağını ve TWiLight Menu++'nün görünüşünü etkileyecek seçenekleri değiştirebilirsiniz.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Emulation/HB settings</div>
+<div id="emulation-hb-settings" class="section-title">Emülasyon/HB ayarları</div>
 <div class="section-body">
-    <p>Here you can select which platforms to show and which emulator should be used.</p>
+    <p>Burada hangi platformun gösterileceğini ve hangi emülatörlerin kullanılacağını seçebilirsiniz.</p>
 </div>
 
-<div id="gbarunner2-settings" class="section-title">GBARunner2 settings</div>
+<div id="gbarunner2-settings" class="section-title">GBARunner2 Ayarları</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>Bu ayarlar, oyunların nasıl görüntüleneceğini ve daha hızlı çalışmayı veya daha iyi uyumluluğu elde etmenize olanak tanır.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Oyun ve uygulama ayarları</div>
 <div class="section-body">
-    <p>These are the general settings for how games should be run. Many of these are vary by how you run TWiLight Menu++, such as whether to use your flashcard kernel or nds-bootstrap.</p>
+    <p>Bunlar oyunların nasıl çalışması gerektiğini belirleyen genel ayarlardır. Bunların birçoğu TWiLight Menu++'yu nasıl çalıştırdığınıza göre farklılık gösterebilir, mesela flashcard kerneli ile veya nds-bootstrap ile.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">Çeşitli ayarlar</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Hangi dilin kullanılacağı, en son oynanan oyunun otomatik olarak başlatılıp başlatılmayacağı ve açılış ekranlarının açılışta gösterilip gösterilmeyeceği gibi başka hiçbir yere uymayan tüm ayarların yapıldığı yer burasıdır.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch ayarları</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Buradaki ayarlar size Unlaunch'ın nasıl çalıştığını değiştirmeye olanak sağlar. Unlaunch yükleyicisi üzerine yazarak çalışırlar, yani değişikliklerin etkili olabilmesi için yeniden yüklemeniz gerekir.</p>
+    <p>Bu sayfa sadece Nintendo DSi konsollarında flashcard kullanılmadığında belirmektedir. Flashcard ve 3DS kullanıcıları bu sayfayı görmeyeceklerdir.</p>
 </div>

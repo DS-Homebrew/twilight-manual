@@ -1,56 +1,56 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi Theme
+title: Nintendo DSi Teması
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tuş Kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Öğe taşı<br>(Sınıflandırma metodu "Özel"e ayarlanmalıdır)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Önceki / sonraki öğe</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Seçili uygulamayı aç</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Yukarı dizine çık</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Öğeyi sil/sakla</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Oyun başı ayarları aç</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">SELECT Menüsünü veya DS Klasik Menüyü açın</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Dokunma kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Listeleri kaydırın</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Seçili uygulamayı aç</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,43 +60,44 @@ title: Nintendo DSi Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Sayfa sistemi</div>
 <div class="section-body">
     <p>
-        The Nintendo DSi theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Nintendo DSi teması, öğeleri sayfa başına maksimum 40 öğe olarak böler. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>&#xE004; tuşu sizi sayfalardaki ilk öğeye götürür</p></li>
+        <li><p>&#xE005; tuşu sizi sayfalardaki son öğeye götürür</p></li>
     </ul>
     <p>
-        The scrollbar at the bottom represents all of the items on a page so you can tap on it to quickly move to a specific location in the page.
+        Alttaki kaydırma çubuğu sayfadaki simgeleri temsil eder. Böylece üzerine bastığınızda kolay bir şekilde sayfadaki belirli noktaya hareket edersiniz.
     </p>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Eğer tuşlarınız çalışmıyorsa, yerine SELECT + &#xE07E; kombinasyonunu kullanabilirsiniz.
     </p>
 </div>
 
-<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
+<div id="custom-top-screen-image" class="section-title">Özel Üst Ekran Fotoğrafı</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ supports displaying custom photos on the top screen, just like the official Nintendo DSi Menu. However, rather than have it pull from the Nintendo DSi Camera application, you can place PNG images in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ üst ekranda Nintendo DSi Menüsü gibi özel fotoğraflar göstermeyi destekler. Ancak Nintendo DSi Camera uygulamasından fotoğrafları çekmekten ziyade, belirli SD Kart konumuna PNG Fotoğraflar ekleyebilirsiniz.
+<code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
-        <li>Maximum width: 208 pixels</li>
-        <li>Maximum height: 156 pixels</li>
+        <li>Maksimum en: 208 piksel</li>
+        <li>Maksimum boy: 156 piksel</li>
     </ul>
-    <p>If the image size is less than the maximum, it will be centered with black borders.</p>
+    <p>Eğer fotoğraf boyutu maksimumdan küçük ise siyah kenarlar ile ortalanacaktır.</p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">SELECT Menüsü</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the Nintendo DSi theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        Nintendo DSi temasında SELECT düğmesine basmak, sizi DS Klasik menüsüne götürecektir. Ancak TWiLight Menu++ ayarlarında SELECT Menüsünü tema içerisine gömülü minyatür bir menü haline getirebilirsiniz. Burada SELECT Menüsündeki menü seçeneklerini sıraladık.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Ana Menü</strong>: Nintendo DSi'da ve 3DS'te bu seçenek, ana menüye geri dönmek için kullanılmaktadır</li>
+        <li><strong>Ayarlar</strong>: Bunu seçmek, size TWiLight Menu++'yü ve başlatıcılarını yapılandırmaya yarayan menü sunacaktır</li>
+        <li><strong>Kartuş seçenekleri</strong>: DS ve DS Lite'ta Slot-2'den başlatmak için bu seçenek kullanılabilir. SD Karttan çalıştırılan Nintendo DSi ve 3DS'te, Slot-1'i çalıştırabilirsiniz. Veya bazı belirli flashcard'lar ile TWiLight Menu++'de gezinilecek SD Kartı değiştirebilirsiniz</li>
+        <li><strong>Kılavuz</strong>: Bu TWiLight Menu++ Kılavuzunu karşınıza çıkaracak. Şu an okuduğunuz şey de bu zaten :P</li>
     </ul>
 </div>

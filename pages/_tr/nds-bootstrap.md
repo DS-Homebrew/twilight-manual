@@ -3,55 +3,55 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">About</div>
+<div id="about" class="section-title">Hakkında</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap; TWiLight Menu++ tarafından kartuş yedeklerinin ve DS modundaki homebrew yazılımının Nintendo DSi/3DS SD kartından yüklenmesine yarayan bir homebrew uygulamasıdır.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Aynı zamanda flashcard'larda da kullanılabilirler, ancak flashcard'lardaki uyumluluk daha düşüktür. Bu yüzden öncelik olarak yalnızca homebrew için ve düşük uyumluluğa sahip kartlar için düşünülmüştür.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Uyumluluk</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Bir oyunun nds-bootsrap ile uyumlu olup olmadığına bakmak için şu uyumluluk listesine bakın: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        Flashcard'lar ile en iyi uyumluluk için bir tane DS Memory Expansion Pak edinmenizi öneriyoruz.
     </p>
 </div>
 
-<div id="controls" class="section-title">Controls</div>
+<div id="controls" class="section-title">Kontroller</div>
 <div class="section-body">
     <p class="mb-0">
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        Oyun içi menüyü açmak için &#xE004; &#xE07A; ve SELECT tuşlarına basın.
     </p>
     <hr>
     <p class="mb-0">
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Oyunu sıfırlamak için &#xE004; &#xE005;, START ve SELECT tuşlarına basın.
     </p>
     <hr>
     <p class="mb-0">
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Ekranları değiş tokuş etmek için &#xE004;, &#xE005;, &#xE002; ve &#xE079; tuşlarına 1 saniye boyunca basılı tutunuz.
     </p>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Hileler</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap, Action Replay hilelerini <code>usrcheat.dat</code> veritabanı ile kullanabilmektedir. Bu kodun <code>sd:/_nds/TWiLightMenu/extras</code> yolunda bulunması gerekmektedir. Veritabanı orada olduğu sürece TWiLight Menu++ oyun başı ayarları üzerinden oyuna göre hangi hileleri kullanmak istediğinizi seçebilirsiniz.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        En geniş ve en güncel olduğundan dolayı DeadSkullzJr'ın hile veritabanını öneririz:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatif olarak kendiniz hazırlamak isterseniz, R4CEE'yi bilgisayarınızda kullanabilirsiniz:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        nds-bootstrap'in E-tipi hile uygulamasının stabil olmadığını ve kodlarınızın çalışmayabileceğini unutmayın. Bu veritabanının sorunu değil, ve biz de ilerleyen nds-bootstrap sürümlerinde bu sorunun çözüleceğini umuyoruz.
     </p>
 </div>

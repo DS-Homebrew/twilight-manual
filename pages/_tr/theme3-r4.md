@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4 Orijinal Tema
+title: R4 Orijinal Teması
 ---
 
 <div id="main-menu" class="section-title">Ana Menü</div>

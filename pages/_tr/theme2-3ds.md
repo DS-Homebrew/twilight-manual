@@ -1,56 +1,56 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: Nintendo 3DS Teması
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tuş Kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Öğe taşı<br>(Sınıflandırma metodu "Özel"e ayarlanmalıdır)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Önceki / sonraki öğe</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Seçili uygulamayı aç</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Yukarı dizine çık</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Öğeyi sil/sakla</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Oyun başı ayarları aç</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">SELECT Menüsünü veya DS Klasik Menüyü açın</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Dokunma kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Listeleri kaydırın</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Seçili uygulamayı aç</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,16 +60,16 @@ title: Nintendo 3DS Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Sayfa sistemi</div>
 <div class="section-body">
     <p>
-        The Nintendo 3DS theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Nintendo 3DS teması, öğeleri sayfa başına maksimum 40 öğe olarak böler. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>&#xE004; tuşu sizi sayfalardaki ilk öğeye götürür</p></li>
+        <li><p>&#xE005; tuşu sizi sayfalardaki son öğeye götürür</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Eğer tuşlarınız çalışmıyorsa, yerine SELECT + &#xE07E; kombinasyonunu kullanabilirsiniz.
     </p>
 </div>

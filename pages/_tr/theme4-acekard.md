@@ -1,15 +1,15 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Ahşap KA Teması
+title: Wood UI Teması
 ---
 
 <div id="temporarily-disabled" class="section-title">Geçici olarak devre dışı bırakıldı</div>
 <div class="section-body">
     <p>
-        SD kart bozulduğundan bu tema geçici olarak devre dışı bırakıldı. Geri getirmek, çok zaman ve çaba gerektiren yeni bir SD kart sürücüsü yapmayı gerektirir.
+        SD kart bozulmalarına sebep olduğundan ötürü bu tema geçici olarak devre dışı bırakıldı. Geri getirmek, yeni bir SD Kart sürücüsü yazmamızı gerektiriyor, ki bu bayağı yorucu ve zaman alıcı.
     </p>
     <p>
-        Sabırlı ol; bir süre dönmeyebilir.
+        Lütfen sabırlı olun; bir süreliğine olmayabilir.
     </p>
 </div>
 

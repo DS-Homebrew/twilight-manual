@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/manual-home.png
-title: Home
+title: Ana Menü
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Tuş Kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -26,10 +26,10 @@ title: Home
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Dokunma kontrolleri</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Dokunmatik ekranda yukarı/aşağı kaydırın"></p>
         <p class="button-action-text">Aşağı ve yukarı kaydır</p>
     </div>
     <hr>
@@ -39,7 +39,7 @@ title: Home
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Açılış Kısayolları</div>
 <div class="section-body">
     <p>
         TWiLight Menu++ ayarlarını sıfırlamak için &#xE000;, &#xE001;, &#xE002;, ve &#xE003; basılı tutun.
@@ -50,13 +50,13 @@ title: Home
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the last ran ROM.
+        Son çalıştırılan ROM'u yüklemek için &#xE001; tuşuna basılı tutun.
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Tema bilgileri</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">TWiLight Menu++, seçebileceğiğniz 6 farklı temaya sahiptir. Bunlar farklı tasarımlara sahip alternatif menülerdir ve bazılarının tamamen farklı bir arayüzü vardır.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -73,7 +73,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/hbl-icon.png">
             <p>
-                <a href="theme6-hbl">Homebrew Launcher</a>
+                <a href="theme6-hbl">Homebrew Başlatıcısı</a>
             </p>
         </div>
         <div class="grid-item">
@@ -85,7 +85,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">Original R4</a>
+                <a href="theme3-r4">Orijinal R4</a>
             </p>
         </div>
         <div class="grid-item">
@@ -97,9 +97,9 @@ title: Home
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Oyun Yükleyicileri</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">TWiLight Menu++, adı üstünde, sadece bir menü. Aslında tek başına ROM'ları kendisi yüklemiyor. ROM yükleyicileri için kılavuz:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,29 +116,29 @@ title: Home
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Diğer Bilgiler</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">DS Klasik Menü</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Sohbet</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Ayarlar</a>
             </p>
         </div>
     </div>
     <p>
-        TWiLight Menu++ hakkında daha fazla bilgi sahibi olmak ister misiniz? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        TWiLight Menu++ hakkında daha fazla bilgi sahibi olmak ister misiniz? Wiki sayfasına göz atın: <br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>
