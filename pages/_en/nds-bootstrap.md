@@ -28,9 +28,23 @@ title: nds-bootstrap
 	<p class="mb-0">
 		Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
 	</p>
+	<p>
+		This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+	</p>
 	<hr>
 	<p class="mb-0">
 		Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+	</p>
+	<p>
+		Hold for 2 seconds to force the game to reset.
+	</p>
+	<hr>
+	<p class="mb-0">
+		Press &#xE004;, &#xE005;, &#xE07A;, and &#xE000; to make a RAM dump.
+	</p>
+	<hr>
+	<p class="mb-0">
+		Press &#xE004;, &#xE005;, &#xE07A;, and &#xE001; to return to TWiLight Menu++.
 	</p>
 	<hr>
 	<p class="mb-0">
