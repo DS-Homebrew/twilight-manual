@@ -25,16 +25,30 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Contrôles</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Appuyez sur &#xE004;, &#xE07A; et SELECT pour ouvrir le menu en jeu.
     </p>
-    <hr>
-    <p class="mb-0">
-        Appuyez sur &#xE004;, &#xE005;, START et SELECT pour réinitialiser le jeu.
+    <p>
+        Ceci peut être remappé avec le <code>Menu raccourcis</code> dans la page des paramères des jeux et apps de TWiLight Menu++.
     </p>
     <hr>
-    <p class="mb-0">
-        Maintenez &#xE004;, &#xE005;, &#xE002;, et &#xE079; pendant 1 seconde pour permuter les écrans.
+    <p>
+        Appuyez sur &#xE004;, &#xE005;, START et SELECT pour réinitialiser le jeu.
+    </p>
+    <p>
+        Maintenez pendant 2 secondes pour forcer le jeu à réinitialiser.
+    </p>
+    <hr>
+    <p>
+        Maintenez &#xE004;, &#xE005;, &#xE07A; et &#xE000; pendant 2 secondes pour créer un dump de la RAM.
+    </p>
+    <hr>
+    <p>
+        Maintenez &#xE004;, &#xE005;, &#xE07A; et &#xE001; pendant 2 secondes pour revenir à TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Maintenez &#xE004;, &#xE005;, &#xE002; et &#xE079; pendant 1 seconde pour échanger les écrans.
     </p>
 </div>
 

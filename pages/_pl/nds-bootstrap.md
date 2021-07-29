@@ -25,16 +25,30 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Sterowanie</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Naciśnij &#xE004;, &#xE07A; i SELECT, aby otworzyć menu w grze.
     </p>
-    <hr>
-    <p class="mb-0">
-        Naciśnij &#xE004;, &#xE005; START i SELECT, aby zresetować grę.
+    <p>
+        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
     </p>
     <hr>
-    <p class="mb-0">
-        Przytrzymaj &#xE004;, &#xE005;, &#xE002; i &#xE079; przez jedną sekundę, aby zamienić ekrany.
+    <p>
+        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+    </p>
+    <p>
+        Hold for 2 seconds to force the game to reset.
+    </p>
+    <hr>
+    <p>
+        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+    </p>
+    <hr>
+    <p>
+        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 

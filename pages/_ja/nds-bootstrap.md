@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">コントロール</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         &#xE004;、&#xE07A;、SELECTを押してゲーム内メニューを開きます。
     </p>
-    <hr>
-    <p class="mb-0">
-        &#xE004;、&#xE005;、START、SELECTを押してゲームをリセットします。
+    <p>
+        これは、TWiLight Menu++設定のゲームとアプリのページの<code>メニューホットキー</code>で変更できます。
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        &#xE004;、&#xE005;、START、SELECTを押してゲームをリセットします。
+    </p>
+    <p>
+        2 秒で長押しして、ゲームを強制的にリセットします。
+    </p>
+    <hr>
+    <p>
+        &#xE004;、&#xE005;、&#xE07A;、&#xE000;を2秒で長押してRAMダンプを作成します。
+    </p>
+    <hr>
+    <p>
+        &#xE004;、&#xE005;、&#xE07A;、&#xE001;を2秒で長押してTWILight Menu++に戻ります。
+    </p>
+    <hr>
+    <p>
         &#xE004;、&#xE005;、&#xE002;、&#xE079;を1秒で中押して画面を切り替わります。
     </p>
 </div>

@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Steuerung</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Drücke &#xE004;, &#xE07A;, und SELECT, um das Ingame-Menü zu öffnen.
     </p>
-    <hr>
-    <p class="mb-0">
-        Drücke &#xE004;, &#xE005;, START und SELECT, um das Spiel zurückzusetzen.
+    <p>
+        Dies kann mit <code>Menü-Hotkey</code> auf der Spiel- und App-Seite der TWiLight Menu++ Einstellungen erneut festgelegt werden.
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        Drücke &#xE004;, &#xE005;, START und SELECT, um das Spiel zurückzusetzen.
+    </p>
+    <p>
+        2 Sekunden gedrückt halten, um das Spiel zum Zurücksetzen zu zwingen.
+    </p>
+    <hr>
+    <p>
+        Halte &#xE004;, &#xE005;, &#xE07A;, und &#xE000; für 2 Sekunden gedrückt, um einen RAM Dump zu erstellen.
+    </p>
+    <hr>
+    <p>
+        Halte &#xE004;, &#xE005;, &#xE07A;, und &#xE001; für 2 Sekunden gedrückt, um zu TWiLight Menu++ zurückzukehren.
+    </p>
+    <hr>
+    <p>
         Halte &#xE004;, &#xE005;, &#xE002;, und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
     </p>
 </div>

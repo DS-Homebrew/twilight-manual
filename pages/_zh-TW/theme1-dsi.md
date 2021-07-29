@@ -1,56 +1,56 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi Theme
+title: Nintendo DSi主題
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">按鈕控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">移動項目<br>(分類方式必須改為"自定義")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">上一個/下一個項目</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">啟動已選擇的軟體</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">返回上一目錄</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">刪除/隱藏項目</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">開啟遊戲子選單</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">打開SELECT菜單或是DS Classic菜單</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">點擊控制方法</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">拖動滾動條</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">啟動已選擇的軟體</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,43 +60,44 @@ title: Nintendo DSi Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">翻頁系統</div>
 <div class="section-body">
     <p>
-        The Nintendo DSi theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Nintendo DSi主題中，每頁可存放最多40個軟體。 您可以通過&#xE004; 和&#xE005; 來切換頁面。
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>在最初頁按下&#xE004; 會定位到本頁第一個項目。</p></li>
+        <li><p>在最後頁按下&#xE005; 會定位到本頁最後一個項目。</p></li>
     </ul>
     <p>
-        The scrollbar at the bottom represents all of the items on a page so you can tap on it to quickly move to a specific location in the page.
+        您可以通過滾動條快速滾動頁面來便捷地尋找要使用的軟體。
     </p>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        如果發生問題，您可以改為按下SELECT+&#xE07E;.
     </p>
 </div>
 
-<div id="custom-top-screen-image" class="section-title">Custom Top Screen Image</div>
+<div id="custom-top-screen-image" class="section-title">上熒幕客製化背景</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ supports displaying custom photos on the top screen, just like the official Nintendo DSi Menu. However, rather than have it pull from the Nintendo DSi Camera application, you can place PNG images in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>本軟件支持在上熒幕中顯示自定義的圖片，如同Nintendo DSi主機系統一樣。 並且，不僅是Nintendo DSi照相館內的圖像，您也可在本軟體中設定PNG图像文件。路徑：
+ <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
-        <li>Maximum width: 208 pixels</li>
-        <li>Maximum height: 156 pixels</li>
+        <li>最大寬度: 208px</li>
+        <li>最大高度: 156px</li>
     </ul>
-    <p>If the image size is less than the maximum, it will be centered with black borders.</p>
+    <p>若大小未達到最大限制，將使用黑色邊框填充。</p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT Menu</div>
+<div id="select-menu" class="section-title">SELECT選單</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the Nintendo DSi theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        沒有更改設定時, 在Nintendo DSi主題下, 按SELECT進入DS Classic選單. 但是, 當設定為"Select選單"時, 按下SELECT會顯示一個小選單. 下為SELECT選單的說明
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Home選單</strong>僅在Nintendo DSi或者NIntendo 3DS中，按下會自動退出程式, 然後返回主機Home選單</li>
+        <li><strong>設定:</strong>點擊后進入TWiLight Menu++設定選單</li>
+        <li><strong>卡帶選項:</strong>如果是DS/DS Lite, 可直接加載Slot-2內的設備 在Nintendo DSi或是Nintendo 3DS主機內建SD卡運行本軟體時，您可以選擇加載插入於Slot-1插槽中的遊戲卡匣</li>
+        <li><strong>說明書</strong>:打開TWiLightMenu++的說明書，也就是您現在所看到的 :P</li>
     </ul>
 </div>

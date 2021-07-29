@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Irányítás</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Nyomj &#xE004;, &#xE07A;, és SELECT gombot a játékon belüli menü megnyitáshoz.
     </p>
-    <hr>
-    <p class="mb-0">
-        Nyomj &#xE004;, &#xE005;, START és SELECT gombot a játék alaphelyzetbe állításához.
+    <p>
+        Ez átdefiniálható a <code>Menu hotkey</code>-jel a Játékok és Appok oldalon a TWiLight Menu++ beállításaiban.
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        Nyomj &#xE004;, &#xE005;, START és SELECT gombot a játék alaphelyzetbe állításához.
+    </p>
+    <p>
+        Tartsd nyomva 2 másodpercig, hogy kényszerítsd a játékot az alaphelyzetbe állásra.
+    </p>
+    <hr>
+    <p>
+        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE000; gombokat 2 másodpercig, hogy készíts egy RAM dumpot.
+    </p>
+    <hr>
+    <p>
+        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE001; gombokat 2 másodpercig, hogy visszatérj a TWiLight Menu++-ba.
+    </p>
+    <hr>
+    <p>
         Tartsd nyomva a &#xE004;, &#xE005;,&#xE002; és a &#xE079; gombokat 1 másodpercig, hogy váltsd a képernyőket.
     </p>
 </div>

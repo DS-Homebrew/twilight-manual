@@ -42,7 +42,7 @@ title: Ana Menü
 <div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Açılış Kısayolları</div>
 <div class="section-body">
     <p>
-        TWiLight Menu++ ayarlarını sıfırlamak için &#xE000;, &#xE001;, &#xE002;, ve &#xE003; basılı tutun.
+        TWiLight Menu++ ayarlarını sıfırlamak için &#xE000;, &#xE001;, &#xE002;, ve &#xE003; tuşlarını basılı tutun.
     </p>
     <hr>
     <p>
@@ -56,7 +56,7 @@ title: Ana Menü
 
 <div id="theme-information" class="section-title">Tema bilgileri</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, seçebileceğiğniz 6 farklı temaya sahiptir. Bunlar farklı tasarımlara sahip alternatif menülerdir ve bazılarının tamamen farklı bir arayüzü vardır.</p>
+    <p class="mb-2">TWiLight Menu++, seçebileceğiniz 6 farklı temaya sahiptir. Bunlar farklı tasarımlara sahip alternatif menülerdir ve bazılarının tamamen farklı bir arayüzü vardır.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -99,7 +99,7 @@ title: Ana Menü
 
 <div id="game-loaders" class="section-title">Oyun Yükleyicileri</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, adı üstünde, sadece bir menü. Aslında tek başına ROM'ları kendisi yüklemiyor. ROM yükleyicileri için kılavuz:</p>
+    <p class="mb-2">TWiLight Menu++, adı üstünde, sadece bir menü. Aslında tek başına ROM'ları kendisi yüklemiyor. ROM yükleyicileri için kılavuzlar:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">

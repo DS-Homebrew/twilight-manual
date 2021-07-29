@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">操作方式</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         按 &#xE004;, &#xE07A;, 和 SELECT 打开游戏内菜单。
     </p>
-    <hr>
-    <p class="mb-0">
-        按 &#xE004;, &#xE005;, START, 和 SELECT 重置游戏。
+    <p>
+        可以在TWiLightMenu++设置菜单中的游戏与软件设置中的进行<code>热键</code>的设定。
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        按 &#xE004;, &#xE005;, START, 和 SELECT 重置游戏。
+    </p>
+    <p>
+        按住 2 秒后强制重置游戏。
+    </p>
+    <hr>
+    <p>
+        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE000; 2秒来创建RAM转储。
+    </p>
+    <hr>
+    <p>
+        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE001; 2秒后返回到 TWiLight Menu++。
+    </p>
+    <hr>
+    <p>
         按住&#xE004;, &#xE005;, &#xE002;, and &#xE079; 1秒来切换屏幕。
     </p>
 </div>

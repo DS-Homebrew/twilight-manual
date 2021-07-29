@@ -92,12 +92,12 @@ title: Nintendo DSi Teması
 <div id="select-menu" class="section-title">SELECT Menüsü</div>
 <div class="section-body">
     <p>
-        Nintendo DSi temasında SELECT düğmesine basmak, sizi DS Klasik menüsüne götürecektir. Ancak TWiLight Menu++ ayarlarında SELECT Menüsünü tema içerisine gömülü minyatür bir menü haline getirebilirsiniz. Burada SELECT Menüsündeki menü seçeneklerini sıraladık.
+        Nintendo DSi temasında SELECT düğmesine basmak, sizi DS Klasik menüsüne götürecektir. Ancak TWiLight Menu++ ayarlarında SELECT Menüsünü tema içerisine gömülü minyatür bir menü haline getirebilirsiniz. Burada SELECT menüsündeki menü seçeneklerini sıraladık.
     </p>
     <ul>
-        <li><strong>Ana Menü</strong>: Nintendo DSi'da ve 3DS'te bu seçenek, ana menüye geri dönmek için kullanılmaktadır</li>
-        <li><strong>Ayarlar</strong>: Bunu seçmek, size TWiLight Menu++'yü ve başlatıcılarını yapılandırmaya yarayan menü sunacaktır</li>
-        <li><strong>Kartuş seçenekleri</strong>: DS ve DS Lite'ta Slot-2'den başlatmak için bu seçenek kullanılabilir. SD Karttan çalıştırılan Nintendo DSi ve 3DS'te, Slot-1'i çalıştırabilirsiniz. Veya bazı belirli flashcard'lar ile TWiLight Menu++'de gezinilecek SD Kartı değiştirebilirsiniz</li>
+        <li><strong>Ana Menü</strong>: Nintendo DSi'da ve 3DS'te bu seçenek, ana menüye geri dönmek için kullanılır</li>
+        <li><strong>Ayarlar</strong>: Bunu seçmek, size TWiLight Menu++'yü ve başlatıcılarını yapılandırmaya yarayan bir menüyü çıkaracaktır</li>
+        <li><strong>Kartuş seçenekleri</strong>: DS ve DS Lite'ta Slot-2'den başlatmak için bu seçenek kullanılabilir. SD Karttan çalıştırılan Nintendo DSi ve 3DS'te Slot-1'i çalıştırabilirsiniz. Veya bazı belirli flashcard'lar ile TWiLight Menu++'de gezinilecek SD Kartı değiştirebilirsiniz</li>
         <li><strong>Kılavuz</strong>: Bu TWiLight Menu++ Kılavuzunu karşınıza çıkaracak. Şu an okuduğunuz şey de bu zaten :P</li>
     </ul>
 </div>

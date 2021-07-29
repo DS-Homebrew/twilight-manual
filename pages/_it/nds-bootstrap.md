@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Controlli</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco.
     </p>
-    <hr>
-    <p class="mb-0">
-        Premi &#xE004;, &#xE005;, START e SELECT per resettare il gioco.
+    <p>
+        Può essere rimappato con la <code>scorciatoia menù</code> nella pagina Giochi & App delle impostazioni di Twilight Menu++.
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        Premi &#xE004;, &#xE005;, START e SELECT per resettare il gioco.
+    </p>
+    <p>
+        Tieni premuto per 2 secondi per forzare il ripristino della partita.
+    </p>
+    <hr>
+    <p>
+        Tieni premuto &#xE004;, &#xE005;, &#xE07A; e &#xE000; per 2 secondi per creare un dump della RAM.
+    </p>
+    <hr>
+    <p>
+        Tieni premuto &#xE004;, &#xE005;, &#xE07A; e &#xE001; per 2 secondi per tornare in TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
         Tieni premuto &#xE004;, &#xE005;, &#xE002;, e &#xE079; per 1 secondo per invertire gli schermi.
     </p>
 </div>

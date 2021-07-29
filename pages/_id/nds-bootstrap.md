@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Kendali</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game.
     </p>
-    <hr>
-    <p class="mb-0">
-        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang (reset).
+    <p>
+        Ini dapat dipeta ulang di <code>Ubah hotkey menu</code> pada halaman Permainan dan Aplikasi pengaturan TWiLight Menu++.
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang (reset).
+    </p>
+    <p>
+        Tahan 2 detik untuk memaksa permainannya diulang.
+    </p>
+    <hr>
+    <p>
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE000; selama 2 detik agar dump RAM dibuat.
+    </p>
+    <hr>
+    <p>
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik agar kembali ke TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
         Tahan &#xE004;, &#xE005;, &#xE002;, dan &#xE079; selama 1 detik agar layarnya pindah.
     </p>
 </div>

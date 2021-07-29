@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">조작법</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         인게임 메뉴를 열기 위해 &#xE004;와 &#xE07A;, SELECT 버튼을 누릅니다.
     </p>
-    <hr>
-    <p class="mb-0">
-        게임을 리셋하려면 &#xE004;, &#xE005;, START와 SELECT를 누르십시오.
+    <p>
+        이는 TWiLight Menu++ 설정의 게임 및 앱 설정에 있는 <code>메뉴 단축키</code>에서 재배치할 수 있습니다.
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        게임을 리셋하려면 &#xE004;, &#xE005;, START와 SELECT를 누르십시오.
+    </p>
+    <p>
+        게임을 강제로 리셋하려면 2초간 누릅니다.
+    </p>
+    <hr>
+    <p>
+        &#xE004;, &#xE005;, &#xE07A; 와 &#xE000; 를 2초 동안 눌러 RAM 덤프를 만듭니다.
+    </p>
+    <hr>
+    <p>
+        &#xE004;, &#xE005;, &#xE07A; 와 &#xE001; 를 2초 동안 눌러 TWiLight Menu++로 돌아갑니다.
+    </p>
+    <hr>
+    <p>
         &#xE004;, &#xE005;, &#xE002; 와 &#xE079; 를 1초 동안 눌러 화면 위아래를 변경합니다.
     </p>
 </div>

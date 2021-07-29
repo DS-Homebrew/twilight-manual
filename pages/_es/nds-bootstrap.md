@@ -25,15 +25,29 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Controles</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú del juego.
     </p>
-    <hr>
-    <p class="mb-0">
-        Pulsa &#xE004;, &#xE005;, START y SELECT para reiniciar el juego.
+    <p>
+        Se puede remapear con la <code>tecla de acceso directo al menú</code> en la página de juegos y aplicaciones de los ajustes de TWiLight Menu++.
     </p>
     <hr>
-    <p class="mb-0">
+    <p>
+        Pulsa &#xE004;, &#xE005;, START y SELECT para reiniciar el juego.
+    </p>
+    <p>
+        Mantén pulsado por 2 segundos para forzar el reinicio del juego.
+    </p>
+    <hr>
+    <p>
+        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE000; por 2 segundos para hacer un volcado de RAM.
+    </p>
+    <hr>
+    <p>
+        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE001; por 2 segundos para volver a TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
         Mantén pulsado &#xE004;, &#xE005;, &#xE002; y &#xE079; por 1 segundo para intercambiar las pantallas.
     </p>
 </div>

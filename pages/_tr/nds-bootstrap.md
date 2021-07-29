@@ -25,16 +25,30 @@ title: nds-bootstrap
 
 <div id="controls" class="section-title">Kontroller</div>
 <div class="section-body">
-    <p class="mb-0">
+    <p>
         Oyun içi menüyü açmak için &#xE004; &#xE07A; ve SELECT tuşlarına basın.
     </p>
-    <hr>
-    <p class="mb-0">
-        Oyunu sıfırlamak için &#xE004; &#xE005;, START ve SELECT tuşlarına basın.
+    <p>
+        Bu tuş kombinasyonu, TWiLight Menu++ Ayarları'ndaki Oyun ve Uygulama Ayarları sayfasından <code>Menü Kısayolu</code> seçeneğinden değiştirilebilir.
     </p>
     <hr>
-    <p class="mb-0">
-        Ekranları değiş tokuş etmek için &#xE004;, &#xE005;, &#xE002; ve &#xE079; tuşlarına 1 saniye boyunca basılı tutunuz.
+    <p>
+        Oyunu Sıfırlamak için &#xE004;, &#xE005;, START ve SELECT tuşlarına basın.
+    </p>
+    <p>
+        Oyunu sıfırlamaya zorlamak için 2 saniye basılı tutun.
+    </p>
+    <hr>
+    <p>
+        Belleği kopyalamak için &#xE004;, &#xE005;, &#xE07A; ve &#xE000; tuşlarına 2 saniye basılı tutun.
+    </p>
+    <hr>
+    <p>
+        TWiLight Menu++'ye geri dönmek için &#xE004;, &#xE005;, &#xE07A; ve &#xE001; tuşlarına 2 saniye boyunca basılı tutun.
+    </p>
+    <hr>
+    <p>
+        Ekranları değiş tokuş etmek için &#xE004;, &#xE005;, &#xE002; ve &#xE079; tuşlarına 1 saniye boyunca basılı tutun.
     </p>
 </div>
 
