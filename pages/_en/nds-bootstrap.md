@@ -93,7 +93,7 @@ title: nds-bootstrap
 		<p class="button-action button">&#xE001;</p>
 		<p class="button-action-text">Cancel</p>
 	</div>
-	<h3>Hex Editor</h3>
+	<h3>RAM Editor</h3>
 	<div class="button-action-group">
 		<p class="button-action button">&#xE07D; / &#xE07E;</p>
 		<p class="button-action-text">Navigate</p>
@@ -106,7 +106,7 @@ title: nds-bootstrap
 	<hr>
 	<div class="button-action-group">
 		<p class="button-action button">&#xE001;</p>
-		<p class="button-action-text">Exit edit mode<br>Exit hex editor</p>
+		<p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
 	</div>
 	<hr>
 	<div class="button-action-group">
