@@ -23,7 +23,7 @@ title: nds-bootstrap
 	</p>
 </div>
 
-<div id="controls" class="section-title">Controls</div>
+<div id="controls" class="section-title">In-Game Controls</div>
 <div class="section-body">
 	<p>
 		Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
@@ -50,6 +50,74 @@ title: nds-bootstrap
 	<p>
 		Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
 	</p>
+</div>
+
+<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div class="section-body">
+	<div class="button-action-group">
+		<p class="button-action button">&#xE07D;</p>
+		<p class="button-action-text">Navigate menu</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE07E;</p>
+		<p class="button-action-text">Change setting<br>(Options submenu)</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE000;</p>
+		<p class="button-action-text">Select option</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE001;</p>
+		<p class="button-action-text">Return to game</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE005;</p>
+		<p class="button-action-text">Advance 1 frame</p>
+	</div>
+	<h3>Screenshot</h3>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE07D; / &#xE07E;</p>
+		<p class="button-action-text">Change VRAM bank</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE000;</p>
+		<p class="button-action-text">Save screenshot</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE001;</p>
+		<p class="button-action-text">Cancel</p>
+	</div>
+	<h3>Hex Editor</h3>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE07D; / &#xE07E;</p>
+		<p class="button-action-text">Navigate</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE000;</p>
+		<p class="button-action-text">Enter edit mode</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE001;</p>
+		<p class="button-action-text">Exit edit mode<br>Exit hex editor</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE003;</p>
+		<p class="button-action-text">Jump to address</p>
+	</div>
+	<hr>
+	<div class="button-action-group">
+		<p class="button-action button">&#xE005;</p>
+		<p class="button-action-text">Hold to navigate faster</p>
+	</div>
 </div>
 
 <div id="cheats" class="section-title">Cheats</div>
