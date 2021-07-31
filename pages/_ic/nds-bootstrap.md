@@ -23,7 +23,7 @@ title: crwdns21114:0crwdne21114:0
     </p>
 </div>
 
-<div id="controls" class="section-title">crwdns20478:0crwdne20478:0</div>
+<div id="controls" class="section-title">crwdns24377:0crwdne24377:0</div>
 <div class="section-body">
     <p>
         crwdns20480:0crwdne20480:0
@@ -52,20 +52,88 @@ title: crwdns21114:0crwdne21114:0
     </p>
 </div>
 
-<div id="cheats" class="section-title">crwdns20484:0crwdne20484:0</div>
+<div id="menu-controls" class="section-title">crwdns24379:0crwdne24379:0</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24381:0crwdne24381:0</p>
+        <p class="button-action-text">crwdns24383:0crwdne24383:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24385:0crwdne24385:0</p>
+        <p class="button-action-text">crwdns24387:0crwdne24387:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24389:0crwdne24389:0</p>
+        <p class="button-action-text">crwdns24391:0crwdne24391:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24393:0crwdne24393:0</p>
+        <p class="button-action-text">crwdns24395:0crwdne24395:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24397:0crwdne24397:0</p>
+        <p class="button-action-text">crwdns24399:0crwdne24399:0</p>
+    </div>
+    <h3>crwdns24401:0crwdne24401:0</h3>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24403:0crwdne24403:0</p>
+        <p class="button-action-text">crwdns24405:0crwdne24405:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24407:0crwdne24407:0</p>
+        <p class="button-action-text">crwdns24409:0crwdne24409:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24411:0crwdne24411:0</p>
+        <p class="button-action-text">crwdns24413:0crwdne24413:0</p>
+    </div>
+    <h3>crwdns24415:0crwdne24415:0</h3>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24417:0crwdne24417:0</p>
+        <p class="button-action-text">crwdns24419:0crwdne24419:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24421:0crwdne24421:0</p>
+        <p class="button-action-text">crwdns24423:0crwdne24423:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24425:0crwdne24425:0</p>
+        <p class="button-action-text">crwdns24427:0crwdne24427:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24429:0crwdne24429:0</p>
+        <p class="button-action-text">crwdns24431:0crwdne24431:0</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">crwdns24433:0crwdne24433:0</p>
+        <p class="button-action-text">crwdns24435:0crwdne24435:0</p>
+    </div>
+</div>
+
+<div id="cheats" class="section-title">crwdns24437:0crwdne24437:0</div>
 <div class="section-body">
     <p>
-        crwdns17742:0crwdne17742:0 crwdns17748:0crwdne17748:0
+        crwdns24439:0crwdne24439:0 crwdns24441:0crwdne24441:0
     </p>
     <hr>
     <p>
-        crwdns17752:0crwdne17752:0
+        crwdns24443:0crwdne24443:0
     </p>
     <p>
-        crwdns17760:0crwdne17760:0
+        crwdns24445:0crwdne24445:0
     </p>
     <hr>
     <p>
-        crwdns17766:0crwdne17766:0 crwdns17774:0crwdne17774:0
+        crwdns24447:0crwdne24447:0 crwdns24449:0crwdne24449:0
     </p>
 </div>
