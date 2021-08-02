@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">שליטה</div>
+<div id="controls" class="section-title">In-Game Controls</div>
 <div class="section-body">
     <p>
         לחצו &#xE004;, &#xE07A;, ו-SELECT בכדי לפתוח את התפריט בזמן-משחק.
@@ -52,20 +52,88 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="cheats" class="section-title">צ'יטים</div>
+<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Navigate menu</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Select option</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Return to game</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Advance 1 frame</p>
+    </div>
+    <h3>Screenshot</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Change VRAM bank</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Save screenshot</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Cancel</p>
+    </div>
+    <h3>RAM Editor</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Navigate</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Enter edit mode</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Jump to address</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Hold to navigate faster</p>
+    </div>
+</div>
+
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
-        nds-bootstrap יכול להשתמש בצ'יטים של Action Replay דרך מסד-הנתונים <code>usrcheat.dat</code>, שצריך להימצא ב- <code>sd:/_nds/TWiLightMenu/extras</code>. ברגע שמסד-הנתונים ממוקם שם, היכנסו לתפריט ההגדרות האישיות של TWiLight Menu++ למשחק שלכם ובחרו באילו צ'יטים להשתמש.
+        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
     </p>
     <hr>
     <p>
-        מסד-הנתונים של DeadSkullzJr מומלץ מכיוון שהוא הגדול והעדכני ביותר:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        לחילופין, אם תרצו להכין אחד בעצמכם תוכלו להשתמש ב-R4CEE על המחשב:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        זכרו שמימוש הצ'יטים של nds-bootstrap אינו יציב וכתוצאה מכך לא מובטח שהקודים שלכם יעבדו. זו אינה אשמת מסד-הנתונים ואנו מקווים לפתור את הבעיה הזו ב-nds-bootstrap בקרוב.
+        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
     </p>
 </div>

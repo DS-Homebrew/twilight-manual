@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">操作方式</div>
+<div id="controls" class="section-title">游戏内菜单控制</div>
 <div class="section-body">
     <p>
         按 &#xE004;, &#xE07A;, 和 SELECT 打开游戏内菜单。
@@ -52,6 +52,74 @@ title: nds-bootstrap
     </p>
 </div>
 
+<div id="menu-controls" class="section-title">游戏内菜单控制</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">导航菜单</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">更改设置<br>(选项子菜单)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">选择选项</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">返回游戏</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">前进1帧</p>
+    </div>
+    <h3>截屏</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">更改VRAM区块</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">保存屏幕截图</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">取消</p>
+    </div>
+    <h3>RAM 编辑器</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">导航</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">进入编辑模式</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">退出编辑模式<br>退出RAM 编辑器</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">跳转到地址</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">按住以加快导航速度</p>
+    </div>
+</div>
+
 <div id="cheats" class="section-title">金手指</div>
 <div class="section-body">
     <p>
@@ -66,6 +134,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        请注意，nds-bootstrap的e-type金手指有稳定性问题，您的金手指可能会不起作用。 这并非金手指代码文件的错误，并且我们希望早日在nds-bootstrap中修复这个问题。
+        请注意，nds-bootstrap的e-type金手指有稳定性问题，您的金手指可能会不起作用。 这不是金手指文件内数据的一个故障, 并且我们希望不久后nds-bootstrap能得到此问题的修复
     </p>
 </div>

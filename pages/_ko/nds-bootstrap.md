@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">조작법</div>
+<div id="controls" class="section-title">게임 내 메뉴 컨트롤</div>
 <div class="section-body">
     <p>
         인게임 메뉴를 열기 위해 &#xE004;와 &#xE07A;, SELECT 버튼을 누릅니다.
@@ -50,6 +50,74 @@ title: nds-bootstrap
     <p>
         &#xE004;, &#xE005;, &#xE002; 와 &#xE079; 를 1초 동안 눌러 화면 위아래를 변경합니다.
     </p>
+</div>
+
+<div id="menu-controls" class="section-title">게임 내 메뉴 컨트롤</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">메뉴 탐색</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">설정 변경<br>(서브메뉴 설정)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">옵션 선택</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">게임으로 돌아가기</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">1프레임 전진</p>
+    </div>
+    <h3>스크린샷</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">VRAM 뱅크 변경</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">스크린샷 저장</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">취소</p>
+    </div>
+    <h3>RAM 에디터</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">탐색</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">편집 모드 진입</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">편집 모드 종료<br>RAM 에디터 종료</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">주소로 이동</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">길게 눌러서 더 빠르게 탐색</p>
+    </div>
 </div>
 
 <div id="cheats" class="section-title">치트</div>

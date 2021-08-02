@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">控制</div>
+<div id="controls" class="section-title">統一選單控制</div>
 <div class="section-body">
     <p>
         按下&#xE004;, &#xE07A;, 和選擇鍵開啟遊戲子選單。
@@ -50,6 +50,74 @@ title: nds-bootstrap
     <p>
         同時按下&#xE004;, &#xE005;, &#xE002;, 和 &#xE079; 1秒來切換熒幕。
     </p>
+</div>
+
+<div id="menu-controls" class="section-title">統一選單控制</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">瀏覽選單</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">修改設定<br>(子選項選單)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">選擇選項</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">返回遊戲</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">前進1幀</p>
+    </div>
+    <h3>截圖</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">修改VRAM Bank</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">儲存畫面截圖</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">取消</p>
+    </div>
+    <h3>RAM編輯器</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">導航</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">進入編輯模式</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">退出編輯模式<br>退出RAM編輯器</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">移至位址</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">按住以加快導航</p>
+    </div>
 </div>
 
 <div id="cheats" class="section-title">金手指</div>

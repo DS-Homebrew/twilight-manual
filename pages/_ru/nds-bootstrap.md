@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Управление</div>
+<div id="controls" class="section-title">Управление в игре</div>
 <div class="section-body">
     <p>
         Нажмите &#xE004;, &#xE07A;, и SELECT, чтобы открыть внутриигровое меню.
@@ -50,6 +50,74 @@ title: nds-bootstrap
     <p>
         Удерживайте &#xE004;, &#xE005;, &#xE002;, и &#xE079; 1 секунду, чтобы сменить экран.
     </p>
+</div>
+
+<div id="menu-controls" class="section-title">Меню управления в игре</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Меню навигации</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Изменить настройки<br>(меню опций)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Выбрать опцию</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Вернуться в игру</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Продвинутый 1 кадр</p>
+    </div>
+    <h3>Скриншот</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Изменить VRAM bank</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Сохранить скриншот</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Отмена</p>
+    </div>
+    <h3>RAM Editor</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Перейти</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Войти в режим редактирования</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Перейти к адресу</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Удерживайте, чтобы перемещаться быстрее</p>
+    </div>
 </div>
 
 <div id="cheats" class="section-title">Читы</div>

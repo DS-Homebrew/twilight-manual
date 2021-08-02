@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Χειρισμός</div>
+<div id="controls" class="section-title">In-Game Controls</div>
 <div class="section-body">
     <p>
         Πατήστε &#xE004;, &#xE07A;, και SELECT για να ανοίξετε το μενού εντός του παιχνιδιού.
@@ -52,20 +52,88 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="cheats" class="section-title">Κλέψιμο</div>
+<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Navigate menu</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Select option</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Return to game</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Advance 1 frame</p>
+    </div>
+    <h3>Screenshot</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Change VRAM bank</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Save screenshot</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Cancel</p>
+    </div>
+    <h3>RAM Editor</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Navigate</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Enter edit mode</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Jump to address</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Hold to navigate faster</p>
+    </div>
+</div>
+
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
-        nds-bootstrap μπορεί να χρησιμοποιήσει Action Replay cheats μέσω μιας βάσης δεδομένων <code>usrcheat.dat</code>, η οποία πρέπει να είναι σε <code>sd:/_nds/TWiLightMenu/extras</code>. Μόλις η βάση δεδομένων δημιουργηθεί, μπορείτε να επιλέξετε ποια κλεψιά θέλετε να χρησιμοποιήσετε από το μενού ρυθμίσεων ανά παιχνίδι στο TWiLight Menu++.
+        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr cheat database συνιστάται καθώς είναι το μεγαλύτερο και πιο ενημερωμένο: <br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Εναλλακτικά, αν θέλετε να κάνετε ένα δικό σας, μπορείτε να χρησιμοποιήσετε το R4CEE σε έναν υπολογιστή:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Λάβετε υπόψη ότι nds-bootstrap's E-type cheat είναι ασταθής και ως αποτέλεσμα, ο κώδικάς σας μπορεί ή δεν μπορεί να λειτουργήσει. Αυτό δεν είναι σφάλμα της βάσης δεδομένων, και ελπίζουμε να διορθωθεί αυτό το θέμα στο nds-bootstrap σύντομα.
+        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
     </p>
 </div>

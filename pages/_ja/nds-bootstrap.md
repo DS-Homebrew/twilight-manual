@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">コントロール</div>
+<div id="controls" class="section-title">ゲーム内コントロール</div>
 <div class="section-body">
     <p>
         &#xE004;、&#xE07A;、SELECTを押してゲーム内メニューを開きます。
@@ -50,6 +50,74 @@ title: nds-bootstrap
     <p>
         &#xE004;、&#xE005;、&#xE002;、&#xE079;を1秒で中押して画面を切り替わります。
     </p>
+</div>
+
+<div id="menu-controls" class="section-title">ゲーム内メニューのコントロール</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">メニューをナビゲート</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">設定を変更<br>（設定サブメニュー）</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">オプションを選択</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">ゲームに戻る</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">1フレーム進む</p>
+    </div>
+    <h3>スクリーンショット</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">VRAMバンクを変更</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">スクリーンショットを保存</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">キャンセル</p>
+    </div>
+    <h3>RAMエディター</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">移動</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">編集モードに入る</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">編集モードを終了<br>RAMエディターを終了</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">アドレスにジャンプ</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">長押しで素早く移動</p>
+    </div>
 </div>
 
 <div id="cheats" class="section-title">チート</div>

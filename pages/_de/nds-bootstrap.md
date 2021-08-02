@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Steuerung</div>
+<div id="controls" class="section-title">In-Game-Steuerung</div>
 <div class="section-body">
     <p>
         Drücke &#xE004;, &#xE07A;, und SELECT, um das Ingame-Menü zu öffnen.
@@ -50,6 +50,74 @@ title: nds-bootstrap
     <p>
         Halte &#xE004;, &#xE005;, &#xE002;, und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
     </p>
+</div>
+
+<div id="menu-controls" class="section-title">In-Game-Menü-Steuerung</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Menü navigieren</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Einstellung ändern<br>(Untermenü Optionen)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Option wählen</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Zurück zum Spiel</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Einen Frame weiter springen</p>
+    </div>
+    <h3>Screenshot</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">VRAM-Bank ändern</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Screenshot speichern</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Abbrechen</p>
+    </div>
+    <h3>RAM-Editor</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Navigieren</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Bearbeitungsmodus aktivieren</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Bearbeitungsmodus beenden<br>RAM-Editor beenden</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Zu Adresse springen</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Halten um schneller zu navigieren</p>
+    </div>
 </div>
 
 <div id="cheats" class="section-title">Cheats</div>

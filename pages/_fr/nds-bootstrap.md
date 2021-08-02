@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Contrôles</div>
+<div id="controls" class="section-title">Contrôles en jeu</div>
 <div class="section-body">
     <p>
         Appuyez sur &#xE004;, &#xE07A; et SELECT pour ouvrir le menu en jeu.
@@ -52,20 +52,88 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="cheats" class="section-title">Triches</div>
+<div id="menu-controls" class="section-title">Contrôles de menu en jeu</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Menu de navigation</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Modifier le paramètre<br>(Sous-menu des options)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Sélectionnez l'option</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Retour au jeu</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Avancer de 1 frame</p>
+    </div>
+    <h3>Capture d'écran</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Changer banque VRAM</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Enregistrer la capture d’écran</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Annuler</p>
+    </div>
+    <h3>Éditeur de RAM</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Naviguer</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Entrer en mode édition</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Quitter le mode édition<br>Quitter l'éditeur de RAM</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Aller à l'adresse</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Maintenez pour naviguer plus rapidement</p>
+    </div>
+</div>
+
+<div id="cheats" class="section-title">Codes de triche</div>
 <div class="section-body">
     <p>
-        nds-bootstrap peut utiliser les triches Action Replay via une base de données <code>usrcheat.dat</code> qui doit être dans <code>sd:/_nds/TWiLightMenu/extras</code>. Une fois que la base de données est présent, vous pouvez sélectionner les triches à utiliser dans le menu des paramètres du jeu dans TWiLight Menu++.
+        nds-bootstrap peut utiliser des codes de triches Action Replay via une base de données <code>usrcheat.dat</code> qui doit être placée dans <code>sd:/_nds/TWiLightMenu/extras</code>. Une fois que la base de données est présente, vous pouvez sélectionner les codes de triche à utiliser dans le menu des paramètres de chaque jeu dans TWiLight Menu++.
     </p>
     <hr>
     <p>
-        La base de données de triche de DeadSkullzJr est recommandée car elle est la plus grande et la plus à jour :<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        La base de données de codes de triche de DeadSkullzJr est recommandée car elle est la plus grande et la plus à jour :<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Sinon, si vous souhaitez en faire un vous-même, vous pouvez utiliser R4CEE sur un ordinateur :<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Sinon, si vous souhaitez en faire une vous-même, vous pouvez utiliser R4CEE sur un ordinateur :<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Gardez à l'esprit que l'implémentation de cheats de type E de nds-bootstrap est instable et, par conséquent, votre code pourrait ne pas fonctionner. Ce n'est pas une faute de la base de données, et nous espérons que ce problème sera résolu dans nds-bootstrap bientôt.
+        Gardez à l'esprit que l'implémentation de codes de triche de type E de nds-bootstrap est instable et que, par conséquent, votre code pourrait ne pas fonctionner. Ce n'est pas un défaut de la base de données, et nous espérons que ce problème sera bientôt corrigé dans nds-bootstrap.
     </p>
 </div>

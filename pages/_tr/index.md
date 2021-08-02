@@ -73,7 +73,7 @@ title: Ana Menü
         <div class="grid-item">
             <img src="/assets/images/hbl-icon.png">
             <p>
-                <a href="theme6-hbl">Homebrew Başlatıcısı</a>
+                <a href="theme6-hbl">Homebrew Launcher</a>
             </p>
         </div>
         <div class="grid-item">

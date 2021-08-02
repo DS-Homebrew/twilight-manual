@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Kontroller</div>
+<div id="controls" class="section-title">In-Game Controls</div>
 <div class="section-body">
     <p>
         Tryck på &#xE004;, &#xE07A;, och SELECT för att öppna menyn i spelet.
@@ -52,20 +52,88 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="cheats" class="section-title">Fusk</div>
+<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Navigate menu</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Select option</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Return to game</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Advance 1 frame</p>
+    </div>
+    <h3>Screenshot</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Change VRAM bank</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Save screenshot</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Cancel</p>
+    </div>
+    <h3>RAM Editor</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Navigate</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Enter edit mode</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Jump to address</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Hold to navigate faster</p>
+    </div>
+</div>
+
+<div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
-        nds-bootstrap kan använda Action Replay-fusk via en <code>usrcheat.dat</code> databas, vilket behöver placeras i <code>sd:/_nds/TWiLightMenu/extras</code>. När databasen är där, kan du välja vilka fusk att använda från ett spels "Spelspecifika inställningar" i TWiLight Menu++.
+        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJrs fuskdatabas rekommenderas eftersom den är den största och mest aktuella databasen:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJfusk</a>
+        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternativt, om du vill göra en egen databas så kan du använda R4CEE på en dator:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Tänk på att nds-bootstraps E-type fusk-implementation är instabilt och som ett resultat, din kod kanske eller kanske inte fungerar. Detta är inte ett fel i databasen, och vi hoppas att få detta problem rättat i nds-bootstrap snart.
+        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
     </p>
 </div>

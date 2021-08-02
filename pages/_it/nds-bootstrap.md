@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Controlli</div>
+<div id="controls" class="section-title">Controlli In Gioco</div>
 <div class="section-body">
     <p>
         Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco.
@@ -52,6 +52,74 @@ title: nds-bootstrap
     </p>
 </div>
 
+<div id="menu-controls" class="section-title">Controlli Menù In-Gioco</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Menu di navigazione</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Cambia impostazione<br>(sottomenu opzioni)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Seleziona opzione</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Ritorna al gioco</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Avanza di 1 frame</p>
+    </div>
+    <h3>Screenshot</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Cambia banca VRAM</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Salva screenshot</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Annulla</p>
+    </div>
+    <h3>Editor della RAM</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Naviga</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Entra nella modalità modifica</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Esci dalla modalità modifica<br>Esci dall'editor della RAM</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Vai all'indirizzo</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Tieni premuto per navigare più velocemente</p>
+    </div>
+</div>
+
 <div id="cheats" class="section-title">Trucchi</div>
 <div class="section-body">
     <p>
@@ -66,6 +134,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tieni presente che l'implementazione dei trucchi E-type in nds-bootstrap è instabile, e il tuo codice potrebbe non funzionare. Questo non è un difetto del database, e speriamo di risolvere questo problema in nds-bootstrap presto.
+        Tieni presente che l'implementazione dei trucchi E-type in nds-bootstrap è instabile, ed il tuo codice potrebbe non funzionare. Questo non è un difetto del database, e speriamo di risolvere questo problema in nds-bootstrap presto.
     </p>
 </div>

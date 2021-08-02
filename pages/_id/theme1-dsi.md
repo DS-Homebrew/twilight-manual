@@ -70,7 +70,7 @@ title: Tema Nintendo DSi
         <li><p>Menekan &#xE005; di pojok kiri halaman akan langsung ke butir terakhir halamannya</p></li>
     </ul>
     <p>
-        Batang gulir (scrollbar) di bawah mewakili semua butir atau berkas pada halaman yang dapat kamu sentuh agar cepat berpindah ke bagian lain halaman.
+        Bilah gulir (scrollbar) di bawah mewakili semua butir atau berkas pada halaman yang dapat kamu sentuh agar cepat berpindah ke bagian lain halaman.
     </p>
     <p>
         Jika tombol &#xE004; &#xE005; tidak bisa, gunakan tombol SELECT + &#xE07E; saja.

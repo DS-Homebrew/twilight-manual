@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">Kontroller</div>
+<div id="controls" class="section-title">Oyun içi Kontroller</div>
 <div class="section-body">
     <p>
         Oyun içi menüyü açmak için &#xE004; &#xE07A; ve SELECT tuşlarına basın.
@@ -52,10 +52,78 @@ title: nds-bootstrap
     </p>
 </div>
 
+<div id="menu-controls" class="section-title">Oyun içi Menü Kontrolleri</div>
+<div class="section-body">
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D;</p>
+        <p class="button-action-text">Menüde gezin</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07E;</p>
+        <p class="button-action-text">Ayar değiştir<br>(Seçenekler altmenüsü)</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Seçenek seç</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Oyuna geri dön</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">1 kare ilerle</p>
+    </div>
+    <h3>Ekran Görüntüsü</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">VRAM-Bank Değiştir</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Ekran görüntüsü al</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">İptal</p>
+    </div>
+    <h3>Bellek Düzenleyicisi</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action-text">Gezin</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Düzenleme Moduna Geç</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Düzenleme modundan çık<br>Bellek Düzenleyicisi'nden çık</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE003;</p>
+        <p class="button-action-text">Adrese Git</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE005;</p>
+        <p class="button-action-text">Daha hızlı gezinmek için basılı tutun</p>
+    </div>
+</div>
+
 <div id="cheats" class="section-title">Hileler</div>
 <div class="section-body">
     <p>
-        nds-bootstrap, Action Replay hilelerini <code>usrcheat.dat</code> veritabanı ile kullanabilmektedir. Bu kodun <code>sd:/_nds/TWiLightMenu/extras</code> yolunda bulunması gerekmektedir. Veritabanı orada olduğu sürece TWiLight Menu++ oyun başı ayarları üzerinden oyuna göre hangi hileleri kullanmak istediğinizi seçebilirsiniz.
+        nds-bootstrap, Action Replay hilelerini <code>sd:/_nds/TWiLightMenu/extras</code> yolunda bulunması gereken <code>usrcheat.dat</code> veritabanı ile kullanabilmektedir. Veritabanı orada olduğunda TWiLight Menu++ oyun başı ayarları üzerinden oyuna göre hangi hileleri kullanacağınızı seçebilirsiniz.
     </p>
     <hr>
     <p>
