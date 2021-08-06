@@ -39,14 +39,14 @@ title: Accueil
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">Menu TWiLight ++ Raccourcis de démarrage</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Raccourcis de démarrage</div>
 <div class="section-body">
     <p>
         Maintenez &#xE000;, &#xE001;, &#xE002;, et &#xE003; pour réinitialiser les paramètres de TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Maintenez SELECT enfoncé pour aller directement dans le menu paramètres.
+        Maintenez SELECT enfoncé pour accéder directement au menu des paramètres.
     </p>
     <hr>
     <p>
@@ -56,7 +56,7 @@ title: Accueil
 
 <div id="theme-information" class="section-title">Informations sur le thème</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ a 6 thèmes différents que vous pouvez choisir. Ce sont des menus alternatifs qui ont tous des designs différents, certains ayant des styles de navigation complètement distincts.</p>
+    <p class="mb-2">TWiLight Menu++ a six thèmes différents que vous pouvez choisir. Ce sont des menus alternatifs qui ont tous des designs différents, certains ayant des styles de navigation complètement distincts.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -85,7 +85,7 @@ title: Accueil
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">R4 original</a>
+                <a href="theme3-r4">R4 Original</a>
             </p>
         </div>
         <div class="grid-item">
@@ -99,7 +99,7 @@ title: Accueil
 
 <div id="game-loaders" class="section-title">Lanceurs de jeux</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, comme son nom l'indique, n'est qu'un menu. Il ne charge pas les ROMs elles-mêmes. Voici le manuel pour les lanceurs de ROMs :</p>
+    <p class="mb-2">TWiLight Menu++, comme son nom l'indique, n'est qu'un menu. Il ne charge pas les ROMs lui-même. Voici les pages de manuel pour les lanceurs de ROMs :</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,13 +116,13 @@ title: Accueil
     </div>
 </div>
 
-<div id="other-information" class="section-title">Autre information</div>
+<div id="other-information" class="section-title">Autres informations</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">Menu DS classique</a>
+                <a href="ds-classic-menu">Menu DS Classic</a>
             </p>
         </div>
         <div class="grid-item">
@@ -139,6 +139,6 @@ title: Accueil
         </div>
     </div>
     <p>
-        Vous voulez plus d'informations sur TWiLight Menu++ ? Consultez le Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Vous voulez plus d'informations sur TWiLight Menu++ ? Consultez le wiki :<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

@@ -40,7 +40,7 @@ title: Thème R4 original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Déplacer vers le haut / vers le bas de 10</p>
+        <p class="button-action-text">Déplacer vers le haut / bas de dix éléments</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -12,7 +12,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Déplacer vers le haut / vers le bas de 10</p>
+        <p class="button-action-text">Déplacer vers le haut / bas de dix éléments</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -22,7 +22,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Revenir en arrière</p>
+        <p class="button-action-text">Retour</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -49,7 +49,7 @@ title: GBARunner2
     </p>
     <hr>
     <p>
-        Assurez-vous que votre dump GBA BIOS correspond au hash CRC32 suivant : <code>81977335</code>
+        Assurez-vous que votre dump du BIOS GBA correspond au hash CRC32 suivant : <code>81977335</code>
     </p>
     <p>
         Vous pouvez vérifier cela sur ce site web :<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>

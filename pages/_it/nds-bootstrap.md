@@ -80,7 +80,7 @@ title: nds-bootstrap
     </div>
     <h3>Screenshot</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Cambia banca VRAM</p>
     </div>
     <hr>
@@ -95,7 +95,7 @@ title: nds-bootstrap
     </div>
     <h3>Editor della RAM</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Naviga</p>
     </div>
     <hr>

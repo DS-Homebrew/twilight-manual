@@ -80,7 +80,7 @@ title: nds-bootstrap
     </div>
     <h3>스크린샷</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">VRAM 뱅크 변경</p>
     </div>
     <hr>
@@ -95,7 +95,7 @@ title: nds-bootstrap
     </div>
     <h3>RAM 에디터</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">탐색</p>
     </div>
     <hr>

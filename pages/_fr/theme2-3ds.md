@@ -7,7 +7,7 @@ title: Thème Nintendo 3DS
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Déplacer l'élément<br>(La méthode de tri doit être réglée sur "Personnalisé")</p>
+        <p class="button-action-text">Déplacer l'élément<br>(la méthode de tri doit être réglée sur « Personnalisée »)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -16,7 +16,7 @@ title: Thème Nintendo 3DS
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><span class="button">&#xE000; /</span> COMMENCER</p>
+        <p class="button-action"><span class="button">&#xE000; /</span> START</p>
         <p class="button-action-text">Lancer l'application sélectionnée</p>
     </div>
     <hr>
@@ -36,7 +36,7 @@ title: Thème Nintendo 3DS
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action">SÉLECTIONNER</p>
+        <p class="button-action">SELECT</p>
         <p class="button-action-text">Ouvrez le menu SELECT ou le menu DS Classic</p>
     </div>
 </div>

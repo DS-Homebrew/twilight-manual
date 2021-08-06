@@ -23,117 +23,117 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">Χειρισμός In-Game</div>
 <div class="section-body">
     <p>
         Πατήστε &#xE004;, &#xE07A;, και SELECT για να ανοίξετε το μενού εντός του παιχνιδιού.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+        Αυτό μπορεί να αλλαχτεί με το <code> κουμπί πρόσβασης του μενού </code> στη σελίδα Παιχνίδια και Εφαρμογές των ρυθμίσεων του TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Πατήστε &#xE004;, &#xE005;, START και SELECT για να επαναφέρετε το παιχνίδι.
     </p>
     <p>
-        Hold for 2 seconds to force the game to reset.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Κρατήστε για 2 δευτερόλεπτα για να αναγκάσετε το παιχνίδι να επαναφερθεί.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Κρατήστε πατημένο το &#xE004;, &#xE005;, &#xE07A; και &#xE000; για 2 δευτερόλεπτο για να δημιουργήσετε ένα RAM dump.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Κρατήστε πατημένο &#xE004;, &#xE005;, &#xE07A;, και &#xE001; για 2 δευτερόλεπτα για να επιστρέψετε στο TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Κρατήστε πατημένο το &#xE004;, &#xE005;, &#xE002; και &#xE079; για 1 δευτερόλεπτο για να ανταλλάξετε τις οθόνες.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">Χειρισμός In-Game Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Μενού πλοήγησης</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Αλλαγή ρύθμισης<br>(Επιλογές υπομενού)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Επιλογή ρύθμισης</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">Πίσω στο παιχνίδι</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Προχώρα 1 καρέ</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>Στιγμιότυπο</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Change VRAM bank</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
-    </div>
-    <h3>RAM Editor</h3>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Αλλαγή VRAM bank</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Αποθήκευση στιγμιότυπου</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Ακύρωση</p>
+    </div>
+    <h3>Επεξεργαστής RAM</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Περιήγηση</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Είσοδος σε λειτουργία επεξεργασίας</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Έξοδος από τη λειτουργία επεξεργασίας<br>Έξοδος επεξεργασίας RAM</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Μετάβαση στη διεύθυνση</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Κρατήστε για να πλοηγηθείτε γρηγορότερα</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Κλέψιμο</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap μπορεί να χρησιμοποιήσει Action Replay cheats μέσω μιας βάσης δεδομένων <code>usrcheat.dat</code>, η οποία πρέπει να είναι σε <code>sd:/_nds/TWiLightMenu/extras</code>. Μόλις η βάση δεδομένων δημιουργηθεί, μπορείτε να επιλέξετε ποια κλεψιά θέλετε να χρησιμοποιήσετε από το μενού ρυθμίσεων ανά παιχνίδι στο TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr cheat database συνιστάται καθώς είναι το μεγαλύτερο και πιο ενημερωμένο: <br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Εναλλακτικά, αν θέλετε να κάνετε ένα δικό σας, μπορείτε να χρησιμοποιήσετε το R4CEE σε έναν υπολογιστή:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Λάβετε υπόψη ότι nds-bootstrap's E-type cheat είναι ασταθής και ως αποτέλεσμα, ο κώδικάς σας μπορεί ή δεν μπορεί να λειτουργήσει. Αυτό δεν είναι σφάλμα της βάσης δεδομένων, και ελπίζουμε να διορθωθεί αυτό το θέμα στο nds-bootstrap σύντομα.
     </p>
 </div>

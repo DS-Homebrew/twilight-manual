@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">Irányítás a játékokban</div>
 <div class="section-body">
     <p>
         Nyomj &#xE004;, &#xE07A;, és SELECT gombot a játékon belüli menü megnyitáshoz.
@@ -52,88 +52,88 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">Játékbani menü irányítás</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Navigációs menü</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Beállítások módosítása<br>(Opciók almenü)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Opció kiválasztása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">Vissza a játékba</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Előre 1 képkockával</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>Képernyőkép</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Change VRAM bank</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
-    </div>
-    <h3>RAM Editor</h3>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">VRAM bank módosítása</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Képernyőkép mentése</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Mégse</p>
+    </div>
+    <h3>RAM Szerkesztő</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Navigáció</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Belépés szerkesztő módba</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Kilépés szerkesztő módból<br>Kilépés a RAM szerkesztőből</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Ugrás a címre</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Tartsd nyomva a gyorsabb navigáláshoz</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Csalások</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        Az nds-bootstrap Action Replay csalásokat tud használni <code>usrcheat.dat</code> adatbázison keresztül, amit az <code>sd:/_nds/TWiLightMenu/extras</code> útvonalra kell rakni. Ha az adatbázis egyszer ott van, csak ki kell választanod a csalásokat amit használni szeretnél, a játékonkénti beállításoknál a TWiLight Menu++-ban.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr csalás adatbázis ajánlott, mert az a legnagyobb és a lesűrűbben frissített:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatívaként, ha szeretnél csinálni magadnak egyet, használhatod az R4CEE-t egy számítógépen:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Kérjük tartsd észben, hogy az nds-bootstrap E-type csalás implementációja instabil, és ennek eredményeként a kód vagy működni fog, vagy nem. Ez nem az adatbázis hibája, és reméljük az nds-bootstrap-ben hamarosan javításra kerül.
     </p>
 </div>

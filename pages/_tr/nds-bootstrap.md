@@ -40,7 +40,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Belleği kopyalamak için &#xE004;, &#xE005;, &#xE07A; ve &#xE000; tuşlarına 2 saniye basılı tutun.
+        Bellek dökümü almak için &#xE004;, &#xE005;, &#xE07A; ve &#xE000; tuşlarına 2 saniye basılı tutun.
     </p>
     <hr>
     <p>
@@ -80,7 +80,7 @@ title: nds-bootstrap
     </div>
     <h3>Ekran Görüntüsü</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">VRAM-Bank Değiştir</p>
     </div>
     <hr>
@@ -95,7 +95,7 @@ title: nds-bootstrap
     </div>
     <h3>Bellek Düzenleyicisi</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Gezin</p>
     </div>
     <hr>

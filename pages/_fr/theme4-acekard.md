@@ -9,7 +9,7 @@ title: Thème Wood UI
         Ce thème a été temporairement désactivé, en raison de la corruption de la carte SD. Pour le restaurer, il faut faire un nouveau pilote de carte SD, ce qui prend beaucoup de temps et d'efforts.
     </p>
     <p>
-        S'il vous plaît, soyez patient; il se peut que ce ne soit pas de retour pour un bon bout de temps.
+        Soyez patient ; il se peut que ce ne soit pas de retour avant un bon bout de temps.
     </p>
 </div>
 
@@ -22,7 +22,7 @@ title: Thème Wood UI
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Déplacer vers le haut / vers le bas de 10</p>
+        <p class="button-action-text">Déplacer vers le haut / bas de dix éléments</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -42,7 +42,7 @@ title: Thème Wood UI
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Ouvrir le menu Démarrer</p>
+        <p class="button-action-text">Ouvrir le menu Start</p>
     </div>
     <hr>
     <div class="button-action-group">

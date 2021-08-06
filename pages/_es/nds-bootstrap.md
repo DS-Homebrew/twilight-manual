@@ -23,7 +23,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">Controles del juego</div>
 <div class="section-body">
     <p>
         Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú del juego.
@@ -52,88 +52,88 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">Controles del menú del juego</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Navegar por el menú</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Cambiar ajuste<br>(Submenú de opciones)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Seleccionar opción</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">Volver al juego</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Avanzar 1 fotograma</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>Captura de pantalla</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Change VRAM bank</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
-    </div>
-    <h3>RAM Editor</h3>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Cambiar banco de VRAM</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Guardar captura</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Cancelar</p>
+    </div>
+    <h3>Editor de RAM</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Navegar</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Entrar en modo edición</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Salir del modo edición<br>Salir del editor de RAM</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Saltar a dirección</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Mantén pulsado para navegar más rápido</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Trucos</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap puede usar trucos de Replay de acción a través de la base de datos <code>usrcheat.dat</code>, el cual debe estar en <code>sd:/_nds/TWiLightMenu/extras</code>. Una vez colocada la base de datos, puedes seleccionar qué trucos usar en el menú de ajustes por juego en TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Se recomienda la base de datos de trucos de DeadSkullzJr ya que es la más grande y actualizada:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternativamente, si quieres crear una propia, puedes usar R4CEE en un ordenador:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Ten en cuenta que la implementación de trucos tipo E en nds-bootstrap es inestable y tu código podría no funcionar. Esto no es culpa de la base de datos. Esperamos solucionar este problema en nds-bootstrap pronto.
     </p>
 </div>

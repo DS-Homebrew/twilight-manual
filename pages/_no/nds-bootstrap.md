@@ -23,117 +23,117 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">I spill styring</div>
 <div class="section-body">
     <p>
         Trykk &#xE004;, &#xE07A; og SELECT for å åpne menyen i spillet.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+        Dette kan tilordnes med <code>Meny-hotkey</code> på Spill og Apper i TWiLight Menu++ innstillinger.
     </p>
     <hr>
     <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Trykk &#xE004;, &#xE005;, START, og SELECT for å tilbakestille spillet.
     </p>
     <p>
-        Hold for 2 seconds to force the game to reset.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Hold i 2 sekunder for å tvinge spillet til å tilbakestille.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE000; i 2 sekunder for å lage en RAM dump.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE001; i 2 sekunder for å gå tilbake til TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Hold &#xE004;, &#xE005;, &#xE002;, og &#xE079; i 1 sekund for å bytte om skjermene.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">I spill meny styring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Naviger meny</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Endre innstilling<br>(Alternativ submenu)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Velg alternativ</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">Gå tilbake til spill</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Frem 1 et bilde</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>Skjermdump</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Change VRAM bank</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
-    </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
-    </div>
-    <h3>RAM Editor</h3>
-    <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Endre VRAM bank</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Lagre skjermdump</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Avbryt</p>
+    </div>
+    <h3>RAM Redaktør</h3>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Naviger</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE000;</p>
+        <p class="button-action-text">Gå inn i Redigeringsmodus</p>
+    </div>
+    <hr>
+    <div class="button-action-group">
+        <p class="button-action button">&#xE001;</p>
+        <p class="button-action-text">Avslutt redigeringsmodus<br>Avslutt RAM Redaktør</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Hopp til adresse</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Hold for å navigere raskere</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Juksekoder</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap kan bruke Action Replay juksekoder via en <code>usrcheat.dat</code> database, som må plasseres på <code>sd:/_nds/TWiLightMenu/extras</code>. Når databasen er der, kan du velge hvilken juksekode du skal bruke fra menyen for hvert spill i TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadullzJr's juksedatabase anbefales da det er den største og mest oppdatert:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternativt hvis du vil lage en selv, kan du bruke R4CEE på en datamaskin:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Husk at implementeringen av nds-bootstraps E-type juksekode er ustabil, og at koden din kan fungere eller kanskje ikke. Dette er ikke en feil i databasen, og vi håper å få dette problemet fikset i nds-bootstrap snart.
     </p>
 </div>

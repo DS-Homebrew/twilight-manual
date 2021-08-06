@@ -6,10 +6,10 @@ title: nds-bootstrap
 <div id="about" class="section-title">À propos</div>
 <div class="section-body">
     <p>
-        nds-bootstrap est une application homebrew utilisée par TWiLight Menu++ pour charger des dump de cartouches DS(i), DSiWare et des homebrew en mode DS à partir de la carte SD sur Nintendo DSi/3DS.
+        nds-bootstrap est une application homebrew utilisée par TWiLight Menu++ pour charger des dumps de cartouches DS(i), DSiWare et des homebrews en mode DS à partir de la carte SD sur Nintendo DSi/3DS.
     </p>
     <p>
-        Il peut également être utilisé sur les flashcards, cependant la compatibilité sur les flashcards est plus faible, donc il est principalement destiné aux flashcards homebrew-only et aux flashcards avec une faible compatibilité.
+        Il peut également être utilisé sur les linkers, cependant, la compatibilité sur les linkers étant plus faible, il est donc principalement destiné aux linkers homebrew-only et aux linkers avec une faible compatibilité.
     </p>
 </div>
 
@@ -19,7 +19,7 @@ title: nds-bootstrap
         Pour voir si un jeu est compatible avec nds-bootstrap, vérifiez la liste de compatibilité :<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
     </p>
     <p>
-        Pour une meilleure compatibilité avec les cartes flash, nous vous recommandons de vous procurer un pack d'extension de mémoire DS.
+        Pour une meilleure compatibilité avec les linkers, nous vous recommandons de vous procurer une cartouche d'extension mémoire Nintendo DS.
     </p>
 </div>
 
@@ -48,25 +48,25 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Maintenez &#xE004;, &#xE005;, &#xE002; et &#xE079; pendant 1 seconde pour échanger les écrans.
+        Maintenez &#xE004;, &#xE005;, &#xE002; et &#xE079; pendant 1 seconde pour permuter les écrans.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">Contrôles de menu en jeu</div>
+<div id="menu-controls" class="section-title">Contrôles du menu en jeu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Menu de navigation</p>
+        <p class="button-action-text">Naviguer sur le menu</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Modifier le paramètre<br>(Sous-menu des options)</p>
+        <p class="button-action-text">Modifier le paramètre<br>(sous-menu des options)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Sélectionnez l'option</p>
+        <p class="button-action-text">Sélectionner une option</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -80,8 +80,8 @@ title: nds-bootstrap
     </div>
     <h3>Capture d'écran</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
-        <p class="button-action-text">Changer banque VRAM</p>
+        <p class="button-action button">&#xE006;</p>
+        <p class="button-action-text">Changer de banque VRAM</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -95,7 +95,7 @@ title: nds-bootstrap
     </div>
     <h3>Éditeur de RAM</h3>
     <div class="button-action-group">
-        <p class="button-action button">&#xE07D; / &#xE07E;</p>
+        <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Naviguer</p>
     </div>
     <hr>

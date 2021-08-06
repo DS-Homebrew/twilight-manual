@@ -7,7 +7,7 @@ title: Thème Nintendo DSi
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Déplacer l'élément<br>(La méthode de tri doit être réglée sur "Personnalisé")</p>
+        <p class="button-action-text">Déplacer l'élément<br>(la méthode de tri doit être réglée sur « Personnalisée »)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -70,7 +70,7 @@ title: Thème Nintendo DSi
         <li><p>Appuyer sur &#xE005; vous mènera au dernier élément de la page</p></li>
     </ul>
     <p>
-        La barre de défilement en bas représente tous les éléments d'une, vous pouvez appuyer dessus pour passer rapidement à un emplacement spécifique dans la page.
+        La barre de défilement en bas représente tous les éléments d'une page, vous pouvez appuyer dessus pour passer rapidement à un emplacement spécifique dans la page.
     </p>
     <p>
         Si vos gâchettes ne fonctionnent pas, vous pouvez utiliser SELECT + &#xE07E; à la place.
@@ -80,7 +80,7 @@ title: Thème Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Image personnalisée de l'écran supérieur</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ supporte l'affichage de photos personnalisées sur l'écran supérieur, tout comme le menu officiel Nintendo DSi. Cependant, plutôt que d'utiliser l'application Appareil Photo Nintendo DSi , vous pouvez placer n'importe quelle image au format PNG dans le répertoire suivant : <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ supporte l'affichage de photos personnalisées sur l'écran supérieur, tout comme le menu officiel Nintendo DSi. Cependant, plutôt que d'utiliser l'application Appareil photo Nintendo DSi , vous pouvez placer n'importe quelle image au format PNG dans le répertoire suivant : <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Largeur maximale : 208 pixels</li>
         <li>Hauteur maximale : 156 pixels</li>
@@ -91,12 +91,12 @@ title: Thème Nintendo DSi
 <div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Appuyer sur SELECT dans le thème Nintendo DSi affichera le Menu DS Classic par défaut. Cependant, dans les paramètres du TWiLight Menu++, vous pouvez le modifier pour lancer le menu SELECT, un menu miniature intégré dans le thème lui-même. Voici les options de menu du menu SELECT.
+        Appuyer sur SELECT dans le thème Nintendo DSi affichera le menu DS Classic par défaut. Cependant, dans les paramètres du TWiLight Menu++, vous pouvez le modifier pour lancer le menu SELECT, un menu miniature intégré dans le thème lui-même. Voici les options de menu du menu SELECT.
     </p>
     <ul>
-        <li><strong>Menu Home :</strong> Sur les consoles Nintendo DSi et Nintendo 3DS, cette option pour revenir au menu Home apparaîtra</li>
-        <li><strong>Paramètres:</strong> En sélectionnant cela, vous lancerez un menu pour configurer les paramètres de TWiLight Menu++ et de ses launchers</li>
-        <li><strong>Options de cartouche :</strong> Sur une DS ou une DS Lite originale , vous pouvez lancer votre cartouche Slot-2 à partir d'ici. Sur les Nintendo DSi et les Nintendo 3DS fonctionnant à partir de la Carte SD, vous pouvez soit exécuter votre carte Slot-1, et avec certains Linkers DS, choisir la carte SD que doit parcourir TWiLight Menu++</li>
-        <li><strong>Manuel</strong>: Ceci va lancer le manuel de TWiLight Menu++, c'est ce que vous regardez actuellement :P</li>
+        <li><strong>Menu HOME :</strong> sur les consoles Nintendo DSi et Nintendo 3DS, cette option pour revenir au menu HOME apparaîtra.</li>
+        <li><strong>Paramètres :</strong> en sélectionnant cela, vous lancerez un menu pour configurer les paramètres de TWiLight Menu++ et de ses lanceurs.</li>
+        <li><strong>Options de cartouche :</strong> sur une Nintendo DS/DS Lite, vous pouvez lancer votre cartouche Slot-2 à partir d'ici. Sur les Nintendo DSi et les Nintendo 3DS fonctionnant à partir de la carte SD, vous pouvez soit exécuter votre carte Slot-1, soit, avec certains linkers, choisir la carte SD que doit parcourir TWiLight Menu++</li>
+        <li><strong>Manuel :</strong> ceci va lancer le manuel de TWiLight Menu++, c'est ce que vous regardez actuellement :P</li>
     </ul>
 </div>
