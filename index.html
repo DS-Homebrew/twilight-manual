@@ -2,37 +2,21 @@
 title: Index
 ---
 
-{% for lang in site.data.lang-names %}
-	{% assign langs = langs | append: lang[1] | append: "," %}
-{% endfor %}
-{% assign langs = langs | split: "," | sort_natural %}
-{% for lang in langs %}
-	{% assign collection = site.collections | where_exp: "item", "site.data.lang-names[item.label] == lang" %}
-	{% assign collection = collection[0] %}
-	{% assign index = site[collection.label] | where_exp: "item", "item.url contains 'index.html'" %}
-
-	<div lang="{{ collection.label }}" {% if site.data.rtl contains collection.label %}dir="rtl"{% endif %}>
-		<div class="section-title" id="{{ lang | downcase | replace: " ", "-" }}">
-			<a href="#{{ lang | downcase | replace: " ", "-" }}">{{ lang }}</a>
-		</div>
-		<div class="section-body">
-			<ul>
-				{% if index[0] %}
-					<li><a href="{{ index[0].url | remove: "index.html" }}">{{ index[0].title }}</a></li>
-				{% endif %}
-				{% for item in site[collection.label] %}
-					{% unless item.url contains "index.html" %}
-						<li><a href="{{ item.url | remove: ".html" }}">{{ item.title }}</a></li>
-					{% endunless %}
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
-{% endfor %}
-
-<div class="section-title" id="translating">
-	<a href="#translating">Translating</a>
+<div class="section-title">Languages</div>
+<div class="section-body">
+	<ul>
+		{% for lang in site.data.lang-names %}
+			{% assign langs = langs | append: lang[1] | append: "," %}
+		{% endfor %}
+		{% assign langs = langs | split: "," | sort_natural %}
+		{% for lang in langs %}
+			{% assign collection = site.collections | where_exp: "item", "site.data.lang-names[item.label] == lang" %}
+			<li><a href="{{ collection[0].label | prepend: "/" | append: "/" }}">{{ lang }}</a></li>
+		{% endfor %}
+	</ul>
 </div>
+
+<div class="section-title">Translating</div>
 <div class="section-body">
 	<p>
 		You can translate on <a href="https://crowdin.com/project/TWiLightMenu">Crowdin</a> or using Crowdin's In-Context on the following pages:
@@ -54,11 +38,7 @@ title: Index
 	</ul>
 </div>
 
-<div class="section-title">
-	<p>Source Code</p>
-</div>
+<div class="section-title"><p>Source Code</p></div>
 <div class="section-body">
-	<p>
-		The source code is on <a href="https://github.com/DS-Homebrew/twilight-manual">GitHub</a>.
-	</p>
+	<p>The source code is on <a href="https://github.com/DS-Homebrew/twilight-manual">GitHub</a>.</p>
 </div>
