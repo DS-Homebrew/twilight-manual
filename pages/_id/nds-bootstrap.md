@@ -29,11 +29,11 @@ title: nds-bootstrap
         Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game.
     </p>
     <p>
-        ini dapat dipeta ulang dengan <code>Ubah hotkey menu</code> di pengaturan TWiLight Menu++ halaman Permainan dan Aplikasi.
+        Tombol dapat dipeta ulang di <code>Ubah hotkey menu</code> pada halaman Permainan dan Apl. dari TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang(reset).
+        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan diatur ulang (reset).
     </p>
     <p>
         Tahan 2 detik agar permainannya diulang paksa.

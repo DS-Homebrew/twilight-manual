@@ -6,7 +6,7 @@ title: nds-bootstrap
 <div id="about" class="section-title">Hakkında</div>
 <div class="section-body">
     <p>
-        nds-bootstrap; TWiLight Menu++ tarafından kartuş yedeklerinin ve DS modundaki homebrew yazılımının Nintendo DSi/3DS SD kartından yüklenmesine yarayan bir homebrew uygulamasıdır.
+        nds-bootstrap; TWiLight Menu++ tarafından kart yedeklerinin ve DS modundaki homebrew yazılımının Nintendo DSi/3DS SD kartından yüklenmesine yarayan bir homebrew uygulamasıdır.
     </p>
     <p>
         Aynı zamanda flashcard'larda da kullanılabilirler, ancak flashcard'lardaki uyumluluk daha düşüktür. Bu yüzden öncelik olarak yalnızca homebrew için ve düşük uyumluluğa sahip kartlar için düşünülmüştür.

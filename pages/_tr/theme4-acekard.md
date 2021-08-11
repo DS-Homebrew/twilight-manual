@@ -3,13 +3,13 @@ banner: /assets/images/theme4-acekard.png
 title: Wood UI Teması
 ---
 
-<div id="temporarily-disabled" class="section-title">Geçici olarak devre dışı bırakıldı</div>
+<div id="temporarily-disabled" class="section-title">Geçici olarak devre dışı bırakılmıştır</div>
 <div class="section-body">
     <p>
-        SD kart bozulmalarına sebep olduğundan ötürü bu tema geçici olarak devre dışı bırakıldı. Geri getirmek, yeni bir SD Kart sürücüsü yazmamızı gerektiriyor, ki bu bayağı yorucu ve zaman alıcı.
+        SD kart bozulmalarına sebep olduğundan ötürü bu tema geçici olarak devre dışı bırakıldı. Geri getirmek için en baştan SD kart sürücüsü yazmamız gerekiyor, ki bu bayağı yorucu ve zaman alıcı.
     </p>
     <p>
-        Lütfen sabırlı olun; bir süreliğine olmayabilir.
+        Lütfen sabırlı olun; bir süreliğine olmayacak.
     </p>
 </div>
 
