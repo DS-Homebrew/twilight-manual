@@ -20,6 +20,8 @@ collections:
     output: true
   ic:
     output: true
+  ar:
+    output: true
   bg:
     output: true
   da:
@@ -51,6 +53,10 @@ collections:
   pl:
     output: true
   pt:
+    output: true
+  pt-BR:
+    output: true
+  ro:
     output: true
   ru:
     output: true

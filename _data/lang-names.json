@@ -1,4 +1,5 @@
 {
+	"ar": "العربية",
 	"bg": "Български",
 	"da": "Dansk",
 	"de": "Deutsch",
@@ -15,7 +16,9 @@
 	"nl": "Nederlands",
 	"no": "Norsk",
 	"pl": "Polski",
-	"pt": "Português",
+	"pt": "Português (Portugal)",
+	"pt-BR": "Português (Brasil)",
+	"ro": "Română",
 	"ru": "Русский",
 	"sv": "Svenska",
 	"tr": "Türkçe",
