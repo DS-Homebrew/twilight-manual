@@ -23,117 +23,117 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">שליטה בזמן-משחק</div>
 <div class="section-body">
     <p>
         לחצו &#xE004;, &#xE07A;, ו-SELECT בכדי לפתוח את התפריט בזמן-משחק.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+        ניתן למפות זאת מחדש בעזרת <code>Menu hotkey</code> בעמוד המשחקים והאפליקציות של הגדרות TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        לחצו &#xE004;, &#xE005;, START, ו-SELECT בכדי לאתחל את המשחק.
     </p>
     <p>
-        Hold for 2 seconds to force the game to reset.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        החזיקו למשך 2 שניות בכדי לכפות על המשחק לאתחל.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        החזיקו &#xE004;, &#xE005;, &#xE07A;, ו-&#xE000; למשך 2 שניות בכדי ליצור היטל-נתונים(dump) של ה-RAM.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        החזיקו &#xE004;, &#xE005;, &#xE07A;, ו-&#xE001; למשך 2 שניות בכדי לחזור אל TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        החזיקו &#xE004;, &#xE005;, &#xE002;, ו-&#xE079; למשך שנייה בכדי להחליף בין המסכים.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">שליטה בתפריט בזמן-משחק</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">נווט בתפריט</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">שינוי הגדרות<br>(תת-תפריט הגדרות)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">בחירת אפשרות</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">חזרה למשחק</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">התקדם בפריים בודד</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>צילום מסך</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Change VRAM bank</p>
+        <p class="button-action-text">שינוי VRAM Bank</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
+        <p class="button-action-text">שמירת צילום מסך</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
+        <p class="button-action-text">ביטול</p>
     </div>
-    <h3>RAM Editor</h3>
+    <h3>עורך ה-RAM</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action-text">נווט</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">כניסה למצב עריכה</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">יציאה ממצב עריכה<br>יציאה מעורך ה-RAM</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">עבור לכתובת</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">החזיקו בכדי לנווט מהר יותר</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">צ'יטים</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap יכול להשתמש בצ'יטים של Action Replay דרך מסד-הנתונים <code>usrcheat.dat</code>, שצריך להימצא ב- <code>sd:/_nds/TWiLightMenu/extras</code>. ברגע שמסד-הנתונים ממוקם שם, היכנסו לתפריט ההגדרות האישיות של TWiLight Menu++ למשחק שלכם ובחרו באילו צ'יטים להשתמש.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        מסד-הנתונים של DeadSkullzJr מומלץ מכיוון שהוא הגדול והעדכני ביותר:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        לחילופין, אם תרצו להכין אחד בעצמכם תוכלו להשתמש ב-R4CEE על המחשב:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        זכרו שמימוש הצ'יטים של nds-bootstrap אינו יציב וכתוצאה מכך לא מובטח שהקודים שלכם יעבדו. זו אינה אשמת מסד-הנתונים ואנו מקווים לפתור את הבעיה הזו ב-nds-bootstrap בקרוב.
     </p>
 </div>
