@@ -13,7 +13,7 @@ title: צ'אט
 </div>
 <div class="section-body">
     <p>
-        מחפשים קהילה של משתמשי TWiLight Menu++? הצטרפו אל שרת ה-Discord של DS<sup>(i)</sup> Mode Hacking במכשיר נתמך בכדי לפגוש משתמשי ++TWLMenu אחרים!
+        מחפשים קהילה של משתמשי ++TWiLight Menu? הצטרפו אל שרת ה-Discord של DS<sup>(i)</sup> Mode Hacking במכשיר נתמך בכדי לפגוש משתמשי ++TWLMenu אחרים!
     </p>
     <p>
         קוד הזמנה לשרת: <a href="https://discord.gg/yD3spjv">yD3spjv</a>

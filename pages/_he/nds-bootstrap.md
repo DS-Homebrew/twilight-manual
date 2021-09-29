@@ -29,7 +29,7 @@ title: nds-bootstrap
         לחצו &#xE004;, &#xE07A;, ו-SELECT בכדי לפתוח את התפריט בזמן-משחק.
     </p>
     <p>
-        ניתן למפות זאת מחדש בעזרת <code>Menu hotkey</code> בעמוד המשחקים והאפליקציות של הגדרות TWiLight Menu++.
+        ניתן למפות זאת מחדש בעזרת <code>Menu hotkey</code> בעמוד המשחקים והאפליקציות של הגדרות ++TWiLight Menu.
     </p>
     <hr>
     <p>
@@ -40,11 +40,11 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        החזיקו &#xE004;, &#xE005;, &#xE07A;, ו-&#xE000; למשך 2 שניות בכדי ליצור היטל-נתונים(dump) של ה-RAM.
+        החזיקו &#xE004;, &#xE005;, &#xE07A;, ו-&#xE000; למשך 2 שניות בכדי ליצור היטל-נתונים (dump) של ה-RAM.
     </p>
     <hr>
     <p>
-        החזיקו &#xE004;, &#xE005;, &#xE07A;, ו-&#xE001; למשך 2 שניות בכדי לחזור אל TWiLight Menu++.
+        החזיקו &#xE004;, &#xE005;, &#xE07A;, ו-&#xE001; למשך 2 שניות בכדי לחזור אל ++TWiLight Menu.
     </p>
     <hr>
     <p>
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">צ'יטים</div>
 <div class="section-body">
     <p>
-        nds-bootstrap יכול להשתמש בצ'יטים של Action Replay דרך מסד-הנתונים <code>usrcheat.dat</code>, שצריך להימצא ב- <code>sd:/_nds/TWiLightMenu/extras</code>. ברגע שמסד-הנתונים ממוקם שם, היכנסו לתפריט ההגדרות האישיות של TWiLight Menu++ למשחק שלכם ובחרו באילו צ'יטים להשתמש.
+        nds-bootstrap יכול להשתמש בצ'יטים של Action Replay דרך מסד-הנתונים <code>usrcheat.dat</code>, שצריך להימצא ב- <code>sd:/_nds/TWiLightMenu/extras</code>. ברגע שמסד-הנתונים ממוקם שם, היכנסו לתפריט ההגדרות האישיות של ++TWiLight Menu למשחק שלכם ובחרו באילו צ'יטים להשתמש.
     </p>
     <hr>
     <p>

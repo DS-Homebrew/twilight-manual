@@ -42,7 +42,7 @@ title: דף הבית
 <div id="twilight-menu-boot-shortcuts" class="section-title">קיצורים לשימוש באתחול<br>++TWiLight Menu</div>
 <div class="section-body">
     <p>
-        החזיקו &#xE000;, &#xE001;, &#xE002; ו-&#xE003; בכדי לאפס את הגדרות TWiLight Menu++.
+        החזיקו &#xE000;, &#xE001;, &#xE002; ו-&#xE003; בכדי לאפס את הגדרות ++TWiLight Menu.
     </p>
     <hr>
     <p>
@@ -139,6 +139,6 @@ title: דף הבית
         </div>
     </div>
     <p>
-        מעוניין במידע נוסף על TWiLight Menu++? עיינו ב-Wiki: <br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        מעוניינים במידע נוסף על ++TWiLight Menu? עיינו ב-Wiki: <br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

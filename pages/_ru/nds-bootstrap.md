@@ -93,7 +93,7 @@ title: nds-bootstrap
         <p class="button-action button">&#xE001;</p>
         <p class="button-action-text">Отмена</p>
     </div>
-    <h3>RAM Editor</h3>
+    <h3>Редактор ОЗУ</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Перейти</p>
@@ -106,7 +106,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Выйти из режима редактирования<br>Выйти из редактора ОЗУ</p>
     </div>
     <hr>
     <div class="button-action-group">

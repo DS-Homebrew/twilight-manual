@@ -3,10 +3,10 @@ banner: /assets/images/theme4-acekard.png
 title: Tema Wood UI
 ---
 
-<div id="temporarily-disabled" class="section-title">Sementara di-nonaktif-kan</div>
+<div id="temporarily-disabled" class="section-title">Sementara dinonaktifkan</div>
 <div class="section-body">
     <p>
-        Tema ini sementara dimatikan karena bermasalah dapat merusak kartu SD. Kalau dikembalikan butuh membuat pengandar (driver) kartu SD baru, yang mana butuh banyak waktu dan usaha.
+        Tema ini sementara dipetutkan karena bermasalah dapat merusak kartu SD. Kalau dikembalikan butuh membuat pengandar (driver) kartu SD baru, yang mana butuh banyak waktu dan usaha.
     </p>
     <p>
         Mohon bersabar ya; mungkin masih lama baliknya.

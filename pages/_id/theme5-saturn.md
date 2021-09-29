@@ -82,7 +82,7 @@ title: Tema SEGA Saturn
     <ul>
         <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi dan Nintendo 3DS, pilihan (option) ini dapat digunakan untuk kembali ke menu beranda</li>
         <li><strong>Pengaturan</strong>: Memilih ini akan meluncurkan menu untuk menata atur TWiLight Menu++ dan peluncurnya</li>
-        <li><strong>Pilihan Kartu Main</strong>: Di DS original atau DS Lite, kartu main (cartridge) Slot-2 seperti GBA dapat diluncur dari sini. Untuk di Nintendo DSi dan Nintendo 3DS yang dibaca dari kartu SD, kartu di slot-1 dapat dijalankan juga, kalau dengan flashcard tertentu, dapat diganti kartu SD mana yang TWiLight Menu++ navigasi</li>
+        <li><strong>Pilihan Kartu Main</strong>: Pada DS original atau DS Lite, cartridge Slot-2 seperti GBA dapat diluncur dari sini. Untuk di Nintendo DSi dan Nintendo 3DS yang dibaca dari kartu SD, kartu di slot-1 dapat dijalankan juga, kalau dengan flashcard tertentu, dapat diganti kartu SD mana yang TWiLight Menu++ navigasi</li>
         <li><strong>Manual</strong>: Ini akan meluncurkan manual TWiLight Menu++,<br>nih kamu sedang lihat :P</li>
     </ul>
 </div>

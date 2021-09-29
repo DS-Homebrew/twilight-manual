@@ -1,62 +1,62 @@
 ---
 banner: /assets/images/manual-home.png
-title: Home
+title: Startpagina
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Knopbesturing</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">Scroll omhoog en omlaag</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">Vorige / volgende pagina</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">Terug naar vorige pagina</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">Sluit handleiding</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Aanraakbediening</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll omhoog/omlaag op het aanraakscherm"></p>
+        <p class="button-action-text">Scroll omhoog en omlaag</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Tik op het aanraakscherm"></p>
+        <p class="button-action-text">Tik op een link om naar de bijbehorende pagina te gaan</p>
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot snelkoppelingen</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        Houd &#xE000;, &#xE001;, &#xE002;, en &#xE003; ingedrukt om de instellingen van TWiLight Menu++ te resetten.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        Houd SELECT ingedrukt om direct naar het instellingenmenu te gaan.
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the last ran ROM.
+        Houd &#xE001; ingedrukt om de laatst gebruikte ROM te laden.
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="theme-information" class="section-title">Thema informatie</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">TWiLight Menu++ heeft 6 verschillende thema's waar je uit kunt kiezen. Dit zijn alternatieve menu's die allemaal een ander ontwerp hebben, waarbij sommige een volledig eigen navigatiestijl hebben.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -85,7 +85,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">Original R4</a>
+                <a href="theme3-r4">Origineel R4</a>
             </p>
         </div>
         <div class="grid-item">
@@ -97,9 +97,9 @@ title: Home
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Game Laders</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">TWiLight Menu++, zoals de naam al zegt, is slechts een menu. Het laadt de ROM's zelf niet. Hier zijn de handleidingen voor de ROM laders:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,7 +116,7 @@ title: Home
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Overige Informatie</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
@@ -134,11 +134,11 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Instellingen</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Wil je meer informatie over TWiLight Menu++? Bekijk de Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>
