@@ -9,131 +9,131 @@ title: nds-bootstrap
         nds-bootstrap is een homebrew-applicatie die wordt gebruikt door TWiLight Menu++ om DS(i)-cartridgedumps, DSiWare en DS-mode homebrew te laden van de Nintendo DSi / 3DS SD-kaart.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Het kan ook gebruikt worden op flashcards, maar de compatibiliteit op flashcards is lager, dus het is in de eerste plaats bedoeld voor homebrew-only flashcards en flashcards met een lage compatibiliteit.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Compatibiliteit</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Om te zien of een spel compatibel is met nds-bootstrap, bekijk de compatibiliteitslijst:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibiliteit</a>
     </p>
     <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        Voor de beste compatibiliteit met flashcards raden wij aan een DS Memory Expansion Pak te gebruiken.
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">In-Game besturing</div>
 <div class="section-body">
     <p>
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        Druk op &#xE004;, &#xE07A;, en SELECT om het in-game menu te openen.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
-    </p>
-    <hr>
-    <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
-    </p>
-    <p>
-        Hold for 2 seconds to force the game to reset.
+        Dit kan opnieuw worden ingesteld met <code>Menu sneltoets</code> in de Games en Apps pagina van TWiLight Menu++ instellingen.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Druk op &#xE004;, &#xE005;, START, en SELECT om het spel te resetten.
+    </p>
+    <p>
+        Houd 2 seconden ingedrukt om het spel geforceerd te resetten.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Houd &#xE004;, &#xE005;, &#xE07A;, en &#xE000; gedurende 2 seconden ingedrukt om een RAM dump te maken.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Houd &#xE004;, &#xE005;, &#xE07A;, en &#xE001; gedurende 2 seconden ingedrukt om terug te keren naar TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Houd &#xE004;, &#xE005;, &#xE002;, en &#xE079; gedurende 1 seconde ingedrukt om de schermen te verwisselen.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">In-Game Menubesturing</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Navigatiemenu</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Instelling wijzigen<br>(submenu Opties)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Selecteer optie</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">Terug naar het spel</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Ga 1 frame vooruit</p>
     </div>
     <h3>Screenshot</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Change VRAM bank</p>
+        <p class="button-action-text">VRAM bank wijzigen</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
+        <p class="button-action-text">Screenshot opslaan</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
+        <p class="button-action-text">Annuleer</p>
     </div>
     <h3>RAM Editor</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action-text">Navigeren</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Start bewerkingsmodus</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Bewerkingsmodus sluiten<br>RAM editor afsluiten</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Ga naar adres</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Ingedrukt houden om sneller te navigeren</p>
     </div>
 </div>
 
 <div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap kan Action Replay cheats gebruiken via een <code>usrcheat.dat</code> database, die in <code>sd:/_nds/TWiLightMenu/extras</code>moet staan. Zodra de database er is, kun je kiezen welke cheats aan staan in het per-game instellingen menu in TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr's cheat database wordt aanbevolen, omdat het de grootste en meest up-to-date is:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Als je er zelf een wilt maken, kun je de R4CEE gebruiken op een computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Houd er rekening mee dat nds-bootstrap's E-type cheat implementatie instabiel is en als gevolg daarvan kan de code wel of niet werken. Dit is geen fout van de database en we hopen dit probleem spoedig opgelost te hebben in nds-bootstrap.
     </p>
 </div>

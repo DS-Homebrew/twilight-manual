@@ -45,12 +45,12 @@ title: SEGA Saturn Thema
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Blader door de lijst</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Geselecteerde applicatie starten</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,29 +60,29 @@ title: SEGA Saturn Thema
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Pagina systeem</div>
 <div class="section-body">
     <p>
-        The SEGA Saturn theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Het SEGA Saturn-thema verdeelt items over pagina's met een maximum van 40 items per pagina. Je kunt door de pagina's navigeren met de &#xE004; en &#xE005; triggers.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>Als je op &#xE004; drukt op de meest linkse pagina, ga je naar het eerste item op de pagina</p></li>
+        <li><p>Als je op &#xE005; drukt op de meest rechtse pagina, ga je naar het laatste item op de pagina</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Als de triggers niet werken, kun je SELECT + &#xE07E; gebruiken.
     </p>
 </div>
 
 <div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the SEGA Saturn theme will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the theme itself. Here are the menu options for the SELECT Menu.
+        Als je in het SEGA Saturn-thema op SELECT drukt, verschijnt standaard het DS Classic-menu. In de instellingen van TWiLight Menu++ kun je dit echter wijzigen om het SELECT Menu te starten, een miniatuurmenu dat in het thema zelf is ingebouwd. Hier zijn de menu opties voor het SELECT Menu.
     </p>
     <ul>
-        <li><strong>Home Menu</strong>: On the Nintendo DSi and Nintendo 3DS consoles, this option can be used to return to the home menu</li>
-        <li><strong>Settings</strong>: Selecting this will launch a menu for configuring for TWiLight Menu++ and its launchers</li>
-        <li><strong>Cartridge Options</strong>: On an original DS or DS Lite, you can launch Slot-2 cartridges from here. On a Nintendo DSi and Nintendo 3DS running from the SD card, you can run your Slot-1 card or, with certain flashcards, switch which SD card TWiLight Menu++ navigates</li>
-        <li><strong>Manual</strong>: This will launch the manual for TWiLight Menu++, it's what you're looking at right now :P</li>
+        <li><strong>Home Menu</strong>: Op de Nintendo DSi- en Nintendo 3DS-consoles kan deze optie worden gebruikt om terug te keren naar het home-menu</li>
+        <li><strong>Instellingen</strong>: Door dit te selecteren wordt een menu geopend voor het configureren van TWiLight Menu++ en de launchers</li>
+        <li><strong>Cartridge Opties</strong>: Op een originele DS of DS Lite kun je vanaf hier Slot-2-cartridges starten. Op een Nintendo DSi en Nintendo 3DS die vanaf de SD-kaart werken, kun je de Slot-1-kaart gebruiken of, met bepaalde flash-kaarten, omwisselen naar welke SD-kaart TWiLight Menu navigeert</li>
+        <li><strong>Handleiding</strong>: Dit start de handleiding voor TWiLight Menu op, dat is waar je nu naar kijkt :P</li>
     </ul>
 </div>

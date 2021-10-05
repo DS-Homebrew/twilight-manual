@@ -63,6 +63,6 @@ title: Impostazioni
 
 <div id="unlaunch-settings" class="section-title">Impostazioni Unlaunch</div>
 <div class="section-body">
-    <p>Le impostazioni qui consentono di modificare il funzionamento di Unlaunch. Esse funzionano patchando il programma di installazione di Unlaunch in modo tale che lo si dovrà reinstallarlo per far si che queste impostazioni prendano effetto.</p>
+    <p>Le impostazioni qui consentono di modificare il funzionamento di Unlaunch. Applicano una patch al programma di installazione di Unlaunch in modo tale che lo si dovrà reinstallare per far si che queste impostazioni funzionino.</p>
     <p>Questa pagina appare solo sulle console Nintendo DSi quando non vengono avviate da flashcard. Gli utenti che usano flashcard e 3DS non vedranno questa pagina.</p>
 </div>
