@@ -38,7 +38,7 @@ title: Setări
 
 <div id="gui-settings" class="section-title">Setări GUI</div>
 <div class="section-body">
-    <p>Pe această pagină puteți selecta ce temă vreți să folosiți și alte opțiuni ce afectează aparența lui TWiLight Menu++.</p>
+    <p>Pe această pagină puteți selecta ce temă vreți să folosiți și alte opțiuni ce schimbă aparența lui TWiLight Menu++.</p>
 </div>
 
 <div id="emulation-hb-settings" class="section-title">Setări Emulare/HB</div>
@@ -53,7 +53,7 @@ title: Setări
 
 <div id="games-and-apps-settings" class="section-title">Setări de Jocuri și Aplicații</div>
 <div class="section-body">
-    <p>Acestea sunt setările generale pentru cum jocurile ar trebui rulate. Acestea variază în funcție de cum rulați TWiLight Menu++, precum dacă să folosești nucleul flashcard-uri sau nds-bootstrap.</p>
+    <p>Acestea sunt setările generale pentru cum ar trebui rulate jocurile. Acestea variază în funcție de cum rulați TWiLight Menu++, precum dacă să folosești nucleul flashcard-uri sau nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Altele Setări</div>

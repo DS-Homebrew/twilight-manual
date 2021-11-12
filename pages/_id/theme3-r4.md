@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Tema R4 Asal
+title: Tema R4 Asalnya
 ---
 
 <div id="main-menu" class="section-title">Menu Utama</div>

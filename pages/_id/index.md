@@ -85,7 +85,7 @@ title: Beranda
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">R4 Asal</a>
+                <a href="theme3-r4">R4 Asalnya</a>
             </p>
         </div>
         <div class="grid-item">

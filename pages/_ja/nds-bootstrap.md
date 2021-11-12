@@ -3,7 +3,7 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">ついて</div>
+<div id="about" class="section-title">nds-bootstrapとは</div>
 <div class="section-body">
     <p>
         nds-bootstrapは、ニンテンドーDSi・3DSのSDカードからDSカートリッジダンプ、DSiウェアとDSモードの自作ソフトを読み取りための、TWiLight Menu++で使われる自作アプリです。
