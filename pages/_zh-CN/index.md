@@ -3,7 +3,7 @@ banner: /assets/images/manual-home.png
 title: 主页
 ---
 
-<div id="button-controls" class="section-title">操作方式</div>
+<div id="button-controls" class="section-title">按键控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -17,7 +17,7 @@ title: 主页
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">返回上一页</p>
+        <p class="button-action-text">返回到之前选择的页面</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -26,7 +26,7 @@ title: 主页
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">触摸控制方法</div>
+<div id="touch-controls" class="section-title">触摸控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="在触摸屏上向上/向下滚动"></p>
@@ -50,7 +50,7 @@ title: 主页
     </p>
     <hr>
     <p>
-        长按 &#xE001; 打开上次最后游玩的ROM.
+        长按 &#xE001; 打开上次最后运行的ROM.
     </p>
 </div>
 
@@ -97,7 +97,7 @@ title: 主页
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">引导程序</div>
+<div id="game-loaders" class="section-title">游戏引导程序</div>
 <div class="section-body">
     <p class="mb-2">本软件如其名字所示，只是一种引导菜单。 自身并不会进行ROM的加载。 以下是本软件所主要使用的两种ROM引导程序的详细说明。</p>
     <div class="grid-container-2">
@@ -122,7 +122,7 @@ title: 主页
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">DS经典菜单</a>
             </p>
         </div>
         <div class="grid-item">
@@ -139,6 +139,6 @@ title: 主页
         </div>
     </div>
     <p>
-        关于本软件更多信息， 请查看wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        关于本软件更多信息， 请查看百科:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

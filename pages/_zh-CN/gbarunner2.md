@@ -32,7 +32,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">开启设置</p>
+        <p class="button-action-text">打开设置</p>
     </div>
 </div>
 <div id="in-game" class="section-title">游戏中</div>
@@ -45,7 +45,7 @@ title: GBARunner2
 <div id="bios-file" class="section-title">BIOS文件</div>
 <div class="section-body">
     <p>
-        GBARunner2模拟器需要使用名为<code class="language-plaintext">bios. bin</code>的GBA BIOS导出镜像。 文件名必须为 <code>bios。 在</code> 中，并且可以存放在在 SD 卡的根目录中的<code>sd:/gba</code> 或 <code>sd:/_gba</code>
+        GBARunner2可以使用官方GBA BIOS的转储来提高兼容性。 文件名必须为 <code>bios.bin</code> 中，并且可以存放在 SD 卡根目录，<code>sd:/gba</code> 或 <code>sd:/_gba</code>。
     </p>
     <hr>
     <p>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4原生
+title: R4原生主题
 ---
 
 <div id="main-menu" class="section-title">主菜单</div>
@@ -22,7 +22,7 @@ title: R4原生
     <hr>
     <div class="button-action-group">
         <p class="button-action">START / SELECT</p>
-        <p class="button-action-text">开启设置</p>
+        <p class="button-action-text">打开设置</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -45,7 +45,7 @@ title: R4原生
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">启动已选软件</p>
+        <p class="button-action-text">启动选定的应用</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -60,7 +60,7 @@ title: R4原生
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">打开游戏子设置菜单</p>
+        <p class="button-action-text">打开游戏单独设置菜单</p>
     </div>
     <hr>
     <div class="button-action-group">

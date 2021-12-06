@@ -1,65 +1,65 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI 主题
+title: Giao diện Wood UI
 ---
 
-<div id="temporarily-disabled" class="section-title">暂时不可用</div>
+<div id="temporarily-disabled" class="section-title">Tạm thời bị vô hiệu hóa</div>
 <div class="section-body">
     <p>
-        由于发生SD卡适配性问题，该主题暂时禁用。 将其带回需要制作新的SD卡驱动，这需要很多时间和精力。
+        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
     </p>
     <p>
-        请耐心等待；一段时间内这个主题暂时不会开放。
+        Please be patient; it may not be back for a while.
     </p>
 </div>
 
-<div id="button-controls" class="section-title">按键控制</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">上一个/下一个项目</p>
+        <p class="button-action-text">Previous / next item</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">向上/向下移动10行</p>
+        <p class="button-action-text">Move up / down by 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">启动选定的应用</p>
+        <p class="button-action-text">Launch selected application</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001; / &#xE004;</p>
-        <p class="button-action-text">上一级目录</p>
+        <p class="button-action-text">Go up a directory level</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">打开游戏单独设置菜单</p>
+        <p class="button-action-text">Open per-game settings</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">打开Start菜单</p>
+        <p class="button-action-text">Open the Start Menu</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">更改视图模式</p>
+        <p class="button-action-text">Change the view mode</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">触摸控制</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">滚动列表</p>
+        <p class="button-action-text">Scroll through the list</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">启动已选软件</p>
+        <p class="button-action-text">Launch selected application</p>
     </div>
 </div>

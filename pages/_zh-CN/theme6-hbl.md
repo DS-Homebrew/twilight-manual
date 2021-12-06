@@ -3,11 +3,11 @@ banner: /assets/images/hbl-theme.png
 title: Homebrew Launcher主题
 ---
 
-<div id="button-controls" class="section-title">操作方式</div>
+<div id="button-controls" class="section-title">按键控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text"><br>移动物品(排序方法需设为"自定义")</p>
+        <p class="button-action-text">移动项目<br>(排序方法需设为"自定义")</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -17,7 +17,7 @@ title: Homebrew Launcher主题
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">启动已选软件</p>
+        <p class="button-action-text">启动选定的应用</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -32,16 +32,16 @@ title: Homebrew Launcher主题
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">打开游戏子设置菜单</p>
+        <p class="button-action-text">打开游戏单独设置菜单</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">打开SELECT菜单或DS Classic菜单</p>
+        <p class="button-action-text">打开SELECT菜单或DS经典菜单</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">触摸控制方法</div>
+<div id="touch-controls" class="section-title">触摸控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -50,7 +50,7 @@ title: Homebrew Launcher主题
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">启动选择的应用</p>
+        <p class="button-action-text">启动选定的应用</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,7 +60,7 @@ title: Homebrew Launcher主题
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">翻页系统</div>
+<div id="page-system" class="section-title">页面系统</div>
 <div class="section-body">
     <p>
         Nintendo DSi 主题将条目分割成页面，每页最多40项。 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
@@ -80,9 +80,9 @@ title: Homebrew Launcher主题
         按Select键启动时会默认使用DS经典菜单。 但是，如果您在TWiLight Menu++设置中将此项目设定为"SELECT菜单"，按下SELECT键后将会显示一个小型菜单。 以下为SELECT菜单内选项的说明。
     </p>
     <ul>
-        <li><strong>HOME菜单:</strong> 仅在Nintendo DSi或是Nintendo 3DS主机中出现，点击后主机将自动退出软件，并返回到主机的HOME菜单。</li>
-        <li><strong>设置:</strong>点击此项后主机将进入TWiLight Menu++设置菜单。</li>
-        <li><strong>卡带有关选项:</strong> 对于DS/DS Lite，在此您可以直接加载Slot-2卡槽内的设备。 对于在主机SD卡内运行本软件的DSi/3DS主机，在此您可以直接加载Slot-1卡槽内的设备或是烧录卡。</li>
+        <li><strong>HOME菜单</strong>: 仅在Nintendo DSi或是Nintendo 3DS主机中出现，点击后主机将自动退出软件，并返回到主机的HOME菜单。</li>
+        <li><strong>设置</strong>: 点击此项后主机将进入TWiLight Menu++设置菜单。</li>
+        <li><strong>卡带有关选项</strong>: 对于DS/DS Lite，在此您可以直接加载Slot-2卡槽内的设备。 对于在主机SD卡内运行本软件的DSi/3DS主机，在此您可以直接加载Slot-1卡槽内的设备或是烧录卡。</li>
         <li><strong>说明书</strong>: 这将启动TWiLight Menu++的说明书, 也就是你现在看到的 :P</li>
     </ul>
 </div>

@@ -80,7 +80,7 @@ title: Tema Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Gambar Layar Atas Ubahsuaian</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ dapat menaruh foto ubah suaian (custom) di layar atas, sama seperti Menu Nintendo DSi resmi. Tetapi, daripada diambil dari aplikasi Kamera Nintendo DSi, kamu dapat taruh gambar PNG di <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ dapat menaruh foto ubah suai (custom) di layar atas, sama seperti Menu Nintendo DSi resmi. Tetapi, daripada diambil dari aplikasi Kamera Nintendo DSi, kamu dapat taruh gambar PNG di <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Batas lebar: 208 piksel</li>
         <li>Batas tinggi: 156 piksel</li>
