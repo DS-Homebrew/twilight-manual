@@ -1,15 +1,15 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI-tema
+title: Trægrænseflade-Tema
 ---
 
-<div id="temporarily-disabled" class="section-title">Midlertidigt utilgængeligt</div>
+<div id="temporarily-disabled" class="section-title">Midlertidigt deaktiveret</div>
 <div class="section-body">
     <p>
-        Dette tema er midlertidigt utilgængeligt, da det kan beskadige filerne på SD-kortet. At bringe det tilbage igen vil kræve at en ny driver til SD-kortlæseren bliver skrevet, hvilket er en del arbejde og kommer til at tage noget tid.
+        Dette tema er blevet midlertidigt deaktiveret, på grund af skade på SD-kort. At få det tilbage, kræver at lave en ny SD-kortdriver, hvilket kræver megen tid og kraft.
     </p>
     <p>
-        Vær tålmodig, der går nok et stykke tid før det igen bliver tilgængeligt.
+        Vær venligst tålmodig, det kommer muligvis ikke tilbage, i en rum tid.
     </p>
 </div>
 
@@ -17,17 +17,17 @@ title: Wood UI-tema
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Forrige/næste punkt</p>
+        <p class="button-action-text">Forrige / næste element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gå 10 punkter op/ned</p>
+        <p class="button-action-text">Ryk op / ned med 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Start det valgte program</p>
+        <p class="button-action-text">Start valgte applikation</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -37,12 +37,12 @@ title: Wood UI-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Åbn indstillinger for spillet</p>
+        <p class="button-action-text">Åbn indstillinger for hvert spil</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Åbn start-menuen</p>
+        <p class="button-action-text">Åbn Start-Menuen</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -51,7 +51,7 @@ title: Wood UI-tema
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch-funktioner</div>
+<div id="touch-controls" class="section-title">Berøringsfunktioner</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
@@ -60,6 +60,6 @@ title: Wood UI-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Start det valgte program</p>
+        <p class="button-action-text">Start valgte applikation</p>
     </div>
 </div>

@@ -7,17 +7,17 @@ title: GBARunner2
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Đối tượng trước / kế tiếp</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Di chuyển lên / xuống 10 lần</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select item</p>
+        <p class="button-action-text">Chọn mục</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004;</p>
-        <p class="button-action-text">Swap screens</p>
+        <p class="button-action-text">Đổi màn hình</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -35,11 +35,11 @@ title: GBARunner2
         <p class="button-action-text">Cài đặt</p>
     </div>
 </div>
-<div id="in-game" class="section-title">In-Game</div>
+<div id="in-game" class="section-title">Đang trong Game</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Chạm vào màn hình"></p>
-        <p class="button-action-text">Open menu</p>
+        <p class="button-action-text">Mở menu</p>
     </div>
 </div>
 <div id="bios-file" class="section-title">Tệp BIOS</div>

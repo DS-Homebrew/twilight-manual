@@ -29,44 +29,44 @@ title: nds-bootstrap
         Nhấn &#xE004;, &#xE07A;, và SELECT để mở menu trong game.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+        Có thể gắn lại phím với <code>Menu phím nóng</code> trong trang Games và Apps của cài đặt TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Nhấn &#xE004;, &#xE005;, START, và SELECT để khởi động lại game.
     </p>
     <p>
-        Hold for 2 seconds to force the game to reset.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Giữ khoảng 2 giây để buộc game khởi động lại.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Giữ &#xE004;, &#xE005;, &#xE07A;, và &#xE000; khoảng 2 giây để tạo một RAM dump.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Giữ &#xE004;, &#xE005;, &#xE07A;, and &#xE001; khoảng 2 giây để trở lại TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Giữ &#xE004;, &#xE005;, &#xE002;, và &#xE079; khoàng 1 giây để đổi màn hình.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">Menu điều khiển In-Game</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Menu điều hướng</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Thay đổi cài đặt<br>(Tùy chọn menu con)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Chọn cài đặt</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -76,7 +76,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Nốt 1 khung hình</p>
     </div>
     <h3>Chụp màn hình</h3>
     <div class="button-action-group">
@@ -96,27 +96,27 @@ title: nds-bootstrap
     <h3>RAM Editor</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action-text">Điều hướng</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Vào chế độ chỉnh sửa</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Thoát chế độ chỉnh sửa<br>Thoát RAM editor</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Nhảy tới địa chỉ</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Giữ để điều hướng nhanh hơn</p>
     </div>
 </div>
 
@@ -127,13 +127,13 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        File cheat của DeadSkullzJr được khuyến cáo vì nó chứa nhiều và được cập nhật nhanh nhất:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Hoặc, nếu bạn muốn tự làm, bạn có thể dùng R4CEE trên máy tính:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Hãy nhớ rằng việc dùng cheat của nds-bootstrap là không ổn định và có thể khiến game của bạn không hoạt động. Đây không phải là lỗi của cơ sở dữ liệu và chúng tôi hy vọng sẽ sớm sửa lỗi này trong nds-bootstrap.
     </p>
 </div>

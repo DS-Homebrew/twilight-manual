@@ -1,23 +1,23 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn-tema
+title: SEGA Saturn-Tema
 ---
 
 <div id="button-controls" class="section-title">Knapfunktioner</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Flyt punkt<br>(Sorteringsmetoden skal være sat til "tilpasset")</p>
+        <p class="button-action-text">Flyt element<br>(Sorteringsmetode skal være indstillet til "Tilpasset")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Forrige/næste punkt</p>
+        <p class="button-action-text">Forrige / næste element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Start det valgte program</p>
+        <p class="button-action-text">Start valgte applikation</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,21 +27,21 @@ title: SEGA Saturn-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Slet/skjul punkt</p>
+        <p class="button-action-text">Slet / skjul element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Åbn indstillinger for spillet</p>
+        <p class="button-action-text">Åbn indstillinger for hvert spil</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Åbn SELECT-menuen eller den klassiske DS-menu</p>
+        <p class="button-action-text">Åbn SELECT-Menuen eller DS Klassisk Menuen</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch-funktioner</div>
+<div id="touch-controls" class="section-title">Berøringsfunktioner</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -50,7 +50,7 @@ title: SEGA Saturn-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Start det valgte program</p>
+        <p class="button-action-text">Start valgte applikation</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,29 +60,29 @@ title: SEGA Saturn-tema
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Sidesystemet</div>
+<div id="page-system" class="section-title">Paginasystem</div>
 <div class="section-body">
     <p>
-        SEGA Saturn-temaet opdeler elementer i sider med højst 40 elementer pr. side. Du kan navigere gennem siderne ved at trykke på &#xE004;- og &#xE005;-knapperne.
+        SEGA Saturn-temaet deler elementer op i pagina med maksimalt 40 elementer pr. side. Man kan navigere gennem siderne, ved hjælp af &#xE004;- og &#xE005;-skulderknapperne.
     </p>
     <ul>
-        <li><p>Hvis du trykker på &#xE004; på den første side, vil det første punkt på siden blive markeret</p></li>
-        <li><p>Hvis du trykker på &#xE005; på den sidste side, vil det sidste punkt på siden blive markeret</p></li>
+        <li><p>Tryk på &#xE004; på paginaen længst til venstre, vil bringe dig til det første element på siden</p></li>
+        <li><p>Tryk på &#xE005; på paginaen længst til højre, vil bringe dig til det sidste element på siden</p></li>
     </ul>
     <p>
-        Hvis dine skulderknapper ikke virker, kan du i stedet trykke SELECT +&#xE07E;.
+        Hvis dine skulderknapper ikke virker, kan du bruge SELECT + &#xE07E; i stedet derfor.
     </p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT-menuen</div>
+<div id="select-menu" class="section-title">SELECT-Menu</div>
 <div class="section-body">
     <p>
-        Ved at trykke SELECT i SEGA Saturn-temaet vil den klassiske DS-menu blive vist som standard. Men i TWiLight Menu++-indstillingerne kan du ændre det til i stedet at starte SELECT-menuen, en miniaturemenu indbygget i temaet selv. Her er mulighederne i SELECT-menuen.
+        Tryk på SELECT i SEGA Saturn-temaet, vil frembringe DS Klassisk Menu, som standard. Men i TWiLight Menu++-indstillingerne, kan du ændre det til, at starte SELECT-Menuen, en miniature-menu, som er indbygget i selve temaet. Her er menu-valgmulighederne for SELECT-Menuen.
     </p>
     <ul>
-        <li><strong>HOME-menu:</strong> På Nintendo DSi- og 3DS-konsoller vil et punkt til at gå tilbage til HOME-menuen blive vist</li>
-        <li><strong>Indstillinger:</strong> Dette punkt starter en menu, der kan bruges til at ændre indstillingerne for TWiLight Menu++ og diverse spilstartere</li>
-        <li><strong>Kort-indstillinger:</strong> På en original DS eller DS lite kan du starte din Slot-2 enhed herfra. På en Nintendo DSi eller Nintendo 3DS med menuen kørende fra SD-kortet, kan du enten køre dit Slot-1 kort eller med visse flashcarts skifte hvilket SD-kort TWiLight Menu++ navigerer</li>
-        <li><strong>Manual</strong>: Dette vil starte manualen til TWiLight Menu++, det er den du kigger på lige nu :P</li>
+        <li><strong>Hjem-Menu</strong>: På Nintendo DSi- og Nintendo 3DS-konsollerne kan denne valgmulighed bruges, til at vende tilbage, til hjem-menuen</li>
+        <li><strong>Indstillinger</strong>: Valg af dette vil åbne en menu, til konfiguration af TWiLight Menu++ og dens startere</li>
+        <li><strong>Kassette-Valgmuligheder</strong>: På en oprindelig DS eller DS Lite, kan du starte Drev-2 kassetter herfra. På en Nintendo DSi eller Nintendo 3DS, som kører fra SD-kortet, kan du køre dit Drev-1 kort, eller, med visse flashkort, ændre hvilket SD-kort TWiLight Menu++ navigerer på</li>
+        <li><strong>Vejledning</strong>: Dette vil åbne vejledningen til TWiLight Menu++, det er den du kigger på lige nu :P</li>
     </ul>
 </div>

@@ -1,23 +1,23 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS-tema
+title: Nintendo 3DS-Tema
 ---
 
 <div id="button-controls" class="section-title">Knapfunktioner</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Flyt punkt<br>(Sorteringsmetoden skal være sat til "tilpasset")</p>
+        <p class="button-action-text">Flyt element<br>(Sorteringsmetode skal være indstillet til "Tilpasset")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Forrige/næste punkt</p>
+        <p class="button-action-text">Forrige / næste element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Start det valgte program</p>
+        <p class="button-action-text">Start valgte applikation</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,21 +27,21 @@ title: Nintendo 3DS-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Slet/skjul punkt</p>
+        <p class="button-action-text">Slet / skjul element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Åbn indstillinger for spillet</p>
+        <p class="button-action-text">Åbn indstillinger for hvert spil</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Åbn SELECT-menuen eller den klassiske DS-menu</p>
+        <p class="button-action-text">Åbn SELECT-Menuen eller DS Klassisk Menuen</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch-funktioner</div>
+<div id="touch-controls" class="section-title">Berøringsfunktioner</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -50,7 +50,7 @@ title: Nintendo 3DS-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Start det valgte program</p>
+        <p class="button-action-text">Start valgte applikation</p>
     </div>
     <!-- <hr>
     <div>
@@ -60,13 +60,13 @@ title: Nintendo 3DS-tema
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Sidesystemet</div>
+<div id="page-system" class="section-title">Paginasystem</div>
 <div class="section-body">
     <p>
-        Nintendo 3DS-temaet opdeler elementer i sider med højst 40 elementer pr. side. Du kan navigere gennem siderne ved at trykke på &#xE004;- og &#xE005;-knapperne.
+        Nintendo 3DS-temaet deler elementer op i pagina med maksimalt 40 elementer pr. side. Man kan navigere gennem siderne, ved hjælp af &#xE004;- og &#xE005;-skulderknapperne.
     </p>
     <ul>
-        <li><p>Hvis du trykker på &#xE004; på den første side, vil det første punkt på siden blive markeret</p></li>
+        <li><p>Tryk på &#xE004; på paginaen længst til venstre, vil bringe dig til det første element på siden</p></li>
         <li><p>Hvis du trykker på &#xE005; på den sidste side, vil det sidste punkt på siden blive markeret</p></li>
     </ul>
     <p>

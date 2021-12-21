@@ -50,7 +50,7 @@ title: Giao diện Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Khởi chạy ứng dụng đã chọn</p>
     </div>
     <!-- <hr>
     <div>

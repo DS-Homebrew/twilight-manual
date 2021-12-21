@@ -1,54 +1,54 @@
 ---
 banner: /assets/images/nds-bootstrap.png
-title: nds-bootstrap
+title: nds-selvstart
 ---
 
 <div id="about" class="section-title">Om</div>
 <div class="section-body">
     <p>
-        nds-bootstrap er et homebrew-program brugt at TWiLight Menu++ til at køre dumps af DS(i)-spilkort, DSiWare og DS-homebrew fra din Nintendo DSi/3DS konsols SD-kort.
+        nds-selvstart er en hjemmebrændt applikation, som bruges af TWiLight Menu++, til at indlæse DS(i)-kassettedump, DSiWare, og DS-tilstands hjemmebrændt fra Nintendo DSi / 3DS SD-kortet.
     </p>
     <p>
-        Det kan også bruges på flashcarts men kompatibiliteten på dem er lavere, så det er primært tiltænkt flashcarts, der kun kan køre homebrew eller i forvejen har lav kompatibilitet.
+        Det kan også bruges på flashkort men kompatibiliteten på flashkort er lavere, så det er hovedsageligt tiltænkt flashkort, der kun kan kører hjemmebrændt, og flashkort med lav kompatibilitet.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        For at se om et spil er kompatibelt med nds-bootstrap, kan du tjekke kompatibilitetslisten: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Kontroller kompatibilitetslisten: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>, for at se om et spil er kompatibelt med nds-selvstart
     </p>
     <p>
-        For bedst kompatibilitet med flashcarts, forslår vi at skaffe en "DS Memory Expansion Pak".
+        For den bedste kompatibilitet med flashkort, foreslår vi, at anskaffe en "DS Memory Expansion Pak".
     </p>
 </div>
 
 <div id="controls" class="section-title">Spilkontrol</div>
 <div class="section-body">
     <p>
-        Tryk &#xE004;, &#xE07A;, og SELECT for at åbne menuen i spillet.
+        Tryk på &#xE004;, &#xE07A; og SELECT, for at åbne spilmenuen.
     </p>
     <p>
-        Dette kan genkortlægges med <code>Menu hotkey</code> på Spil og Apps siden i TWiLight Menu++ indstillinger.
-    </p>
-    <hr>
-    <p>
-        Tryk på &#xE004;, &#xE005;, START, og SELECT for at genstarte spillet.
-    </p>
-    <p>
-        Hold i 2 sekunder for at tvinge spillet til at nulstille.
+        Dette kan omdirigeres med <code>Menu-genvejstast</code> i Spil og Apps-siden af TWiLight Menu++-indstillinger.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE000; nede i 2 sekunder for at lave et RAM-dump.
+        Tryk på &#xE004;, &#xE005;, START og SELECT, for at nulstille spillet.
+    </p>
+    <p>
+        Hold nede i 2 sekunder, for at tvinge spillet, til at nulstille.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, og &#xE001; i 2 sekunder for at vende tilbage til TWiLight Menu++.
+        Hold &#xE004;, &#xE005;, &#xE07A; og &#xE000; nede i 2 sekunder, for oprette et RAM-dump.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002; og &#xE079; nede i ét sekund for at bytte om på skærmene.
+        Hold &#xE004;, &#xE005;, &#xE07A; og &#xE001; nede i 2 sekunder, for at vende tilbage til TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Hold &#xE004;, &#xE005;, &#xE002; og &#xE079; nede i 1 sekund, for at ombytte skærmene.
     </p>
 </div>
 
@@ -66,7 +66,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Vælg indstilling</p>
+        <p class="button-action-text">Vælg mulighed</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -76,12 +76,12 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Avancer én frame</p>
+        <p class="button-action-text">Avancer 1 billede</p>
     </div>
     <h3>Skærmbillede</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Skift VRAM bank</p>
+        <p class="button-action-text">Skift VRAM-bank</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -91,22 +91,22 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Annuller</p>
+        <p class="button-action-text">Afbryd</p>
     </div>
-    <h3>RAM Editor</h3>
+    <h3>RAM-Redigering</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Navigér</p>
+        <p class="button-action-text">Naviger</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Start redigeringstilstand</p>
+        <p class="button-action-text">Gå i redigeringstilstand</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Afslut redigeringstilstand<br>Afslut RAM editor</p>
+        <p class="button-action-text">Forlad redigeringstilstand<br>Forlad RAM-redigering</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -116,21 +116,21 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold for at navigere hurtigere</p>
+        <p class="button-action-text">Hold nede, for at navigere hurtigere</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Snydekoder</div>
+<div id="cheats" class="section-title">Snyd</div>
 <div class="section-body">
     <p>
-        nds-bootstrap kan anvende Action Replay snydekoder via en <code>usrcheat.dat</code> database, der kan placeres i <code>sd:/_nds/TWiLightMenu/extras</code>. Når databasen er fundet, kan du vælge, hvilke snydekoder der skal bruges fra menuen til indstillinger for et spil i TWiLight Menu++.
+        nds-selvstart kan bruge Action Replay snydekoder, via en <code>usrcheat.dat</code>-database, som kan placeres i <code>sd:/_nds/TWiLightMenu/extras</code>. Når databasen først er der, kan du vælge snydekoder, at bruge, fra indstillingsmenuen for hvert spil, i TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJrs snydekodedatabase anbefales, da den er den største og bedst vedligeholdt:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJrs snydedatabase anbefales, da det er den største og mest ajourførte:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
     </p>
     <p>
-        Alternativt, hvis du hellere vil lave en selv, kan du bruge R4CEE på en computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Som alternativ, hvis man hellere selv vil lave en, kan man bruge R4CEE på en computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
     </p>
     <hr>
     <p>
