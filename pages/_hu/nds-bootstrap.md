@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilitás</div>
 <div class="section-body">
     <p>
-        Ahhoz, hogy lásd, mely játékok kompatibilisek az nds-bootstrap-pel, tekintsd meg a kompatibilitási listát:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Ahhoz, hogy lásd, mely játékok kompatibilisek az nds-bootstrap-pel, tekintsd meg a kompatibilitási listát:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         A legjobb flashcard kompatibilitáshoz javasoljuk a DS Memory Expansion Pak beszerzését.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr csalás adatbázis ajánlott, mert az a legnagyobb és a lesűrűbben frissített:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr csalás adatbázis ajánlott, mert az a legnagyobb és a lesűrűbben frissített:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatívaként, ha szeretnél csinálni magadnak egyet, használhatod az R4CEE-t egy számítógépen:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatívaként, ha szeretnél csinálni magadnak egyet, használhatod az R4CEE-t egy számítógépen:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

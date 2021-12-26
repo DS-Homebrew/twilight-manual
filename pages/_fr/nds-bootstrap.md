@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibilité</div>
 <div class="section-body">
     <p>
-        Pour voir si un jeu est compatible avec nds-bootstrap, vérifiez la liste de compatibilité :<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Pour voir si un jeu est compatible avec nds-bootstrap, vérifiez la liste de compatibilité :<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Pour une meilleure compatibilité avec les linkers, nous vous recommandons de vous procurer une cartouche d'extension mémoire Nintendo DS.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        La base de données de codes de triche de DeadSkullzJr est recommandée car elle est la plus grande et la plus à jour :<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        La base de données de codes de triche de DeadSkullzJr est recommandée car elle est la plus grande et la plus à jour :<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Sinon, si vous souhaitez en faire une vous-même, vous pouvez utiliser R4CEE sur un ordinateur :<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Sinon, si vous souhaitez en faire une vous-même, vous pouvez utiliser R4CEE sur un ordinateur :<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

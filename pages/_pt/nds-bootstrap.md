@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibilidade</div>
 <div class="section-body">
     <p>
-        Para ver se o teu jogo é compatível com o nds-bootstrap, visite o website e veja se o teu jogo é compatível em:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Para ver se o teu jogo é compatível com o nds-bootstrap, visite o website e veja se o teu jogo é compatível em:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Para melhor compatibilidade com o B4DS, recomendamos que compre/use um DS Memory Expansion Pak. (só para Nintendo DS Original ou DS Lite)
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        O banco de dados de cheats do DeadSkullzJr é recomendado, pois é a maior base de dados actualizada:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        O banco de dados de cheats do DeadSkullzJr é recomendado, pois é a maior base de dados actualizada:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Como alternativa, podes fazer a tua própria base de dados usando o R4CEE num computador:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Como alternativa, podes fazer a tua própria base de dados usando o R4CEE num computador:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Tương thích</div>
 <div class="section-body">
     <p>
-        Để xem một trò chơi có tương thích với nds-bootstrap, kiểm tra ở danh sách tương thích:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Để xem một trò chơi có tương thích với nds-bootstrap, kiểm tra ở danh sách tương thích:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Để tương thích tốt nhất với flashcards, chúng tôi đề xuất bạn nên có 1 bộ nhớ DS mở rộng Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        File cheat của DeadSkullzJr được khuyến cáo vì nó chứa nhiều và được cập nhật nhanh nhất:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        File cheat của DeadSkullzJr được khuyến cáo vì nó chứa nhiều và được cập nhật nhanh nhất:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Hoặc, nếu bạn muốn tự làm, bạn có thể dùng R4CEE trên máy tính:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Hoặc, nếu bạn muốn tự làm, bạn có thể dùng R4CEE trên máy tính:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

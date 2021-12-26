@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">兼容性</div>
 <div class="section-body">
     <p>
-        要检索nds-bootstrap对于游戏的兼容性，请查看兼容表：<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        要检索nds-bootstrap对于游戏的兼容性，请查看兼容表：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         为了最大限度保证在烧录卡上的兼容性，我们建议您同时使用DS Memory Expansion Pak。(DS/DS Lite专用内存扩展卡)
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        推荐使用目前存储量最大最全的DeadSkullz Jr's金手指数据库:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        推荐使用目前存储量最大最全的DeadSkullz Jr's金手指数据库:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        或者您可以自行在电脑使用R4CEE来制作金手指数据库:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        或者您可以自行在电脑使用R4CEE来制作金手指数据库:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

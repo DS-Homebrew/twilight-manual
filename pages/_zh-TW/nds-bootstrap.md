@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">相容性</div>
 <div class="section-body">
     <p>
-        想確認玩的遊戲与nds-bootstrap的相容性，請查閱：<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        想確認玩的遊戲与nds-bootstrap的相容性，請查閱：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         为保證相容性，建議使用DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        推薦您使用DeadSkullzJr's的金手指檔案:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        推薦您使用DeadSkullzJr's的金手指檔案:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        您也可以選擇自行使用R4CEE來製作客製化的金手指檔案:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        您也可以選擇自行使用R4CEE來製作客製化的金手指檔案:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

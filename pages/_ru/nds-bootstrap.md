@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Совместимость</div>
 <div class="section-body">
     <p>
-        Чтобы узнать, совместима ли игра с nds-bootstrap, проверьте список совместимости: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Чтобы узнать, совместима ли игра с nds-bootstrap, проверьте список совместимости: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Для лучшей совместимости с флешкартами, мы рекомендуем использовать DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Рекомендуется использовать чит-базу данных DeadSkullzJr как самую полную и последнюю версию:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Рекомендуется использовать чит-базу данных DeadSkullzJr как самую полную и последнюю версию:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Если вы хотите сделать это самостоятельно, вы можете использовать R4CEE на компьютере:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Если вы хотите сделать это самостоятельно, вы можете использовать R4CEE на компьютере:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

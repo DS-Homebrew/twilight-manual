@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        For å se om et spill er kompatibel med nds-bootstrap, sjekk kompabilitetslisten:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-kompatibilitet</a>
+        For å se om et spill er kompatibel med nds-bootstrap, sjekk kompabilitetslisten:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-kompatibilitet</a>
     </p>
     <p>
         For den beste kompatibiliteten på flashkortet. Vi anbefaler å få en DS Memory Expansion Pake.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadullzJr's juksedatabase anbefales da det er den største og mest oppdatert:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadullzJr's juksedatabase anbefales da det er den største og mest oppdatert:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternativt hvis du vil lage en selv, kan du bruke R4CEE på en datamaskin:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternativt hvis du vil lage en selv, kan du bruke R4CEE på en datamaskin:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Uyumluluk</div>
 <div class="section-body">
     <p>
-        Bir oyunun nds-bootsrap ile uyumlu olup olmadığına bakmak için şu uyumluluk listesine bakın: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Bir oyunun nds-bootsrap ile uyumlu olup olmadığına bakmak için şu uyumluluk listesine bakın: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Flashcard'lar ile en iyi uyumluluk için bir tane DS Memory Expansion Pak edinmenizi öneriyoruz.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        En geniş ve en güncel olduğundan dolayı DeadSkullzJr'ın hile veritabanını öneririz:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        En geniş ve en güncel olduğundan dolayı DeadSkullzJr'ın hile veritabanını öneririz:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatif olarak kendiniz hazırlamak isterseniz, R4CEE'yi bilgisayarınızda kullanabilirsiniz:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Alternatif olarak kendiniz hazırlamak isterseniz, R4CEE'yi bilgisayarınızda kullanabilirsiniz:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

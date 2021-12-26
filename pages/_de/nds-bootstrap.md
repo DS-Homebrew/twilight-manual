@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilität</div>
 <div class="section-body">
     <p>
-        Um zu sehen ob ein Spiel mit nds-bootstrap kompatibel ist, überprüfe die Kompatibilitätsliste:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Um zu sehen ob ein Spiel mit nds-bootstrap kompatibel ist, überprüfe die Kompatibilitätsliste:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Für die beste Kompatibilität mit Flashkarten empfehlen wir ein DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr's Cheatdatenbank wird empfohlen, da es die größte und aktuellste ist:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr's Cheatdatenbank wird empfohlen, da es die größte und aktuellste ist:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Wenn du selbst eine erstellen möchtest, kannst du alternativ R4CEE auf einem Computer verwenden:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Wenn du selbst eine erstellen möchtest, kannst du alternativ R4CEE auf einem Computer verwenden:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

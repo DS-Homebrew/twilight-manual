@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">호환성</div>
 <div class="section-body">
     <p>
-        게임이 nds-bootstrap과 호환되는지 확인하려면, 호환성 리스트를 확인해보세요: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        게임이 nds-bootstrap과 호환되는지 확인하려면, 호환성 리스트를 확인해보세요: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         플래시카드와의 최고 호환성을 위해 DS 메모리 확장 팩을 사용하는 것을 추천합니다.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr의 치트 데이터베이스가 가장 크고 계속 업데이트 되고 있으며, 이것을 권장합니다:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr의 치트 데이터베이스가 가장 크고 계속 업데이트 되고 있으며, 이것을 권장합니다:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        그 외, 치트를 직접 입력하고 싶으시다면, 컴퓨터에서 R4CCE 프로그램을 사용하시면 됩니다:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        그 외, 치트를 직접 입력하고 싶으시다면, 컴퓨터에서 R4CCE 프로그램을 사용하시면 됩니다:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

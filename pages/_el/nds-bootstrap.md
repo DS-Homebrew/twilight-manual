@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Συμβατότητα</div>
 <div class="section-body">
     <p>
-        Για να δείτε αν ένα παιχνίδι είναι συμβατό με το nds-bootstrap, ελέγξτε τη λίστα συμβατότητας:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Για να δείτε αν ένα παιχνίδι είναι συμβατό με το nds-bootstrap, ελέγξτε τη λίστα συμβατότητας:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Για την καλύτερη συμβατότητα σε flashcards, σας συνιστούμε να πάρετε ένα DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr cheat database συνιστάται καθώς είναι το μεγαλύτερο και πιο ενημερωμένο: <br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        DeadSkullzJr cheat database συνιστάται καθώς είναι το μεγαλύτερο και πιο ενημερωμένο: <br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Εναλλακτικά, αν θέλετε να κάνετε ένα δικό σας, μπορείτε να χρησιμοποιήσετε το R4CEE σε έναν υπολογιστή:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Εναλλακτικά, αν θέλετε να κάνετε ένα δικό σας, μπορείτε να χρησιμοποιήσετε το R4CEE σε έναν υπολογιστή:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kesesuaian(Compatibility)</div>
 <div class="section-body">
     <p>
-        Untuk melihat apakah permainannya sesuai (compatible) dimainkan di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Untuk melihat apakah permainannya sesuai (compatible) dimainkan di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Untuk kesesuaian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Pangkalan data curangan (cheat) DeadSkullzJr's paling disarankan karena yang terbesar dan terbaru:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Pangkalan data curangan (cheat) DeadSkullzJr's paling disarankan karena yang terbesar dan terbaru:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Cara lainnya, jika kamu ingin buat sendiri, bisa dengan aplikasi R4CEE di komputer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        Cara lainnya, jika kamu ingin buat sendiri, bisa dengan aplikasi R4CEE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

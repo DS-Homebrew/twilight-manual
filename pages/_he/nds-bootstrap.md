@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">תאימות</div>
 <div class="section-body">
     <p>
-        בכדי לבדוק את התאימות של משחק ל-nds-bootstrap, בדקו את רשימת התאימות:<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        בכדי לבדוק את התאימות של משחק ל-nds-bootstrap, בדקו את רשימת התאימות:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         לתאימות הטובה ביותר עם flashcards, אנו ממליצים להשיג DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        מסד-הנתונים של DeadSkullzJr מומלץ מכיוון שהוא הגדול והעדכני ביותר:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        מסד-הנתונים של DeadSkullzJr מומלץ מכיוון שהוא הגדול והעדכני ביותר:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        לחילופין, אם תרצו להכין אחד בעצמכם תוכלו להשתמש ב-R4CEE על המחשב:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        לחילופין, אם תרצו להכין אחד בעצמכם תוכלו להשתמש ב-R4CEE על המחשב:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

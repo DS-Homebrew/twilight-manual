@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibilità</div>
 <div class="section-body">
     <p>
-        Per vedere se un gioco è compatibile con nds-bootstrap, controlla la lista di compatibilità: <br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        Per vedere se un gioco è compatibile con nds-bootstrap, controlla la lista di compatibilità: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Per una migliore compatibilità con le flashcard, si consiglia di procurarsi un DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Il database dei trucchi di DeadSkullzJr è consigliato in quanto è il più grande e aggiornato fino ad oggi:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
+        Il database dei trucchi di DeadSkullzJr è consigliato in quanto è il più grande e aggiornato fino ad oggi:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        In alternativa, se vuoi fare da solo, puoi usare R4CEE su un computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        In alternativa, se vuoi fare da solo, puoi usare R4CEE su un computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

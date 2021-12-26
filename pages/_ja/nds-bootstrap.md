@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">互換性</div>
 <div class="section-body">
     <p>
-        ゲームがnds-bootstrapと互換性があるかどうかを確認するには、互換性リストを確認してください：<br><a href="https://cutt.ly/nds-compatibility">cutt.ly/nds-compatibility</a>
+        ゲームがnds-bootstrapと互換性があるかどうかを確認するには、互換性リストを確認してください：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         フラッシュカードで最高な互換性のために、DSメモリー拡張カートリッジを取得するをお勧めます。
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJrのチートデータベースは最大と最新のものとしておすすめます：<br><a href="https://cutt.ly/DSJCheats"> cutt.ly/DSJCheats</a>
+        DeadSkullzJrのチートデータベースは最大と最新のものとしておすすめます：<br><a href="https://r.pk11.us/DSJCheats"> r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        あるいは、自分で作成するが好き場合は、パソコンでR4CCEを使用こともできます：<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+        あるいは、自分で作成するが好き場合は、パソコンでR4CCEを使用こともできます：<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
