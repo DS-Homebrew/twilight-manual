@@ -130,7 +130,7 @@ title: nds-bootstrap
 		DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://cutt.ly/DSJCheats">cutt.ly/DSJCheats</a>
 	</p>
 	<p>
-		Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
+		Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://cutt.ly/r4cce">cutt.ly/r4cce</a>
 	</p>
 	<hr>
 	<p>
