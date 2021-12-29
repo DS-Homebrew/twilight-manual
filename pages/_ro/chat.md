@@ -13,9 +13,9 @@ title: Chat
 </div>
 <div class="section-body">
     <p>
-        Ești în căutarea unei comunități de utilizatori TWiLight Menu++? Alătură-te serverului de Discord DS<sup>(i)<sup> Mode Hacking de pe un dispozitiv compatibil pentru a te întâlnii cu alți utilizatori TWiLight Menu++ ca și tine!
+        Ești în căutarea unei comunități de utilizatori TWiLight Menu++? Alătură-te serverului de Discord DS<sup>(i)</sup> Mode Hacking de pe un dispozitiv compatibil pentru a te întâlnii cu alți utilizatori TWiLight Menu++ ca și tine!
     </p>
     <p>
-        Cod de invitare: <a href="https://discord.gg/yD3spjv>yD3spjv</a>
+        Cod de invitare: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
     </p>
 </div>

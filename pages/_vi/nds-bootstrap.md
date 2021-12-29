@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Tương thích</div>
 <div class="section-body">
     <p>
-        Để xem một trò chơi có tương thích với nds-bootstrap, kiểm tra ở danh sách tương thích:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Để xem một game có tương thích với nds-bootstrap không, kiểm tra ở danh sách:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Để tương thích tốt nhất với flashcards, chúng tôi đề xuất bạn nên có 1 bộ nhớ DS mở rộng Pak.
@@ -66,7 +66,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Chọn cài đặt</p>
+        <p class="button-action-text">Chọn tùy chọn</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -81,7 +81,7 @@ title: nds-bootstrap
     <h3>Chụp màn hình</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Change VRAM bank</p>
+        <p class="button-action-text">Thay đổi VRAM bank</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap có thể sử dụng cheats tua lại thông qua tệp <code> usrcheat.dat </code>, cơ sở dữ liệu này cần có trong <code>sd:/_nds/TWiLightMenu/extras</code>. Khi đã đặt cheat ở đó, bạn có thể chọn cheat để sử dụng từ menu cài đặt mỗi trò chơi của trò chơi trong TWiLight Menu++.
     </p>
     <hr>
     <p>

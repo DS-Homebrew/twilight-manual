@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatybilność</div>
 <div class="section-body">
     <p>
-        Aby sprawdzić, czy gra jest kompatybilna z nds-bootstrap, sprawdź listę kompatybilności: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Dla jak najlepszej kompatybilności na flashcard, zalecamy otrzymanie Pakietu Pamięci DS.
@@ -130,7 +130,7 @@ title: nds-bootstrap
         DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

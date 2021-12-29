@@ -130,7 +130,7 @@ title: nds-bootstrap
         O banco de dados de cheats do DeadSkullzJr é recomendado, pois é a maior base de dados actualizada:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Como alternativa, podes fazer a tua própria base de dados usando o R4CEE num computador:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Como alternativa, podes fazer a tua própria base de dados usando o R4CCE num computador:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

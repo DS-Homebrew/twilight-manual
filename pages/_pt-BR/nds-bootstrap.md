@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibilidade</div>
 <div class="section-body">
     <p>
-        Para ver se um jogo é compatível com o nds-bootstrap, verifique a lista de compatibilidade:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Para ter melhor compatibilidade com flashcards, recomendamos obter um DS Memory Expansion Pak.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        O banco de dados de trapaças do usuário DeadSkullzJr é o mais recomendado por ser o maior e mais atualizado:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Por outro lado, caso queira fazer seu próprio banco de dados, você pode usar o R4CEE em um computador:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

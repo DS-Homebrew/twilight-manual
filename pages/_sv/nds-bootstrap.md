@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        För att se om ett spel är kompatibelt med nds-bootstrap, kontrollera kompatibilitetslistan:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         För bästa kompatibilitet på minneskort rekommenderar vi att du skaffar ett DS Memory Expansion Pak.
@@ -130,7 +130,7 @@ title: nds-bootstrap
         DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CEE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

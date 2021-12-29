@@ -16,7 +16,7 @@ title: nds-selvstart
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        Kontroller kompatibilitetslisten: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>, for at se om et spil er kompatibelt med nds-selvstart
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         For den bedste kompatibilitet med flashkort, foreslår vi, at anskaffe en "DS Memory Expansion Pak".
@@ -127,10 +127,10 @@ title: nds-selvstart
     </p>
     <hr>
     <p>
-        DeadSkullzJrs snydedatabase anbefales, da det er den største og mest ajourførte:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Som alternativ, hvis man hellere selv vil lave en, kan man bruge R4CEE på en computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

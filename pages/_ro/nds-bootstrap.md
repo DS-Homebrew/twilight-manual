@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibilitate</div>
 <div class="section-body">
     <p>
-        Pentru a vedea dacă un joc este compatibil cu nds-bootstrap, verificați lista de compatibilitate:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Pentru a vedea dacă un joc este compatibil cu nds-bootstrap, verifică lista de compatibilitate:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Pentru cea mai bună compatibilitate pe flashcard-uri, vă recomandăm să luați un DS Memory Expansion Pak.
@@ -130,7 +130,7 @@ title: nds-bootstrap
         Baza de date de cheats-uri a lui DeadSkullzJr este recomandată deoarece este cea mai mare și cea mai recentă:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternativ, dacă ați dori să creați unul voi înșivă, puteți folosi R4CEE pe un calculator:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cee</a>
+        Alternativ, dacă ați dori să creați unul voi înșivă, puteți folosi R4CEE pe un calculator:<br><a href="https://r.pk11.us/r4cce">cutt.ly/r4cee</a>
     </p>
     <hr>
     <p>

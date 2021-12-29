@@ -16,7 +16,7 @@ title: crwdns21114:0crwdne21114:0
 <div id="compatibility" class="section-title">crwdns20474:0crwdne20474:0</div>
 <div class="section-body">
     <p>
-        crwdns17690:0crwdne17690:0
+        crwdns28599:0crwdne28599:0
     </p>
     <p>
         crwdns20476:0crwdne20476:0
@@ -127,10 +127,10 @@ title: crwdns21114:0crwdne21114:0
     </p>
     <hr>
     <p>
-        crwdns24443:0crwdne24443:0
+        crwdns28601:0crwdne28601:0
     </p>
     <p>
-        crwdns24445:0crwdne24445:0
+        crwdns28603:0crwdne28603:0
     </p>
     <hr>
     <p>

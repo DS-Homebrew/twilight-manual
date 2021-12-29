@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr cheat database συνιστάται καθώς είναι το μεγαλύτερο και πιο ενημερωμένο: <br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        Συνιστάται βάση δεδομένων με τα cheats DeadSkullzJr καθώς είναι το μεγαλύτερο και πιο ενημερωμένο:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Εναλλακτικά, αν θέλετε να κάνετε ένα δικό σας, μπορείτε να χρησιμοποιήσετε το R4CEE σε έναν υπολογιστή:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Εναλλακτικά, αν θέλετε να δημιουργήσετε ένα δικό σας, μπορείτε να χρησιμοποιήσετε το R4CEE σε έναν υπολογιστή:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

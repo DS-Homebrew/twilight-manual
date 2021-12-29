@@ -48,7 +48,7 @@ title: Pengaturan
 
 <div id="gbarunner2-settings" class="section-title">Pengaturan GBARunner2</div>
 <div class="section-body">
-    <p>Pengaturan ini bantu kamu memilih bagaimana tampilannya dan agar jalannya cepat atau kesesuaiannya (compatibility) meningkat.</p>
+    <p>Pengaturan ini membantu memilih bagaimana tampilannya dan agar jalannya cepat atau meningkatkan keserasiannya (compatibility).</p>
 </div>
 
 <div id="games-and-apps-settings" class="section-title">Penga. Permainan dan Aplikasi</div>

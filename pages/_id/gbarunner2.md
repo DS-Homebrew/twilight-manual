@@ -45,7 +45,7 @@ title: GBARunner2
 <div id="bios-file" class="section-title">Berkas BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 dapat memakai dump BIOS GBA resmi untuk menambah kesesuaian (compatibility). <br>Nama berkasnya harus <code>bios.bin</code> dan taruhnya boleh di root kartu SD, di <code>sd:/gba</code> atau <code>sd:/_gba</code>.
+        GBARunner2 dapat memakai dump BIOS GBA resmi untuk menambah keserasian (compatibility). <br>Nama berkasnya harus <code>bios.bin</code> dan taruhnya boleh di root kartu SD, di <code>sd:/gba</code> atau <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>

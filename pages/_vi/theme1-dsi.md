@@ -22,7 +22,7 @@ title: Giao diện Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Trở lên 1 thư mục</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -37,15 +37,15 @@ title: Giao diện Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Mở SELECT Menu hoặc Menu DS cổ điển</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Điều khiển chạm</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Cuộn để xem danh sách</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -9,17 +9,17 @@ title: nds-bootstrap
         nds-bootstrap adalah aplikasi homebrew yang digunakan TWiLight Menu++ untuk memuat dump kartu DS(i), DSiWare, dan homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Digunakan di flashcard juga bisa, tetapi kesesuaian di flashcard lebih rendah, jadi lebih untuk flashcard cuma-homebrew dan juga flashcard dengan kesesuaian rendah.
+        Digunakan di flashcard juga bisa, tetapi keserasian di flashcard lebih rendah, diutamakannya untuk flashcard cuma-homebrew dan flashcard dengan keserasian rendah.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Kesesuaian(Compatibility)</div>
+<div id="compatibility" class="section-title">Keserasian(Compatibility)</div>
 <div class="section-body">
     <p>
-        Untuk melihat apakah permainannya sesuai (compatible) dimainkan di nds-bootstrap, coba periksa di daftar kesesuaian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Untuk melihat jika permainannya serasi (compatible) dimainkan di nds-bootstrap, periksa di daftar keserasian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Untuk kesesuaian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
+        Untuk keserasian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
     </p>
 </div>
 
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Pangkalan data curangan (cheat) DeadSkullzJr's paling disarankan karena yang terbesar dan terbaru:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        Pangkalan data curangan (cheat) DeadSkullzJr paling dianjurkan karena yang terbesar dan terbaru:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Cara lainnya, jika kamu ingin buat sendiri, bisa dengan aplikasi R4CEE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Cara lainnya, jika kamu ingin buat sendiri, bisa dengan aplikasi R4CCE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
