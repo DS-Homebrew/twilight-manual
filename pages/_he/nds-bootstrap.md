@@ -16,7 +16,8 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">תאימות</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        תראה ברשימת תאימות אים המשחק שלך יכול לעבוד ב-nds-bootstrap:
+<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         לתאימות הטובה ביותר עם flashcards, אנו ממליצים להשיג DS Memory Expansion Pak.
