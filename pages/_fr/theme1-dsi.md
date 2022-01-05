@@ -80,7 +80,7 @@ title: Thème Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Image personnalisée de l'écran supérieur</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ supporte l'affichage de photos personnalisées sur l'écran supérieur, tout comme le menu officiel Nintendo DSi. Cependant, plutôt que d'utiliser l'application Appareil photo Nintendo DSi , vous pouvez placer n'importe quelle image au format PNG dans le répertoire suivant : <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ supporte l'affichage de photos personnalisées sur l'écran supérieur, tout comme le menu officiel Nintendo DSi. Cependant, plutôt que d'utiliser l'application Appareil photo Nintendo DSi, vous pouvez placer n'importe quelle image au format PNG dans le répertoire suivant : <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Largeur maximale : 208 pixels</li>
         <li>Hauteur maximale : 156 pixels</li>
@@ -94,8 +94,8 @@ title: Thème Nintendo DSi
         Appuyer sur SELECT dans le thème Nintendo DSi affichera le menu DS Classic par défaut. Cependant, dans les paramètres du TWiLight Menu++, vous pouvez le modifier pour lancer le menu SELECT, un menu miniature intégré dans le thème lui-même. Voici les options de menu du menu SELECT.
     </p>
     <ul>
-        <li><strong>Menu HOME :</strong> sur les consoles Nintendo DSi et Nintendo 3DS, cette option pour revenir au menu HOME apparaîtra.</li>
-        <li><strong>Paramètres :</strong> en sélectionnant cela, vous lancerez un menu pour configurer les paramètres de TWiLight Menu++ et de ses lanceurs.</li>
+        <li><strong>Menu HOME :</strong> sur les consoles Nintendo DSi et Nintendo 3DS, cette option pour revenir au menu HOME apparaîtra</li>
+        <li><strong>Paramètres :</strong> en sélectionnant cela, vous lancerez un menu pour configurer les paramètres de TWiLight Menu++ et de ses lanceurs</li>
         <li><strong>Options de cartouche :</strong> sur une Nintendo DS/DS Lite, vous pouvez lancer votre cartouche Slot-2 à partir d'ici. Sur les Nintendo DSi et les Nintendo 3DS fonctionnant à partir de la carte SD, vous pouvez soit exécuter votre carte Slot-1, soit, avec certains linkers, choisir la carte SD que doit parcourir TWiLight Menu++</li>
         <li><strong>Manuel :</strong> ceci va lancer le manuel de TWiLight Menu++, c'est ce que vous regardez actuellement :P</li>
     </ul>

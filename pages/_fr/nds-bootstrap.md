@@ -9,7 +9,7 @@ title: nds-bootstrap
         nds-bootstrap est une application homebrew utilisée par TWiLight Menu++ pour charger des dumps de cartouches DS(i), DSiWare et des homebrews en mode DS à partir de la carte SD sur Nintendo DSi/3DS.
     </p>
     <p>
-        Il peut également être utilisé sur les linkers, cependant, la compatibilité sur les linkers étant plus faible, il est donc principalement destiné aux linkers homebrew-only et aux linkers avec une faible compatibilité.
+        Il peut également être utilisé sur les linkers, cependant, la compatibilité sur les linkers étant plus faible, il est donc principalement destiné aux linkers homebrews seuls et aux linkers avec une faible compatibilité.
     </p>
 </div>
 
@@ -19,7 +19,7 @@ title: nds-bootstrap
         Pour savoir si un jeu est compatible avec nds-bootstrap, vérifiez la liste de compatibilité :<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Pour une meilleure compatibilité avec les linkers, nous vous recommandons de vous procurer une cartouche d'extension mémoire Nintendo DS.
+        Pour une meilleure compatibilité avec les linkers, nous vous recommandons de vous procurer un DS Memory Expansion Pak.
     </p>
 </div>
 

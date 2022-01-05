@@ -39,14 +39,14 @@ title: Accueil
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Raccourcis de démarrage</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Raccourcis de démarrage de TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Maintenez &#xE000;, &#xE001;, &#xE002;, et &#xE003; pour réinitialiser les paramètres de TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Maintenez SELECT enfoncé pour accéder directement au menu des paramètres.
+        Maintenez SELECT enfoncé pour accéder directement aux paramètres.
     </p>
     <hr>
     <p>
@@ -54,9 +54,9 @@ title: Accueil
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Informations sur le thème</div>
+<div id="theme-information" class="section-title">Informations sur les thèmes</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ a six thèmes différents que vous pouvez choisir. Ce sont des menus alternatifs qui ont tous des designs différents, certains ayant des styles de navigation complètement distincts.</p>
+    <p class="mb-2">TWiLight Menu++ a 6 thèmes différents que vous pouvez choisir. Ce sont des menus alternatifs qui ont tous des designs différents, certains ayant des styles de navigation complètement distincts.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

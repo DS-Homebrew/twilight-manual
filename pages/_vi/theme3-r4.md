@@ -35,7 +35,7 @@ title: Giao diện R4 gốc
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Đối tượng trước / kế tiếp</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -50,7 +50,7 @@ title: Giao diện R4 gốc
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Trở lên 1 thư mục</p>
     </div>
     <hr>
     <div class="button-action-group">

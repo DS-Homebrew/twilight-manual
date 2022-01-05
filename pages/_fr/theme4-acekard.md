@@ -42,7 +42,7 @@ title: Thème Wood UI
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Ouvrir le menu Start</p>
+        <p class="button-action-text">Ouvrir le menu START</p>
     </div>
     <hr>
     <div class="button-action-group">

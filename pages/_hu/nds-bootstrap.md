@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilitás</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Ahhoz, hogy lásd, mely játékok kompatibilisek az nds-bootstrap-pel, tekintsd meg a kompatibilitási listát:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         A legjobb flashcard kompatibilitáshoz javasoljuk a DS Memory Expansion Pak beszerzését.
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        DeadSkullzJr csalás adatbázis ajánlott, mert az a legnagyobb és a lesűrűbben frissített:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternatívaként, ha szeretnél csinálni magadnak egyet, használhatod az R4CCE-t egy számítógépen:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

@@ -1,56 +1,56 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: Giao diện Nintendo 3DS
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Nút điều khiển</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">Di chuyển đối tượng<br>(Cách sắp xếp phải được đặt là "Tùy chỉnh")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Đối tượng trước / kế tiếp</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Khởi chạy ứng dụng đã chọn</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Trở lên 1 thư mục</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">Xóa / ẩn đối tượng</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Mở cài đặt riêng từng trò chơi</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open the SELECT Menu or the DS Classic Menu</p>
+        <p class="button-action-text">Mở SELECT Menu hoặc Menu DS cổ điển</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Điều khiển chạm</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Cuộn để xem danh sách</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Khởi chạy ứng dụng đã chọn</p>
     </div>
     <!-- <hr>
     <div>
