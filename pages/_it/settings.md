@@ -22,7 +22,7 @@ title: Impostazioni
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Chiudi impostazioni</p>
+        <p class="button-action-text">Esci dalle impostazioni</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -51,7 +51,7 @@ title: Impostazioni
     <p>Queste impostazioni consentono di selezionare come vengono visualizzati i giochi, la velocità con cui essi sono avviati o per avere una migliore compatibilità.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Impostazioni Giochi e App</div>
+<div id="games-and-apps-settings" class="section-title">Impostazioni Giochi & App</div>
 <div class="section-body">
     <p>Queste sono le impostazioni generali per come i giochi dovrebbero essere avviati. Molte di queste variano da come si esegue TWiLight Menu++, ad esempio se si utilizza il kernel di una flashcard o nds-bootstrap.</p>
 </div>

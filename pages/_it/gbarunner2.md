@@ -12,7 +12,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Sposta su / giù di 10</p>
+        <p class="button-action-text">Sposta sù / giù di 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -38,14 +38,14 @@ title: GBARunner2
 <div id="in-game" class="section-title">In Gioco</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca lo schermo touch"></p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca il touch screen"></p>
         <p class="button-action-text">Apri menu</p>
     </div>
 </div>
 <div id="bios-file" class="section-title">File BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 può utilizzare un dump del BIOS ufficiale del GBA per migliorare la compatibilità. Il file deve essere chiamato <code>bios.bin</code> e può essere posizionata nella root della scheda SD, in <code>sd:/gba</code> o in <code>sd:/_gba</code>.
+        GBARunner2 può utilizzare un dump del BIOS ufficiale del GBA per migliorare la compatibilità. Il file deve essere chiamato <code>bios.bin</code> e posizionato nella root della scheda SD, in <code>sd:/gba</code> o in <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>

@@ -6,10 +6,10 @@ title: nds-bootstrap
 <div id="about" class="section-title">Informazioni</div>
 <div class="section-body">
     <p>
-        nds-bootstrap è un applicazione homebrew utilizzata da TWiLight Menu++ per avviare dump delle cartuccie del DS(i) e dell'homebrew in modalità DS dalla scheda SD del Nintendo DSi / Nintendo 3DS.
+        nds-bootstrap è un applicazione homebrew utilizzata da TWiLight Menu++ per avviare dump delle cartuccie del DS(i), DSiWare e dell'homebrew in modalità DS dalla scheda SD del Nintendo DSi / Nintendo 3DS.
     </p>
     <p>
-        Può anche essere utilizzato su flashcard, Tuttavia la compatibilità con le flashcard è più bassa, quindi è destinato principalmente a flashcard homebrew-only e a flashcard con bassa compatibilità.
+        Può anche essere utilizzato su flashcard, Tuttavia la compatibilità è minore, e perciò destinato principalmente a flashcard homebrew-only e con bassa compatibilità.
     </p>
 </div>
 
@@ -29,14 +29,14 @@ title: nds-bootstrap
         Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco.
     </p>
     <p>
-        Può essere rimappato con la <code>scorciatoia menù</code> nella pagina Giochi & App delle impostazioni di Twilight Menu++.
+        Può essere rimappato con la <code>Scorciatoia menù</code> nella pagina Giochi & App delle impostazioni di Twilight Menu++.
     </p>
     <hr>
     <p>
         Premi &#xE004;, &#xE005;, START e SELECT per resettare il gioco.
     </p>
     <p>
-        Tieni premuto per 2 secondi per forzare il ripristino della partita.
+        Tieni premuto per 2 secondi per forzare il reset del gioco.
     </p>
     <hr>
     <p>
@@ -61,7 +61,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Cambia impostazione<br>(sottomenu opzioni)</p>
+        <p class="button-action-text">Cambia impostazione<br>(Sottomenu opzioni)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Trucchi</div>
 <div class="section-body">
     <p>
-        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dovrebbe essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta lì, è possibile selezionare quali trucchi usare dal menu delle impostazioni per gioco di TWiLight Menu++.
+        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dev'essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta lì, è possibile selezionare quali trucchi usare dal menu delle impostazioni per gioco di TWiLight Menu++.
     </p>
     <hr>
     <p>

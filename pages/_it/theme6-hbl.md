@@ -37,7 +37,7 @@ title: Tema Homebrew Launcher
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Apri il menu SELECT o il Menu Classico DS</p>
+        <p class="button-action-text">Apri il menu SELECT o il Menu DS Classico</p>
     </div>
 </div>
 

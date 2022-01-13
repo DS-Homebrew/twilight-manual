@@ -7,7 +7,7 @@ title: Home
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scorri su e giù</p>
+        <p class="button-action-text">Scorri sù e giù</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -30,11 +30,11 @@ title: Home
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Scorri verso l'alto o verso il basso sul touch screen"></p>
-        <p class="button-action-text">Scorri su e giù</p>
+        <p class="button-action-text">Scorri sù e giù</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca lo schermo touch"></p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca il touch screen"></p>
         <p class="button-action-text">Tocca un link per andare alla sua pagina</p>
     </div>
 </div>
@@ -46,7 +46,7 @@ title: Home
     </p>
     <hr>
     <p>
-        Tieni premuto SELECT per andare direttamente alle impostazioni del menu.
+        Tieni premuto SELECT per andare direttamente al menu delle impostazioni.
     </p>
     <hr>
     <p>
@@ -122,7 +122,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">Menu Classico DS</a>
+                <a href="ds-classic-menu">Menù DS Classico</a>
             </p>
         </div>
         <div class="grid-item">
