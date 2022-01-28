@@ -60,16 +60,16 @@ title: Giao diện Nintendo 3DS
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">Trang hệ thống</div>
 <div class="section-body">
     <p>
-        The Nintendo 3DS theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        Giao diện Nintendo 3DS chia đối tượng thành các trang với tối đa 40 đối tượng 1 trang. Bạn có thể chuyển trang bằng cách dùng &#xE004; và &#xE005;.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>Nhấn &#xE004; ở dưới cùng bên trái để nhảy về đối tượng đầu trang</p></li>
+        <li><p>Nhấn &#xE005; dưới cùng bên phải để nhảy về đối tượng cuối trang</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        Nếu triggers của bạn không hoạt động, bạn có thể dùng SELECT + &#xE07E; thay thế.
     </p>
 </div>

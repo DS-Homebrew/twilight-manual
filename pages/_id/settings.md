@@ -43,7 +43,7 @@ title: Pengaturan
 
 <div id="emulation-hb-settings" class="section-title">Pengaturan Emulasi/HB</div>
 <div class="section-body">
-    <p>Kamu dapat memilih serambi (platform) mana yang muncul dan emulator mana yang digunakan.</p>
+    <p>Kamu dapat memilih pelantar (platform) mana yang muncul dan emulator mana yang digunakan.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Pengaturan GBARunner2</div>
