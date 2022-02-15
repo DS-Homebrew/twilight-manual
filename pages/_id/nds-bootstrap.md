@@ -6,17 +6,17 @@ title: nds-bootstrap
 <div id="about" class="section-title">Tentang</div>
 <div class="section-body">
     <p>
-        nds-bootstrap adalah aplikasi homebrew yang digunakan TWiLight Menu++ untuk memuat dump kartu DS(i), DSiWare, dan homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
+        nds-bootstrap adalah homebrew yang digunakan TWiLight Menu++ untuk memuat dump kartu DS(i), DSiWare, dan homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Digunakan di flashcard juga bisa, tetapi keserasian di flashcard lebih rendah, diutamakannya untuk flashcard cuma-homebrew dan flashcard dengan keserasian rendah.
+        Aplikasi ini juga dapat digunakan di flashcard, tapi keserasiannya lebih rendah, maka diutamakannya untuk flashcard cuma-homebrew dan juga flashcard berkeserasian rendah.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Keserasian(Compatibility)</div>
 <div class="section-body">
     <p>
-        Untuk melihat jika permainannya serasi (compatible) dimainkan di nds-bootstrap, periksa di daftar keserasian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Untuk melihat apakah permainannya serasi dimainkan di nds-bootstrap, periksa di daftar keserasian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Untuk keserasian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
@@ -29,14 +29,14 @@ title: nds-bootstrap
         Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game.
     </p>
     <p>
-        Tombol dapat dipeta ulang di <code>Ubah hotkey menu</code> pada halaman Permainan dan Apl. dari TWiLight Menu++.
+        Tombol dapat dipeta ulang dengan <code>Ubah hotkey menu</code> pada halaman Permainan dan Apl. TWLMenu++.
     </p>
     <hr>
     <p>
-        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan diatur ulang (reset).
+        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang.
     </p>
     <p>
-        Tahan 2 detik agar permainannya diulang paksa.
+        Tahan 2 detik agar permainan dimulai ulang (reset) paksa.
     </p>
     <hr>
     <p>
@@ -44,7 +44,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik agar kembali ke TWiLight Menu++.
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik agar kembali ke TWLMenu++.
     </p>
     <hr>
     <p>
@@ -123,17 +123,17 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Curangan (Cheat)</div>
 <div class="section-body">
     <p>
-        nds-bootstrap menggunakan cheat Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Kalau pangkalan datanya sudah ada, kamu dapat memilih curangan dari menu setelan tiap-permainan di TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, kamu dapat memilih curangan dari menu setelan tiap-permainan pada TWiLight Menu++.
     </p>
     <hr>
     <p>
         Pangkalan data curangan (cheat) DeadSkullzJr paling dianjurkan karena yang terbesar dan terbaru:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Cara lainnya, jika kamu ingin buat sendiri, bisa dengan aplikasi R4CCE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Cara lainnya jika ingin buat sendiri, bisa dengan R4CCE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih goyah (unstable), sehingga kodemu bisa jalan bisa tidak. <br>Ini bukan karena pangkalan data curangannya, dan kami berharap untuk memperbaiki masalah ini di nds-bootstrap.
+        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih goyah (unstable), sehingga kodemu bisa jalan bisa tidak. <br>Ini bukan gara-gara pangkalan data curangannya, dan kami berharap dapat segera memperbaiki masalah ini pada nds-bootstrap.
     </p>
 </div>

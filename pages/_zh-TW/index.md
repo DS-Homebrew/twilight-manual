@@ -39,7 +39,7 @@ title: 主頁
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLightMenu++引導便捷方式</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLightMenu++啟動捷徑</div>
 <div class="section-body">
     <p>
         同時按下&#xE000;, &#xE001;, &#xE002;, 和&#xE003; 來重置TWiLight Menu++設定。
@@ -99,7 +99,7 @@ title: 主頁
 
 <div id="game-loaders" class="section-title">載入遊戲</div>
 <div class="section-body">
-    <p class="mb-2">本軟體如名字，只是一個引導菜單。 不是自己來啟動遊戲ROM的。 此為我們使用的Rom載入工具的說明：</p>
+    <p class="mb-2">TWiLight Menu++正如其名，只是一個選單而已。 不是自己來啟動遊戲ROM的。 此為我們使用的Rom載入工具的說明：</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">

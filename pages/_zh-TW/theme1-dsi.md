@@ -37,7 +37,7 @@ title: Nintendo DSi主題
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">打開SELECT菜單或是DS Classic菜單</p>
+        <p class="button-action-text">打開SELECT選單或DS懷舊選單</p>
     </div>
 </div>
 
@@ -80,7 +80,7 @@ title: Nintendo DSi主題
 <div id="custom-top-screen-image" class="section-title">上熒幕客製化背景</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>本軟件支持在上熒幕中顯示自定義的圖片，如同Nintendo DSi主機系統一樣。 並且，不僅是Nintendo DSi照相館內的圖像，您也可在本軟體中設定PNG图像文件。路徑：
+    <p>本軟體支持在上熒幕中顯示自訂圖檔，如同Nintendo DSi系統選單一樣。 並且，不僅是Nintendo DSi照相館內的圖像，您也可在本軟體中設定PNG图像文件。路徑：
  <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>最大寬度: 208px</li>

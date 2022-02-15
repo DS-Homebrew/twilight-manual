@@ -99,7 +99,7 @@ title: 主页
 
 <div id="game-loaders" class="section-title">游戏引导程序</div>
 <div class="section-body">
-    <p class="mb-2">本软件如其名字所示，只是一种引导菜单。 自身并不会进行ROM的加载。 以下是本软件所主要使用的两种ROM引导程序的详细说明。</p>
+    <p class="mb-2">TWiLight Menu++正如其名，只是一个菜单而已。 自身并不会进行ROM的加载。 以下是本软件所主要使用的两种ROM引导程序的详细说明。</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">

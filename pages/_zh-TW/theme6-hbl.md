@@ -37,7 +37,7 @@ title: Homebrew Launcher主題
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">打開SELECT菜單或是DS Classic菜單</p>
+        <p class="button-action-text">打開SELECT選單或DS懷舊選單</p>
     </div>
 </div>
 

@@ -43,7 +43,7 @@ title: Pengaturan
 
 <div id="emulation-hb-settings" class="section-title">Pengaturan Emulasi/HB</div>
 <div class="section-body">
-    <p>Kamu dapat memilih pelantar (platform) mana yang muncul dan emulator mana yang digunakan.</p>
+    <p>Di sini kamu dapat memilih pelantar (platform) mana yang muncul dan emulator mana yang digunakan.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Pengaturan GBARunner2</div>
@@ -58,11 +58,11 @@ title: Pengaturan
 
 <div id="misc-settings" class="section-title">Pengaturan lainnya</div>
 <div class="section-body">
-    <p>Ini tempat bagi pengaturan yang tidak pas di bagian lain, seperti bahasa apa yang digunakan, langsung dimulai kah permainan yang terakhir main, dimunculkan atau tidak layar splash di awal buka (startup), dan lainnya.</p>
+    <p>Ini tempat bagi pengaturan yang tidak pas ditaruh di bagian lain, seperti bahasa apa yang digunakan, ingin langsung mulai kah permainan yang terakhir main, dan layar splash di awal buka (startup) dimunculkan atau tidak, di antara lainnya.</p>
 </div>
 
 <div id="unlaunch-settings" class="section-title">Pengaturan Unlaunch</div>
 <div class="section-body">
-    <p>Pengaturan di sini dapat mengubah cara kerja Unlaunch, caranya dengan menambal pemasang (installer) Unlaunch sehingga kamu perlu memasangnya ulang agar pengaturannya berubah.</p>
-    <p>Halaman ini hanya ditampilkan di konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna Flashcard dan 3DS tidak akan melihat ini.</p>
+    <p>Pengaturan di sini dapat mengubah cara kerja penggunaan Unlaunch dengan cara menambal pemasang (installer) Unlaunch, maka dari itu perlu memasangnya ulang(reinstall) agar pengaturan ini berubah.</p>
+    <p>Halaman ini hanya ditampilkan pada konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna Flashcard dan 3DS tidak akan melihat ini.</p>
 </div>

@@ -6,7 +6,7 @@ title: Wood UI主題
 <div id="temporarily-disabled" class="section-title">暫時停用。</div>
 <div class="section-body">
     <p>
-        由於該主題發生SD卡適配性問題，已關閉該主題的使用。 需要重寫SD卡引導程式，這回花費很多時間和精力。
+        由於該主題發生SD卡適配性問題，已關閉該主題的使用。 會需要花費很多時間和精力重寫SD卡驅動以恢復此功能。
     </p>
     <p>
         請您耐心等待，這會需要一些時間。
