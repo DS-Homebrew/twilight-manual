@@ -41,9 +41,9 @@ title: Definições
     <p>Nesta página podes seleccionar um tema para usar e outras opções que afectem a aparência do TWiLight Menu++.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Definições do Emulador/HB</div>
+<div id="nds-bootstrap-settings" class="section-title">Definições do nds-bootstrap</div>
 <div class="section-body">
-    <p>Aqui podes seleccionar quais plataformas mostrar e quais emuladores devem ser usados.</p>
+    <p>Estas são as definições globais para jogos executados sob o nds-bootstrap. Algumas definições adicionais estão disponíveis por jogo ao premir &#xE003; nos jogos DS no menu da tua escolha.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Definições do GBARunner2</div>
@@ -51,18 +51,18 @@ title: Definições
     <p>Estas definições permitem que selecciones como os jogos são exibidos e para executar mais rapidamente ou para ter melhor compatibilidade.</p>
 </div>
 
+<div id="unlaunch-settings" class="section-title">Definições do Unlaunch</div>
+<div class="section-body">
+    <p>As definições aqui permitem-te mudar como o Unlaunch funciona, elas funcionam em por patches em cima do instalador do Unlaunch, por isso tens de reinstalar o Unlaunch para que as definições façam efeito.</p>
+    <p>Esta página só aparece em sistemas Nintendo DSi e quando não iniciado de um flashcard. Utilizadores de flashcard e 3DS não irão ver esta página.</p>
+</div>
+
 <div id="games-and-apps-settings" class="section-title">Definições dos Jogos e Apps</div>
 <div class="section-body">
-    <p>Estas são as definições gerais para como os jogos devem ser executados. Muitas destas variam de acordo com a forma como executas o TWiLight Menu++, como se precisas de usar o kernel do flashcard ou nds-bootstrap.</p>
+    <p>Aqui podes escolher qual emulador podes utilizar para sistemas com múltiplos emuladores, e outras definições se afectam como os jogos e aplicações se comportam quando não executadas com o nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Outras Definições</div>
 <div class="section-body">
-    <p>Aqui é onde todas as definições que não cabem noutro lugar, como qual idioma queres usar, quando iniciar o último jogo executado automaticamente e para mostrar os Splash Screens no arranque, entre outros.</p>
-</div>
-
-<div id="unlaunch-settings" class="section-title">Definições do Unlaunch</div>
-<div class="section-body">
-    <p>As definições aqui permitem-te mudar como o Unlaunch funciona, elas funcionam em por patches em cima do instalador do Unlaunch, por isso tens de reinstalar o Unlaunch para que as definições façam efeito.</p>
-    <p>Esta página só aparece em sistemas Nintendo DSi e quando não iniciado dum flashcard. Utilizadores de flashcard e 3DS não irão ver esta página.</p>
+    <p>Aqui é onde estão todas as definições que não cabem noutro lugar, como qual idioma queres usar, como iniciar o último jogo executado automaticamente e para mostrar os Splash Screens no arranque, entre outros.</p>
 </div>

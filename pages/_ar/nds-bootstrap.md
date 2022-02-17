@@ -29,7 +29,7 @@ title: nds-bootstrap
         Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
     </p>
     <hr>
     <p>

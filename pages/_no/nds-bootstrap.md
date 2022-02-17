@@ -29,7 +29,7 @@ title: nds-bootstrap
         Trykk &#xE004;, &#xE07A; og SELECT for å åpne menyen i spillet.
     </p>
     <p>
-        Dette kan tilordnes med <code>Meny-hotkey</code> på Spill og Apper i TWiLight Menu++ innstillinger.
+        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
     </p>
     <hr>
     <p>

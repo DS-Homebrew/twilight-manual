@@ -41,9 +41,9 @@ title: ゲーム設定
     <p>このページで、使っているテーマを選択するまたはTWiLight Menu++の外観に影響を与えるの他のオプション。</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">エミュレーション/HB設定</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap設定</div>
 <div class="section-body">
-    <p>ここでは、表示するゲーム機のROMと使うエミュレータを選択できます。</p>
+    <p>これらは、nds-bootstrapによって実行されるゲームのグローバルな設定です。 いくつかの追加設定は、DSゲームのファイルブラウザーで&#xE003;を押して、ゲームごとにあります。</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2エミュレーション設定</div>
@@ -51,18 +51,18 @@ title: ゲーム設定
     <p>この設定はゲームの表示方法と、より速く実行するか、より良い互換性かを選択できます。</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">ゲームとアプリ設定</div>
-<div class="section-body">
-    <p>これはゲームの実行方法ための一般な設定です。 これらの多くは、TWiLight Menu++の実行方法によって異なり、フラッシュカードカーネルまたはnds-bootstrapを使いますなど。</p>
-</div>
-
-<div id="misc-settings" class="section-title">その他の 設定</div>
-<div class="section-body">
-    <p>これは他の場所に適合しない設定がある。 使う言語、最後プレイしたゲームを自動的に起動するかどうか、起動時にスプラッシュ画面を表示するかどうかかど。</p>
-</div>
-
 <div id="unlaunch-settings" class="section-title">Unlaunch設定</div>
 <div class="section-body">
     <p>ここの設定は、Unlaunchの動作を変更できます。 Unlaunchのインストーラをパッチを当てることで動作するので、これらの設定が影響を受けるように再インストールするが必要です。</p>
     <p>このページはフラッシュカードではないから開始するニンテンドーDSi本体のみで表示する。 フラッシュカードと3DSユーザーはこのページを表示されません。</p>
+</div>
+
+<div id="games-and-apps-settings" class="section-title">ゲームとアプリ設定</div>
+<div class="section-body">
+    <p>ここでは、複数のエミュレーターを使用できるシステムで使用するエミュレーターを選択したり、nds-bootstrapを使用していないゲームやアプリの動作に影響を与えるその他の設定があります。</p>
+</div>
+
+<div id="misc-settings" class="section-title">その他の設定  </div>
+<div class="section-body">
+    <p>これは他の場所に適合しない設定がある。 使う言語、最後プレイしたゲームを自動的に起動するかどうか、起動時にスプラッシュ画面を表示するかどうかかど。</p>
 </div>

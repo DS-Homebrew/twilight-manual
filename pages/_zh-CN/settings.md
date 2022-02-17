@@ -41,9 +41,9 @@ title: 设置
     <p>设置主题或是其他有关ROM选择菜单的设定。</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">模拟器/自制程序设置</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap 设置</div>
 <div class="section-body">
-    <p>选定加载指定格式的非Nintendo DS平台的ROM所使用的模拟器。</p>
+    <p>以下列出为nds-bootstrap运行软件所使用的全局设定。 部分设置可以在文件浏览器中选择DS软件并按下&#xE003; 来进行设置。</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2设置</div>
@@ -51,18 +51,18 @@ title: 设置
     <p>在这里您可以进行GBA Rom的加载方式以及相关模拟设定。</p>
 </div>
 
+<div id="unlaunch-settings" class="section-title">Unlaunch设置</div>
+<div class="section-body">
+    <p>设定Unlaunch的工作方式，这个设定将通过对Unlaunch启动器打补丁来应用，故而您需要在设置后重新进行安装以让设置生效。</p>
+    <p>该选项仅会在Nintendo DSi/Nintendo DSi LL本体（而非烧录卡）启动时显示。 烧录卡用户和3DS用户将不会看到此页面</p>
+</div>
+
 <div id="games-and-apps-settings" class="section-title">游戏与软件设置</div>
 <div class="section-body">
-    <p>您可以在这里进行本软件的整体设定。 其中许多不同的内容因运行TWiLight Menu++的方式而异, 例如是使用NDS烧录卡内核或nds-bootstrap来运行游戏。</p>
+    <p>在这里你可以对支持多个模拟器的游戏选择启动方式，或是对不使用nds-bootstrap引导启动的游戏或软件进行设置。</p>
 </div>
 
 <div id="misc-settings" class="section-title">其他​​ 设置</div>
 <div class="section-body">
-    <p>这里可以设置使用语言，是否自动加载上次游玩的ROM，或是软件开启界面等等其他项目的设置。</p>
-</div>
-
-<div id="unlaunch-settings" class="section-title">Unlaunch设置</div>
-<div class="section-body">
-    <p>这里可以进行Unlaunch相关设置。</p>
-    <p>该选项仅会在Nintendo DSi/Nintendo DSi LL本体（而非烧录卡）启动时显示。 烧录卡用户和3DS用户将不会看到此页面</p>
+    <p>可在此进行其他杂项设定，例如语言选择，是否自动启动上次游玩的软件，以及是否显示开机动画等等。</p>
 </div>

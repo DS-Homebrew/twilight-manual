@@ -29,7 +29,7 @@ title: nds-bootstrap
         Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu in-game.
     </p>
     <p>
-        Isto pode ser alterado com a <code>Tecla de macro</code> na página Jogos e Apps nas definições do TWiLight Menu++.
+        Isto pode ser alterado com a <code>Tecla de macro</code> na página nds-bootstrap nas definições do TWiLight Menu++.
     </p>
     <hr>
     <p>

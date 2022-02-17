@@ -29,7 +29,7 @@ title: nds-bootstrap
         Oyun içi menüyü açmak için &#xE004; &#xE07A; ve SELECT tuşlarına basın.
     </p>
     <p>
-        Bu tuş kombinasyonu, TWiLight Menu++ Ayarları'ndaki Oyun ve Uygulama Ayarları sayfasından <code>Menü Kısayolu</code> seçeneğinden değiştirilebilir.
+        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
     </p>
     <hr>
     <p>

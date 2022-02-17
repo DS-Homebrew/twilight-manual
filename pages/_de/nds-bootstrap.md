@@ -29,7 +29,7 @@ title: nds-bootstrap
         Drücke &#xE004;, &#xE07A;, und SELECT, um das Ingame-Menü zu öffnen.
     </p>
     <p>
-        Dies kann mit <code>Menü-Hotkey</code> auf der Spiel- und App-Seite der TWiLight Menu++ Einstellungen erneut festgelegt werden.
+        Dies kann mit <code>Menü-Hotkey</code> auf der nds-bootstrap-Seite der TWiLight Menu++ Einstellungen erneut festgelegt werden.
     </p>
     <hr>
     <p>

@@ -29,7 +29,7 @@ title: nds-bootstrap
         Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco.
     </p>
     <p>
-        Può essere rimappato con la <code>Scorciatoia menù</code> nella pagina Giochi & App delle impostazioni di Twilight Menu++.
+        Può essere rimappato con la <code>Scorciatoia menù</code> nella pagina nds-bootstrap delle impostazioni di Twilight Menu++.
     </p>
     <hr>
     <p>

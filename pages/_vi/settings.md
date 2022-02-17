@@ -41,9 +41,9 @@ title: Cài đặt
     <p>Ở trang này bạn có thể chọn giao diện sử dụng và những cài đặt khác liên quan đến giao diện của TWiLight Menu++.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Cài đặt giả lập/HB</div>
+<div id="nds-bootstrap-settings" class="section-title">Cài đặt nds-bootstrap</div>
 <div class="section-body">
-    <p>Bạn có thể chọn nền tảng được hiển thị và giả lập nên sử dụng.</p>
+    <p>Đây là những cài đặt chung cho game chạy bởi nds-bootstrap. Một số cài đặt bổ sung khả dụng cho từng game bằng cách nhấn &#xE003; trên game DS đó ở trình duyệt file.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Cài đặt GBARunner2</div>
@@ -51,18 +51,18 @@ title: Cài đặt
     <p>Cài đặt này cho bạn chọn game được hiển thị như nào và chạy nhanh hơn hay tương thích tốt hơn.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Cài đặt Games và Apps</div>
+<div id="unlaunch-settings" class="section-title">Cài đặt Unlaunch</div>
 <div class="section-body">
-    <p>Đây là những cài đặt chung về việc game nên chạy như nào. Nhiều thứ ở đây thay đổi tùy theo cách bạn chạy TWiLight Menu++, chẳng hạn như dùng kernel của Flashcard hay nds-bootstrap.</p>
+    <p>Cài đặt này cho phép bạn thay đổi cách Unlaunch hoạt động, nó hoạt động bằng cách vá bản cài đặt Unlaunch vì vậy bản sẽ phải cài đặt lại nó để cài đặt này có hiệu quả.</p>
+    <p>Trang này chỉ hiện trên Nintendo DSi khi không chạy từ thẻ flashcard. Người dùng Flashcard và 3DS sẽ không thấy trang này.</p>
+</div>
+
+<div id="games-and-apps-settings" class="section-title">Cài đặt games và apps</div>
+<div class="section-body">
+    <p>Đây là nơi bạn có thể chọn giả lập nào được dùng bởi hệ thống với rất nhiều giả lập và những cài đặt khác ảnh hưởng đến việc chạy game và app mà không dùng nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Cài đặt khác</div>
 <div class="section-body">
     <p>Đây là những cài đặt không ảnh hưởng gì đến những thứ khác, chẳng hạn như ngôn ngữ hiển thị, tự động khởi chạy trò chơi được chơi gần nhất, có hiển thị màn hình khởi động không, và một số cài đặt khác.</p>
-</div>
-
-<div id="unlaunch-settings" class="section-title">Cài đặt Unlaunch</div>
-<div class="section-body">
-    <p>Cài đặt này cho phép bạn thay đổi cách Unlaunch hoạt động, nó hoạt động bằng cách vá bản cài đặt Unlaunch vì vậy bản sẽ phải cài đặt lại nó để cài đặt này có hiệu quả.</p>
-    <p>Trang này chỉ hiện trên Nintendo DSi khi không chạy từ thẻ flashcard. Người dùng Flashcard và 3DS sẽ không thấy trang này.</p>
 </div>

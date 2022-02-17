@@ -29,7 +29,7 @@ title: nds-bootstrap
         &#xE004;、&#xE07A;、SELECTを押してゲーム内メニューを開きます。
     </p>
     <p>
-        これは、TWiLight Menu++設定のゲームとアプリのページの<code>メニューホットキー</code>で変更できます。
+        これは、TWiLight Menu++設定のnds-bootstrapのページの<code>メニューホットキー</code>で変更できます。
     </p>
     <hr>
     <p>

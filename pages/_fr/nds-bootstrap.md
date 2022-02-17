@@ -29,7 +29,7 @@ title: nds-bootstrap
         Appuyez sur &#xE004;, &#xE07A; et SELECT pour ouvrir le menu en jeu.
     </p>
     <p>
-        Ceci peut être remappé avec le <code>Menu raccourcis</code> dans la page des paramères des jeux et apps de TWiLight Menu++.
+        Ceci peut être remappé avec <code>Touche de raccourci du menu</code> dans la page nds-bootstrap des paramètres du menu TWiLight.
     </p>
     <hr>
     <p>

@@ -41,9 +41,9 @@ title: 설정
     <p>이 페이지에서는 사용할 테마를 고르거나, TWiLight Menu++의 모습에 영향을 끼치는 각종 옵션들이 존재합니다.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">에뮬레이션/홈브류 설정</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap 설정</div>
 <div class="section-body">
-    <p>메뉴에 띄울 플랫폼과 사용할 에뮬레이터를 여기서 선택할 수 있습니다.</p>
+    <p>nds-bootstrap로 실행하는 게임을 위한 전역 설정입니다. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2 설정</div>
@@ -51,18 +51,18 @@ title: 설정
     <p>이 설정에서 게임을 표시하는 방식과 게임의 최적화 관련 옵션을 선택할 수 있습니다.</p>
 </div>
 
+<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div class="section-body">
+    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
+    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+</div>
+
 <div id="games-and-apps-settings" class="section-title">게임 및 앱 설정</div>
 <div class="section-body">
-    <p>게임을 구동하는 방식에 대한 일반적인 설정들이 있습니다. 이 설정들 중 대부분은 플래시 카드 커널을 사용할지, 또는 nds-bootstrap을 사용할지 등 TWiLight Menu++를 실행하는 방법에 따라 달라집니다.</p>
+    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">기타 설정</div>
 <div class="section-body">
     <p>메뉴에서 사용할 언어와 마지막에 플레이한 게임을 자동으로 부팅할지의 여부, 부팅할 때 부팅 화면을 띄울지의 여부 등등 위의 어느 곳에도 맞지 않는 설정이 모두 여기에 있습니다.</p>
-</div>
-
-<div id="unlaunch-settings" class="section-title">Unlaunch 설정</div>
-<div class="section-body">
-    <p>여기서 Unlaunch 작동 방식을 설정할 수 있으며, Unlaunch 설치 프로그램을 패치 함으로써 작동하므로 이 설정을 적용하려면 재설치가 필요합니다.</p>
-    <p>이 페이지는 플래시 카드를 통해 실행하지 않은 DSi 콘솔에서만 뜹니다. 플래시 카드와 3DS 유저에게는 이 페이지가 보이지 않을 것입니다.</p>
 </div>

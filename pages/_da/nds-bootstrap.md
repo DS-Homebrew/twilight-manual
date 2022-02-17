@@ -29,7 +29,7 @@ title: nds-selvstart
         Tryk på &#xE004;, &#xE07A; og SELECT, for at åbne spilmenuen.
     </p>
     <p>
-        Dette kan omdirigeres med <code>Menu-genvejstast</code> i Spil og Apps-siden af TWiLight Menu++-indstillinger.
+        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
     </p>
     <hr>
     <p>

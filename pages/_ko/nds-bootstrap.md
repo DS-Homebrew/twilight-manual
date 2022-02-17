@@ -29,7 +29,7 @@ title: nds-bootstrap
         인게임 메뉴를 열기 위해 &#xE004;와 &#xE07A;, SELECT 버튼을 누릅니다.
     </p>
     <p>
-        이는 TWiLight Menu++ 설정의 게임 및 앱 설정에 있는 <code>메뉴 단축키</code>에서 재배치할 수 있습니다.
+        이는 TWiLight Menu++ 설정 내 nds-bootstrap 페이지의 <code>메뉴 단축키</code>에서 변경할 수 있습니다.
     </p>
     <hr>
     <p>

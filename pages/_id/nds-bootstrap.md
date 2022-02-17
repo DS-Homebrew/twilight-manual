@@ -13,10 +13,10 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Keserasian(Compatibility)</div>
+<div id="compatibility" class="section-title">Kompatibilitas</div>
 <div class="section-body">
     <p>
-        Untuk melihat apakah permainannya serasi dimainkan di nds-bootstrap, periksa di daftar keserasian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Untuk melihat jika permainannya sesuai dimainkan di nds-bootstrap, periksa di daftar kesesuaian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Untuk keserasian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
@@ -29,26 +29,26 @@ title: nds-bootstrap
         Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game.
     </p>
     <p>
-        Tombol dapat dipeta ulang dengan <code>Ubah hotkey menu</code> pada halaman Permainan dan Apl. TWLMenu++.
+        Tombol dapat dipeta ulang dengan <code>Ubah hotkey menu</code> pada halaman nds-bootstrap di TWLMenu++.
     </p>
     <hr>
     <p>
         Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang.
     </p>
     <p>
-        Tahan 2 detik agar permainan dimulai ulang (reset) paksa.
+        Tahan 2 detik untuk memulai ulang (reset) permainan secara paksa.
     </p>
     <hr>
     <p>
-        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE000; selama 2 detik agar dump RAM dibuat.
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE000; selama 2 detik untuk membuat dump RAM.
     </p>
     <hr>
     <p>
-        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik agar kembali ke TWLMenu++.
+        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik untuk balik ke TWLMenu++.
     </p>
     <hr>
     <p>
-        Tahan &#xE004;, &#xE005;, &#xE002;, dan &#xE079; selama 1 detik agar layarnya pindah.
+        Tahan &#xE004;, &#xE005;, &#xE002;, dan &#xE079; selama 1 detik untuk menukar layar.
     </p>
 </div>
 
@@ -71,7 +71,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Balik ke permainan</p>
+        <p class="button-action-text">Kembali ke permainan</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -116,24 +116,24 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Tahan agar navigasi jadi lebih cepat</p>
+        <p class="button-action-text">Tahan untuk navigasi lebih cepat</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Curangan (Cheat)</div>
+<div id="cheats" class="section-title">Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap menggunakan cheat Action Replay lewat pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, kamu dapat memilih curangan dari menu setelan tiap-permainan pada TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, cheat yang ada dapat dipilih dari menu pengaturan tiap-permainan pada TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Pangkalan data curangan (cheat) DeadSkullzJr paling dianjurkan karena yang terbesar dan terbaru:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        Pangkalan data cheat DeadSkullzJr lebih dianjurkan karena datanya yang terbesar dan termutakhir:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Cara lainnya jika ingin buat sendiri, bisa dengan R4CCE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Cara lainnya jika ingin membuat cheat sendiri, bisa dengan aplikasi R4CE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Tolong diingat kalau penerapan curangan E-type nds-bootstrap masih goyah (unstable), sehingga kodemu bisa jalan bisa tidak. <br>Ini bukan gara-gara pangkalan data curangannya, dan kami berharap dapat segera memperbaiki masalah ini pada nds-bootstrap.
+        Mohon diingat kalau cheat E-type nds-bootstrap masih belum kukuh (unstable), sehingga kode yang dibuat bisa saja tidak bekerja. <br>Ini bukan kesalahan dari pangkalan data cheat-nya, dan kami berharap dapat segera memperbaiki masalah ini pada nds-bootstrap.
     </p>
 </div>

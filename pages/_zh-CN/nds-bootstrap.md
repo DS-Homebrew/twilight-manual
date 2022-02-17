@@ -29,7 +29,7 @@ title: nds-bootstrap
         按 &#xE004;, &#xE07A;, 和 SELECT 打开游戏内菜单。
     </p>
     <p>
-        可以在TWiLightMenu++设置菜单中的游戏与软件设置进行<code>菜单热键</code>的设定。
+        可以在本软件的设置菜单中的“nds-bootstrap设置”中进行<code>菜单快捷键</code>的设定。
     </p>
     <hr>
     <p>

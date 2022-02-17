@@ -41,9 +41,9 @@ title: Настройки
     <p>Вы можете выбрать тему для просмотра и другие параметры, влияющие на меню выбора игр.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Настройки эмуляции/HB</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
 <div class="section-body">
-    <p>Вы можете выбрать, какой эмулятор использовать и для какой платформы в селекторе игр.</p>
+    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Настройки GBARunner2</div>
@@ -51,18 +51,18 @@ title: Настройки
     <p>Эти настройки позволяют выбрать способ отображения игр, а также ускорить работу или повысить совместимость.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Настройки игр и приложений</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
 <div class="section-body">
-    <p>Существуют общие настройки запуска игр. Многие из них зависят от того, как вы запускаете TWiLight Menu++, например, использовать ли ядро флешкартриджа, nds-bootstrap и запускать ли DS игры на широкоэкранном режиме на 3DS.</p>
+    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
+    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Прочие настройки</div>
+<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
 <div class="section-body">
-    <p>Опции этой страницы переключают язык для использования, автоматическая загрузка последней воспроизведенной игры, показывать ли всплывающие экраны при запуске и другое.</p>
+    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Настройки Unlaunch</div>
+<div id="misc-settings" class="section-title">Misc. settings</div>
 <div class="section-body">
-    <p>Настройки позволяют изменить способ работы Unlaunch, которые работают при обновлении программы Unlaunch installer, поэтому вам придется переустановить программу, чтобы эти настройки вступили в силу.</p>
-    <p>Эта страница появляется только на консолях Nintendo DSi при запуске не с флешкарты. Флешкартридж и 3DS пользователи не увидят эту страницу.</p>
+    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
 </div>

@@ -41,28 +41,28 @@ title: Pengaturan
     <p>Di halaman ini kamu dapat memilih tema dan juga pilihan lainnya yang mengubah tampilan antarmuka TWiLight Menu++.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Pengaturan Emulasi/HB</div>
+<div id="nds-bootstrap-settings" class="section-title">Pengaturan nds-bootstrap</div>
 <div class="section-body">
-    <p>Di sini kamu dapat memilih pelantar (platform) mana yang muncul dan emulator mana yang digunakan.</p>
+    <p>Ini pengaturan global permainan yang dijalankan nds-bootstrap. <br>Pengaturan tambahan juga tersedia pada tiap permainan DS dengan menekan &#xE003; di peramban berkas.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Pengaturan GBARunner2</div>
 <div class="section-body">
-    <p>Pengaturan ini membantu memilih bagaimana tampilannya dan agar jalannya cepat atau meningkatkan keserasiannya (compatibility).</p>
-</div>
-
-<div id="games-and-apps-settings" class="section-title">Penga. Permainan dan Aplikasi</div>
-<div class="section-body">
-    <p>Ini bentuk pengaturan umum untuk bagaimana permainan dijalankan. Tapi akan beragam dari cara kamu menjalankan TWiLight Menu++, seperti jika menggunakan kernel flashcard atau nds-bootstrap.</p>
-</div>
-
-<div id="misc-settings" class="section-title">Pengaturan lainnya</div>
-<div class="section-body">
-    <p>Ini tempat bagi pengaturan yang tidak pas ditaruh di bagian lain, seperti bahasa apa yang digunakan, ingin langsung mulai kah permainan yang terakhir main, dan layar splash di awal buka (startup) dimunculkan atau tidak, di antara lainnya.</p>
+    <p>Pengaturan di sini dapat memilih bentuk tampilan dan agar jalannya cepat atau menambah keserasian (compatibility) permainan.</p>
 </div>
 
 <div id="unlaunch-settings" class="section-title">Pengaturan Unlaunch</div>
 <div class="section-body">
-    <p>Pengaturan di sini dapat mengubah cara kerja penggunaan Unlaunch dengan cara menambal pemasang (installer) Unlaunch, maka dari itu perlu memasangnya ulang(reinstall) agar pengaturan ini berubah.</p>
-    <p>Halaman ini hanya ditampilkan pada konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna Flashcard dan 3DS tidak akan melihat ini.</p>
+    <p>Pengaturan di sini dapat mengubah cara kerja penggunaan Unlaunch dengan ditambal dulu pemasang (installer) Unlaunch. Maka dari itu, Unlaunch perlu dipasang ulang untuk memakai pengaturan ini.</p>
+    <p>Halaman ini hanya muncul pada konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna flashcard dan 3DS tidak akan melihat ini.</p>
+</div>
+
+<div id="games-and-apps-settings" class="section-title">Pengaturan Permainan dan Apl.</div>
+<div class="section-body">
+    <p>Kamu dapat memilih emulator mana yang digunakan untuk sistem yang punya beberapa emulator dan juga pengaturan lain untuk mengubah cara jalan permainan dan aplikasi yang tidak memakai nds-bootstrap.</p>
+</div>
+
+<div id="misc-settings" class="section-title">Pengaturan lainnya</div>
+<div class="section-body">
+    <p>Ini tempat untuk pengaturan yang tidak pas ditaruh di bagian lain, seperti bahasa yang digunakan, permainan terakhir main langsung dimulai saat nyala, memunculkan layar splash di awal buka (startup), dan lainnya.</p>
 </div>

@@ -41,9 +41,9 @@ title: crwdns21080:0crwdne21080:0
     <p>crwdns18042:0crwdne18042:0</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">crwdns20422:0crwdne20422:0</div>
+<div id="nds-bootstrap-settings" class="section-title">crwdns29184:0crwdne29184:0</div>
 <div class="section-body">
-    <p>crwdns18046:0crwdne18046:0</p>
+    <p>crwdns29186:0crwdne29186:0 crwdns29188:0crwdne29188:0</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">crwdns20424:0crwdne20424:0</div>
@@ -51,18 +51,18 @@ title: crwdns21080:0crwdne21080:0
     <p>crwdns18060:0crwdne18060:0</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">crwdns20426:0crwdne20426:0</div>
+<div id="unlaunch-settings" class="section-title">crwdns29190:0crwdne29190:0</div>
 <div class="section-body">
-    <p>crwdns18072:0crwdne18072:0 crwdns18078:0crwdne18078:0</p>
+    <p>crwdns29192:0crwdne29192:0</p>
+    <p>crwdns29194:0crwdne29194:0 crwdns29196:0crwdne29196:0</p>
 </div>
 
-<div id="misc-settings" class="section-title">crwdns20428:0crwdne20428:0 crwdns20430:0crwdne20430:0</div>
+<div id="games-and-apps-settings" class="section-title">crwdns29198:0crwdne29198:0</div>
 <div class="section-body">
-    <p>crwdns18100:0crwdne18100:0</p>
+    <p>crwdns29200:0crwdne29200:0</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">crwdns20432:0crwdne20432:0</div>
+<div id="misc-settings" class="section-title">crwdns29202:0crwdne29202:0 crwdns29204:0crwdne29204:0</div>
 <div class="section-body">
-    <p>crwdns18112:0crwdne18112:0</p>
-    <p>crwdns18118:0crwdne18118:0 crwdns18120:0crwdne18120:0</p>
+    <p>crwdns29206:0crwdne29206:0</p>
 </div>

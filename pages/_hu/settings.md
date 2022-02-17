@@ -41,9 +41,9 @@ title: Beállítások
     <p>Ezen az oldalon beállíthatja a témát amit használna és egyéb opciókat, amik befolyásolják a TWiLight Menu++ kinézetét.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Emuláció/HB beállítások</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap beállítások</div>
 <div class="section-body">
-    <p>Itt kiválaszthatja, hogy mely platformok jelenjenek meg és melyik emulátor legyen használva.</p>
+    <p>Ezek a globális beállításai a játékoknak, amiket az nds-bootstrap futtat. Néhány további beállítás játékonként érhető el a DS-játékoknál a &#xE003; gomb megnyomásával a fájlböngészőben.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2 beállítások</div>
@@ -51,18 +51,18 @@ title: Beállítások
     <p>Ezek a beállítások lehetővé teszik, hogy kiválaszd a játékok hogyan jelenjenek meg és hogy gyorsabb fussanak-e vagy a nagyobb kompatibilitással.</p>
 </div>
 
+<div id="unlaunch-settings" class="section-title">Unlaunch beállítások</div>
+<div class="section-body">
+    <p>Ezek a beállítások lehetővé teszik, hogy megváltoztasd, hogy működjön az Unlaunch, és ezek az Unlaunch telepítő patchelésével dolgoznak, így újra kell installálni azt a változások érvényre jutásához.</p>
+    <p>Ez az oldal csak Nintendo DSi konzolon jelenik meg, ha nem flashcard-ról lett indítva. Flashcard és 3DS felhasználók nem fogják látni ezt az oldalt.</p>
+</div>
+
 <div id="games-and-apps-settings" class="section-title">Játék és App beállítások</div>
 <div class="section-body">
-    <p>Itt találhatók az általános beállításai annak, hogyan fussanak a játékok. Sok közülük változik attól függően, hogy hogyan futtatod a TWiLight Menu++-t, mint például flashcard kernel-t használsz vagy nds-bootstrap-et.</p>
+    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Egyéb beállítások</div>
 <div class="section-body">
-    <p>Ez az a hely, ahol minden beállítás található, ami máshova nem fért, mint például a használandó nyelv, hogy betöltse-e automatikusan az utoljára játszott játékot és hogy mutassa-e a nyitóképernyőt induláskor és hasonlók.</p>
-</div>
-
-<div id="unlaunch-settings" class="section-title">Unlaunch beállítások</div>
-<div class="section-body">
-    <p>Ezek a beállítások lehetővé teszik, hogy megváltoztasd, hogy működjön az Unlaunch, és ezek az Unlaunch patchelésével dolgoznak, így újra kell installálni a változások érvényre jutásához.</p>
-    <p>Ez az oldal csak Nintendo DSi konzolon jelenik meg, ha nem flashcard-ról lett indítva. Flashcard és 3DS felhasználók nem fogják látni ezt az oldalt.</p>
+    <p>Ez ahol minden beállítás található, ami máshova nem fért, mint például a használandó nyelv, hogy betöltse-e automatikusan az utoljára játszott játékot és hogy mutassa-e a nyitóképernyőt induláskor és hasonlók.</p>
 </div>

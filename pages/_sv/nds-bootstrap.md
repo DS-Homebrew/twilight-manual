@@ -29,7 +29,7 @@ title: nds-bootstrap
         Tryck på &#xE004;, &#xE07A;, och SELECT för att öppna menyn i spelet.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the Games and Apps page of TWiLight Menu++ settings.
+        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
     </p>
     <hr>
     <p>

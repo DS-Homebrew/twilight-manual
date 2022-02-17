@@ -29,7 +29,7 @@ title: nds-bootstrap
         Nyomj &#xE004;, &#xE07A;, és SELECT gombot a játékon belüli menü megnyitáshoz.
     </p>
     <p>
-        Ez átdefiniálható a <code>Menu hotkey</code>-jel a Játékok és Appok oldalon a TWiLight Menu++ beállításaiban.
+        Ez átdefiniálható a <code>Menu hotkey</code>-jel az nds-bootstrap oldalon a TWiLight Menu++ beállításaiban.
     </p>
     <hr>
     <p>

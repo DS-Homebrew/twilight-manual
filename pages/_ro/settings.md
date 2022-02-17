@@ -41,9 +41,9 @@ title: Setări
     <p>Pe această pagină puteți selecta ce temă vreți să folosiți și alte opțiuni ce schimbă aparența lui TWiLight Menu++.</p>
 </div>
 
-<div id="emulation-hb-settings" class="section-title">Setări Emulare/HB</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
 <div class="section-body">
-    <p>Aici puteți selecta ce platforme puteți face vizibile și ce emulatoare ar trebui folosite.</p>
+    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Setări GBARunner2</div>
@@ -51,18 +51,18 @@ title: Setări
     <p>Aceste setări vă lasă să selectați cum sunt afișate jocurile și pentru rularea mai rapidă sau compatibilitate mai ridicată.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Setări de Jocuri și Aplicații</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
 <div class="section-body">
-    <p>Acestea sunt setările generale pentru cum ar trebui rulate jocurile. Acestea variază în funcție de cum rulați TWiLight Menu++, precum dacă să folosești nucleul flashcard-uri sau nds-bootstrap.</p>
+    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
+    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Altele Setări</div>
+<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
 <div class="section-body">
-    <p>Aici se află toate setările ce nu-și au locul în altă parte, precum ce limbă să folosiți, dacă să lansați automat la ultimul joc jucat, și dacă să afișați ecranul Splash la pornire, printre care și altele.</p>
+    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Setări Unlaunch</div>
+<div id="misc-settings" class="section-title">Misc. settings</div>
 <div class="section-body">
-    <p>Setările de aici vă lasă să schimbați cum Unlaunch funcționează, ele lucrând prin patcharea instalatorului de Unlaunch deci va trebui să-l reinstalați pentru ca setările să aibă efect.</p>
-    <p>Această pagină apare numai pe consolele Nintendo DSi când nu sunt lansate de pe un flashcard. Utilizatorii de flashcard și 3DS nu vor vedea acest ecran.</p>
+    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
 </div>
