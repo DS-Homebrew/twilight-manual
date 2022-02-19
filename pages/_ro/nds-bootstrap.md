@@ -29,7 +29,7 @@ title: nds-bootstrap
         Apăsați &#xE004;, &#xE07A;, și SELECT pentru a deschide meniul din joc.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
+        Aceasta poate schimbată cu <code>Hotkey-uri de Meniu</code> în pagina nds-bootstrap din setările TWiLight Menu++.
     </p>
     <hr>
     <p>

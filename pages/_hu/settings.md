@@ -59,7 +59,7 @@ title: Beállítások
 
 <div id="games-and-apps-settings" class="section-title">Játék és App beállítások</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>Itt kiválaszthatod, hogy a több emulátorral rendelkező rendszerek esetén melyik emulátort legyen használva, valamint egyéb beállításokat, amelyek befolyásolják az nds-bootstrap-et nem használó játékok és alkalmazások futtatását.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Egyéb beállítások</div>

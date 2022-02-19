@@ -41,7 +41,7 @@ title: Paramètres
     <p>Sur cette page, vous pouvez sélectionner le thème à utiliser et d'autres options qui affectent l'apparence de TWiLight Menu++.</p>
 </div>
 
-<div id="nds-bootstrap-settings" class="section-title">paramètres de nds-bootstrap</div>
+<div id="nds-bootstrap-settings" class="section-title">Paramètres de nds-bootstrap</div>
 <div class="section-body">
     <p>Ce sont les paramètres globaux pour les jeux exécutés par nds-bootstrap. Certains paramètres supplémentaires sont disponibles par jeu en appuyant sur &#xE003; sur les jeux DS dans le navigateur de fichiers.</p>
 </div>
@@ -53,16 +53,16 @@ title: Paramètres
 
 <div id="unlaunch-settings" class="section-title">Paramètres d'Unlaunch</div>
 <div class="section-body">
-    <p>Ces paramètres vous permettent de changer le fonctionnement d'Unlaunch, ils fonctionnent en patchant l'installateur Unlaunch, donc vous devrez le réinstaller pour que ces paramètres soient pris en compte.</p>
-    <p>Cette page n'apparaît que sur les consoles Nintendo DSi quand elle n'est pas lancée à partir d'un linker. Les utilisateurs de linker et de 3DS ne verront pas cette page.</p>
+    <p>Ces paramètres vous permettent de changer le fonctionnement d'Unlaunch. Étant donné qu'ils fonctionnent en patchant l'installateur Unlaunch, vous devrez le réinstaller pour que ces paramètres soient pris en compte.</p>
+    <p>Cette page n'apparaît que sur les consoles Nintendo DSi lorsqu'elles ne sont pas lancées à partir d'un linker. Les utilisateurs de linker et de 3DS ne verront pas cette page.</p>
 </div>
 
 <div id="games-and-apps-settings" class="section-title">Paramètres des jeux et des apps</div>
 <div class="section-body">
-    <p>Ici, vous pouvez sélectionner l'émulateur à utiliser pour les systèmes avec plusieurs émulateurs et d'autres paramètres qui affectent le fonctionnement des jeux et des applications qui n'utilisent pas nds-bootstrap.</p>
+    <p>Ici, vous pouvez sélectionner l'émulateur à utiliser pour les systèmes avec plusieurs émulateurs et d'autres paramètres qui affectent le fonctionnement des jeux et des apps qui n'utilisent pas nds-bootstrap.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Divers. paramètres</div>
+<div id="misc-settings" class="section-title">Autres paramètres</div>
 <div class="section-body">
-    <p>The options in this page toggles which language to use, whether to automatically boot the last played game, whether to show the splash screens on startup, amongst others.</p>
+    <p>C'est ici que se trouvent tous les paramètres qui n'ont pas leur place ailleurs, comme la langue à utiliser, le démarrage automatique du dernier jeu joué ou l'affichage des écrans d'accueil au démarrage, entre autres.</p>
 </div>

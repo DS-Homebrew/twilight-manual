@@ -29,7 +29,7 @@ title: nds-bootstrap
         Appuyez sur &#xE004;, &#xE07A; et SELECT pour ouvrir le menu en jeu.
     </p>
     <p>
-        Ceci peut être remappé avec <code>Touche de raccourci du menu</code> dans la page nds-bootstrap des paramètres du menu TWiLight.
+        Ceci peut être remappé avec le <code>Menu raccourcis</code> dans la page des paramètres de nds-bootstrap de TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -127,7 +127,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        La base de données de triche de DeadSkullzJr est recommandée car elle est la plus complète et la plus à jour :<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        La base de données de codes de triche de DeadSkullzJr est recommandée car elle est la plus complète et la plus à jour :<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
         Sinon, si vous souhaitez en faire une vous-même, vous pouvez utiliser R4CCE sur un ordinateur :<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>

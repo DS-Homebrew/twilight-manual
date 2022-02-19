@@ -59,10 +59,10 @@ title: Einstellungen
 
 <div id="games-and-apps-settings" class="section-title">Einstellungen für Spiele und Apps</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>Hier kannst du auswählen, welcher Emulator für Systeme mit mehreren Emulatoren verwendet werden soll und andere Einstellungen die die Ausführung von Spielen und Apps beeinflussen, die nicht nds-bootstrap verwenden.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Versch. einstellungen</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Die Optionen auf dieser Seite schalten um welche Sprache verwendet werden soll, ob das zuletzt gespielte Spiel automatisch gestartet werden soll, ob die Splash-Screens beim Start angezeigt werden sollen, und weitere.</p>
 </div>
