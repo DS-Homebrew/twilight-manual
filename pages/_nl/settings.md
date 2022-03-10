@@ -41,9 +41,9 @@ title: Instellingen
     <p>Op deze pagina kun je kiezen welk thema je wilt gebruiken en andere opties die het uiterlijk van TWiLight Menu beïnvloeden.</p>
 </div>
 
-<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap instellingen</div>
 <div class="section-body">
-    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
+    <p>Dit zijn de algemene instellingen voor spellen die worden uitgevoerd door nds-bootstrap. Sommige extra instellingen zijn beschikbaar per spel door op &#xE003; te drukken op DS spellen in de bestandsbrowser.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2 instellingen</div>
@@ -51,18 +51,18 @@ title: Instellingen
     <p>Met deze instellingen kun je kiezen hoe spellen worden weergegeven en of ze sneller worden uitgevoerd of beter compatibel zijn.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch instellingen</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Met de instellingen hier kun je veranderen hoe Unlaunch werkt, ze werken door het Unlaunch installatieprogramma te patchen, dus je zult het opnieuw moeten installeren om deze instellingen van kracht te laten worden.</p>
+    <p>Deze pagina verschijnt alleen op Nintendo DSi consoles wanneer niet vanaf een flashkaart wordt gestart. Flashcard en 3DS gebruikers zullen deze pagina niet zien.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Spellen en Apps instellingen</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>Hier kun je selecteren welke emulator moet worden gebruikt voor systemen met meerdere emulators en andere instellingen die van invloed zijn op hoe games en apps worden uitgevoerd die geen nds-bootstrap gebruiken.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">Overige instellingen</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Dit is waar alle instellingen die nergens anders passen heengaan, zoals welke taal je moet gebruiken, het laatst gespeelde spel automatisch op te starten en onder andere de startschermen bij het opstarten weer te geven.</p>
 </div>

@@ -43,7 +43,7 @@ title: 설정
 
 <div id="nds-bootstrap-settings" class="section-title">nds-bootstrap 설정</div>
 <div class="section-body">
-    <p>nds-bootstrap로 실행하는 게임을 위한 전역 설정입니다. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
+    <p>nds-bootstrap로 실행하는 게임을 위한 전역 설정입니다. 몇몇 부가적인 설정은 파일 브라우저 내 DS 게임에서 각 게임마다 &#xE003;을 누를 때에 활성화됩니다.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2 설정</div>
@@ -51,10 +51,10 @@ title: 설정
     <p>이 설정에서 게임을 표시하는 방식과 게임의 최적화 관련 옵션을 선택할 수 있습니다.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch 설정</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>여기서 Unlaunch 작동 방식을 설정할 수 있으며, Unlaunch 설치 프로그램을 패치 함으로써 작동하므로 이 설정을 적용하려면 재설치가 필요합니다.</p>
+    <p>이 페이지는 플래시 카드를 통해 실행하지 않은 DSi 콘솔에서만 뜹니다. 플래시 카드와 3DS 유저에게는 이 페이지가 보이지 않을 것입니다.</p>
 </div>
 
 <div id="games-and-apps-settings" class="section-title">게임 및 앱 설정</div>

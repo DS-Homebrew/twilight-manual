@@ -7,7 +7,7 @@ title: Nintendo DSi主題
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">移動項目<br>(分類方式必須改為"自定義")</p>
+        <p class="button-action-text">移動項目<br>(分類方式必須改為"自訂")</p>
     </div>
     <hr>
     <div class="button-action-group">

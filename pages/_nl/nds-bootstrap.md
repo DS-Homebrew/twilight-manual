@@ -16,7 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibiliteit</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Om te zien of een spel compatibel is met nds-bootstrap, controleer je de compatibiliteitlijst:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         Voor de beste compatibiliteit met flashcards raden wij aan een DS Memory Expansion Pak te gebruiken.
@@ -29,7 +29,7 @@ title: nds-bootstrap
         Druk op &#xE004;, &#xE07A;, en SELECT om het in-game menu te openen.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
+        Dit kan opnieuw worden toegewezen met <code>Menu sneltoets</code> in de nds-bootstrap pagina van TWiLight Menu++ instellingen.
     </p>
     <hr>
     <p>
@@ -127,10 +127,10 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        DeadSkullzJr's cheat database wordt aanbevolen omdat het de grootste en het meest up to date is:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Als je er zelf een wilt maken, kun je de R4CEE gebruiken op een computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
