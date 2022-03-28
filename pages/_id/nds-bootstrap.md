@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, cheat yang ada dapat dipilih dari menu pengaturan tiap-permainan pada TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, cheat kemudian dapat dipilih dari menu pengaturan tiap-permainan pada TWiLight Menu++.
     </p>
     <hr>
     <p>

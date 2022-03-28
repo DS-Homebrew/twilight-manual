@@ -134,6 +134,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Ten en cuenta que la implementación de trucos tipo E en nds-bootstrap es inestable y tu código podría no funcionar. Esto no es culpa de la base de datos. Esperamos solucionar este problema en nds-bootstrap pronto.
+        Ten en cuenta que la implementación de trucos tipo E en nds-bootstrap es inestable y tu código podría no funcionar. Esto no es culpa de la base de datos. Esperamos solucionar pronto este problema en nds-bootstrap.
     </p>
 </div>

@@ -41,9 +41,9 @@ title: הגדרות
     <p>בעמוד זה תוכלו לבחור באיזו ערכת נושא להשתמש ואפשרויות נוספות המשפיעות על המראה של ++TWiLight Menu.</p>
 </div>
 
-<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
+<div id="nds-bootstrap-settings" class="section-title">הגדרות nds-bootstrap</div>
 <div class="section-body">
-    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
+    <p>אלו הם ההגדרות הכלליות למשחקים המופעלים ע"י nds-bootstrap. הגדרות נוספות זמינות פר-משחק ע"י לחיצה על &#xE003; על משחקי DS בסייר הקבצים.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">הגדרות GBARunner2</div>
@@ -51,18 +51,18 @@ title: הגדרות
     <p>הגדרות אלו מאפשרות לכם לבחור כיצד משחקים מוצגים וכמו כן אפשרויות להרצה מהירה יותר או בתאימות טובה יותר.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">הגדרות Unlaunch</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>הגדרות אלו מאפשרות לשנות כיצד Unlaunch עובד, הן עובדות ע"י שינוי ה-Unlaunch installer ולכן תצטרכו להתקינו שוב בכדי שההגדרות יוחלו.</p>
+    <p>עמוד זה מופיע על קונסולות Nintendo DSi שלא הופעלה מ-flashcard. משתמשי flashcard ו-3DS לא יראו את העמוד.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">הגדרות משחקים ואפליקציות</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>כאן תוכלו לבחור באיזה אמולטור להשתמש עבור מערכות עם מספר אמולטורים והגדרות נוספות המשפיעות כיצד משחקים ואפליקציות מופעלים אשר אינם משתמשים ב-nds-bootstrap.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">שונות הגדרות</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>במקום זה תמצאו את כל ההגדרות שלא מתאימות לשום מקום אחר, כגון בחירת השפה, האם להציג את מסכי הפתיחה בעת ההפעלה ועוד.</p>
 </div>

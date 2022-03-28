@@ -30,7 +30,7 @@ title: nds-bootstrap
         לחצו &#xE004;, &#xE07A;, ו-SELECT בכדי לפתוח את התפריט בזמן-משחק.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
+        ניתן למפות זאת מחדש בעזרת <code>Menu hotkey</code> בעמוד ה-nds-bootstrap של הגדרות ++TWiLight Menu.
     </p>
     <hr>
     <p>

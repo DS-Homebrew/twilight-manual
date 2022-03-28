@@ -41,9 +41,9 @@ title: Ayarlar
     <p>Bu sayfada hangi temanın kullanılacağını ve TWiLight Menu++'nün görünüşünü etkileyecek seçenekleri değiştirebilirsiniz.</p>
 </div>
 
-<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap ayarları</div>
 <div class="section-body">
-    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
+    <p>Bunlar nds-bootstrap tarafından yürütülen oyunların evrensel ayarları. Bazı fazladan ayarlara dosya tarayıcısında DS oyunlarına &#xE003; 'ye basarak erişilebilir.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">GBARunner2 Ayarları</div>
@@ -53,16 +53,16 @@ title: Ayarlar
 
 <div id="unlaunch-settings" class="section-title">Unlaunch ayarları</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Bu ayarlar Unlaunch'ın nasıl çalıştığını değiştirmene izin verir, bunlar Unlaunch yükleyicisine etki ettiği için Unlaunch'ı yeniden yüklemeniz gerekir.</p>
+    <p>Bu sayfa sadece Nintendo DSİ konsollarında flaşkarttan başlatılmadığında belirir. Flaşkart ve 3DS kullanıcıları bu sayfayı görmeyecek.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Oyun ve Uygulamala ayarları</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>Burada birden fazla emülatör kullanan sistemlerin hangi emülatörleri kullanacağını seçebilirsin ve nds-bootstrap kullanmayan başka uygulamaları etkileyen ayarları bulabilirsin.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Diğer ayarlar</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Hangi dilin kullanılacağı, en son oynanan oyunun otomatik olarak başlatılıp başlatılmayacağı ve açılış ekranlarının açılışta gösterilip gösterilmeyeceği gibi başka hiçbir yere uymayan tüm ayarların yapıldığı yer burasıdır.</p>
 </div>

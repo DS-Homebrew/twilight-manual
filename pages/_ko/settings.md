@@ -59,7 +59,7 @@ title: 설정
 
 <div id="games-and-apps-settings" class="section-title">게임 및 앱 설정</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>여기서 여러 에뮬레이터 및 nds-bootstrap을 사용하지 않는 게임 및 앱 실행 방식에 영향을 미치는 기타 설정이 있는 시스템에 사용해야 하는 에뮬레이터를 선택할 수 있습니다.</p>
 </div>
 
 <div id="misc-settings" class="section-title">기타 설정</div>

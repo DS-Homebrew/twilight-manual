@@ -17,6 +17,6 @@ title: Menú Clásico DS
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Volver al explorador</p>
+        <p class="button-action-text">Volver al explorador de archivos</p>
     </div>
 </div>

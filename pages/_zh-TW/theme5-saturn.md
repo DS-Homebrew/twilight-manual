@@ -82,7 +82,7 @@ title: SEGA Saturn主題
     <ul>
         <li><strong>Home選單</strong>僅在Nintendo DSi或者NIntendo 3DS中，按下會自動退出程式, 然後返回主機Home選單</li>
         <li><strong>設定:</strong>點擊后進入TWiLight Menu++設定選單</li>
-        <li><strong>卡帶選項:</strong>如果是DS/DS Lite, 可直接加載Slot-2內的設備 在Nintendo DSi或是Nintendo 3DS主機內建SD卡運行本軟體時，您可以選擇加載插入於Slot-1插槽中的遊戲卡匣</li>
+        <li><strong>卡帶選項:</strong>如果是DS/DS Lite, 可直接加載Slot-2內的設備 在DSi或是3DS主機上透過SD卡執行本軟體時，您可以執行插入Slot-1中的遊戲卡帶，或在使用部分燒錄卡時切換本軟體當前展示的SD卡。</li>
         <li><strong>說明書</strong>:打開TWiLightMenu++的說明書，也就是您現在所看到的 :P</li>
     </ul>
 </div>

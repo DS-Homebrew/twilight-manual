@@ -9,7 +9,7 @@ title: nds-bootstrap
         tWiLight Menu++使用nds-bootstrap，该軟體可使Nintendo DSi/Nintendo 3DS在SD卡中載入Nintendo DS ROM或Homebrew軟體。
     </p>
     <p>
-        該軟體同樣可用於燒錄卡中，但其相容性將會降低，故而建議在只允許運行自製程式或是低相容性的燒錄卡中使用本軟體。
+        該軟體同樣可用於燒錄卡中，但其相容性較差。因此建議在只使用自製程式的燒錄卡，或是相容性差的燒錄卡中使用本軟體。
     </p>
 </div>
 
