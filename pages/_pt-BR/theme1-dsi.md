@@ -63,7 +63,7 @@ title: Tema Nintendo DSi
 <div id="page-system" class="section-title">Sistema de página</div>
 <div class="section-body">
     <p>
-        O tema Nintendo DSi divide os itens em páginas com um máximo de 40 itens por página. Você pode navegar pelas páginas usando os gatilhos &#xE004; e &#xE005;.
+        O tema Nintendo DSi divide os itens em páginas com um máximo de 40 itens por página. Você pode navegar por elas usando os gatilhos &#xE004; e &#xE005;.
     </p>
     <ul>
         <li><p>Pressionar &#xE004; na página mais à esquerda o levará ao primeiro item da página</p></li>
@@ -80,7 +80,7 @@ title: Tema Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Imagem personalizada da tela superior</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>É possível colocar imagens personalizadas na tela superior do TWiLight Menu++, assim como no menu oficial do Nintendo DSi. No entanto, em vez de escolher a imagem da aplicação de câmera do Nintendo DSi, você pode colocar imagens PNG em <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>É possível colocar imagens personalizadas na tela superior do TWiLight Menu++, assim como no menu oficial do Nintendo DSi. Porém, em vez de escolher a imagem do aplicativo de câmera do Nintendo DSi, você pode colocar imagens PNG em <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Largura máxima: 208 pixels</li>
         <li>Altura máxima: 156 pixels</li>
@@ -91,11 +91,11 @@ title: Tema Nintendo DSi
 <div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Pressionar SELECT no tema Nintendo DSi irá abrir o menu DS Clássico por padrão. No entanto, nas configurações do TWiLight Menu++, é possível alterá-lo para que inicie o menu SELECT, um menu em miatura embutido dentro do tema em si. Aqui estão as opções presentes no menu SELECT.
+        Pressionar SELECT no tema Nintendo DSi irá abrir o menu DS Clássico por padrão. No entanto, nas configurações do TWiLight Menu++, é possível alterá-lo para que inicie o menu SELECT, um menu em miniatura embutido dentro do tema em si. Aqui estão as opções presentes no menu SELECT.
     </p>
     <ul>
         <li><strong>Menu Home</strong>: Nos consoles Nintendo DSi e Nintendo 3DS, essa opção pode ser usada para voltar ao menu inicial.</li>
-        <li><strong>Configurações</strong>: Selecionar essa opção abrirá um menu para configurar o TWiLight Menu++ e seus inicializadores.</li>
+        <li><strong>Configurações</strong>: Selecionar essa opção abrirá um menu para configurar o TWiLight Menu++ e seus iniciadores.</li>
         <li><strong>Opções de Cartucho</strong>: Em um DS ou DS Lite original, você pode iniciar cartuchos do Slot-2 por aqui. Em um Nintendo DSi e Nintendo 3DS rodando a partir do cartão SD, você pode iniciar seu cartucho do Slot-1 ou, em certos flashcards, alternar qual cartão SD o TWiLight Menu++ utilizará.</li>
         <li><strong>Manual</strong>: Essa opção abrirá o manual do TWiLight Menu++. É isso que você está lendo agora :P</li>
     </ul>

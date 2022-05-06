@@ -16,7 +16,7 @@ title: nds-selvstart
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        For at se om et spil er kompatibelt med nds-selvstart, kontroller kompatibilitetslisten:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
         For den bedste kompatibilitet med flashkort, foreslår vi, at anskaffe en "DS Memory Expansion Pak".
@@ -29,7 +29,7 @@ title: nds-selvstart
         Tryk på &#xE004;, &#xE07A; og SELECT, for at åbne spilmenuen.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
+        Dette kan omlægges med <code>Menu-genvejstast</code> i siden for nds-selvstart, i TWiLight Menu++ indstillinger.
     </p>
     <hr>
     <p>
@@ -127,10 +127,10 @@ title: nds-selvstart
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        DeadSkullzJr's snydekodedatabase anbefales, da den er den største og mest ajourførte:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternativt, hvis du gerne vil lave en selv, kan du anvende R4CCE på en computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

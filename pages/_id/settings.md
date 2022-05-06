@@ -7,7 +7,7 @@ title: Pengaturan
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Pilihan sebelum / berikutnya</p>
+        <p class="button-action-text">Opsi sebelum / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -38,7 +38,7 @@ title: Pengaturan
 
 <div id="gui-settings" class="section-title">Pengaturan GUI</div>
 <div class="section-body">
-    <p>Di halaman ini kamu dapat memilih tema dan juga pilihan lainnya yang mengubah tampilan antarmuka TWiLight Menu++.</p>
+    <p>Di halaman ini kamu dapat memilih tema dan juga opsi lainnya untuk mengubah tampilan antarmuka TWiLight Menu++.</p>
 </div>
 
 <div id="nds-bootstrap-settings" class="section-title">Pengaturan nds-bootstrap</div>

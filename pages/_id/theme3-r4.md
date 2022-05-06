@@ -7,7 +7,7 @@ title: Tema R4 Original
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Pilihan sebelum / berikutnya</p>
+        <p class="button-action-text">Opsi sebelum / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: Tema R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Buka pilihan (option)</p>
+        <p class="button-action-text">Buka opsi</p>
     </div>
 </div>
 

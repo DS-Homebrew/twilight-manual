@@ -61,12 +61,12 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Ubah pengaturan<br>(Di submenu Pilihan)</p>
+        <p class="button-action-text">Ubah pengaturan<br>(Di submenu Opsi)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Pilih pilihannya</p>
+        <p class="button-action-text">Pilih opsi</p>
     </div>
     <hr>
     <div class="button-action-group">
