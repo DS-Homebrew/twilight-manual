@@ -29,7 +29,7 @@ title: nds-bootstrap
         Нажмите &#xE004;, &#xE07A;, и SELECT, чтобы открыть внутриигровое меню.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
+        Можно изменить <code>Меню горячих клавиш</code> на странице nds-bootstrap в настройках TWiLight Menu++.
     </p>
     <hr>
     <p>
