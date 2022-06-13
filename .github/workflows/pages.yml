@@ -22,7 +22,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install ffmpeg jq p7zip-full -y
       - name: Use Deno Version ${{ matrix.deno-version }}
-        uses: denolib/setup-deno@v2
+        uses: denoland/setup-deno@v1
         with:
           deno-version: ${{ matrix.deno-version }}
       - name: Build Deno Module
