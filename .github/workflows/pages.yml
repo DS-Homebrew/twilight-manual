@@ -3,7 +3,7 @@ name: Build pages for TWiLight Menu++
 on:
   push:
     branches: ["*"]
-    paths-exclude: [README.md, crowdin.yml]
+    paths-ignore: [README.md, crowdin.yml]
 
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        deno-version: [1.13.2]
+        deno-version: [1.23.0]
 
     steps:
       - name: Checkout repo
