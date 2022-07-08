@@ -66,6 +66,8 @@ collections:
     output: true
   uk:
     output: true
+  val:
+    output: true
   vi:
     output: true
   zh-CN:

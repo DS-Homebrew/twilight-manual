@@ -45,13 +45,13 @@ title: GBARunner2
 <div id="bios-file" class="section-title">BIOS файл</div>
 <div class="section-body">
     <p>
-        GBARunner2 может использовать дамп официального GBA BIOS для улучшения совместимости. Файл должен быть назван <code>bios.bin</code> и должен быть в корне SD-карты, <code>sd:/gba</code> или <code>sd:/_gba</code>.
+        GBARunner2 может использовать дамп официального BIOS-a GBA для улучшения совместимости. Файл должен быть назван <code>bios.bin</code> и должен быть в корне SD карты, <code>sd:/gba</code> или <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>
-        Убедитесь, что ваш дамп GBA BIOS совпадает со следующим хэшем CRC32: <code>81977335</code>
+        Убедитесь, что дамп BIOS-a вашего GBA совпадает со следующим хэшем CRC32: <code>81977335</code>
     </p>
     <p>
-        Вы можете проверить его на сайте:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Вы можете проверить это на сайте:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>
