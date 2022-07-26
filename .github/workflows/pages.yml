@@ -28,7 +28,7 @@ jobs:
       - name: Build Deno Module
         run: |
           PUPPETEER_PRODUCT=chrome deno run --unstable --allow-env --allow-net --allow-write --allow-read https://deno.land/x/puppeteer@14.1.1/install.ts
-          deno run --unstable --allow-env --allow-run --allow-net --allow-read=/home/runner --allow-write=/home/runner deno.ts web
+          deno run --unstable --allow-env --allow-run --allow-net --allow-read --allow-write deno.ts web
       - name: Pack 7z Package for nightly
         run: |
           cd nitrofiles
