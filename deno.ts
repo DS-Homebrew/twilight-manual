@@ -84,15 +84,15 @@ for await (const folder of Deno.readDir("pages")) {
 					BG_COLOR_2 = 0xA108
 				`);
 
-				const links = document.querySelectorAll<HTMLAnchorElement>(`a[href^="${accessURL}"]`);
-				for (const i in links)
-					out += dedent(`
-						\n\n[LINK${parseInt(i) + 1}]
-						X = ${Math.round(links[i].getBoundingClientRect().x)}
-						Y = ${Math.round(links[i].getBoundingClientRect().y)}
-						W = ${Math.round(links[i].getBoundingClientRect().width)}
-						H = ${Math.round(links[i].getBoundingClientRect().height)}
-						DEST = ${links[i].href.substring(links[i].href.lastIndexOf("/") + 1)}`);
+				Array.from(document.getElementsByTagName('a'))
+					.filter(element => element.href.startsWith(accessURL))
+					.forEach((element, index) => out += dedent(`\n\n
+						[LINK${index}]
+						X = ${Math.round(element.getBoundingClientRect().x)}
+						Y = ${Math.round(element.getBoundingClientRect().y)}
+						W = ${Math.round(element.getBoundingClientRect().width)}
+						H = ${Math.round(element.getBoundingClientRect().height)}
+						DEST = ${element.href.substring(element.href.lastIndexOf("/") + 1)}`))
 
 				return out;
 			}, accessURL);
