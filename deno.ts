@@ -1,6 +1,7 @@
 import puppeteer from "https://deno.land/x/puppeteer@14.1.1/mod.ts";
 import { exists } from "https://deno.land/std@0.119.0/fs/exists.ts";
 
+const dedent = (string:string) => string.split('\n').map(line => line.trim()).join('\n')
 const needsUpdate = async (fileName: string, path:string) =>
 	!(await exists(fileName)) || ((await Deno.stat(fileName)).mtime || 0) < ((await Deno.stat(path)).mtime || 0)
 
@@ -57,10 +58,23 @@ for await (const folder of Deno.readDir("pages")) {
 		const rootPath = `${dir.substring(1)}/${page.substring(0, page.indexOf("."))}`;
 		await tab.goto([accessURL, rootPath].join('/'), { waitUntil: "networkidle0" });
 
+		const pageEval = await tab.evaluate((accessURL) => ({
+			title: document.title,
+			height: document.body.clientHeight,
+			links: Array.from(document.getElementsByTagName('a'))
+				.filter(element => element.href.startsWith(accessURL))
+				.map(element => ({
+					X: Math.round(element.getBoundingClientRect().x),
+					Y: Math.round(element.getBoundingClientRect().y),
+					W: Math.round(element.getBoundingClientRect().width),
+					H: Math.round(element.getBoundingClientRect().height),
+					DEST: element.href.substring(element.href.lastIndexOf("/") + 1)
+				}))
+		}), accessURL);
+
 		const imagePath = `nitrofiles/pages/${rootPath}.gif`
 		if (await needsUpdate(imagePath, `pages/${dir}/${page}`)) {
-			const height = await tab.evaluate(() => document.body.clientHeight);
-			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height } });
+			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
 
 			const paletteProcess = Deno.run({
 				cmd: ["ffmpeg", "-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=246", tempFileNames.palette, "-y", "-loglevel", "error"]
@@ -74,29 +88,21 @@ for await (const folder of Deno.readDir("pages")) {
 		}
 
 		if (await needsUpdate(`nitrofiles/pages/${rootPath}.ini`, `pages/${dir}/${page}`)) {
-			const iniContent = await tab.evaluate((accessURL) => {
-				const dedent = (string:string) => string.split('\n').map(line => line.trim()).join('\n')
+			let iniContent = dedent(`
+				[INFO]
+				TITLE = ${pageEval.title}
+				BG_COLOR_1 = 0x9CE7
+				BG_COLOR_2 = 0xA108
+			`)
 
-				let out = dedent(`
-					[INFO]
-					TITLE = ${document.title}
-					BG_COLOR_1 = 0x9CE7
-					BG_COLOR_2 = 0xA108
-				`);
+			const iniLinks = [];
+			for (const index in pageEval.links) {
+				iniLinks.push(`[LINK${index}]\n` + Array.from(Object.entries(pageEval.links[index])
+					.map(([key, value]) => `${key} = ${value}`)
+					.join('\n')))
+			}
 
-				Array.from(document.getElementsByTagName('a'))
-					.filter(element => element.href.startsWith(accessURL))
-					.forEach((element, index) => out += dedent(`\n\n
-						[LINK${index}]
-						X = ${Math.round(element.getBoundingClientRect().x)}
-						Y = ${Math.round(element.getBoundingClientRect().y)}
-						W = ${Math.round(element.getBoundingClientRect().width)}
-						H = ${Math.round(element.getBoundingClientRect().height)}
-						DEST = ${element.href.substring(element.href.lastIndexOf("/") + 1)}`))
-
-				return out;
-			}, accessURL);
-
+			iniContent += iniLinks.join('\n\n')
 			await Deno.writeTextFile(`nitrofiles/pages/${rootPath}.ini`, iniContent.trim());
 		}
 	}
