@@ -97,9 +97,9 @@ for await (const folder of Deno.readDir("pages")) {
 
 			const iniLinks = [];
 			for (const index in pageEval.links) {
-				iniLinks.push(`[LINK${index}]\n` + Array.from(Object.entries(pageEval.links[index])
+				iniLinks.push(`[LINK${index}]\n` + Object.entries(pageEval.links[index])
 					.map(([key, value]) => `${key} = ${value}`)
-					.join('\n')))
+					.join('\n'))
 			}
 
 			iniContent += iniLinks.join('\n\n')
