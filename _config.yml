@@ -24,6 +24,8 @@ collections:
     output: true
   bg:
     output: true
+  ca:
+    output: true
   da:
     output: true
   de:

@@ -63,14 +63,14 @@ title: Tema SEGA Saturn
 <div id="page-system" class="section-title">Sistema a pagine</div>
 <div class="section-body">
     <p>
-        Il tema SEGA Saturn divide gli elementi in pagine con un massimo di 40 elementi per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
+        Il tema SEGA Saturn divide gli elementi in pagine con un massimo di 40 per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
     </p>
     <ul>
         <li><p>Premere &#xE004; sulla pagina più a sinistra ti porterà al primo elemento della pagina</p></li>
         <li><p>Premere &#xE005; sulla pagina più a destra ti porterà all'ultimo elemento della pagina</p></li>
     </ul>
     <p>
-        Se i grilletti non funzionano, è possibile utilizzare SELECT + &#xE07E; invece.
+        Se i grilletti non funzionano, è possibile utilizzare SELECT + &#xE07E;.
     </p>
 </div>
 

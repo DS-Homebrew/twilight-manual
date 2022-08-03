@@ -3,30 +3,30 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">Om</div>
+<div id="about" class="section-title">About</div>
 <div class="section-body">
     <p>
-        nds-bootstrap är ett homebrew-program som används av TWiLight Menu++ för att ladda DS(i) kassettdumpar, DSiWare och DS-mode homebrew från Nintendo DSi / 3DS SD-kortet.
+        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
     </p>
     <p>
-        Det kan också användas på minneskort, men kompatibilitetet på minneskort är lägre så det är främst avsett för homebrew-endast minneskort och dom med låg kompatibilitet.
+        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Kompatibilitet</div>
+<div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
     <p>
-        För att se om ett spel är kompatibelt med nds-bootstrap, kontrollera kompatibilitetslistan:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        För bästa kompatibilitet på minneskort rekommenderar vi att du skaffar ett DS Memory Expansion Pak.
+        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
     </p>
 </div>
 
 <div id="controls" class="section-title">In-Game Controls</div>
 <div class="section-body">
     <p>
-        Tryck på &#xE004;, &#xE07A;, och SELECT för att öppna menyn i spelet.
+        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
     </p>
     <p>
         This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
