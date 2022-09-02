@@ -38,7 +38,7 @@ title: GBARunner2
 <div id="in-game" class="section-title">ゲーム内</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="タッチ画面をタップ"></p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="タッチスクリーンをタップ"></p>
         <p class="button-action-text">メニューを開く</p>
     </div>
 </div>

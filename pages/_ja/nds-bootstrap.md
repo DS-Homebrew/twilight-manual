@@ -36,7 +36,7 @@ title: nds-bootstrap
         &#xE004;、&#xE005;、START、SELECTを押してゲームをリセットします。
     </p>
     <p>
-        2 秒で長押しして、ゲームを強制的にリセットします。
+        2 秒間長押しすると、ゲームを強制的にリセットします。
     </p>
     <hr>
     <p>
@@ -48,7 +48,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        &#xE004;、&#xE005;、&#xE002;、&#xE079;を1秒で中押して画面を切り替わります。
+        &#xE004;, &#xE005;, &#xE002;, &#xE079; を1秒間長押しすると、画面が入れ替わります。
     </p>
 </div>
 
@@ -123,14 +123,14 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">チート</div>
 <div class="section-body">
     <p>
-        nds-bootstrapは、<code>usrcheat.dat</code>データベースからAction Replayチートを使用できます。これは<code>sd:/_nds/TWiLightMenu/extras</code>に配置するが必要です。 データベースがあると、TWiLight Menu++でゲームのゲームごとの設定メニューからどのチートを使用するかを選択できます。
+        nds-bootstrapは、<code>usrcheat.dat</code>データベースからAction Replayチートを使用できます。これは<code>sd:/_nds/TWiLightMenu/extras</code>に配置が必要です。 データベースがあると、TWiLight Menu++でゲームのゲームごとの設定メニューからどのチートを使用するのかを選択できます。
     </p>
     <hr>
     <p>
         DeadSkullzJrのチートデータベースは最大と最新のものとしておすすめます：<br><a href="https://r.pk11.us/DSJCheats"> r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        あるいは、自分で作成するが好き場合は、パソコンでR4CCEを使用こともできます：<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        あるいは、自分で作成するのが好きな場合は、パソコンでR4CCEを使用して作成することもできます：<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

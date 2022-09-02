@@ -53,11 +53,11 @@ title: ゲーム設定
 
 <div id="unlaunch-settings" class="section-title">Unlaunch設定</div>
 <div class="section-body">
-    <p>ここの設定は、Unlaunchの動作を変更できます。 Unlaunchのインストーラをパッチを当てることで動作するので、これらの設定が影響を受けるように再インストールするが必要です。</p>
-    <p>このページはフラッシュカードではないから開始するニンテンドーDSi本体のみで表示する。 フラッシュカードと3DSユーザーはこのページを表示されません。</p>
+    <p>この設定は、Unlaunchの動作を変更できます。 Unlaunchのインストーラをパッチを当てることで動作するので、これらの設定が影響を受けるように再インストールが必要です。</p>
+    <p>このページは、ニンテンドーDSi本体でフラッシュカードから起動していないときのみ表示されます。 フラッシュカードと3DSユーザーはこのページを表示されません。</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">ゲームとアプリ設定</div>
+<div id="games-and-apps-settings" class="section-title">ゲーム・アプリ設定</div>
 <div class="section-body">
     <p>ここでは、複数のエミュレーターを使用できるシステムで使用するエミュレーターを選択したり、nds-bootstrapを使用していないゲームやアプリの動作に影響を与えるその他の設定があります。</p>
 </div>

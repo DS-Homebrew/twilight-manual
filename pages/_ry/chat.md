@@ -13,9 +13,10 @@ title: チャット
 </div>
 <div class="section-body">
     <p>
-        TWiLight Menu++のユーザーのコミュニティをお探しですか？ あなた人身のような他のTWLMenu++ユーザーと出会うために、DS<sup>(i)</sup> Mode Hacking Discordサーバーを対応デバイスで参加します！
+        TWiLight Menu++ぬユーザーぬコミュニティうかめーいやいびーが？ 
+うんじゅ人身ぬぐとーる他ぬTWLMenu++ユーザーとぅはいいちゃいんでぃ、DS<sup>(i)</sup> Mode Hacking Discordサーバー対応デバイスっし参加さびーん！
     </p>
     <p>
-        サーバーの招待コード：<a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        サーバーぬ招待コード：<a href="https://discord.gg/yD3spjv">yD3spjv</a>
     </p>
 </div>

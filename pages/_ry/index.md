@@ -7,56 +7,56 @@ title: ホーム
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">上下にスクロール</p>
+        <p class="button-action-text">うぃーしちゃんかいスクロール</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">前・次のページへ</p>
+        <p class="button-action-text">前・次ぬページんかい</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">前に選択のページに戻る</p>
+        <p class="button-action-text">前に選択ぬページんかいむどぅいん</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">説明書を終了</p>
+        <p class="button-action-text">説明書終了</p>
     </div>
 </div>
 
 <div id="touch-controls" class="section-title">タッチコントロール</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="タッチ画面で上下にスクロール"></p>
-        <p class="button-action-text">上下にスクロール</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="タッチ画面っしうぃーしちゃんかいスクロール"></p>
+        <p class="button-action-text">うぃーしちゃんかいスクロール</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="タッチ画面をタップ"></p>
-        <p class="button-action-text">リンクをタップしてページにアクセス</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="タッチ画面タップ"></p>
+        <p class="button-action-text">リンクタップしページんかいアクセス</p>
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++の起動時のショートカット</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ぬ起動時ぬショートカット</div>
 <div class="section-body">
     <p>
-        &#xE000;、&#xE001;、&#xE002;、&#xE003;を押し続けて、TWiLight Menu++の設定をリセットします。
+        &#xE000;、&#xE001;、&#xE002;、&#xE003;うし続きてぃ、TWiLight Menu++ぬ設定リセットさびーん。
     </p>
     <hr>
     <p>
-        SELECTを押し続けて、設定メニューに直接移動します。
+        SELECTうし続きてぃ、設定メニューんかい直接移動さびーん。
     </p>
     <hr>
     <p>
-        &#xE001;を押し続けて、最後に実行したROMを起動します。
+        &#xE001;うし続きてぃ、最後んかい実行さるROM起動さびーん。
     </p>
 </div>
 
 <div id="theme-information" class="section-title">テーマ情報</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ には6種類のテーマがあります。 これらはすべて異なるデザインを持つメニューで、中にはまったく別のナビゲーションスタイルを持つものもあります。</p>
+    <p class="mb-2">TWiLight Menu++ んかえー6種類ぬテーマぬあいびーん。 くりらーまじり異ないるデザインむちゅるメニューっし、中んかえーむっとぅ別ぬナビゲーションスタイルむちゅしんあいびーん。</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -91,7 +91,7 @@ title: ホーム
         <div class="grid-item">
             <img src="/assets/images/saturn-logo.png">
             <p>
-                <a href="theme5-saturn">セガ<wbr>サターン</a>
+                <a href="theme5-saturn">セガサターン</a>
             </p>
         </div>
     </div>
@@ -99,7 +99,7 @@ title: ホーム
 
 <div id="game-loaders" class="section-title">ゲームローダー</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++は、名前が示すようにメニューだけ。 ROM自体を起動しません。 ここには各ROMローダーの説明書があります。</p>
+    <p class="mb-2">TWiLight Menu++ー、なめーぬ示するぐとぅメニューてーん。 ROM自体起動さびらん。 くまんかえー各ROMローダーぬ説明書があいびーん。</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,7 +116,7 @@ title: ホーム
     </div>
 </div>
 
-<div id="other-information" class="section-title">その他の情報</div>
+<div id="other-information" class="section-title">すぬ他ぬ情報</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
@@ -139,6 +139,6 @@ title: ホーム
         </div>
     </div>
     <p>
-        もっとTWiLight Menu++の情報を知りたいですか？ ウィキを確認してください：<br><a href="https://wiki.ds-homebrew.com/ja-JP">wiki.ds-homebrew.com</a>
+        なーふぃんTWiLight Menu++ぬ情報知いぶさいびーが？ ウィキを確認してください：<br><a href="https://wiki.ds-homebrew.com/ja-JP">wiki.ds-homebrew.com</a>
     </p>
 </div>

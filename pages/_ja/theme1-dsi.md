@@ -7,7 +7,7 @@ title: ニンテンドーDSiテーマ
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">項目を移動する<br>(並べ替え方法は｢ｶｽﾀﾑ順｣に設定するが必要です)</p>
+        <p class="button-action-text">項目を移動する<br>(並べ替え方法は｢ｶｽﾀﾑ順｣に設定が必要です)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -94,9 +94,9 @@ title: ニンテンドーDSiテーマ
         ニンテンドーDSiテーマでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、テーマ自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：
     </p>
     <ul>
-        <li><strong>HOMEメニュー</strong>：ニンテンドーDSiとニンテンドー3DS本体では、このオプションを使ってHOMEメニューに戻れる。</li>
-        <li><strong>設定</strong>：これを選択すると、TWiLight Menu++とそのランチャーを構成ためのメニューが起動します。</li>
-        <li><strong>カートリッジのオプション</strong>：オリジナルDSまたはDS Liteでは、ここからSlot-2カートリッジを起動できます。 SDカードから実行するニンテンドーDSiとニンテンドー3DSでは、Slot-1カードを実行するか、特定のフラッシュカードで、TWiLight Menu++のSDカードを切り替えられる。</li>
+        <li><strong>HOMEメニュー</strong>：ニンテンドーDSiとニンテンドー3DS本体では、このオプションを使ってHOMEメニューに戻ることができます。</li>
+        <li><strong>設定</strong>：これを選択すると、TWiLight Menu++とそのランチャーを構成するためのメニューが起動します。</li>
+        <li><strong>カートリッジのオプション</strong>：オリジナルDSまたはDS Liteでは、ここからSlot-2カートリッジを起動できます。 SDカードから実行するニンテンドーDSiとニンテンドー3DSでは、Slot-1カードを実行するか、特定のフラッシュカードで、TWiLight Menu++のSDカードを切り替えることが出来ます。</li>
         <li><strong>説明書</strong>：これはTWiLight Menu++の説明書を起動します。 今は見ているものです :P</li>
     </ul>
 </div>
