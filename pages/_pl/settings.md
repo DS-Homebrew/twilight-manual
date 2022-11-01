@@ -41,9 +41,9 @@ title: Ustawienia
     <p>Na tej stronie możesz wybrać szablon i inne opcje, które mają wpływ na wygląd TWiLight ++.</p>
 </div>
 
-<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
+<div id="nds-bootstrap-settings" class="section-title">Ustawienia nds-bootstrap</div>
 <div class="section-body">
-    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
+    <p>To są ustawienia globalne dla gier uruchamianych przez nds-bootstrap. Niektóre dodatkowe ustawienia są dostępne dla per-gra, naciskając &#xE003; podczas najeżdżania na grę DS w przeglądarce plików.</p>
 </div>
 
 <div id="gbarunner2-settings" class="section-title">Ustawienia GBARunner2</div>
@@ -51,18 +51,18 @@ title: Ustawienia
     <p>Te ustawienia pozwalają wybrać sposób wyświetlania gier oraz zwiększyć ich wydajność lub kompatybilność.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Ustawienia Unlaunch</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Te ustawienia pozwalają ci zmienić sposób działania Unlauncha, działają one poprzez łatanie instalatora, więc będziesz musiał/a go ponownie zainstalować, aby te ustawienia zaczęły działać.</p>
+    <p>Ta strona pojawia się tylko na konsolach Nintendo DSi, gdy nie jest uruchomiona z flashcard-a. Użytkownicy Flashcardów i 3DSa nie zobaczą tej strony.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Ustawienia gier i aplikacji</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>Tutaj możesz wybrać, który emulator powinien być używany dla systemów z wieloma emulatorami, oraz dostosować inne ustawienia, które wpływają na sposób uruchamiania gier i aplikacji, które nie używają nds-bootstrap.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">Inne. ustawienia</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>To tutaj trafiają wszystkie ustawienia, które nie pasują do innych kategorii, takie jak m. in. jaki język ma być używany, czy automatycznie uruchamiać ostatnio włączaną grę i czy pokazywać Splash Screeny przy uruchamianiu.</p>
 </div>

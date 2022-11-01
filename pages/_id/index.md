@@ -56,7 +56,7 @@ title: Beranda
 
 <div id="theme-information" class="section-title">Informasi Tema</div>
 <div class="section-body">
-    <p class="mb-2">Di TWiLight Menu++ terdapat 6 tema berbeda yang dapat dipilih. Semua tema tampilan menu di sini mempunyai bentuk yang beragam, bahkan ada yang gaya navigasinya sangat berbeda.</p>
+    <p class="mb-2">Di TWiLight Menu++ terdapat 6 tema berbeda yang bisa dipilih. Semua tema tampilan menu di sini mempunyai bentuk yang beragam, bahkan ada yang gaya navigasinya sangat berbeda.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

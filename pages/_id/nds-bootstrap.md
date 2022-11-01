@@ -9,7 +9,7 @@ title: nds-bootstrap
         nds-bootstrap adalah homebrew yang digunakan TWiLight Menu++ untuk memuat dump kaset DS(i), DSiWare, dan homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Aplikasi ini juga dapat digunakan di flashcard, tapi kesesuaiannya lebih rendah, maka lebih ditujukan untuk flashcard cuma-homebrew dan juga flashcard berkesesuaian rendah.
+        Aplikasi ini juga bisa digunakan di flashcard, tapi kesesuaiannya lebih rendah, maka lebih ditujukan untuk flashcard cuma-homebrew dan juga flashcard berkesesuaian rendah.
     </p>
 </div>
 
@@ -29,7 +29,7 @@ title: nds-bootstrap
         Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game.
     </p>
     <p>
-        Tombol dapat dipeta ulang dengan <code>Ubah hotkey menu</code> pada halaman nds-bootstrap di TWLMenu++.
+        Tombol bisa dipeta ulang dengan <code>Ubah hotkey menu</code> pada halaman nds-bootstrap di TWLMenu++.
     </p>
     <hr>
     <p>
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, cheat kemudian dapat dipilih dari menu pengaturan tiap-permainan pada TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, kamu bisa memilih cheat dari menu pengaturan tiap-permainan pada TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -134,6 +134,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Mohon diingat kalau cheat E-type nds-bootstrap masih belum kukuh (unstable), sehingga kode yang dibuat bisa saja tidak bekerja. <br>Ini bukan kesalahan dari pangkalan data cheat-nya, dan kami berharap dapat segera memperbaiki masalah ini pada nds-bootstrap.
+        Mohon diingat kalau cheat E-type nds-bootstrap masih belum kukuh (unstable), sehingga kode yang dibuat bisa saja tidak bekerja. <br>Ini bukan kesalahan dari pangkalan data cheat-nya, dan kami berharap bisa segera memperbaiki masalah ini pada nds-bootstrap.
     </p>
 </div>

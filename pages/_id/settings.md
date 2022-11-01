@@ -38,7 +38,7 @@ title: Pengaturan
 
 <div id="gui-settings" class="section-title">Pengaturan GUI</div>
 <div class="section-body">
-    <p>Di halaman ini kamu dapat memilih tema dan juga opsi lainnya untuk mengubah tampilan antarmuka TWiLight Menu++.</p>
+    <p>Di halaman ini kamu bisa memilih tema dan juga opsi lainnya untuk mengubah tampilan antarmuka TWiLight Menu++.</p>
 </div>
 
 <div id="nds-bootstrap-settings" class="section-title">Pengaturan nds-bootstrap</div>
@@ -53,13 +53,13 @@ title: Pengaturan
 
 <div id="unlaunch-settings" class="section-title">Pengaturan Unlaunch</div>
 <div class="section-body">
-    <p>Pengaturan di sini dapat mengubah cara kerja penggunaan Unlaunch dengan ditambal dulu pemasang (installer) Unlaunch. Maka dari itu, Unlaunch perlu dipasang ulang untuk memakai pengaturan ini.</p>
+    <p>Pengaturan di sini mengubah cara kerja Unlaunch dengan menambal pemasangnya (installer). Sehingga, Unlaunch perlu dipasang ulang dulu agar pengaturan ini berfungsi.</p>
     <p>Halaman ini hanya muncul pada konsol Nintendo DSi ketika tidak diluncurkan dari flashcard. Pengguna flashcard dan 3DS tidak akan melihat ini.</p>
 </div>
 
 <div id="games-and-apps-settings" class="section-title">Pengaturan Permainan dan Apl.</div>
 <div class="section-body">
-    <p>Kamu dapat memilih emulator mana yang digunakan untuk sistem yang punya beberapa emulator dan juga pengaturan lain untuk mengubah cara jalan permainan dan aplikasi yang tidak memakai nds-bootstrap.</p>
+    <p>Kamu bisa memilih emulator mana yang dipakai untuk sistem yang punya beberapa emulator dan juga pengaturan lain untuk mengubah cara jalan permainan dan aplikasi yang tidak memakai nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Pengaturan lain</div>

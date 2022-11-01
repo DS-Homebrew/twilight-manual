@@ -63,7 +63,7 @@ title: Tema Nintendo 3DS
 <div id="page-system" class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
-        Tema Nintendo 3DS membagi butirnya berhalaman dengan jumlah batasnya 40 butir tiap halaman. Kamu dapat menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
+        Tema Nintendo 3DS membagi butirnya berhalaman dengan jumlah batasnya 40 butir tiap halaman. Kamu bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
     </p>
     <ul>
         <li><p>Menekan &#xE004; di pojok kanan halaman akan langsung ke butir pertama halamannya</p></li>
