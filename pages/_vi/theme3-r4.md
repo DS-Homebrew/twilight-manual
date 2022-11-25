@@ -17,7 +17,7 @@ title: Giao diện R4 gốc
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Khởi động lại TWiLight Menu++</p>
+        <p class="button-action-text">Exit to DSi/3DS Home Menu</p>
     </div>
     <hr>
     <div class="button-action-group">

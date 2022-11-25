@@ -34,11 +34,6 @@ title: crwdns21086:0crwdne21086:0
         <p class="button-action button">crwdns17782:0crwdne17782:0</p>
         <p class="button-action-text">crwdns17786:0crwdne17786:0</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">crwdns17790:0crwdne17790:0</p>
-        <p class="button-action-text">crwdns17794:0crwdne17794:0</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">crwdns20446:0crwdne20446:0</div>

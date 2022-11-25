@@ -34,11 +34,6 @@ title: Tema Nintendo 3DS
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">Abre as configurações por jogo</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">Abre o menu SELECT ou o menu do DS Clássico</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">Controles de toque</div>

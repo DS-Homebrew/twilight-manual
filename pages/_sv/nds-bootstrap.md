@@ -23,117 +23,117 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">Kontroller i spel</div>
 <div class="section-body">
     <p>
         Tryck på &#xE004;, &#xE07A;, och SELECT för att öppna menyn i spelet.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
+        Detta kan ändras med hjälp av <code>Meny-hotkey</code> på sidan nds-bootstrap i TWiLight Menu++-inställningarna.
     </p>
     <hr>
     <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
+        Tryck på &#xE004;, &#xE005;, START och VÄLJ för att återställa spelet.
     </p>
     <p>
-        Hold for 2 seconds to force the game to reset.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        Håll kvar i 2 sekunder för att tvinga spelet att återställas.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        Håll &#xE004;, &#xE005;, &#xE07A;, och &#xE000; i 2 sekunder för att skapa en RAM-dump.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        Håll &#xE004;, &#xE005;, &#xE07A;, och &#xE001; i 2 sekunder för att återgå till TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        Håll &#xE004;, &#xE005;, &#xE002;, och &#xE079; för 1 sekund för att byta skärmar.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">Kontroller för menyn i spelet</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">Navigera menyn</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">Ändra inställningen<br>(undermenyn Alternativ)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">Välj alternativet</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">Återgå till spelet</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">Framåt 1 ram</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>Skärmdump</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Change VRAM bank</p>
+        <p class="button-action-text">Ändra VRAM-bank</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
+        <p class="button-action-text">Spara skärmbild</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
+        <p class="button-action-text">Avbryt</p>
     </div>
-    <h3>RAM Editor</h3>
+    <h3>RAM-redigerare</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action-text">Navigera</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">Gå till redigeringsläge</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">Lämna redigeringsläge<br>Lämna RAM-editor</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">Hoppa till adressen</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">Håll ned för att navigera snabbare</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">Fusk</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        nds-bootstrap kan använda Action Replay-fusk via en <code>usrcheat.dat</code> databas, vilket behöver placeras i <code>sd:/_nds/TWiLightMenu/extras</code>. När databasen är där, kan du välja vilka fusk att använda från ett spels "Spelspecifika inställningar" i TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        DeadSkullzJrs databas för fusk rekommenderas eftersom den är den största och mest uppdaterade:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Om du vill göra en själv kan du också använda R4CCE på en dator:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        Tänk på att nds-bootstraps E-type fusk-implementation är instabilt och som ett resultat, din kod kanske eller kanske inte fungerar. Detta är inte ett fel i databasen, och vi hoppas att få detta problem rättat i nds-bootstrap snart.
     </p>
 </div>

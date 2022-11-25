@@ -17,7 +17,7 @@ title: R4原生主题
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">重启TWiLight Menu++</p>
+        <p class="button-action-text">退出到DSi/3DS主菜单</p>
     </div>
     <hr>
     <div class="button-action-group">

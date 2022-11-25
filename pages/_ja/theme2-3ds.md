@@ -34,11 +34,6 @@ title: ニンテンドー3DSテーマ
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">ゲームごとの設定を開く</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">SELECTメニューまたはDSクラシックメニューを開く</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">タッチコントロール</div>

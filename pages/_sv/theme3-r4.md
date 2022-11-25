@@ -17,7 +17,7 @@ title: R4 Original Teman
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Starta om TWiLight Menu++</p>
+        <p class="button-action-text">Gå tillbaka till DSi/3DS-hemmenyn</p>
     </div>
     <hr>
     <div class="button-action-group">

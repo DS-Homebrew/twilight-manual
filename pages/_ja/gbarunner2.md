@@ -45,11 +45,11 @@ title: GBARunner2
 <div id="bios-file" class="section-title">BIOSファイル</div>
 <div class="section-body">
     <p>
-        GBARunner2は、公式のGBA BIOSのダンプを使用して互換性を向上させることができます。 ファイル名は<code>bios.bin</code>であるが必要です。SDカードのルート、<code>sd:/gba</code>または<code>sd:/_gba</code>に配置できます。
+        GBARunner2は、公式のGBA BIOSのダンプを使用して互換性を向上させることができます。 ファイル名は<code>bios.bin</code>である必要があります。SDカードのルート、<code>sd:/gba</code>または<code>sd:/_gba</code>に配置できます。
     </p>
     <hr>
     <p>
-        GBA BIOSのダンプを次のCRC32ハッシュと一致を確認してください：<code> 81977335</code>
+        GBA BIOSのダンプが次のCRC32ハッシュと一致することを確認してください：<code> 81977335</code>
     </p>
     <p>
         このWebサイトで確認できます：<br><a href="https://simplycalc.com/crc32-file.php"> simplycalc.com/crc32-file.php</a>

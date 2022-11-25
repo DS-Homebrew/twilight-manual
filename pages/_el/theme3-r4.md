@@ -17,7 +17,7 @@ title: R4 Αυθεντικό Θέμα
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Επανεκκίνηση TWiLight Menu++</p>
+        <p class="button-action-text">Έξοδος στο αρχικό μενού του DSi/3DS</p>
     </div>
     <hr>
     <div class="button-action-group">

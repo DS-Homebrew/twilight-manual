@@ -34,11 +34,6 @@ title: 닌텐도 3DS 테마
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">게임별 설정 열기</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">SELECT 또는 DS 클래식 메뉴 열기</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">터치 조작</div>

@@ -17,7 +17,7 @@ title: Тема R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Перезагрузить TWiLight Menu++</p>
+        <p class="button-action-text">Выход в главное меню DSi/3DS</p>
     </div>
     <hr>
     <div class="button-action-group">

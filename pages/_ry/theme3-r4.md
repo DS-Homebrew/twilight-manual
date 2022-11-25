@@ -17,7 +17,7 @@ title: R4オリジナルテーマ
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">TWiLight Menu++再起動</p>
+        <p class="button-action-text">DSi・3DS HOMEメニューんかいむどぅいん</p>
     </div>
     <hr>
     <div class="button-action-group">

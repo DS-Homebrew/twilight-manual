@@ -17,7 +17,7 @@ title: Originalt R4-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Genstart TWiLight Menu++</p>
+        <p class="button-action-text">Afslut til DSi/3DS Home Menu</p>
     </div>
     <hr>
     <div class="button-action-group">

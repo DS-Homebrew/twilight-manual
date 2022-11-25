@@ -17,7 +17,7 @@ title: R4 기본 테마
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">TWiLight Menu++ 재부팅</p>
+        <p class="button-action-text">홈 DSi/3DS 메뉴 종료</p>
     </div>
     <hr>
     <div class="button-action-group">

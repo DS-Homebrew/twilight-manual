@@ -17,7 +17,7 @@ title: R4 Eredeti téma
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">A TWiLight Menu++ újraindítása</p>
+        <p class="button-action-text">Kilépés a DSi/3DS Home menübe</p>
     </div>
     <hr>
     <div class="button-action-group">

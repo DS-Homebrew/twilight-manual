@@ -34,11 +34,6 @@ title: ערכת הנושא Nintendo 3DS
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">פתיחת הגדרות אישיות למשחק</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">פתיחת תפריט ה-SELECT או את תפריט ה-DS הקלאסי</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">שליטה באמצעות מגע</div>

@@ -17,7 +17,7 @@ title: R4 Orijinal Teması
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">TWiLight Menu++ Yeniden Başlat</p>
+        <p class="button-action-text">DSi/3DS Home Menü'ye Çık</p>
     </div>
     <hr>
     <div class="button-action-group">

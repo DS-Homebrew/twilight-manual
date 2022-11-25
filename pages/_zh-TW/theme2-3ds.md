@@ -34,11 +34,6 @@ title: Nintendo 3DS主題
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">開啟遊戲子選單</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">打開SELECT選單或DS懷舊選單</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">點擊控制方法</div>

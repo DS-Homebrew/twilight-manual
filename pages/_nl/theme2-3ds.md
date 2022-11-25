@@ -34,11 +34,6 @@ title: Nintendo 3DS Thema
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">Open spel specifieke instellingen</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">Open het SELECT-menu of het DS Classic-menu</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">Aanraakbediening</div>

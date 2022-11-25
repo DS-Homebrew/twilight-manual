@@ -57,7 +57,7 @@ title: Einstellungen
     <p>Diese Seite erscheint nur auf Nintendo DSi Konsolen, die nicht von einer Flashkarte gestartet wurden. Flashkarten und 3DS-Nutzer werden diese Seite nicht sehen.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Einstellungen für Spiele und Apps</div>
+<div id="games-and-apps-settings" class="section-title">Spiele- und Apps-Einstellungen</div>
 <div class="section-body">
     <p>Hier kannst du auswählen, welcher Emulator für Systeme mit mehreren Emulatoren verwendet werden soll und andere Einstellungen die die Ausführung von Spielen und Apps beeinflussen, die nicht nds-bootstrap verwenden.</p>
 </div>

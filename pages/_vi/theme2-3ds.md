@@ -34,11 +34,6 @@ title: Giao diện Nintendo 3DS
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">Mở cài đặt riêng từng trò chơi</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">Mở SELECT Menu hoặc Menu DS cổ điển</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">Điều khiển chạm</div>

@@ -17,7 +17,7 @@ title: Oryginalny motyw R4
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Uruchom ponownie menu TWilight++</p>
+        <p class="button-action-text">Wyjście do menu głównego DSi/3DS</p>
     </div>
     <hr>
     <div class="button-action-group">

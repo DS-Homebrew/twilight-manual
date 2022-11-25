@@ -17,7 +17,7 @@ title: Tema Original R4
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Riavvia TWiLight Menu++</p>
+        <p class="button-action-text">Esci al menu Home DSi/3DS</p>
     </div>
     <hr>
     <div class="button-action-group">

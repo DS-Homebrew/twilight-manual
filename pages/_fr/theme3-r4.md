@@ -17,7 +17,7 @@ title: Thème R4 original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Redémarrer TWiLight Menu++</p>
+        <p class="button-action-text">Revenir au menu HOME DSi/3DS</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -34,11 +34,6 @@ title: Θέμα Nintendo 3DS
         <p class="button-action button">&#xE003;</p>
         <p class="button-action-text">Άνοιγμα ρυθμίσεων ανά παιχνίδι</p>
     </div>
-    <hr>
-    <div class="button-action-group">
-        <p class="button-action">SELECT</p>
-        <p class="button-action-text">Άνοιγμα του μενού ΕΠΙΛΟΓΉΣ ή του DS Κλασικού Μενού</p>
-    </div>
 </div>
 
 <div id="touch-controls" class="section-title">Χειρισμός αφής</div>
