@@ -4,6 +4,7 @@ on:
   push:
     branches: ["*"]
     paths-ignore: [README.md, crowdin.yml]
+  workflow_dispatch:
 
 jobs:
   build:
