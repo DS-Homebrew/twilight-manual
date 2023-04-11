@@ -1,19 +1,20 @@
-import puppeteer from "https://deno.land/x/puppeteer@14.1.1/mod.ts";
-import { exists } from "https://deno.land/std@0.119.0/fs/exists.ts";
+import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+import {getAnyEdgeLatest} from "./edgePath.ts"
+import exists from "./exists.ts"
 
 const dedent = (string:string) => string.split('\n').map(line => line.trim()).join('\n')
 const needsUpdate = async (fileName: string, path:string) =>
 	!(await exists(fileName)) || ((await Deno.stat(fileName)).mtime || 0) < ((await Deno.stat(path)).mtime || 0)
 
 const web = Deno.args.includes("web");
-let jekyll:Deno.Process|undefined = undefined;
+let jekyll;
 let accessURL:string;
 if (web) {
 	accessURL = "https://" + await Deno.readTextFile("./CNAME");
 	console.log("Generating images from https://manual.ds-homebrew.com...");
 } else {
 	console.log("Generating images from local files...");
-	jekyll = Deno.run({ cmd: ["bundle", "exec", "jekyll", "serve"] });
+	jekyll = new Deno.Command('bundle', { args: ['exec', 'jekyll', 'serve']}).spawn();
 
 	// Wait 5s for jekyll to be ready
 	await new Promise(resolve => setTimeout(resolve, 5000));
@@ -27,7 +28,7 @@ try {
 	if (!error.message.includes('Could not find browser revision'))
 		throw error;
 
-	browser = await puppeteer.launch({ product: 'chrome', executablePath: 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\new_msedge.exe' })
+	browser = await puppeteer.launch({ product: 'chrome', executablePath: await getAnyEdgeLatest() })
 }
 
 const tab = await browser.newPage();
@@ -76,15 +77,15 @@ for await (const folder of Deno.readDir("pages")) {
 		if (await needsUpdate(imagePath, `pages/${dir}/${page}`)) {
 			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
 
-			const paletteProcess = Deno.run({
-				cmd: ["ffmpeg", "-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=246", tempFileNames.palette, "-y", "-loglevel", "error"]
+			const paletteProcess = new Deno.Command('ffmpeg', {
+				args: ["-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=246", tempFileNames.palette, "-y", "-loglevel", "error"]
 			});
-			await paletteProcess.status();
+			await paletteProcess.output();
 
-			const conversionProcess = Deno.run({
-				cmd: ["ffmpeg", "-i", tempFileNames.screenshot, "-i", tempFileNames.palette, "-filter_complex", "paletteuse", imagePath, "-y", "-loglevel", "error"]
+			const conversionProcess = new Deno.Command('ffmpeg', {
+				args: ["-i", tempFileNames.screenshot, "-i", tempFileNames.palette, "-filter_complex", "paletteuse", imagePath, "-y", "-loglevel", "error"]
 			})
-			await conversionProcess.status();
+			await conversionProcess.output();
 		}
 
 		if (await needsUpdate(`nitrofiles/pages/${rootPath}.ini`, `pages/${dir}/${page}`)) {
@@ -111,7 +112,7 @@ for await (const folder of Deno.readDir("pages")) {
 await browser.close();
 
 if (jekyll)
-	jekyll.close();
+	jekyll.kill();
 
 for (const tempFile of Object.values(tempFileNames))
 	if (await exists(tempFile))
