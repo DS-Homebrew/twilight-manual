@@ -1,65 +1,65 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Тема Wood UI
 ---
 
-<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
+<div id="temporarily-disabled" class="section-title">Тимчасово вимкнено</div>
 <div class="section-body">
     <p>
-        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
+        Ця тема тимчасово вимкнена через пошкодження SD-карти. Щоб повернути тему назад, потрібно створити новий драйвер SD карти, що займає багато часу і зусиль.
     </p>
     <p>
-        Please be patient; it may not be back for a while.
+        Будь ласка, наберіться терпіння; її може не бути ще деякий час.
     </p>
 </div>
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Керування</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">Попередній / наступний елемент</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Move up / down by 10</p>
+        <p class="button-action-text">Перемістити вгору / вниз на 10</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Запустити вибрану програму</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001; / &#xE004;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">Повернутися на попередній рівень каталогу</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">Відкрити налаштування гри</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Open the Start Menu</p>
+        <p class="button-action-text">Відкрити Start меню</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Change the view mode</p>
+        <p class="button-action-text">Змінити режим перегляду</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Сенсорне керування</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">Прокрутити список</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">Запустити вибрану програму</p>
     </div>
 </div>

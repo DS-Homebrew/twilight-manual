@@ -122,7 +122,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">Menù DS Classico</a>
+                <a href="ds-classic-menu">Menu DS classico</a>
             </p>
         </div>
         <div class="grid-item">

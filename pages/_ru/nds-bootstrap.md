@@ -6,10 +6,10 @@ title: nds-bootstrap
 <div id="about" class="section-title">О программе</div>
 <div class="section-body">
     <p>
-        nds-bootstrap - это Nintendo DS(i) Homebrew, используемый TWiLight Menu++ для запуска дампов картриджей, DSiWare и DS-mode хоумбрю файлов с SD-карты Nintendo DSi / 3DS.
+        nds-bootstrap - это Nintendo DS(i) homebrew программа, используемая в TWiLight Menu++ для запуска дампов картриджей, DSiWare и DS homebrew с SD-карты Nintendo DSi / 3DS.
     </p>
     <p>
-        Он также может быть использован на флешкартах, однако совместимость с флешкартами ниже, так что в первую очередь он предназначен только для homebrew-карт и флешкартами с низкой совместимостью.
+        Она также может быть использован на флешкартриджах, однако совместимость с ними ниже, так что в первую очередь программа предназначена для homebrew-картриджей и флешкартриджей с низкой совместимостью.
     </p>
 </div>
 
@@ -19,7 +19,7 @@ title: nds-bootstrap
         Чтобы узнать, совместима ли игра с nds-bootstrap, проверьте список совместимости:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Для лучшей совместимости с флешкартами, мы рекомендуем использовать DS Memory Expansion Pak.
+        Для лучшей совместимости с флешкартриджами, мы рекомендуем использовать DS Memory Expansion Pak.
     </p>
 </div>
 
@@ -29,7 +29,7 @@ title: nds-bootstrap
         Нажмите &#xE004;, &#xE07A;, и SELECT, чтобы открыть внутриигровое меню.
     </p>
     <p>
-        Можно изменить <code>Меню горячих клавиш</code> на странице nds-bootstrap в настройках TWiLight Menu++.
+        Сочетание можно изменить в <code>меню горячих клавиш</code> на странице nds-bootstrap в настройках TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -76,12 +76,12 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Продвинутый 1 кадр</p>
+        <p class="button-action-text">Перейти на следующий кадр</p>
     </div>
     <h3>Скриншот</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Изменить VRAM bank</p>
+        <p class="button-action-text">Изменить хранилище VRAM</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -96,7 +96,7 @@ title: nds-bootstrap
     <h3>Редактор ОЗУ</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Перейти</p>
+        <p class="button-action-text">Перемещение</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -130,10 +130,10 @@ title: nds-bootstrap
         Рекомендуется использовать чит-базу данных DeadSkullzJr как самую полную и последнюю версию:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Если вы хотите сделать это самостоятельно, вы можете использовать R4CCE на компьютере:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Если вы хотите сделать ее самостоятельно, вы можете использовать R4CCE на компьютере:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Имейте в виду, что реализация nds-bootstrap E-type нестабильная и в результате ваш чит может работать или не работать. Это не ошибка базы данных, и мы надеемся, что эта проблема будет вскоре исправлена в nds-bootstrap.
+        Имейте в виду, что работа nds-bootstrap E-type нестабильна, поэтому ваш чит может не работать. Это не ошибка базы данных. Мы надеемся, что эта проблема будет вскоре исправлена в nds-bootstrap.
     </p>
 </div>

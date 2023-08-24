@@ -1,23 +1,23 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Giao diện R4 gốc
+title: Chủ đề R4 gốc
 ---
 
-<div id="main-menu" class="section-title">Menu chính</div>
+<div id="main-menu" class="section-title">Menu Chính</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Cài đặt trước / kế tiếp</p>
+        <p class="button-action-text">Lựa chọn trước / kế tiếp</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Mở cài đặt đã chọn</p>
+        <p class="button-action-text">Mở lựa chọn đã chọn</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit to DSi/3DS Home Menu</p>
+        <p class="button-action-text">Quay về Home Menu của máy DSi/3DS</p>
     </div>
     <hr>
     <div class="button-action-group">

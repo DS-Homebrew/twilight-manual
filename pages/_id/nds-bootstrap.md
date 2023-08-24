@@ -16,10 +16,10 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Kompatibilitas</div>
 <div class="section-body">
     <p>
-        Untuk melihat jika permainannya sesuai dimainkan di nds-bootstrap, periksa di daftar kesesuaian:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Untuk melihat jika permainannya kompatibel di nds-bootstrap, periksa di daftar kompatibilitas:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Untuk kesesuaian yang lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
+        Untuk kompatibilitas lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
     </p>
 </div>
 
@@ -61,7 +61,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Ubah pengaturan<br>(Di submenu Opsi)</p>
+        <p class="button-action-text">Ubah pengaturan<br>(Di submenu opsi)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah pangkalan datanya ada, kamu bisa memilih cheat dari menu pengaturan tiap-permainan pada TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah ada pangkalan data, Anda bisa memilih cheat dari menu pengaturan tiap-permainan pada TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -134,6 +134,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Mohon diingat kalau cheat E-type nds-bootstrap masih belum kukuh (unstable), sehingga kode yang dibuat bisa saja tidak bekerja. <br>Ini bukan kesalahan dari pangkalan data cheat-nya, dan kami berharap bisa segera memperbaiki masalah ini pada nds-bootstrap.
+        Mohon diingat cheat E-type di nds-bootstrap masih belum stabil, sehingga kode yang dibuat bisa saja tidak berfungsi. <br>Ini bukan kesalahan pangkalan data cheat, dan kami berharap masalah ini bisa segera diperbaiki di nds-bootstrap.
     </p>
 </div>

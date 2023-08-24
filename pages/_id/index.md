@@ -97,7 +97,7 @@ title: Beranda
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Pemuat (Loader) Permainan</div>
+<div id="game-loaders" class="section-title">Pemuat Permainan</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++, seperti namanya, hanyalah menu. Jadi BUKAN yang memainkan atau memuat ROM. Berikut halaman manual untuk pemuat ROM-nya:</p>
     <div class="grid-container-2">

@@ -6,10 +6,10 @@ title: Тема Wood UI
 <div id="temporarily-disabled" class="section-title">Временно отключено</div>
 <div class="section-body">
     <p>
-        Эта тема временно отключена, из-за ошибки SD-карты. Чтобы вернуть его, необходимо создать новый драйвер SD-карты, который занимает много времени и усилий.
+        Эта тема временно отключена, так как она повреждает SD-карту. Для его восстановления работоспособности темы требуется создать новый драйвер SD-карты, что отнимает много времени и усилий.
     </p>
     <p>
-        Пожалуйста, будьте терпеливы; он не может быть возвращен через некоторое время.
+        Пожалуйста, наберитесь терпения; возможно, она еще не скоро будет возвращена.
     </p>
 </div>
 
@@ -32,7 +32,7 @@ title: Тема Wood UI
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001; / &#xE004;</p>
-        <p class="button-action-text">Перейти на предыдущий каталог</p>
+        <p class="button-action-text">Вернутся на предыдущий уровень каталога</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -42,7 +42,7 @@ title: Тема Wood UI
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Открыть главное меню</p>
+        <p class="button-action-text">Открыть Start Меню</p>
     </div>
     <hr>
     <div class="button-action-group">

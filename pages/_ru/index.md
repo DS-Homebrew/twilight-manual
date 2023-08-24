@@ -39,7 +39,7 @@ title: Главная
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ ярлыки загрузки</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Горячие клавиши TWiLight Menu++</div>
 <div class="section-body">
     <p>
         Удерживайте &#xE000;, &#xE001;, &#xE002;, и &#xE003; для сброса настроек TWiLight меню++.

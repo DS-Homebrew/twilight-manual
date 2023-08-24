@@ -22,7 +22,7 @@ title: Тема Homebrew Launcher
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Перейти на предыдущий каталог</p>
+        <p class="button-action-text">Вернутся на предыдущий уровень каталога</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -37,7 +37,7 @@ title: Тема Homebrew Launcher
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Открыть SELECT Menu или DS Classic Menu</p>
+        <p class="button-action-text">Открыть SELECT Меню или Классическое Меню DS</p>
     </div>
 </div>
 
@@ -66,8 +66,8 @@ title: Тема Homebrew Launcher
         Тема Homebrew Launcher отображает максимум 40 элементов на каждой странице. Вы можете перемещаться по страницам, используя &#xE004; и &#xE005; триггеры.
     </p>
     <ul>
-        <li><p>Нажатие &#xE004; на самой левой странице приведет вас к первому элементу на странице</p></li>
-        <li><p>Нажатие &#xE005; на самой правой странице приведет вас к последнему элементу на странице</p></li>
+        <li><p>Нажмите &#xE004; на самой левой странице, чтобы перейти к первому элементу на этой странице</p></li>
+        <li><p>Нажмите &#xE005; на самой правой странице, чтобы перейти к последнему элементу на этой странице</p></li>
     </ul>
     <p>
         Если ваши триггеры не работают, вы можете использовать SELECT + &#xE07E; вместо этого.
@@ -77,12 +77,12 @@ title: Тема Homebrew Launcher
 <div id="select-menu" class="section-title">SELECT меню</div>
 <div class="section-body">
     <p>
-        Нажатие SELECT в теме Homebrew по умолчанию вызовет DS Classic меню. Тем не менее, в настройках TWiLight Menu++ вы можете изменить его, чтобы запустить мини-меню встроенного внутри самого шаблона. Ниже приведены опции SELECT меню.
+        Нажатие SELECT в теме Homebrew Launcher по умолчанию открывает Классическое Меню DS. Однако в настройках TWiLight Menu++ вы можете настроить на запуск SELECT Меню - миниатюрного меню, встроенного в саму тему. Ниже приведены опции SELECT меню.
     </p>
     <ul>
-        <li><strong>Главное меню</strong>: На консолях Nintendo DSi и Nintendo 3DS опция для возврата в главное меню</li>
+        <li><strong>Home Меню</strong>: На консолях Nintendo DSi и Nintendo 3DS эту опцию можно использовать для возврата в главное меню</li>
         <li><strong>Настройки</strong>: Выбор этой опции запустит меню для переключения настроек TWiLight Menu++ и его лаунчеров</li>
-        <li><strong>Параметры картриджа</strong>: На оригинальной DS или DS Lite, вы можете запустить ваше устройство Slot-2 отсюда. На Nintendo DSi и Nintendo 3DS с SD-карты, вы можете запустить вашу карту Slot-1 или на некоторых флешкартриджах, переключив режим навигации по SD-карте TWiLight Menu++.</li>
-        <li><strong>Руководство</strong>: Запустит руководство для TWiLight Menu++, которое вы сейчас смотрите :P</li>
+        <li><strong>Параметры Картриджа</strong>: На оригинальной DS или DS Lite отсюда можно запускать картриджи из Slot-2. Если вы запустили Twilight Menu ++ с SD карты на Nintendo DSi или Nintendo 3DS, то вы можете запустить картридж в Slot-1. Также вы можете сделать это, используя определенные флеш-каритриджи. Для этого выберите какую SD карту TWilight Menu ++ будет использовать</li>
+        <li><strong>Руководство</strong>: Запустит руководство для TWiLight Menu++, которое вы сейчас читаете :P</li>
     </ul>
 </div>

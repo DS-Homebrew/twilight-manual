@@ -38,7 +38,7 @@ title: Pengaturan
 
 <div id="gui-settings" class="section-title">Pengaturan GUI</div>
 <div class="section-body">
-    <p>Di halaman ini kamu bisa memilih tema dan juga opsi lainnya untuk mengubah tampilan antarmuka TWiLight Menu++.</p>
+    <p>Di halaman ini bisa memilih tema dan juga opsi lainnya untuk mengubah tampilan antarmuka TWiLight Menu++.</p>
 </div>
 
 <div id="nds-bootstrap-settings" class="section-title">Pengaturan nds-bootstrap</div>
@@ -48,7 +48,7 @@ title: Pengaturan
 
 <div id="gbarunner2-settings" class="section-title">Pengaturan GBARunner2</div>
 <div class="section-body">
-    <p>Pengaturan di sini untuk memilih bentuk tampilan dan agar jalannya cepat atau menambah kesesuaian (compatibility) permainan.</p>
+    <p>Pengaturan di sini untuk memilih bentuk tampilan dan mempercepat atau menambah kompatibilitas permainan.</p>
 </div>
 
 <div id="unlaunch-settings" class="section-title">Pengaturan Unlaunch</div>
@@ -59,7 +59,7 @@ title: Pengaturan
 
 <div id="games-and-apps-settings" class="section-title">Pengaturan Permainan dan Apl.</div>
 <div class="section-body">
-    <p>Kamu bisa memilih emulator mana yang dipakai untuk sistem yang punya beberapa emulator dan juga pengaturan lain untuk mengubah cara jalan permainan dan aplikasi yang tidak memakai nds-bootstrap.</p>
+    <p>Anda bisa memilih emulator mana yang digunakan sistem yang punya beberapa emulator dan pengaturan lainnya untuk mengubah cara jalan permainan dan aplikasi yang tidak menggunakan nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Pengaturan lain</div>

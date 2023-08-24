@@ -37,7 +37,7 @@ title: Tema SEGA Saturn
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">Apri il menu SELECT o il Menu DS Classico</p>
+        <p class="button-action-text">Apri il menu SELECT o il menu DS classico</p>
     </div>
 </div>
 
@@ -77,7 +77,7 @@ title: Tema SEGA Saturn
 <div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Premere SELECT nel tema SEGA Saturn apre il Menu Classico DS per impostazione predefinita. Tuttavia, nelle impostazioni del menu TWiLight ++, è possibile modificarlo per avviare il menu SELECT, un menu in miniatura incorporato all'interno del tema stesso. Ecco le opzioni di menu per il menu SELECT.
+        Premere SELECT nel tema SEGA Saturn apre il menu DS classico per impostazione predefinita. Tuttavia, nelle impostazioni del menu TWiLight ++, è possibile modificarlo per avviare il menu SELECT, un menu in miniatura incorporato all'interno del tema stesso. Ecco le opzioni di menu per il menu SELECT.
     </p>
     <ul>
         <li><strong>Menu Home</strong>: Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>

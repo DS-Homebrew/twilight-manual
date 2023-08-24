@@ -17,7 +17,7 @@ title: Тема R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Выход в главное меню DSi/3DS</p>
+        <p class="button-action-text">Выйти в DSi/3DS Home Меню</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -50,7 +50,7 @@ title: Тема R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Перейти на предыдущий каталог</p>
+        <p class="button-action-text">Вернутся на предыдущий уровень каталога</p>
     </div>
     <hr>
     <div class="button-action-group">

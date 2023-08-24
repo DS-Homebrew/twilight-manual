@@ -17,12 +17,12 @@ title: Настройки
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Изменить значение<br>Вход в подменю</p>
+        <p class="button-action-text">Изменить значение<br>Войти в подменю</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Настройки выхода</p>
+        <p class="button-action-text">Выйти из настроек</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -36,9 +36,9 @@ title: Настройки
     </div>
 </div>
 
-<div id="gui-settings" class="section-title">Настройки GUI</div>
+<div id="gui-settings" class="section-title">Настройки интерфейса</div>
 <div class="section-body">
-    <p>Вы можете выбрать тему для просмотра и другие параметры, влияющие на меню выбора игр.</p>
+    <p>На этой странице вы можете выбрать, какую тему использовать, и другие параметры, которые влияют на внешний вид TWiLight Menu++.</p>
 </div>
 
 <div id="nds-bootstrap-settings" class="section-title">Настройки nds-bootstrap</div>
@@ -53,13 +53,13 @@ title: Настройки
 
 <div id="unlaunch-settings" class="section-title">Настройки Unlaunch</div>
 <div class="section-body">
-    <p>Настройки позволяют изменить способ работы Unlaunch, они работают путем внесения изменений в установщик Unlaunch, поэтому вам придется переустановить программу, чтобы эти настройки вступили в силу.</p>
+    <p>Эти настройки позволяют внести изменения в работу Unlaunch. Это осуществимо по средству внесения изменений в установочный файл, поэтому вам придется переустановить Unlaunch, чтобы эти настройки вступили в силу.</p>
     <p>Эта страница появляется только на консолях Nintendo DSi при запуске не с флешкарты. Пользователи флэш-карты и 3DS не увидят эту страницу.</p>
 </div>
 
 <div id="games-and-apps-settings" class="section-title">Настройки игр и приложений</div>
 <div class="section-body">
-    <p>Здесь вы можете выбрать эмулятор, который будет использоваться для систем с несколькими эмуляторами и другие настройки, влияющие на запуск игр и приложений, не использующих nds-bootstrap.</p>
+    <p>Здесь вы можете выбрать эмулятор, который будет использоваться для систем, которые поддерживаются разными эмуляторами. А также другие настройки, влияющие на запуск игр и приложений, не использующих nds-bootstrap.</p>
 </div>
 
 <div id="misc-settings" class="section-title">Прочие. настройки</div>

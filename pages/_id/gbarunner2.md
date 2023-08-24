@@ -12,7 +12,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gerak ke atas / bawah lewat 10</p>
+        <p class="button-action-text">Ke atas / bawah lewat 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -45,13 +45,13 @@ title: GBARunner2
 <div id="bios-file" class="section-title">Berkas BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 dapat memakai dump BIOS GBA resmi untuk menambah kesesuaian (compatibility). <br>Nama berkasnya harus <code>bios.bin</code> dan taruhnya boleh di root kartu SD, di <code>sd:/gba</code> atau <code>sd:/_gba</code>.
+        GBARunner2 menggunakan dump BIOS GBA resmi untuk menambah kompatibilitas. <br>Nama berkasnya harus <code>bios.bin</code> dan taruhnya boleh di akar kartu SD, di <code>sd:/gba</code> atau <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>
         Pastikan dump BIOS GBA yang ditaruh cocok dengan hash CRC32 berikut: <code>81977335</code>
     </p>
     <p>
-        Kamu dapat memeriksanya di situs:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Anda bisa memeriksanya di situs:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>
