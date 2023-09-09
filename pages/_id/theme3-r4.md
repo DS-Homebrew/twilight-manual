@@ -35,12 +35,12 @@ title: Tema R4 Original
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Butir (item) sebelum / berikutnya</p>
+        <p class="button-action-text">Butir sebelumnya / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Ke atas / bawah lewat 10</p>
+        <p class="button-action-text">Ke atas/bawah lewat 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -55,7 +55,7 @@ title: Tema R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Hapus / sembunyi butir (item)</p>
+        <p class="button-action-text">Hapus / sembunyi butir</p>
     </div>
     <hr>
     <div class="button-action-group">

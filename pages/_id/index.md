@@ -7,7 +7,7 @@ title: Beranda
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Gulir(scroll) ke atas dan ke bawah</p>
+        <p class="button-action-text">Gulir ke atas & bawah</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -30,7 +30,7 @@ title: Beranda
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Gulir ke atas/bawah pada layar sentuh"></p>
-        <p class="button-action-text">Gulir(scroll) ke atas dan ke bawah</p>
+        <p class="button-action-text">Gulir ke atas & bawah</p>
     </div>
     <hr>
     <div class="button-action-group">

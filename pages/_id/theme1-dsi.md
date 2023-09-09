@@ -12,7 +12,7 @@ title: Tema Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Butir (item) sebelum / berikutnya</p>
+        <p class="button-action-text">Butir sebelumnya / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: Tema Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Hapus / sembunyi butir (item)</p>
+        <p class="button-action-text">Hapus / sembunyi butir</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -45,7 +45,7 @@ title: Tema Nintendo DSi
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Gulir (scroll) daftar</p>
+        <p class="button-action-text">Gulir daftar</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -80,7 +80,7 @@ title: Tema Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Gambar Layar Atas Ubah Suai</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ bisa menaruh foto ubah suai (custom) di layar atas, sama seperti Menu Nintendo DSi resmi. Namun, daripada diambil dari aplikasi Kamera Nintendo DSi, gambar PNG bisa ditaruh di <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ bisa menaruh foto ubah suaian (custom) di layar atas layaknya Menu Nintendo DSi resmi. Namun, daripada mengambil foto dari aplikasi Kamera Nintendo DSi, gambar format PNG bisa ditaruh di <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Batas lebar: 208 piksel</li>
         <li>Batas tinggi: 156 piksel</li>

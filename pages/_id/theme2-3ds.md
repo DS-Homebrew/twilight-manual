@@ -12,7 +12,7 @@ title: Tema Nintendo 3DS
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Butir (item) sebelum / berikutnya</p>
+        <p class="button-action-text">Butir sebelumnya / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: Tema Nintendo 3DS
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Hapus / sembunyi butir (item)</p>
+        <p class="button-action-text">Hapus / sembunyi butir</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -40,7 +40,7 @@ title: Tema Nintendo 3DS
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Gulir (scroll) daftar</p>
+        <p class="button-action-text">Gulir daftar</p>
     </div>
     <hr>
     <div class="button-action-group">

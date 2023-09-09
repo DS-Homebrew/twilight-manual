@@ -7,12 +7,12 @@ title: GBARunner2
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Butir (item) sebelum / berikutnya</p>
+        <p class="button-action-text">Butir sebelumnya / berikutnya</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Ke atas / bawah lewat 10</p>
+        <p class="button-action-text">Ke atas/bawah lewat 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -45,7 +45,7 @@ title: GBARunner2
 <div id="bios-file" class="section-title">Berkas BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 menggunakan dump BIOS GBA resmi untuk menambah kompatibilitas. <br>Nama berkasnya harus <code>bios.bin</code> dan taruhnya boleh di akar kartu SD, di <code>sd:/gba</code> atau <code>sd:/_gba</code>.
+        GBARunner2 menggunakan dump BIOS GBA resmi untuk menambah kompatibilitas. <br>Nama berkasnya harus <code>bios.bin</code> dan boleh ditaruh di akar kartu SD, di <code>sd:/gba</code> atau <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>
