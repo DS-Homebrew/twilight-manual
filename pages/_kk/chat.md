@@ -13,9 +13,9 @@ title: Chat
 </div>
 <div class="section-body">
     <p>
-        Procurando por uma comunidade de usuários do TWiLight Menu++? Junte-se ao servidor DS<sup>(i)</sup> Mode Hacking no Discord em um dispositivo compatível para conhecer outros usuários como você!
+        Looking for a community of TWiLight Menu++ users? Join the DS<sup>(i)</sup> Mode Hacking Discord server on a compatible device in order to meet up with other TWLMenu++ users like yourself!
     </p>
     <p>
-        Código de convite do servidor: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Server invite code: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
     </p>
 </div>
