@@ -27,7 +27,7 @@ title: Impostazioni
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Pagina Precedente</p>
+        <p class="button-action-text">Pagina precedente</p>
     </div>
     <hr>
     <div class="button-action-group">

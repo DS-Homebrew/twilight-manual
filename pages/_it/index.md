@@ -7,7 +7,7 @@ title: Home
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scorri sù e giù</p>
+        <p class="button-action-text">Scorri su e giù</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -30,7 +30,7 @@ title: Home
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Scorri verso l'alto o verso il basso sul touch screen"></p>
-        <p class="button-action-text">Scorri sù e giù</p>
+        <p class="button-action-text">Scorri su e giù</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -99,7 +99,7 @@ title: Home
 
 <div id="game-loaders" class="section-title">Caricatori dei Giochi</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, come suggerisce il nome, è solo un menu. In realtà non avvia le ROM. Ecco le pagine del manuale per ogni caricatore di ROM che abbiamo:</p>
+    <p class="mb-2">TWiLight Menu++, come suggerisce il nome, è solo un menù. In realtà non avvia le ROM. Ecco le pagine del manuale per ogni caricatore di ROM che abbiamo:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -122,7 +122,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">Menu DS classico</a>
+                <a href="ds-classic-menu">Menù DS Classico</a>
             </p>
         </div>
         <div class="grid-item">

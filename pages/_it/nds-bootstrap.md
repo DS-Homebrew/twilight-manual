@@ -26,7 +26,7 @@ title: nds-bootstrap
 <div id="controls" class="section-title">Controlli In Gioco</div>
 <div class="section-body">
     <p>
-        Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco.
+        Premi &#xE004;, &#xE07A; e SELECT per aprire il menù di gioco.
     </p>
     <p>
         Può essere rimappato con la <code>Scorciatoia menù</code> nella pagina nds-bootstrap delle impostazioni di Twilight Menu++.
@@ -56,12 +56,12 @@ title: nds-bootstrap
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Menu di navigazione</p>
+        <p class="button-action-text">Menù di navigazione</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Cambia impostazione<br>(Sottomenu opzioni)</p>
+        <p class="button-action-text">Cambia impostazione<br>(Sottomenù opzioni)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Trucchi</div>
 <div class="section-body">
     <p>
-        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dev'essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta lì, è possibile selezionare quali trucchi usare dal menu delle impostazioni per gioco di TWiLight Menu++.
+        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dev'essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta lì, è possibile selezionare quali trucchi usare dal menù delle impostazioni per gioco di TWiLight Menu++.
     </p>
     <hr>
     <p>

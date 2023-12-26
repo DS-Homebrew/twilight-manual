@@ -3,7 +3,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div id="menu" class="section-title">Menu</div>
+<div id="menu" class="section-title">Menù</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -12,7 +12,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Sposta sù / giù di 10</p>
+        <p class="button-action-text">Sposta su / giù di 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -39,7 +39,7 @@ title: GBARunner2
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca il touch screen"></p>
-        <p class="button-action-text">Apri menu</p>
+        <p class="button-action-text">Apri menù</p>
     </div>
 </div>
 <div id="bios-file" class="section-title">File BIOS</div>
