@@ -3,7 +3,7 @@ The manual for [TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu)
 
 
 ## Translating
-If you'd like to help translate this (and the rest of TWiLight Menu++) you can do so on its [Crowdin project](https://crowdin.com/project/TwilightMenu). Please don't PR directly to this repo since that won't work with Crowdin.
+If you'd like to help translate this (and the rest of TWiLight Menu++) you can do so on its [Crowdin project](https://crowdin.com/project/TwilightMenu). Please don't PR translations directly to this repo since that won't work with Crowdin.
 
 ## Generating images for TWiLight Menu++
 The HTML files in this repo need to be converted into images for TWiLight Menu++ to use them, the latest commit here is always in [the release](https://github.com/DS-Homebrew/twilight-manual/releases/tag/pages), but if you want to generate the images yourself you can do so with the following steps:
