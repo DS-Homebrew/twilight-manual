@@ -99,7 +99,7 @@ title: Beranda
 
 <div id="game-loaders" class="section-title">Pemuat Permainan</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, seperti namanya, hanyalah menu. Jadi BUKAN yang memainkan atau memuat ROM. Berikut halaman manual untuk pemuat ROM-nya:</p>
+    <p class="mb-2">TWiLight Menu++, sesuai namanya, hanyalah menu. Jadi bukan yang memainkan atau memuat ROM. Manual pemuat ROM bisa dilihat di halaman berikut:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">

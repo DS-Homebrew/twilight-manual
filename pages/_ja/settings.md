@@ -62,7 +62,7 @@ title: ゲーム設定
     <p>ここでは、複数のエミュレーターを使用できるシステムで使用するエミュレーターを選択したり、nds-bootstrapを使用していないゲームやアプリの動作に影響を与えるその他の設定があります。</p>
 </div>
 
-<div id="misc-settings" class="section-title">その他の設定  </div>
+<div id="misc-settings" class="section-title">その他の設定 設定</div>
 <div class="section-body">
     <p>これは他の場所に適合しない設定がある。 使う言語、最後プレイしたゲームを自動的に起動するかどうか、起動時にスプラッシュ画面を表示するかどうかかど。</p>
 </div>

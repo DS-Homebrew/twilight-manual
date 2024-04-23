@@ -48,7 +48,7 @@ title: Pengaturan
 
 <div id="gbarunner2-settings" class="section-title">Pengaturan GBARunner2</div>
 <div class="section-body">
-    <p>Pengaturan di sini untuk memilih bentuk tampilan dan mempercepat atau menambah kompatibilitas permainan.</p>
+    <p>Pengaturan di sini untuk mengubah tampilan, dan juga menambah atau percepat kompatibilitas permainan.</p>
 </div>
 
 <div id="unlaunch-settings" class="section-title">Pengaturan Unlaunch</div>
@@ -64,5 +64,5 @@ title: Pengaturan
 
 <div id="misc-settings" class="section-title">Pengaturan lain</div>
 <div class="section-body">
-    <p>Ini tempat untuk pengaturan yang tidak pas ditaruh di bagian lain, seperti bahasa yang digunakan, permainan terakhir main langsung dimulai saat nyala, memunculkan layar splash di awal buka (startup), dan lainnya.</p>
+    <p>Pengaturan di sini untuk mengubah hal seperti bahasa yang digunakan, langsung mulai permainan terakhir dimainkan saat nyala, layar splash di awal buka (startup), dan lainnya.</p>
 </div>

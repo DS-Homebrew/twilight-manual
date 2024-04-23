@@ -33,7 +33,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tekan &#xE004;, &#xE005;, START, dan SELECT agar permainan dimulai ulang.
+        Tekan &#xE004;, &#xE005;, START, dan SELECT untuk memulai ulang permainan.
     </p>
     <p>
         Tahan 2 detik untuk memulai ulang (reset) permainan secara paksa.
@@ -71,7 +71,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Kembali ke permainan</p>
+        <p class="button-action-text">Balik ke permainan</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,17 +123,17 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Cheat</div>
 <div class="section-body">
     <p>
-        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah ada pangkalan data, Anda bisa memilih cheat dari menu pengaturan tiap-permainan pada TWiLight Menu++.
+        nds-bootstrap menggunakan cheat Action Replay dari pangkalan data (database) <code>usrcheat.dat</code>, ada di <code>sd:/_nds/TWiLightMenu/extras</code>. Setelah ada pangkalan data, cheat bisa dipilih di menu tiap-permainan dari TWiLight Menu++.
     </p>
     <hr>
     <p>
         Pangkalan data cheat DeadSkullzJr lebih dianjurkan karena datanya yang terbesar dan termutakhir:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Cara lainnya jika ingin membuat cheat sendiri, bisa dengan aplikasi R4CCE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Jika ingin membuat cheat sendiri, bisa dengan R4CCE di komputer:<a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Mohon diingat cheat E-type di nds-bootstrap masih belum stabil, sehingga kode yang dibuat bisa saja tidak berfungsi. <br>Ini bukan kesalahan pangkalan data cheat, dan kami berharap masalah ini bisa segera diperbaiki di nds-bootstrap.
+        Mohon diingat cheat jenis E-type di nds-bootstrap masih belum stabil, sehingga kode yang sudah dibuat bisa saja tidak berfungsi. <br>Ini bukan kendala di pangkalan data cheat, dan semoga masalah nds-bootstrap ini bisa segera kami perbaiki secepatnya.
     </p>
 </div>

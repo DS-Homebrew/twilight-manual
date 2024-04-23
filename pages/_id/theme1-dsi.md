@@ -63,14 +63,14 @@ title: Tema Nintendo DSi
 <div id="page-system" class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
-        Tema Nintendo DSi membagi butirnya berhalaman dengan jumlah batasnya 40 butir tiap halaman. Anda bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
+        Tema Nintendo DSi membagi berkasnya berhalaman dengan batas 40 butir di tiap halaman. Anda bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
     </p>
     <ul>
         <li><p>Menekan &#xE004; di pojok kanan halaman akan langsung ke butir pertama halamannya</p></li>
         <li><p>Menekan &#xE005; di pojok kiri halaman akan langsung ke butir terakhir halamannya</p></li>
     </ul>
     <p>
-        Bilah gulir (scrollbar) di bawah mewakili semua butir atau berkas pada halaman yang bisa disentuh agar cepat berpindah ke bagian lain halaman.
+        Bilah gulir (scrollbar) yang ada di layar bawah mewakili semua berkas pada halaman dan bisa disentuh agar cepat berpindah lokasi.
     </p>
     <p>
         Jika tombol &#xE004; &#xE005; tidak bisa, gunakan tombol SELECT + &#xE07E; saja.
@@ -80,7 +80,7 @@ title: Tema Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Gambar Layar Atas Ubah Suai</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ bisa menaruh foto ubah suaian (custom) di layar atas layaknya Menu Nintendo DSi resmi. Namun, daripada mengambil foto dari aplikasi Kamera Nintendo DSi, gambar format PNG bisa ditaruh di <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ bisa ditaruh foto ubah suai (custom) di layar atas seperti Menu Nintendo DSi resmi. Namun, daripada mengambil foto dari aplikasi Kamera Nintendo DSi, taruh saja gambar PNG di folder <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Batas lebar: 208 piksel</li>
         <li>Batas tinggi: 156 piksel</li>
@@ -91,12 +91,12 @@ title: Tema Nintendo DSi
 <div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Menekan SELECT di tema Nintendo DSi akan menampilkan menu DS Klasik secara bawaan (default). Namun, Anda bisa mengubahnya di pengaturan TWiLight Menu++ menjadi Menu SELECT, yaitu menu miniatur yang tersemat di dalam temanya. Berikut pilihan menu pada Menu SELECT.
+        Menekan SELECT di tema Nintendo DSi akan menampilkan menu DS Klasik secara bawaan (default). Namun, Anda bisa mengubahnya pada pengaturan TWiLight Menu++ menjadi Menu SELECT, yaitu menu miniatur yang tersemat dalam tema. Berikut pilihan menu pada Menu SELECT.
     </p>
     <ul>
-        <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi dan Nintendo 3DS, opsi ini bisa digunakan untuk kembali ke menu beranda</li>
+        <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi & Nintendo 3DS, opsi ini bisa digunakan untuk kembali ke menu beranda</li>
         <li><strong>Pengaturan</strong>: Memilih ini akan meluncurkan menu untuk menata atur TWiLight Menu++ dan peluncurnya</li>
-        <li><strong>Opsi Kartrid</strong>: Pada DS orisinal atau DS Lite, kartrid Slot-2 seperti GBA bisa diluncur dari sini. Untuk di Nintendo DSi dan Nintendo 3DS yang dibaca dari kartu SD, kaset slot-1 bisa dijalankan juga, jika dengan flashcard tertentu, bisa diganti kartu SD mana yang TWiLight Menu++ navigasikan</li>
+        <li><strong>Opsi Kartrid</strong>: Pada DS orisinal atau DS Lite, kartrid Slot-2 bisa dijalankan dari sini. Pada konsol Nintendo DSi & Nintendo 3DS yang dibaca dari kartu SD, kaset slot-1 juga bisa dijalankan; bahkan di flashcard tertentu, TWiLight Menu++ bisa beralih menavigasi isi kartu SD flashcard atau konsol</li>
         <li><strong>Manual</strong>: Ini akan membuka manual TWiLight Menu++,<br>nih kamu sedang lihat :P</li>
     </ul>
 </div>
