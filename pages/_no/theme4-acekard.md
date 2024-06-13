@@ -13,7 +13,7 @@ title: Wood UI Tema
     </p>
 </div>
 
-<div id="button-controls" class="section-title">Knapp styring</div>
+<div id="button-controls" class="section-title">Knappestyring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

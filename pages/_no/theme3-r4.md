@@ -31,7 +31,7 @@ title: R4 Original Tema
     </div>
 </div>
 
-<div id="file-browser" class="section-title">Fil utforsker</div>
+<div id="file-browser" class="section-title">Filutforsker</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

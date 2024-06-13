@@ -77,7 +77,7 @@ title: Tema Homebrew Launcher
 <div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Menekan SELECT di tema Homebrew Launcher akan menampilkan menu DS Klasik secara bawaan (default). Namun, Anda bisa mengubahnya pada pengaturan TWiLight Menu++ menjadi Menu SELECT, yaitu menu miniatur yang tersemat dalam tema. Berikut pilihan menu pada Menu SELECT.
+        Untuk tema Homebrew Launcher, menekan SELECT akan muncul menu DS Klasik secara bawaan. Namun, Anda bisa mengubahnya pada pengaturan TWiLight Menu++ menjadi Menu SELECT, yaitu menu miniatur yang tersemat dalam tema. Berikut pilihan pada Menu SELECT:
     </p>
     <ul>
         <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi & Nintendo 3DS, opsi ini bisa digunakan untuk kembali ke menu beranda</li>

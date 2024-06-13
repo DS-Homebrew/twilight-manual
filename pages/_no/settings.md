@@ -36,7 +36,7 @@ title: Innstillinger
     </div>
 </div>
 
-<div id="gui-settings" class="section-title">GUI innstillinger</div>
+<div id="gui-settings" class="section-title">GUI-innstillinger</div>
 <div class="section-body">
     <p>På denne siden kan du velge hvilket tema du vil bruke og andre alternativer som påvirker utseendet på TWiLight-menu++.</p>
 </div>

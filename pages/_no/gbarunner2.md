@@ -35,7 +35,7 @@ title: GBARunner2
         <p class="button-action-text">Åpne innstillinger</p>
     </div>
 </div>
-<div id="in-game" class="section-title">I Spill</div>
+<div id="in-game" class="section-title">I spill</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Trykk på berøringsskjermen"></p>

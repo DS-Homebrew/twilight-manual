@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS tema
+title: Nintendo 3DS-tema
 ---
 
-<div id="button-controls" class="section-title">Knapp styring</div>
+<div id="button-controls" class="section-title">Knappestyring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>

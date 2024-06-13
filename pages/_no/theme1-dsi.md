@@ -1,9 +1,9 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi tema
+title: Nintendo DSi-tema
 ---
 
-<div id="button-controls" class="section-title">Knapp styring</div>
+<div id="button-controls" class="section-title">Knappestyring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -77,7 +77,7 @@ title: Nintendo DSi tema
     </p>
 </div>
 
-<div id="custom-top-screen-image" class="section-title">Egendefinert Topp Bilde</div>
+<div id="custom-top-screen-image" class="section-title">Egendefinert toppbilde</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
     <p>TWiLight Menu++ støtter visning av egendefinerte bilder på toppskjermen, akkurat som den offisielle Nintendo DSi menyen. Men i stedet for å ha den hentet fra Nintendo DSi Kamera-appen, kan du plassere et PNG-bilde i <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
@@ -88,7 +88,7 @@ title: Nintendo DSi tema
     <p>Hvis bildet er mindre enn maksimum, er det sentrert med svarte grenser.</p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT meny</div>
+<div id="select-menu" class="section-title">SELECT-meny</div>
 <div class="section-body">
     <p>
         Ved å trykke på SELECT i Nintendo DSi-temaet, vises DS Classic-menyen som standard. Men i TWiLight Menu++ innstillingene, kan du endre den for å åpne SELECT menyen, en minimaturmeny innebygd i selve temaet. Her er menyalternativene for SELECT-menyen.

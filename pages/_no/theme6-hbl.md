@@ -3,7 +3,7 @@ banner: /assets/images/hbl-theme.png
 title: Homebrew Launcher tema
 ---
 
-<div id="button-controls" class="section-title">Knapp styring</div>
+<div id="button-controls" class="section-title">Knappestyring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -74,7 +74,7 @@ title: Homebrew Launcher tema
     </p>
 </div>
 
-<div id="select-menu" class="section-title">SELECT meny</div>
+<div id="select-menu" class="section-title">SELECT-meny</div>
 <div class="section-body">
     <p>
         Ved å trykke på SELECT i Homebrew Launcher temaet vil bruke DS Classic Menu som standard. Men i TWiLight Menu++ innstillingene, kan du endre den for å åpne SELECT menyen, en minimaturmeny innebygd i selve temaet. Her er menyalternativene for SELECT-menyen.

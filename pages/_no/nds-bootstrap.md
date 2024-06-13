@@ -76,7 +76,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Frem 1 et bilde</p>
+        <p class="button-action-text">Hopp frem 1 ramme</p>
     </div>
     <h3>Skjermdump</h3>
     <div class="button-action-group">
@@ -93,7 +93,7 @@ title: nds-bootstrap
         <p class="button-action button">&#xE001;</p>
         <p class="button-action-text">Avbryt</p>
     </div>
-    <h3>RAM Redaktør</h3>
+    <h3>RAM-redigerer</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Naviger</p>

@@ -3,7 +3,7 @@ banner: /assets/images/manual-home.png
 title: Hjem
 ---
 
-<div id="button-controls" class="section-title">Knapp styring</div>
+<div id="button-controls" class="section-title">Knappestyring</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -39,7 +39,7 @@ title: Hjem
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Oppstart snarveier</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++-oppstartssnarveier</div>
 <div class="section-body">
     <p>
         Hold &#xE000;, &#xE001;, &#xE002;, og &#xE003; for å tilbakestille TWiLight Menu++ Innstillinger.
@@ -54,9 +54,9 @@ title: Hjem
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Tema Informasjon</div>
+<div id="theme-information" class="section-title">Temainformasjon</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ har 6 forskjellige bakgrunns temaer du kan velge fra. Dette er alternative menyer som alle har forskjellige design og noen av dem har helt individuelle navigasjonsstiler.</p>
+    <p class="mb-2">TWiLight Menu++ har 6 forskjellige bakgrunnstemaer du kan velge fra. Dette er alternative menyer som alle har forskjellige design og noen av dem har helt individuelle navigasjonsstiler.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -99,7 +99,7 @@ title: Hjem
 
 <div id="game-loaders" class="section-title">Spill lastere</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, som navnet tilsier, er bare en meny. Det laster ikke selve ROM-ene. Her er håndbok sidene for ROM-loadere:</p>
+    <p class="mb-2">TWiLight Menu++, som navnet tilsier, er bare en meny. Det laster ikke selve ROM-ene. Her er håndbokssidene for ROM-innlastere:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -139,6 +139,6 @@ title: Hjem
         </div>
     </div>
     <p>
-        Vil du ha mer informasjon om TWiLight Menu++? Sjekk ut Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Vil du ha mer informasjon om TWiLight Menu++? Sjekk ut wikien:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

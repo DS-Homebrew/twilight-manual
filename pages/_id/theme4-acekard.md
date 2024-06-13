@@ -9,7 +9,7 @@ title: Tema Wood UI
         Tema ini sementara dinonaktifkan karena bermasalah bisa merusak kartu SD. Jika dikembalikan harus membuat pengandar (driver) kartu SD baru, yang mana perlu banyak waktu dan usaha.
     </p>
     <p>
-        Mohon bersabar ya; mungkin betulnya agak lama.
+        Mohon bersabar ya; masih belum selesai dibetulkan.
     </p>
 </div>
 

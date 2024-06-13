@@ -9,7 +9,7 @@ title: nds-bootstrap
         nds-bootstrap adalah homebrew yang digunakan TWiLight Menu++ untuk memuat dump kaset DS(i), DSiWare, dan homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Aplikasi ini juga bisa digunakan di flashcard, tapi kesesuaiannya lebih rendah, maka lebih ditujukan untuk flashcard cuma-homebrew dan juga flashcard berkesesuaian rendah.
+        Aplikasi ini juga bisa digunakan di flashcard, tapi kesesuaiannya lebih rendah, maka lebih ditujukan untuk flashcard cuma-homebrew atau flashcard berkesesuaian rendah.
     </p>
 </div>
 
@@ -130,7 +130,7 @@ title: nds-bootstrap
         Pangkalan data cheat DeadSkullzJr lebih dianjurkan karena datanya yang terbesar dan termutakhir:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Jika ingin membuat cheat sendiri, bisa dengan R4CCE di komputer:<a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Jika ingin membuat cheat sendiri, bisa dengan R4CCE di komputer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
