@@ -1,29 +1,27 @@
-import { $, Subprocess } from "bun";
-import { stat, exists, readdir, unlink } from "node:fs/promises";
-
-import puppeteer, { Browser } from "puppeteer";
-import {getAnyEdgeLatest} from "edge-paths"
+import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+import {getAnyEdgeLatest} from "./edgePath.ts"
+import exists from "./exists.ts"
 
 const dedent = (string:string) => string.split('\n').map(line => line.trim()).join('\n')
 const needsUpdate = async (fileName: string, path:string) =>
-	!(await exists(fileName)) || ((await stat(fileName)).mtime || 0) < ((await stat(path)).mtime || 0)
+	!(await exists(fileName)) || ((await Deno.stat(fileName)).mtime || 0) < ((await Deno.stat(path)).mtime || 0)
 
-const web = Bun.argv.includes("web");
-let jekyll: Subprocess;
+const web = Deno.args.includes("web");
+let jekyll;
 let accessURL:string;
 if (web) {
-	accessURL = "https://" + await Bun.file("./CNAME").text();
-	console.log(`Generating images from ${accessURL}...`);
+	accessURL = "https://" + await Deno.readTextFile("./CNAME");
+	console.log("Generating images from https://manual.ds-homebrew.com...");
 } else {
 	console.log("Generating images from local files...");
-	jekyll = Bun.spawn({ cmd: ["jekyll", "serve"] })
+	jekyll = new Deno.Command('bundle', { args: ['exec', 'jekyll', 'serve']}).spawn();
 
 	// Wait 5s for jekyll to be ready
 	await new Promise(resolve => setTimeout(resolve, 5000));
 	accessURL = "http://127.0.0.1:4000/";
 }
 
-let browser: Browser;
+let browser;
 try {
 	browser = await puppeteer.launch({ product: 'chrome' });
 } catch (error) {
@@ -41,16 +39,18 @@ const tempFileNames = {
 	palette: "palette.png"
 }
 
-for (const folder of await readdir("pages", { withFileTypes: true })) {
-	if (!folder.isDirectory())
+for await (const folder of Deno.readDir("pages")) {
+	if (!folder.isDirectory)
 		continue;
 
 	const dir = folder.name;
 	if (dir == "_ic")
 		continue;
 
-	for (const subPageFolder of await readdir(`pages/${dir}`, { withFileTypes: true })) {
-		if (subPageFolder.isDirectory())
+	await Deno.mkdir(`nitrofiles/pages/${dir.substring(1)}`, {recursive: true});
+
+	for await (const subPageFolder of Deno.readDir(`pages/${dir}`)) {
+		if (subPageFolder.isDirectory)
 			continue;
 
 		const page = subPageFolder.name;
@@ -77,8 +77,15 @@ for (const folder of await readdir("pages", { withFileTypes: true })) {
 		if (await needsUpdate(imagePath, `pages/${dir}/${page}`)) {
 			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
 
-			$`ffmpeg -i ${tempFileNames.screenshot} -vf palettegen=max_colors=246 ${tempFileNames.palette} -y -loglevel error`;
-			$`ffmpeg -i ${tempFileNames.screenshot} -i ${tempFileNames.palette} -filter_complex paletteuse ${imagePath} -y -loglevel error`;
+			const paletteProcess = new Deno.Command('ffmpeg', {
+				args: ["-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=246", tempFileNames.palette, "-y", "-loglevel", "error"]
+			});
+			await paletteProcess.output();
+
+			const conversionProcess = new Deno.Command('ffmpeg', {
+				args: ["-i", tempFileNames.screenshot, "-i", tempFileNames.palette, "-filter_complex", "paletteuse", imagePath, "-y", "-loglevel", "error"]
+			})
+			await conversionProcess.output();
 		}
 
 		if (await needsUpdate(`nitrofiles/pages/${rootPath}.ini`, `pages/${dir}/${page}`)) {
@@ -89,7 +96,7 @@ for (const folder of await readdir("pages", { withFileTypes: true })) {
 				BG_COLOR_2 = 0xA108
 			`)
 
-			const iniLinks: string[] = [];
+			const iniLinks = [];
 			for (const index in pageEval.links) {
 				iniLinks.push(`[LINK${index}]\n` + Object.entries(pageEval.links[index])
 					.map(([key, value]) => `${key} = ${value}`)
@@ -97,17 +104,16 @@ for (const folder of await readdir("pages", { withFileTypes: true })) {
 			}
 
 			iniContent += iniLinks.join('\n\n')
-			await Bun.write(`nitrofiles/pages/${rootPath}.ini`, iniContent.trim());
+			await Deno.writeTextFile(`nitrofiles/pages/${rootPath}.ini`, iniContent.trim());
 		}
 	}
 }
 
 await browser.close();
 
-// @ts-ignore
 if (jekyll)
 	jekyll.kill();
 
 for (const tempFile of Object.values(tempFileNames))
 	if (await exists(tempFile))
-		await unlink(tempFile)
+		await Deno.remove(tempFile)
