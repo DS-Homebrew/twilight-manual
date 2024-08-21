@@ -73,6 +73,14 @@ for (const folder of await readdir("pages", { withFileTypes: true })) {
 				}))
 		}), accessURL);
 
+		const imagePath = `nitrofiles/pages/${rootPath}.gif`
+		if (await needsUpdate(imagePath, `pages/${dir}/${page}`)) {
+			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
+
+			$`ffmpeg -i ${tempFileNames.screenshot} -vf palettegen=max_colors=246 ${tempFileNames.palette} -y -loglevel error`;
+			$`ffmpeg -i ${tempFileNames.screenshot} -i ${tempFileNames.palette} -filter_complex paletteuse ${imagePath} -y -loglevel error`;
+		}
+
 		if (await needsUpdate(`nitrofiles/pages/${rootPath}.ini`, `pages/${dir}/${page}`)) {
 			let iniContent = dedent(`
 				[INFO]
@@ -90,14 +98,6 @@ for (const folder of await readdir("pages", { withFileTypes: true })) {
 
 			iniContent += iniLinks.join('\n\n')
 			await Bun.write(`nitrofiles/pages/${rootPath}.ini`, iniContent.trim());
-		}
-
-		const imagePath = `nitrofiles/pages/${rootPath}.gif`
-		if (await needsUpdate(imagePath, `pages/${dir}/${page}`)) {
-			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
-
-			await $`ffmpeg -i ${tempFileNames.screenshot} -vf palettegen=max_colors=246 ${tempFileNames.palette} -y -loglevel error`;
-			await $`ffmpeg -i ${tempFileNames.screenshot} -i ${tempFileNames.palette} -filter_complex paletteuse ${imagePath} -y -loglevel error`;
 		}
 	}
 }
