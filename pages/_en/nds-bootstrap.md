@@ -9,7 +9,7 @@ title: nds-bootstrap
 		nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
 	</p>
 	<p>
-		It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+		It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
 	</p>
 </div>
 
@@ -26,7 +26,7 @@ title: nds-bootstrap
 <div id="controls" class="section-title">In-Game Controls</div>
 <div class="section-body">
 	<p>
-		Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+		Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
 	</p>
 	<p>
 		This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
@@ -40,15 +40,11 @@ title: nds-bootstrap
 	</p>
 	<hr>
 	<p>
-		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump. This does not work on flashcards.
 	</p>
 	<hr>
 	<p>
 		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
-	</p>
-	<hr>
-	<p>
-		Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
 	</p>
 </div>
 
