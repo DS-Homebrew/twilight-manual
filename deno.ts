@@ -78,7 +78,7 @@ for await (const folder of Deno.readDir("pages")) {
 			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
 
 			const paletteProcess = new Deno.Command('ffmpeg', {
-				args: ["-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=246", tempFileNames.palette, "-y", "-loglevel", "error"]
+				args: ["-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=256", tempFileNames.palette, "-y", "-loglevel", "error"]
 			});
 			await paletteProcess.output();
 
