@@ -40,10 +40,6 @@ title: nds-bootstrap
 	</p>
 	<hr>
 	<p>
-		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump. This does not work on flashcards.
-	</p>
-	<hr>
-	<p>
 		Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
 	</p>
 </div>
