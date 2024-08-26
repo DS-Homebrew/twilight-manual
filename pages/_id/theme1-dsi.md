@@ -96,7 +96,7 @@ title: Tema Nintendo DSi
     <ul>
         <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi & Nintendo 3DS, opsi ini bisa digunakan untuk kembali ke menu beranda</li>
         <li><strong>Pengaturan</strong>: Memilih ini akan meluncurkan menu untuk menata atur TWiLight Menu++ dan peluncurnya</li>
-        <li><strong>Opsi Kartrid</strong>: Pada DS orisinal atau DS Lite, kartrid Slot-2 juga bisa dijalankan dari sini. Pada konsol Nintendo DSi & Nintendo 3DS yang dibaca dari kartu SD, kaset slot-1 juga bisa dijalankan; bahkan di flashcard tertentu, TWiLight Menu++ bisa berpindah ke isi kartu SD flashcard atau konsol</li>
+        <li><strong>Opsi Kartrid</strong>: Pada DS orisinal atau DS Lite, kartrid Slot-2 juga bisa dijalankan dari sini. Jika dibaca dari kartu SD pada Nintendo DSi & Nintendo 3DS, kartrid Slot-1 bisa dimuat atau -di flashcard tertentu- bisa menavigasi ke isi kartu SD dari flashcard atau konsol</li>
         <li><strong>Manual</strong>: Ini akan membuka manual TWiLight Menu++,<br>nih kamu sedang lihat :P</li>
     </ul>
 </div>
