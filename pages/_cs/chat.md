@@ -16,6 +16,6 @@ title: Chat
         Hledáte komunitu uživatelů TWiLight Menu++? Připojte se k serveru DS<sup>(i)</sup> Mode Hacking Discord na kompatibilním zařízení, abyste se setkali s dalšími uživateli TWLMenu++, jako jste vy!
     </p>
     <p>
-        Kód pozvánky na server: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Kód pozvánky na server: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

@@ -16,6 +16,6 @@ title: Συνομιλία
         Ψάχνετε για μια κοινότητα με TWiLight Menu++ χρήστες; Γίνε μελος στο DS<sup>(i)</sup> Mode Hacking Discord server σε μια συμβατή συσκευή για να συναντηθείτε με άλλους TWLMenu++ χρήστες σαν τον εαυτό σου!
     </p>
     <p>
-        Κωδικός πρόσκλησης για τον Server: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Κωδικός πρόσκλησης για τον Server: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

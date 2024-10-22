@@ -16,6 +16,6 @@ title: Chatt
         Letar du efter en grupp av TWiLight Menu++ användare? Gå med i DS<sup>(i)</sup> Mode Hacking Discord-servern på en kompatibel enhet för att möta upp med andra TWLMenu++-användare som dig själv!
     </p>
     <p>
-        Inbjudningskod: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Inbjudningskod: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

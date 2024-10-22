@@ -16,6 +16,6 @@ title: 채팅
         TWiLight Menu++ 유저의 커뮤니티를 찾고 계신가요? 여러분과 같은 TWLMenu++ 유저를 만나려면, 호환되는 장치에서 DS<sup>(i)</sup> Mode Hacking 디스코드 서버에 참여하세요!
     </p>
     <p>
-        서버 초대 코드: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        서버 초대 코드: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

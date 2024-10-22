@@ -16,6 +16,6 @@ title: Chat
         Leter du etter et fellesskap av TWiLight Menu++ brukere? Bli med <b>DS<sup>(i)</sup> Mode Hacking</b> Discord-serveren på en kompatibel enhet for å møte andre TWLMenu++ brukere som deg selv!
     </p>
     <p>
-        Server invitasjonskode: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Server invitasjonskode: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

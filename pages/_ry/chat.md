@@ -17,6 +17,6 @@ title: チャット
 うんじゅ人身ぬぐとーる他ぬTWLMenu++ユーザーとぅはいいちゃいんでぃ、DS<sup>(i)</sup> Mode Hacking Discordサーバー対応デバイスっし参加さびーん！
     </p>
     <p>
-        サーバーぬ招待コード：<a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        サーバーぬ招待コード：<a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

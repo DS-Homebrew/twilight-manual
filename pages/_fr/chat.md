@@ -16,6 +16,6 @@ title: Discuter
         Vous cherchez une communauté d'utilisateurs de TWiLight Menu++ ? Rejoignez le serveur Discord DS<sup>(i)</sup> Mode Hacking sur un appareil compatible afin de rencontrer d'autres utilisateurs de TWLMenu++ comme vous !
     </p>
     <p>
-        Code d'invitation du serveur : <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Code d'invitation du serveur : <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

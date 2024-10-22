@@ -16,6 +16,6 @@ title: チャット
         TWiLight Menu++のユーザーのコミュニティをお探しですか？ 対応デバイスでDS<sup>(i)</sup> Mode Hacking Discordサーバーに参加して、他のTWLMenu++ユーザーと交流しましょう！
     </p>
     <p>
-        サーバーの招待コード：<a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        サーバーの招待コード：<a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

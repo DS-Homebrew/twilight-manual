@@ -16,6 +16,6 @@ title: Sohbet
         TWiLight Menu++ topluluğu mu arıyorsunuz? Kendiniz gibi TWLMenu++ kullanıcılarıyla tanışmak için DS<sup>(i)</sup> Mode Hacking Discord sunucusuna desteklenen bir cihazla katılın!
     </p>
     <p>
-        Sunucu Davet Kodu: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Sunucu Davet Kodu: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

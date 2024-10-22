@@ -16,6 +16,6 @@ title: 聯繫我們
         在尋找TWiLight Menu++ 的討論群組？ 歡迎進入 <b>DS<sup>(i)</sup> Mode Hacking</b> Discord社群，在此您可與其他同樣热愛TWLMenu++的玩家相遇！
     </p>
     <p>
-        社群邀請代碼：<a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        社群邀請代碼：<a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

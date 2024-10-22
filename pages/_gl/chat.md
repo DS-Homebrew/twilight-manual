@@ -16,6 +16,6 @@ title: Chat
         Buscas unha rede de usuarios de TWiLight Menu++? Únete ao servidor de Discord de DS<sup>(i)</sup> Mode Hacking nun dispositivo compatíbel para coñecer a outras persoas de TWLMenu++ coma ti!
     </p>
     <p>
-        Invitación ao servidor: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Invitación ao servidor: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

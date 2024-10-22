@@ -16,6 +16,6 @@ title: Chat
         TWiLight Menu ++ felhasználók közösségét keresed? Csatlakozz a DS<sup>(i)</sup> mód hackelés Discord szerverhez egy kompatibilis eszközön, hogy találkozz más TWLMenu++ felhasználókkal!
     </p>
     <p>
-        Szerver meghívó kód: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Szerver meghívó kód: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

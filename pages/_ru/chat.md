@@ -16,6 +16,6 @@ title: Чат
         Ищете сообщество пользователей TWiLight Menu++? Присоединяйтесь к Discord серверу «DS<sup>(i)</sup> Mode Hacking!» на совместимом устройстве, чтобы общаться с другими пользователями TWLMenu++!
     </p>
     <p>
-        Ссылка-приглашение: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Ссылка-приглашение: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

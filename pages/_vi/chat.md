@@ -16,6 +16,6 @@ title: Giao lưu
         Tìm kiếm 1 cộng đồng người dùng TWiLight Menu++? Tham gia nhóm Discord DS<sup>(i)</sup> để giao lưu với những người dùng khác như bạn!
     </p>
     <p>
-        Link tham gia: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Link tham gia: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

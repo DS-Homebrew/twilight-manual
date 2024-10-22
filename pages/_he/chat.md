@@ -16,6 +16,6 @@ title: צ'אט
         מחפשים קהילה של משתמשי ++TWiLight Menu? הצטרפו אל שרת ה-Discord של DS<sup>(i)</sup> Mode Hacking במכשיר נתמך בכדי לפגוש משתמשי ++TWLMenu אחרים!
     </p>
     <p>
-        קוד הזמנה לשרת: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        קוד הזמנה לשרת: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

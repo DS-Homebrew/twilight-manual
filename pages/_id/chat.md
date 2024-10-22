@@ -16,6 +16,6 @@ title: Obrolan
         Sedang mencari komunitas pengguna TWiLight Menu++? <br>Coba bergabung ke server Discord DS<sup>(i)</sup> Mode Hacking di perangkat yang didukung agar bisa bertemu para pengguna TWLMenu++ lain!
     </p>
     <p>
-        Kode undangan server: <a href="https://discord.gg/yD3spjv">yD3spjv</a>
+        Kode undangan server: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>
