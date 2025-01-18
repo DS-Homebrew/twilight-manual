@@ -16,10 +16,7 @@ title: nds-bootstrap
 <div id="compatibility" class="section-title">Compatibility</div>
 <div class="section-body">
 	<p>
-		To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-	</p>
-	<p>
-		For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+		To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
 	</p>
 </div>
 
