@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Wood UI
 ---
 
 <div id="button-controls" class="section-title">Button Controls</div>
