@@ -1,5 +1,4 @@
-import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
-import {getAnyEdgeLatest} from "./edgePath.ts"
+import { launch } from "jsr:@astral/astral";
 import exists from "./exists.ts"
 
 const dedent = (string:string) => string.split('\n').map(line => line.trim()).join('\n')
@@ -21,18 +20,10 @@ if (web) {
 	accessURL = "http://127.0.0.1:4000/";
 }
 
-let browser;
-try {
-	browser = await puppeteer.launch({ product: 'chrome' });
-} catch (error) {
-	if (!error.message.includes('Could not find browser revision'))
-		throw error;
-
-	browser = await puppeteer.launch({ product: 'chrome', executablePath: await getAnyEdgeLatest() })
-}
+const browser = await launch({ product: 'chrome' });
 
 const tab = await browser.newPage();
-await tab.setViewport({width: 256, height: 3000});
+await tab.setViewportSize({width: 256, height: 3000});
 
 const tempFileNames = {
 	screenshot: "screenshot.png",
@@ -71,11 +62,12 @@ for await (const folder of Deno.readDir("pages")) {
 					H: Math.round(element.getBoundingClientRect().height),
 					DEST: element.href.substring(element.href.lastIndexOf("/") + 1)
 				}))
-		}), accessURL);
+		}), { args: [accessURL]});
 
 		const imagePath = `nitrofiles/pages/${rootPath}.gif`
 		if (await needsUpdate(imagePath, `pages/${dir}/${page}`)) {
-			await tab.screenshot({ path: tempFileNames.screenshot, clip: { x: 0, y: 0, width: 256, height: pageEval.height } });
+			const screenshot = await tab.screenshot({ clip: { x: 0, y: 0, width: 256, height: pageEval.height, scale: 1 } });
+			await Deno.writeFile(tempFileNames.screenshot, screenshot);
 
 			const paletteProcess = new Deno.Command('ffmpeg', {
 				args: ["-i", tempFileNames.screenshot, "-vf", "palettegen=max_colors=256", tempFileNames.palette, "-y", "-loglevel", "error"]
