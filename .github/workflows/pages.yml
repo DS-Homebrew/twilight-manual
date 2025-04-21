@@ -26,6 +26,8 @@ jobs:
         uses: denoland/setup-deno@v1
         with:
           deno-version: ${{ matrix.deno-version }}
+      - name: Install Dependencies
+        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
       - name: Run Application
         run: deno run --unstable --allow-env --allow-run --allow-net --allow-read --allow-write deno.ts web
       - name: Pack 7z Package for nightly
