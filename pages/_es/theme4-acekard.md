@@ -6,10 +6,10 @@ title: Tema Wood UI
 <div id="temporarily-disabled" class="section-title">Desactivado temporalmente</div>
 <div class="section-body">
     <p>
-        Este tema se ha desactivado temporalmente debido a que puede corromper la tarjeta SD. Recuperarlo requiere crear un nuevo driver para la tarjeta SD, para lo que se necesita mucho tiempo y esfuerzo.
+        Este tema se ha desactivado temporalmente debido a que puede corromper la tarjeta SD. Recuperarlo requiere crear un nuevo driver para la tarjeta SD, por lo que se necesita mucho tiempo y esfuerzo.
     </p>
     <p>
-        Tened paciencia; tardará en volver.
+        Ten paciencia; tardará en volver.
     </p>
 </div>
 

@@ -1,51 +1,51 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Theme
+title: سمة Nintendo 3DS
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">أزرار التحكم</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
-        <p class="button-action-text">Move item<br>(Sort Method must be set to "Custom")</p>
+        <p class="button-action-text">نقل العنصر<br>(يجب ضبط طريقة الفرز على "مخصص")</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next item</p>
+        <p class="button-action-text">العنصر السابق / التالي</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">تشغيل التطبيق المحدد</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Go up a directory level</p>
+        <p class="button-action-text">الرجوع إلى المجلد السابق</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Delete / hide item</p>
+        <p class="button-action-text">حذف/إخفاء عنصر</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Open per-game settings</p>
+        <p class="button-action-text">فتح الإعدادات المخصصة للعبة</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">التحكم باللمس</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">Scroll through the list</p>
+        <p class="button-action-text">مرر عبر القائمة</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">Launch selected application</p>
+        <p class="button-action-text">تشغيل التطبيق المحدد</p>
     </div>
     <!-- <hr>
     <div>
@@ -55,16 +55,16 @@ title: Nintendo 3DS Theme
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Page System</div>
+<div id="page-system" class="section-title">نظام الصفحات</div>
 <div class="section-body">
     <p>
-        The Nintendo 3DS theme splits items into pages with a maximum of 40 items per page. You can navigate through the pages using the &#xE004; and &#xE005; triggers.
+        تقسم سمة Nintendo 3DS العناصر إلى صفحات بحد أقصى 40 عنصرًا في كل صفحة. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
     </p>
     <ul>
-        <li><p>Pressing &#xE004; on the leftmost page will take you to the first item on the page</p></li>
-        <li><p>Pressing &#xE005; on the rightmost page will take you to the last item on the page</p></li>
+        <li><p>سيؤدي الضغط على &#xE004; في أقصى يسار الصفحة إلى نقلك إلى العنصر الأول في الصفحة</p></li>
+        <li><p>سيؤدي الضغط على &#xE005; في أقصى يمين الصفحة إلى نقلك إلى آخر عنصر في الصفحة</p></li>
     </ul>
     <p>
-        If your triggers do not work, you can use SELECT + &#xE07E; instead.
+        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلاً من ذلك.
     </p>
 </div>

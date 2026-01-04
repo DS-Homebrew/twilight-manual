@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/chat.png
-title: 聯繫我們
+title: 聊天
 ---
 
 <div id="discord" class="section-title">
@@ -13,9 +13,9 @@ title: 聯繫我們
 </div>
 <div class="section-body">
     <p>
-        在尋找TWiLight Menu++ 的討論群組？ 歡迎進入 <b>DS<sup>(i)</sup> Mode Hacking</b> Discord社群，在此您可與其他同樣热愛TWLMenu++的玩家相遇！
+        正在尋找 TWiLight Menu++ 的使用者社群？ 歡迎加入 <b>DS<sup>(i)</sup> Mode Hacking</b> Discord 伺服器，以便與其他像您一樣的 TWLMenu++ 使用者見面！
     </p>
     <p>
-        社群邀請代碼：<a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
+        伺服器邀請代碼：<a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

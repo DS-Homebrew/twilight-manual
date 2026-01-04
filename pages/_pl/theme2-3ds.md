@@ -36,7 +36,7 @@ title: Motyw Nintendo 3DS
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
+<div id="touch-controls" class="section-title">Sterowanie dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -55,7 +55,7 @@ title: Motyw Nintendo 3DS
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Strona Systemu</div>
+<div id="page-system" class="section-title">Podział na strony</div>
 <div class="section-body">
     <p>
         Motyw Nintendo 3DS dzieli elementy na strony maksymalnie 40 elementów na stronę. Możesz nawigować przez strony za pomocą analogów &#xE004; i &#xE005;.

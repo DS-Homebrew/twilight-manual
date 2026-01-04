@@ -3,7 +3,7 @@ banner: /assets/images/saturn-theme.png
 title: Tema SEGA Saturn
 ---
 
-<div id="button-controls" class="section-title">Controlli dei Pulsanti</div>
+<div id="button-controls" class="section-title">Controlli dei pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -32,7 +32,7 @@ title: Tema SEGA Saturn
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Apri impostazioni per gioco</p>
+        <p class="button-action-text">Apri impostazioni del gioco</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -41,7 +41,7 @@ title: Tema SEGA Saturn
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Controlli touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -82,7 +82,7 @@ title: Tema SEGA Saturn
     <ul>
         <li><strong>Menu Home</strong>: Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>
         <li><strong>Impostazioni:</strong> Selezionandolo verrà avviato un menu per attivare/disattivare le impostazioni per TWiLight Menu++ e i suoi launcher</li>
-        <li><strong>Opzioni Cartuccia:</strong> Su un DS originale o DS Lite, è possibile avviare un dispositivo Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1, o su determinate flashcard, scambiare che scheda SD TWiLight Menu++ naviga</li>
+        <li><strong>Opzioni cartuccia:</strong> Su un DS originale o su DS Lite, è possibile avviare delle cartucce Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1, o su determinate flashcard, scambiare che scheda SD su cui TWiLight Menu++ naviga</li>
         <li><strong>Manuale</strong>: Questo avvierà il manuale di TWiLight Menu++, quello che stai guardando in questo momento :P</li>
     </ul>
 </div>

@@ -26,7 +26,7 @@ title: Strona główna
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
+<div id="touch-controls" class="section-title">Sterowanie dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Przewiń w górę / w dół na ekranie dotykowym"></p>
@@ -42,7 +42,7 @@ title: Strona główna
 <div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ skróty startowe</div>
 <div class="section-body">
     <p>
-        Trzymaj &#xE000;, &#xE001;, &#xE002; i &#xE003; aby zrezestować ustawienia TWiLight Menu++.
+        Przytrzymaj &#xE000;, &#xE001;, &#xE002; i &#xE003; aby zresetować ustawienia TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -85,7 +85,7 @@ title: Strona główna
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">Oygginalny R4</a>
+                <a href="theme3-r4">R4 Original</a>
             </p>
         </div>
         <div class="grid-item">

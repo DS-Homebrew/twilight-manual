@@ -45,7 +45,7 @@ title: GBARunner2
 <div id="bios-file" class="section-title">Plik BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 może użyć zrzutu oficjalnego BIOS GBA w celu poprawy kompatybilności. Plik musi być nazwany <code>bios. w</code> i może znajdować się w katalogu głównym karty SD, <code>sd:/gba</code> lub <code>sd:/_gba</code>.
+        GBARunner2 może użyć zrzutu oficjalnego BIOS GBA w celu poprawy kompatybilności. Plik musi mieć nazwę <code>bios.bin</code> i może znajdować się w katalogu głównym karty SD, <code>sd:/gba</code> lub <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>

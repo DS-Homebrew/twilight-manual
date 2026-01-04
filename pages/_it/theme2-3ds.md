@@ -3,7 +3,7 @@ banner: /assets/images/3ds-theme.png
 title: Tema Nintendo 3DS
 ---
 
-<div id="button-controls" class="section-title">Controlli dei Pulsanti</div>
+<div id="button-controls" class="section-title">Controlli dei pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -32,11 +32,11 @@ title: Tema Nintendo 3DS
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Apri impostazioni per gioco</p>
+        <p class="button-action-text">Apri impostazioni del gioco</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Controlli touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>

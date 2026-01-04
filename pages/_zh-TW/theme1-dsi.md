@@ -32,20 +32,20 @@ title: Nintendo DSi主題
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">開啟遊戲子選單</p>
+        <p class="button-action-text">開啟遊戲選單</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">SELECT</p>
-        <p class="button-action-text">打開SELECT選單或DS懷舊選單</p>
+        <p class="button-action-text">開啟SELECT選單或DS懷舊選單</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">點擊控制方法</div>
+<div id="touch-controls" class="section-title">觸控控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
-        <p class="button-action-text">拖動滾動條</p>
+        <p class="button-action-text">捲動瀏覽列表</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -60,39 +60,39 @@ title: Nintendo DSi主題
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">翻頁系統</div>
+<div id="page-system" class="section-title">頁面系統</div>
 <div class="section-body">
     <p>
-        Nintendo DSi主題中，每頁可存放最多40個軟體。 您可以通過&#xE004; 和&#xE005; 來切換頁面。
+        Nintendo DSi主題將項目分成幾頁，每頁最多可以顯示40個項目。 您可以使用&#xE004; 和&#xE005; 以瀏覽頁面。
     </p>
     <ul>
-        <li><p>在最初頁按下&#xE004; 會定位到本頁第一個項目。</p></li>
-        <li><p>在最後頁按下&#xE005; 會定位到本頁最後一個項目。</p></li>
+        <li><p>在最左側頁面上按&#xE004; 將會轉到此頁面的第一個項目</p></li>
+        <li><p>在最右側頁面上按&#xE005; 將會轉到此頁面的最後一項目</p></li>
     </ul>
     <p>
-        您可以通過滾動條快速滾動頁面來便捷地尋找要使用的軟體。
+        底部的捲軸代表目前頁面上的所有項目，因此您可以點觸它來快速移動到頁面中的特定位置。
     </p>
     <p>
-        如果發生問題，您可以改為按下SELECT+&#xE07E;.
+        如果無法使用觸發按鈕瀏覽頁面，您可以使用SELECT+&#xE07E;。
     </p>
 </div>
 
-<div id="custom-top-screen-image" class="section-title">上熒幕客製化背景</div>
+<div id="custom-top-screen-image" class="section-title">自訂上螢幕圖像</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>本軟體支持在上熒幕中顯示自訂圖檔，如同Nintendo DSi系統選單一樣。 並且，不僅是Nintendo DSi照相館內的圖像，您也可在本軟體中設定PNG图像文件。路徑：
+    <p>TWiLight Menu++ 支援在上螢幕中顯示自訂的照片，就像官方的 Nintendo DSi 系統選單一樣。 並且，不僅是Nintendo DSi照相館內的圖像，而是可以將PNG圖像放在
  <code class="language-plaintext wrap">/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>最大寬度: 208px</li>
         <li>最大高度: 156px</li>
     </ul>
-    <p>若大小未達到最大限制，將使用黑色邊框填充。</p>
+    <p>如果圖像尺寸小於最大值，則影像將居中並帶有黑色邊框。</p>
 </div>
 
 <div id="select-menu" class="section-title">SELECT選單</div>
 <div class="section-body">
     <p>
-        沒有更改設定時, 在Nintendo DSi主題下, 按SELECT進入DS Classic選單. 但是, 當設定為"Select選單"時, 按下SELECT會顯示一個小選單. 下為SELECT選單的說明
+        在 Nintendo DSi 主題中按下SELECT將顯示DS懷舊選單為預設。 但是, 當設定為"Select選單"時, 按下SELECT會顯示一個小選單. 下為SELECT選單的說明
     </p>
     <ul>
         <li><strong>Home選單</strong>僅在Nintendo DSi或者NIntendo 3DS中，按下會自動退出程式, 然後返回主機Home選單</li>

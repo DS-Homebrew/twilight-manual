@@ -3,7 +3,7 @@ banner: /assets/images/dsi-theme.png
 title: Tema Nintendo DSi
 ---
 
-<div id="button-controls" class="section-title">Controlli dei Pulsanti</div>
+<div id="button-controls" class="section-title">Controlli dei pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -32,7 +32,7 @@ title: Tema Nintendo DSi
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Apri impostazioni per gioco</p>
+        <p class="button-action-text">Apri impostazioni del gioco</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -41,7 +41,7 @@ title: Tema Nintendo DSi
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Controlli touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -80,7 +80,7 @@ title: Tema Nintendo DSi
 <div id="custom-top-screen-image" class="section-title">Immagine personalizzata sullo schermo superiore</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>TWiLight Menu++ supporta la visualizzazione di foto personalizzate sullo schermo superiore, proprio come il Menù del Nintendo DSi. Tuttavia, invece di utilizzare quelle dell'applicazione "Fotocamera Nintendo DSi", è possibile inserire qualsiasi immagine PNG in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>TWiLight Menu++ supporta la visualizzazione di foto personalizzate sullo schermo superiore, proprio come il menu Nintendo DSi. Tuttavia, invece di utilizzare quelle dell'applicazione "Fotocamera Nintendo DSi", è possibile inserire qualsiasi immagine PNG in <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>Larghezza massima: 208 pixel</li>
         <li>Altezza massima: 156 pixel</li>
@@ -96,7 +96,7 @@ title: Tema Nintendo DSi
     <ul>
         <li><strong>Menu Home</strong>: Sulle console Nintendo DSi e Nintendo 3DS, questa opzione può essere usata per tornare al menu home</li>
         <li><strong>Impostazioni:</strong> Selezionando questa opzione verrà avviato un menu per configurare TWiLight Menu++ e i suoi launcher</li>
-        <li><strong>Opzioni Cartuccia:</strong> Su un DS originale o su DS Lite, è possibile avviare delle cartucce Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1, o su determinate flashcard, scambiare che scheda SD TWiLight Menu++ naviga</li>
+        <li><strong>Opzioni cartuccia:</strong> Su un DS originale o su DS Lite, è possibile avviare delle cartucce Slot-2 da qui. Su Nintendo DSi e Nintendo 3DS in esecuzione dalla scheda SD, è possibile avviare la scheda Slot-1, o su determinate flashcard, scambiare che scheda SD su cui TWiLight Menu++ naviga</li>
         <li><strong>Manuale</strong>: Avvierà il manuale di TWiLight Menu++, quello che stai guardando in questo momento :P</li>
     </ul>
 </div>

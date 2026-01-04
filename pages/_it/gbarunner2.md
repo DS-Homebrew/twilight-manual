@@ -3,7 +3,7 @@ banner: /assets/images/gbarunner2.png
 title: GBARunner2
 ---
 
-<div id="menu" class="section-title">Menù</div>
+<div id="menu" class="section-title">Menu</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -27,7 +27,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004;</p>
-        <p class="button-action-text">Inverti gli schermi</p>
+        <p class="button-action-text">Inverti schermi</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -35,11 +35,11 @@ title: GBARunner2
         <p class="button-action-text">Apri le impostazioni</p>
     </div>
 </div>
-<div id="in-game" class="section-title">In Gioco</div>
+<div id="in-game" class="section-title">Nel gioco</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Tocca il touch screen"></p>
-        <p class="button-action-text">Apri menù</p>
+        <p class="button-action-text">Apri menu</p>
     </div>
 </div>
 <div id="bios-file" class="section-title">File BIOS</div>

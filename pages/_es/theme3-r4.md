@@ -12,7 +12,7 @@ title: Tema R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Abrir opción elegida</p>
+        <p class="button-action-text">Abrir opción seleccionada</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -22,7 +22,7 @@ title: Tema R4 Original
     <hr>
     <div class="button-action-group">
         <p class="button-action">START / SELECT</p>
-        <p class="button-action-text">Abrir Ajustes</p>
+        <p class="button-action-text">Abrir ajustes</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -31,7 +31,7 @@ title: Tema R4 Original
     </div>
 </div>
 
-<div id="file-browser" class="section-title">Explorador de archivos</div>
+<div id="file-browser" class="section-title">Navegador de Archivos</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

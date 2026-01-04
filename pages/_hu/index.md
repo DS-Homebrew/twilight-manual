@@ -79,7 +79,7 @@ title: Kezdőlap
         <div class="grid-item">
             <img src="/assets/images/ak-icon.png">
             <p>
-                <a href="theme4-acekard">Wood-UI</a>
+                <a href="theme4-acekard">Fa felület</a>
             </p>
         </div>
         <div class="grid-item">

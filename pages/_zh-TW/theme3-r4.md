@@ -12,7 +12,7 @@ title: R4原生主題
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">打開已選擇的設定</p>
+        <p class="button-action-text">開啟已選擇選項</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: R4原生主題
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png"></p>
-        <p class="button-action-text">開啟選項頁面</p>
+        <p class="button-action-text">開啟選項</p>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ title: R4原生主題
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">以10項上下滾動</p>
+        <p class="button-action-text">向上/向下移動10項</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -60,11 +60,11 @@ title: R4原生主題
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">開啟遊戲子選單</p>
+        <p class="button-action-text">開啟遊戲選單</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">回到選單</p>
+        <p class="button-action-text">返回主選單</p>
     </div>
 </div>

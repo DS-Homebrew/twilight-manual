@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Oryginalny motyw R4
+title: Motyw R4 Original
 ---
 
 <div id="main-menu" class="section-title">Menu główne</div>

@@ -45,7 +45,7 @@ title: GBARunner2
 <div id="bios-file" class="section-title">Archivo BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 puede usar un volcado de la BIOS de GBA oficial para mejorar la compatibilidad. El archivo debe llamarse <code>bios.bin</code> y puede encontrarse en la raíz de la tarjeta SD, en <code>sd:/gba</code> o en <code>sd:/_gba</code>.
+        GBARunner2 puede usar un volcado de la BIOS de GBA oficial para mejorar la compatibilidad. El archivo debe llamarse <code>bios.bin</code> y puede ubicarse en la raíz de la tarjeta SD, en <code>sd:/gba</code> o en <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>

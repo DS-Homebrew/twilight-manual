@@ -1,13 +1,13 @@
 ---
 banner: /assets/images/ds-classic-menu.png
-title: DS Classic選單
+title: DS懷舊選單
 ---
 
 <div id="controls" class="section-title">控制</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">移動游標</p>
+        <p class="button-action-text">移動遊標</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -17,6 +17,6 @@ title: DS Classic選單
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">返回至瀏覽器中</p>
+        <p class="button-action-text">返回至檔案瀏覽器</p>
     </div>
 </div>

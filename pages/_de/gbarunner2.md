@@ -7,12 +7,12 @@ title: GBARunner2
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Vorheriges / Nächstes Element</p>
+        <p class="button-action-text">Vorheriges/Nächstes Element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gehe um 10 nach oben / unten</p>
+        <p class="button-action-text">Um 10 nach oben/unten bewegen</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -22,7 +22,7 @@ title: GBARunner2
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Gehe zurück</p>
+        <p class="button-action-text">Zurückgehen</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -45,13 +45,13 @@ title: GBARunner2
 <div id="bios-file" class="section-title">BIOS-Datei</div>
 <div class="section-body">
     <p>
-        GBARunner2 kann einen Dump des offiziellen GBA BIOS verwenden, um die Kompatibilität zu verbessern. Die Datei muss <code>bios.bin</code> heißen und kann im Stammverzeichnis der SD-Karte, <code>sd:/gba</code> oder <code>sd:/_gba</code> liegen.
+        GBARunner2 kann einen Dump des offiziellen GBA-BIOS verwenden, um die Kompatibilität zu verbessern. Die Datei muss <code>bios.bin</code> heißen und kann im Stammverzeichnis der SD-Karte, <code>sd:/gba</code> oder <code>sd:/_gba</code> liegen.
     </p>
     <hr>
     <p>
-        Stelle sicher, dass dein GBA BIOS Dump mit dem folgenden CRC32-Hash übereinstimmt: <code>81977335</code>
+        Vergewissere dich, dass dein GBA-BIOS-Dump mit dem folgenden CRC32-Hash übereinstimmt: <code>81977335</code>
     </p>
     <p>
-        Du kannst dies auf dieser Webseite überprüfen:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Du kannst das auf dieser Website überprüfen:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>

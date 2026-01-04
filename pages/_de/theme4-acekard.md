@@ -13,16 +13,16 @@ title: Wood UI Theme
     </p>
 </div>
 
-<div id="button-controls" class="section-title">Tasten-Steuerung</div>
+<div id="button-controls" class="section-title">Tastensteuerung</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Vorheriges / Nächstes Element</p>
+        <p class="button-action-text">Vorheriges/Nächstes Element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gehe um 10 nach oben / unten</p>
+        <p class="button-action-text">Um 10 nach oben/unten bewegen</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -6,14 +6,14 @@ title: Tema Wood IU
 <div id="temporarily-disabled" class="section-title">Disabilitato temporaneamente</div>
 <div class="section-body">
     <p>
-        Questo tema è stato temporaneamente disabilitato, poiché causava la corruzione della scheda SD. Per rimetterlo bisognerebbe rifare un nuovo driver della scheda SD, che richiede molto tempo e sforzi.
+        Questo tema è stato temporaneamente disabilitato, poiché causava la corruzione della scheda SD. Per rimetterlo bisognerebbe rifare daccapo un nuovo driver della scheda SD, che richiede molto tempo e sforzi.
     </p>
     <p>
         Si prega di essere pazienti; potrebbe non esserci di nuovo per un po'.
     </p>
 </div>
 
-<div id="button-controls" class="section-title">Controlli dei Pulsanti</div>
+<div id="button-controls" class="section-title">Controlli dei pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -22,7 +22,7 @@ title: Tema Wood IU
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Sposta sù / giù di 10</p>
+        <p class="button-action-text">Sposta su / giù di 10</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -37,12 +37,12 @@ title: Tema Wood IU
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Apri impostazioni per gioco</p>
+        <p class="button-action-text">Apri impostazioni del gioco</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Apri il Menu Start</p>
+        <p class="button-action-text">Aprire il menu START</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -51,7 +51,7 @@ title: Tema Wood IU
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Controlli touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png"></p>

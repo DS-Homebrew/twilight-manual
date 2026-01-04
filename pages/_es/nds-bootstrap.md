@@ -9,7 +9,7 @@ title: nds-bootstrap
         nds-bootstrap es una aplicación homebrew usada por TWiLight Menu++ para ejecutar copias de seguridad de cartuchos de DS(i), homebrew en Modo DS y DSiWare desde la tarjeta SD de la Nintendo DSi/3DS.
     </p>
     <p>
-        También puede usarse con flashcards aunque la compatibilidad será menor, por lo que se enfoca principalmente para las dedicadas únicamente al homebrew o si tienen baja compatibilidad.
+        También puede usarse con flashcards aunque la compatibilidad será menor, por lo que se enfoca principalmente para las dedicadas únicamente al homebrew y flashcard con baja compatibilidad.
     </p>
 </div>
 
@@ -19,17 +19,17 @@ title: nds-bootstrap
         Para ver si un juego es compatible con nds-bootstrap, chequea la lista de compatibilidad:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Para tener mayor compatibilidad en flashcards, recomendamos tener un Memory Expansion Pak de DS.
+        Para tener una mejor compatibilidad en flashcards, recomendamos tener un Memory Expansion Pak de DS.
     </p>
 </div>
 
-<div id="controls" class="section-title">Controles del juego</div>
+<div id="controls" class="section-title">Controles en el Juego</div>
 <div class="section-body">
     <p>
-        Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú del juego.
+        Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú dentro del juego.
     </p>
     <p>
-        Se puede remapear con <code>Atajo al menú</code> en la página de nds-bootstrap en los ajustes de TWiLight Menu++.
+        Esto se puede remapear con el <code>Atajo al menú</code> en la página de nds-bootstrap de los ajustes de TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -40,7 +40,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE000; por 2 segundos para hacer un volcado de RAM.
+        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE000; por 2 segundos para crear un volcado de RAM.
     </p>
     <hr>
     <p>
@@ -52,7 +52,7 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">Controles del menú del juego</div>
+<div id="menu-controls" class="section-title">Controles del Menú de Juego</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -78,7 +78,7 @@ title: nds-bootstrap
         <p class="button-action button">&#xE005;</p>
         <p class="button-action-text">Avanzar 1 fotograma</p>
     </div>
-    <h3>Captura de pantalla</h3>
+    <h3>Captura de Pantalla</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Cambiar banco de VRAM</p>
@@ -111,7 +111,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Saltar a dirección</p>
+        <p class="button-action-text">Saltar a la dirección</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,14 +123,14 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Trucos</div>
 <div class="section-body">
     <p>
-        nds-bootstrap puede usar trucos de Replay de acción a través de la base de datos <code>usrcheat.dat</code>, el cual debe estar en <code>sd:/_nds/TWiLightMenu/extras</code>. Una vez colocada la base de datos, puedes seleccionar qué trucos usar en el menú de ajustes por juego en TWiLight Menu++.
+        nds-bootstrap puede usar trucos de Action Replay a través de la base de datos <code>usrcheat.dat</code>, el cual debe estar en <code>sd:/_nds/TWiLightMenu/extras</code>. Una vez colocada la base de datos, puedes elegir qué trucos usar en el menú de ajustes por juego de TWiLight Menu++.
     </p>
     <hr>
     <p>
         Recomendamos la base de datos de trucos de DeadSkullzJr ya que es la más grande y actualizada:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
-        Alternativamente, si quieres crear una propia, puedes usar R4CCE en un ordenador:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        Alternativamente, si quieres crear una propia, puedes usar R4CCE en una computadora:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>

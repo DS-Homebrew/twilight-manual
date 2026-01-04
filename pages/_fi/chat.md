@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/chat.png
-title: Chat
+title: Keskustelu
 ---
 
 <div id="discord" class="section-title">

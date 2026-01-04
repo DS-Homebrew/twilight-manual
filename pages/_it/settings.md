@@ -17,7 +17,7 @@ title: Impostazioni
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Cambia valore<br>Inserisci sottomenu</p>
+        <p class="button-action-text">Cambia valore<br>Entra nel sottomenu</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -38,7 +38,7 @@ title: Impostazioni
 
 <div id="gui-settings" class="section-title">Impostazioni GUI</div>
 <div class="section-body">
-    <p>In questa pagina è possibile selezionare quale tema visualizzare e altre opzioni che influiscono sull'aspetto di TWiLight Menu++.</p>
+    <p>In questa pagina è possibile selezionare quale tema usare e altre opzioni che influiscono sull'aspetto di TWiLight Menu++.</p>
 </div>
 
 <div id="nds-bootstrap-settings" class="section-title">Impostazioni nds-bootstrap</div>
@@ -53,16 +53,16 @@ title: Impostazioni
 
 <div id="unlaunch-settings" class="section-title">Impostazioni Unlaunch</div>
 <div class="section-body">
-    <p>Le impostazioni qui consentono di modificare il funzionamento di Unlaunch, funzionano patchando il programma di installazione di Unlaunch in modo che si dovrà reinstallarlo per far si che queste impostazioni prendano effetto.</p>
+    <p>Le impostazioni qui presenti consentono di modificare il funzionamento di Unlaunch, tramite patch al suo programma di installazione, reinstallandolo per far si che queste impostazioni abbiano effetto.</p>
     <p>Questa pagina appare solo sulle console Nintendo DSi quando non vengono avviate da flashcard. Gli utenti che usano flashcard e 3DS non vedranno questa pagina.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Impostazioni Giochi & App</div>
+<div id="games-and-apps-settings" class="section-title">Impostazioni giochi & app</div>
 <div class="section-body">
     <p>Qui è possibile selezionare quale emulatore utilizzare per i sistemi con più emulatori e altre impostazioni che influenzano il modo in cui vengono eseguiti giochi e applicazioni che non utilizzano nds-bootstrap.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Impostazioni Varie</div>
+<div id="misc-settings" class="section-title">Impostazioni varie</div>
 <div class="section-body">
-    <p>Queste impostazioni comprendono tutte le impostazioni che non si adattano altrove, come la lingua da usare, se avviare automaticamente l'ultima partita giocata e se mostrare le schermate di avvio, tra le altre.</p>
+    <p>Qui sono comprese tutte le impostazioni che non si adattano altrove, come la lingua da usare, se avviare automaticamente l'ultimo gioco giocato, e se mostrare le schermate di avvio, tra le altre.</p>
 </div>

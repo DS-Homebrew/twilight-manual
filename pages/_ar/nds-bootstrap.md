@@ -3,137 +3,137 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">About</div>
+<div id="about" class="section-title">حول</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        nds-bootstrap هو تطبيق الـ homebrew الذي يستخدمه TWiLight Menu++ لتحميل العاب DS(i) DSiWare, وHomebrew على وضع DS من بطاقة SD.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        يمكن أيضا استخدامها على الفلاش كارد، ولكن بتوافق أقل لذلك فهي مخصصة أساسا لبطاقات الـ homebrew فقط والفلاش كارد ذات التوافق المنخفض.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">التوافق</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        لمعرفة إذا ما كانت اللعبة متوافقة مع nds-bootstrap، تحقق من قائمة التوافق: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        للحصول على أفضل توافق مع البطاقات التعليمية، ننصحك بالحصول على DS Memory Expansion Pak.
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">عناصر التحكم داخل اللعبة</div>
 <div class="section-body">
     <p>
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        اضغط على &#xE004;، &#xE07A;، وSELECT لفتح القائمة داخل اللعبة.
     </p>
     <p>
-        This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
-    </p>
-    <hr>
-    <p>
-        Press &#xE004;, &#xE005;, START, and SELECT to reset the game.
-    </p>
-    <p>
-        Hold for 2 seconds to force the game to reset.
+        يمكن إعادة تعيين ذلك باستخدام <code>مفتاح القائمة السريعة</code> في صفحة nds-bootstrap في إعدادات قائمة ++TwiLight Menu ++.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
+        اضغط على &#xE004;,&#xE005;, START وSELECT لإعادة تشغيل اللعبة.
+    </p>
+    <p>
+        اضغط لمدة 2 ثانية لإجبار اللعبة على إعادة التشغيل.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
+        اضغط مع الاستمرار على &#xE004; و &#xE005; و &#xE07A; و &#xE000; لمدة ثانيتين لإنشاء نسخة من ذاكرة الوصول العشوائي.
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
+        اضغط مع الاستمرار على &#xE004;,&#xE005;,&#xE07A; و &#xE001; لمدة ثانيتين للعودة إلى TWiLight Menu++.
+    </p>
+    <hr>
+    <p>
+        اضغط مع الاستمرار على &#xE004;, &#xE005;, &#xE002; و&#xE079; لمدة ثانية واحدة لتبديل الشاشات.
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">In-Game Menu Controls</div>
+<div id="menu-controls" class="section-title">عناصر التحكم داخل اللعبة</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Navigate menu</p>
+        <p class="button-action-text">التنقل في القائمة</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change setting<br>(Options submenu)</p>
+        <p class="button-action-text">تغيير الإعداد<br>(القائمة الفرعية)</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Select option</p>
+        <p class="button-action-text">اختر خيارًا</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to game</p>
+        <p class="button-action-text">العودة الى اللعبة</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Advance 1 frame</p>
+        <p class="button-action-text">تقدَّم إطارًا واحدًا</p>
     </div>
-    <h3>Screenshot</h3>
+    <h3>لقطة شاشة</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Change VRAM bank</p>
+        <p class="button-action-text">تغيير بنك VRAM</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Save screenshot</p>
+        <p class="button-action-text">حفظ لقطة الشاشة</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Cancel</p>
+        <p class="button-action-text">إلغاء</p>
     </div>
-    <h3>RAM Editor</h3>
+    <h3>محرر ذاكرة الوصول العشوائي</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
-        <p class="button-action-text">Navigate</p>
+        <p class="button-action-text">التنقل</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Enter edit mode</p>
+        <p class="button-action-text">دخول وضع التحرير</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit edit mode<br>Exit RAM editor</p>
+        <p class="button-action-text">إنهاء وضع التحرير<br>الخروج من المحرر</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Jump to address</p>
+        <p class="button-action-text">الانتقال إلى العنوان</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Hold to navigate faster</p>
+        <p class="button-action-text">اضغط مطولا للتنقل بسرعة</p>
     </div>
 </div>
 
-<div id="cheats" class="section-title">Cheats</div>
+<div id="cheats" class="section-title">اكواد الغش</div>
 <div class="section-body">
     <p>
-        nds-bootstrap can use Action Replay cheats via a <code>usrcheat.dat</code> database, which needs to be in <code>sd:/_nds/TWiLightMenu/extras</code>. Once the database is there, you can select which cheats to use from a game's per-game settings menu in TWiLight Menu++.
+        يمكن لـ nds-bootstrap استخدام غش Action Replay عبر قاعدة بيانات <code>usrcheat.dat،</code> والتي يجب أن تكون في <code>sd:/_nds/TWiLightMenu/extras</code>. بمجرد وجود قاعدة البيانات، يمكنك تحديد الغش الذي ستستخدمه من قائمة إعدادات كل لعبة في قائمة TWiLight Menu++.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's cheat database is recommended as it's the largest and most up to date:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        يوصى بقاعدة بيانات الغش الخاصة ب DeadSkullzJr لأنها الأكبر والأكثر تحديثًا:<br> r<a href="https://r.pk11.us/DSJCheats">.pk11.us/DSJJCheats</a>
     </p>
     <p>
-        Alternatively, if you would like to make one yourself, you can use use R4CCE on a computer:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
+        بدلاً من ذلك، إذا كنت ترغب في صنع واحدة بنفسك، يمكنك استخدام R4CCE على جهاز كمبيوتر:<br> r<a href="https://r.pk11.us/r4cce">.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Keep in mind that nds-bootstrap's E-type cheat implementation is unstable and as a result, your code may or may not work. This is not a fault of the database, and we hope to get this issue fixed in nds-bootstrap soon.
+        ضع في اعتبارك أن تطبيق الغش من النوع E في nds-bootstrap غير مستقر، ونتيجة لذلك، قد يعمل أو لا يعمل الكود. هذا ليس خطأ في قاعدة البيانات، ونأمل أن يتم إصلاح هذه المشكلة في nds-bootstrap قريباً.
     </p>
 </div>

@@ -6,27 +6,27 @@ title: nds-bootstrap
 <div id="about" class="section-title">Über</div>
 <div class="section-body">
     <p>
-        nds-bootstrap ist eine Homebrew-Anwendung die von TWiLight Menu++ benutzt wird, um DS(i)-Karten-Dumps, DSiWare, und DS-Modus-Homebrew von der Nintendo DSi/3DS-SD-Karte zu starten.
+        nds-bootstrap ist eine Homebrew-Anwendung, die von TWiLight Menu++ verwendet wird, um DS(i)-Karten-Dumps, DSiWare und DS-Modus-Homebrew von der Nintendo DSi-/3DS-SD-Karte zu starten.
     </p>
     <p>
-        Es kann auch auf Flashkarten verwendet werden, aber die Kompatibilität auf Flashkarten ist niedriger und ist daher hauptsächlich für nur-Homebrew-Flashkarten und Flashkarten mit geringer Kompatibilität gedacht.
+        Es kann auch auf Flashcards verwendet werden, allerdings ist die Kompatibilität auf Flashcards geringer. Daher ist es hauptsächlich für Homebrew-Flashcards und Flashcards mit geringer Kompatibilität gedacht.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilität</div>
 <div class="section-body">
     <p>
-        Um zu sehen ob ein Spiel mit nds-bootstrap kompatibel ist, überprüfe die Kompatibilitätsliste:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
+        Überprüfe die Kompatibilitätsliste, um herauszufinden, ob ein Spiel mit nds-bootstrap kompatibel ist:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Für die beste Kompatibilität mit Flashkarten empfehlen wir ein DS Memory Expansion Pak.
+        Wir empfehlen für die beste Kompatibilität mit Flashcards ein DS Memory Expansion Pak.
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game-Steuerung</div>
+<div id="controls" class="section-title">Steuerung im Spiel</div>
 <div class="section-body">
     <p>
-        Drücke &#xE004;, &#xE07A;, und SELECT, um das Ingame-Menü zu öffnen.
+        Drücke &#xE004;, &#xE07A; und SELECT, um das Menü im Spiel zu öffnen.
     </p>
     <p>
         Dies kann mit <code>Menü-Hotkey</code> auf der nds-bootstrap-Seite der TWiLight Menu++ Einstellungen erneut festgelegt werden.
@@ -40,15 +40,15 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Halte &#xE004;, &#xE005;, &#xE07A;, und &#xE000; für 2 Sekunden gedrückt, um einen RAM Dump zu erstellen.
+        Halte &#xE004;, &#xE005;, &#xE07A; und &#xE000; für 2 Sekunden gedrückt, um einen RAM-Dump zu erstellen.
     </p>
     <hr>
     <p>
-        Halte &#xE004;, &#xE005;, &#xE07A;, und &#xE001; für 2 Sekunden gedrückt, um zu TWiLight Menu++ zurückzukehren.
+        Halte &#xE004;, &#xE005;, &#xE07A; und &#xE001; für 2 Sekunden gedrückt, um zu TWiLight Menu++ zurückzukehren.
     </p>
     <hr>
     <p>
-        Halte &#xE004;, &#xE005;, &#xE002;, und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
+        Halte &#xE004;, &#xE005;, &#xE002; und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
     </p>
 </div>
 
@@ -61,7 +61,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Einstellung ändern<br>(Untermenü Optionen)</p>
+        <p class="button-action-text">Einstellung ändern<br>(Untermenü-Optionen)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -116,24 +116,24 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE005;</p>
-        <p class="button-action-text">Halten um schneller zu navigieren</p>
+        <p class="button-action-text">Halten, um schneller zu navigieren</p>
     </div>
 </div>
 
 <div id="cheats" class="section-title">Cheats</div>
 <div class="section-body">
     <p>
-        nds-bootstrap kann Action Replay Cheats über eine <code>usrcheat.dat</code> Datenbank anwenden, die in <code>sd:/_nds/TWiLightMenu/extras</code> platziert werden muss. Sobald die Datenbank vorhanden ist, kannst du in TWiLight Menu++ im Spieleinstellungsmenü eines Spiels auswählen, welche Cheats verwendet werden sollen.
+        nds-bootstrap kann Action Replay Cheats über eine <code>usrcheat.dat</code>-Datenbank anwenden, die sich in <code>sd:/_nds/TWiLightMenu/extras</code> befinden muss. Sobald die Datenbank vorhanden ist, kannst du in TWiLight Menu++ im Spieleinstellungsmenü eines Spiels auswählen, welche Cheats verwendet werden sollen.
     </p>
     <hr>
     <p>
-        DeadSkullzJr's Cheatdatenbank wird empfohlen, da es die größte und aktuellste ist:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
+        Wir empfehlen die Cheat-Datenbank von DeadSkullzJr, da sie die größte und aktuellste ist:<br><a href="https://r.pk11.us/DSJCheats">r.pk11.us/DSJCheats</a>
     </p>
     <p>
         Wenn du selbst eine erstellen möchtest, kannst du alternativ R4CCE auf einem Computer verwenden:<br><a href="https://r.pk11.us/r4cce">r.pk11.us/r4cce</a>
     </p>
     <hr>
     <p>
-        Denke daran, dass die Implementierung von E-Type Cheats in nds-bootstrap instabil ist und dein Code daher möglicherweise nicht funktioniert. Das ist kein Fehler an der Datenbank, und wir hoffen, dieses Problem in nds-bootstrap bald beheben zu können.
+        Denke daran, dass die Implementierung von E-Type Cheats in nds-bootstrap instabil ist und dein Code daher möglicherweise nicht funktioniert. Das ist kein Fehler an der Datenbank. Wir hoffen, dieses Problem in nds-bootstrap bald beheben zu können.
     </p>
 </div>

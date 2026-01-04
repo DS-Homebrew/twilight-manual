@@ -19,7 +19,7 @@ title: nds-bootstrap
         For å se om et spill er kompatibelt med nds-bootstrap, sjekk kompabilitetslisten:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        For den beste kompatibiliteten på flashkortet. Vi anbefaler å få en DS Memory Expansion Pake.
+        For den beste kompatibiliteten på flashkortet. Vi anbefaler å få en DS Memory Expansion Pak.
     </p>
 </div>
 

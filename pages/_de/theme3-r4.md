@@ -7,7 +7,7 @@ title: R4 Original Theme
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Vorherige / Nächste Option</p>
+        <p class="button-action-text">Vorherige/Nächste Option</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -17,7 +17,7 @@ title: R4 Original Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Zum DSi/3DS-HOME-Menü zurückkehren</p>
+        <p class="button-action-text">Zum DSi-/3DS-HOME-Menü zurückkehren</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -35,12 +35,12 @@ title: R4 Original Theme
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Vorheriges / Nächstes Element</p>
+        <p class="button-action-text">Vorheriges/Nächstes Element</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Gehe um 10 nach oben / unten</p>
+        <p class="button-action-text">Um 10 nach oben/unten bewegen</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -55,7 +55,7 @@ title: R4 Original Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Element löschen / verstecken</p>
+        <p class="button-action-text">Element löschen/verstecken</p>
     </div>
     <hr>
     <div class="button-action-group">

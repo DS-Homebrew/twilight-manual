@@ -35,11 +35,11 @@ title: Inicio
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Toca la pantalla táctil"></p>
-        <p class="button-action-text">Pulsa en un enlace para ir a esa página</p>
+        <p class="button-action-text">Pulsa sobre un enlace para ir a esa página</p>
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">Atajos de inicio de TWILight Menu++</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Atajos de Arranque de TWILight Menu++</div>
 <div class="section-body">
     <p>
         Mantén &#xE000;, &#xE001;, &#xE002; y &#xE003; para restablecer los ajustes de TWiLight Menu++.
@@ -54,9 +54,9 @@ title: Inicio
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Acerca de los temas</div>
+<div id="theme-information" class="section-title">Acerca de los Temas</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ tiene 6 temas diferentes entre los que puedes elegir. Estos son menús alternativos con diseños diferentes, algunos de ellos con estilos de navegación completamente distintos.</p>
+    <p class="mb-2">TWiLight Menu++ tiene 6 temas diferentes entre los que puedes elegir. Estos son menús alternativos con diferentes diseños, algunos de ellos con estilos de navegación completamente distintos.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -97,9 +97,9 @@ title: Inicio
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Lanzadores de juegos</div>
+<div id="game-loaders" class="section-title">Lanzadores de Juegos</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, como su propio nombre indica, es simplemente un menú. No lanza las ROMs por sí mismo. Aquí están los manuales para los lanzadores de ROMs:</p>
+    <p class="mb-2">TWiLight Menu++, como su nombre indica, es simplemente un menú. No inicia las ROMs por sí mismo. Aquí están los manuales para los lanzadores de ROMs:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,7 +116,7 @@ title: Inicio
     </div>
 </div>
 
-<div id="other-information" class="section-title">Más información</div>
+<div id="other-information" class="section-title">Más Información</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">

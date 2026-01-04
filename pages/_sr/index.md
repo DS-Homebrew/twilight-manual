@@ -1,62 +1,62 @@
 ---
 banner: /assets/images/manual-home.png
-title: الشاشة الرئيسية
+title: Home
 ---
 
-<div id="button-controls" class="section-title">أزرار التحكم</div>
+<div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">التمرير لأعلى وأسفل</p>
+        <p class="button-action-text">Scroll up and down</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">الصفحة السابقة / التالية</p>
+        <p class="button-action-text">Previous / next page</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">الرجوع الى الصفحة المختارة مسبقاً</p>
+        <p class="button-action-text">Return to the previously selected page</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">إغلاق الدليل</p>
+        <p class="button-action-text">Close manual</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">عناصر التحكم باللمس</div>
+<div id="touch-controls" class="section-title">Touch Controls</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="التمرير لأعلى/لأسفل على شاشة اللمس"></p>
-        <p class="button-action-text">التمرير لأعلى وأسفل</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
+        <p class="button-action-text">Scroll up and down</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="المس الشاشة"></p>
-        <p class="button-action-text">اضغط على رابط للانتقال إلى صفحته</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
+        <p class="button-action-text">Tap on a link to go to its page</p>
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">اختصارات تشغيل TWiLight Menu++</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
 <div class="section-body">
     <p>
-        اضغط مطولا على &#xE000;، &#xE001;، &#xE002;، و&#xE003; لإعادة تعيين إعدادات TWiLight Menu++.
+        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
     </p>
     <hr>
     <p>
-        اضغط مطولًا على SELECT للانتقال مباشرة إلى الإعدادات.
+        Hold SELECT to directly go to the settings menu.
     </p>
     <hr>
     <p>
-        اضغط مطولًا على &#xE001; لفتح آخر ROM تم تشغيله.
+        Hold &#xE001; to load the last ran ROM.
     </p>
 </div>
 
-<div id="theme-information" class="section-title">معلومات السمة</div>
+<div id="theme-information" class="section-title">Theme Information</div>
 <div class="section-body">
-    <p class="mb-2">لدر TWiLight Menu ++ 6 سمات مختلفة يمكنك الاختيار من بينها. هذه هي القوائم البديلة التي تحتوي جميعها على تصميمات مختلفة، وبعضها له أنماط تنقل منفصلة تماماً.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -85,7 +85,7 @@ title: الشاشة الرئيسية
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">R4 Original</a>
+                <a href="theme3-r4">Original R4</a>
             </p>
         </div>
         <div class="grid-item">
@@ -97,9 +97,9 @@ title: الشاشة الرئيسية
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">مشغّل الألعاب</div>
+<div id="game-loaders" class="section-title">Game Loaders</div>
 <div class="section-body">
-    <p class="mb-2">قائمة TWiLight Menu++، كما يوحي الاسم، هي مجرد قائمة. لا تقوم بتشغيل الROMs. فيما يلي الصفحات الإرشادية لمشغلات الـROM:</p>
+    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,29 +116,29 @@ title: الشاشة الرئيسية
     </div>
 </div>
 
-<div id="other-information" class="section-title">معلومات أخرى</div>
+<div id="other-information" class="section-title">Other Information</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">قائمة DS الكلاسيكية</a>
+                <a href="ds-classic-menu">DS Classic Menu</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">دردشة</a>
+                <a href="chat">Chat</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">الإعدادات</a>
+                <a href="settings">Settings</a>
             </p>
         </div>
     </div>
     <p>
-        هل تريد المزيد من المعلومات عن TWiLight Menu++؟ تحقق من الويكي:<a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

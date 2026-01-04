@@ -63,7 +63,7 @@ title: Tema Homebrew Launcher
 <div id="page-system" class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
-        Tema Homebrew Launcher m'bagi berkasnya berhalaman dengan batas 40 butir di tiap halaman. Anda bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
+        Tema HomebrewLauncher membagi berkasnya 40 butir tiap halaman. Anda bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
     </p>
     <ul>
         <li><p>Menekan &#xE004; di pojok kanan halaman akan langsung ke butir pertama halamannya</p></li>
@@ -82,7 +82,7 @@ title: Tema Homebrew Launcher
     <ul>
         <li><strong>Menu Beranda</strong>: Pada konsol Nintendo DSi & Nintendo 3DS, opsi ini bisa digunakan untuk kembali ke menu beranda</li>
         <li><strong>Pengaturan</strong>: Memilih ini akan meluncurkan menu untuk menata atur TWiLight Menu++ dan peluncurnya</li>
-        <li><strong>Opsi Kartrid</strong>: Pada DS orisinal atau DS Lite, kartrid Slot-2 juga bisa dijalankan dari sini. Jika dibaca dari kartu SD pada Nintendo DSi & Nintendo 3DS, kartrid Slot-1 bisa dimuat atau -di flashcard tertentu- bisa menavigasi ke isi kartu SD dari flashcard atau konsol</li>
+        <li><strong>Opsi Kartrid</strong>: Jika di DS orisinal atau DS Lite, opsi ini akan menjalankan kartrid Slot-2. Jika di kartu SD Nintendo DSi dan Nintendo 3DS, opsi ini menjalankan kartrid Slot-1; atau, jika di flashcard tertentu, untuk beralih ke kartu SD konsol atau flashcard</li>
         <li><strong>Manual</strong>: Ini akan membuka manual TWiLight Menu++,<br>nih kamu sedang lihat :P</li>
     </ul>
 </div>

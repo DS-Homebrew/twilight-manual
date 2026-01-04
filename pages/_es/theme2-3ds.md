@@ -32,7 +32,7 @@ title: Tema Nintendo 3DS
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Abrir ajustes del juego</p>
+        <p class="button-action-text">Abrir ajustes por juego</p>
     </div>
 </div>
 
@@ -55,14 +55,14 @@ title: Tema Nintendo 3DS
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Sistema de páginas</div>
+<div id="page-system" class="section-title">Sistema de Páginas</div>
 <div class="section-body">
     <p>
-        El tema Nintendo 3DS divide elementos en páginas con un máximo de 40 elementos por página. Puedes navegar a través de las páginas con los gatillos &#xE004; y &#xE005;.
+        El tema Nintendo 3DS divide los elementos en páginas con un máximo de 40 elementos por página. Puedes navegar a través de las páginas con los gatillos &#xE004; y &#xE005;.
     </p>
     <ul>
-        <li><p>Al pulsar &#xE004; en la página más a la izquierda llegarás a la primera entrada de la página</p></li>
-        <li><p>Al pulsar &#xE005; en la página más a la derecha llegarás a la última entrada de la página</p></li>
+        <li><p>Al pulsar &#xE004; en la página más a la izquierda saltarás al primer elemento de la página</p></li>
+        <li><p>Al pulsar &#xE005; en la página más a la derecha saltarás al último elemento de la página</p></li>
     </ul>
     <p>
         Si los gatillos no funcionan, puedes usar SELECT + &#xE07E; en su lugar.

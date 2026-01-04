@@ -9,7 +9,7 @@ title: nds-bootstrap
         nds-bootstrap è un applicazione homebrew utilizzata da TWiLight Menu++ per avviare dump delle cartuccie del DS(i), DSiWare e dell'homebrew in modalità DS dalla scheda SD del Nintendo DSi / Nintendo 3DS.
     </p>
     <p>
-        Può anche essere utilizzato su flashcard, Tuttavia la compatibilità è minore, e perciò destinato principalmente a flashcard homebrew-only e con bassa compatibilità.
+        Può anche essere utilizzato su flashcard, Tuttavia la compatibilità è minore e perciò destinato principalmente a flashcard solo homebrew o con bassa compatibilità.
     </p>
 </div>
 
@@ -19,17 +19,17 @@ title: nds-bootstrap
         Per vedere se un gioco è compatibile con nds-bootstrap, controlla la lista di compatibilità: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
     </p>
     <p>
-        Per una migliore compatibilità con le flashcard, si consiglia di procurarsi un DS Memory Expansion Pak.
+        Per una migliore compatibilità con le flashcard, è consigliato prendere un DS Memory Expansion Pak.
     </p>
 </div>
 
-<div id="controls" class="section-title">Controlli In Gioco</div>
+<div id="controls" class="section-title">Controlli nel gioco</div>
 <div class="section-body">
     <p>
-        Premi &#xE004;, &#xE07A; e SELECT per aprire il menù di gioco.
+        Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco.
     </p>
     <p>
-        Può essere rimappato con la <code>Scorciatoia menù</code> nella pagina nds-bootstrap delle impostazioni di Twilight Menu++.
+        Può essere rimappato con la <code>Scorciatoia menu</code> nella pagina nds-bootstrap delle impostazioni di Twilight Menu++.
     </p>
     <hr>
     <p>
@@ -52,16 +52,16 @@ title: nds-bootstrap
     </p>
 </div>
 
-<div id="menu-controls" class="section-title">Controlli Menù In-Gioco</div>
+<div id="menu-controls" class="section-title">Controlli menu nel gioco</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Menù di navigazione</p>
+        <p class="button-action-text">Menu di navigazione</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Cambia impostazione<br>(Sottomenù opzioni)</p>
+        <p class="button-action-text">Cambia impostazione<br>(Sottomenu opzioni)</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -123,7 +123,7 @@ title: nds-bootstrap
 <div id="cheats" class="section-title">Trucchi</div>
 <div class="section-body">
     <p>
-        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dev'essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta lì, è possibile selezionare quali trucchi usare dal menù delle impostazioni per gioco di TWiLight Menu++.
+        nds-bootstrap può utilizzare i trucchi dell'Action Replay tramite il database <code>usrcheat.dat</code>, che dev'essere posizionato in <code>sd:/_nds/TWiLightMenu/extras</code>. Una volta messo il database lì, è possibile selezionare quali trucchi usare dal menu delle impostazioni del gioco in TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -134,6 +134,6 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tieni presente che l'implementazione dei trucchi E-type in nds-bootstrap è instabile, ed il tuo codice potrebbe non funzionare. Questo non è un difetto del database, e speriamo di risolvere questo problema in nds-bootstrap presto.
+        Tieni presente che l'implementazione dei trucchi E-type in nds-bootstrap è instabile, e il tuo codice potrebbe non funzionare. Non si tratta di un difetto del database, speriamo di risolvere questo problema in nds-bootstrap al più presto.
     </p>
 </div>

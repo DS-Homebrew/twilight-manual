@@ -41,7 +41,7 @@ title: Motyw Homebrew Launcher
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Sterowanie Dotykiem</div>
+<div id="touch-controls" class="section-title">Sterowanie dotykiem</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/left-right.png"></p>
@@ -60,7 +60,7 @@ title: Motyw Homebrew Launcher
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Strona Systemu</div>
+<div id="page-system" class="section-title">Podział na strony</div>
 <div class="section-body">
     <p>
         Motyw Homebrew Launcher dzieli elementy na strony z maksymalnie 40 elementami na stronę. Możesz nawigować przez strony za pomocą wyzwalaczy &#xE004; i &#xE005;.

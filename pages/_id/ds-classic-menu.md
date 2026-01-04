@@ -17,6 +17,6 @@ title: Menu DS Klasik
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Balik ke peramban berkas</p>
+        <p class="button-action-text">Balik ke perambah berkas</p>
     </div>
 </div>

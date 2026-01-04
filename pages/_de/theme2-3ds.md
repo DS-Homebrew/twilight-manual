@@ -3,7 +3,7 @@ banner: /assets/images/3ds-theme.png
 title: Nintendo 3DS Theme
 ---
 
-<div id="button-controls" class="section-title">Tasten-Steuerung</div>
+<div id="button-controls" class="section-title">Tastensteuerung</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -12,7 +12,7 @@ title: Nintendo 3DS Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Vorheriges / Nächstes Element</p>
+        <p class="button-action-text">Vorheriges/Nächstes Element</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: Nintendo 3DS Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Element löschen / verstecken</p>
+        <p class="button-action-text">Element löschen/verstecken</p>
     </div>
     <hr>
     <div class="button-action-group">

@@ -6,7 +6,7 @@ title: nds-bootstrap
 <div id="about" class="section-title">O programie</div>
 <div class="section-body">
     <p>
-        ds-bootstrap to aplikacja homebrew używana przez TWiLight Menu++ do ładowania zrzutów kartridży DS(i), DSiWare i homebrew DS z karty SD Nintendo DSi / 3DS.
+        nds-bootstrap to aplikacja homebrew wykorzystywana przez TWiLight Menu++ do ładowania zrzutów kartridży DS(i) oraz aplikacji DSiWare i homebrew dla DS zapisanych na karcie SD włożonej do urządzenia Nintendo DSi / 3DS.
     </p>
     <p>
         Można go również stosować na flashcartach, jednak kompatybilność flashcartów jest niższa, więc jest ona przeznaczona głównie dla flashcardów i flashcardów homebrew o niskiej kompatybilności.
@@ -66,7 +66,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Wybierz Opcję</p>
+        <p class="button-action-text">Wybierz opcję</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -78,7 +78,7 @@ title: nds-bootstrap
         <p class="button-action button">&#xE005;</p>
         <p class="button-action-text">Puść jedną klatkę</p>
     </div>
-    <h3>Zrób Zrzut Ekranu</h3>
+    <h3>Zrzut ekranu</h3>
     <div class="button-action-group">
         <p class="button-action button">&#xE006;</p>
         <p class="button-action-text">Zmień bank VRAM</p>
@@ -86,7 +86,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Zapisz Zrzut Ekranu</p>
+        <p class="button-action-text">Zapisz zrzut ekranu</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -111,7 +111,7 @@ title: nds-bootstrap
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Skocz do adresu</p>
+        <p class="button-action-text">Przejdź do adresu</p>
     </div>
     <hr>
     <div class="button-action-group">

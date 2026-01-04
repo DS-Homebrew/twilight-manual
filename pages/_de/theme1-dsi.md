@@ -3,7 +3,7 @@ banner: /assets/images/dsi-theme.png
 title: Nintendo DSi Theme
 ---
 
-<div id="button-controls" class="section-title">Tasten-Steuerung</div>
+<div id="button-controls" class="section-title">Tastensteuerung</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE079;</p>
@@ -12,7 +12,7 @@ title: Nintendo DSi Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Vorheriges / Nächstes Element</p>
+        <p class="button-action-text">Vorheriges/Nächstes Element</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -27,7 +27,7 @@ title: Nintendo DSi Theme
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE002;</p>
-        <p class="button-action-text">Element löschen / verstecken</p>
+        <p class="button-action-text">Element löschen/verstecken</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -91,12 +91,12 @@ title: Nintendo DSi Theme
 <div id="select-menu" class="section-title">SELECT-Menü</div>
 <div class="section-body">
     <p>
-        Das Drücken von SELECT im Nintendo DSi-Thema öffnet standardmäßig das Klassische DS-Menü. In den TWiLight Menu++ Einstellungen kannst du es jedoch so ändern, dass es das SELECT-Menü öffnet, ein Miniaturmenü, das im Thema selbst eingebettet ist. Hier sind die Menüoptionen für das SELECT-Menü.
+        Das Drücken von SELECT im Nintendo DSi-Thema öffnet standardmäßig das Klassische DS-Menü. In den Einstellungen von TWiLight Menu++ kannst du es jedoch so ändern, dass das SELECT-Menü gestartet wird, ein Miniaturmenü, das in das Theme selbst eingebettet ist. Hier sind die Menüoptionen für das SELECT-Menü.
     </p>
     <ul>
-        <li><strong>Home-Menü</strong>: Auf den Nintendo DSi- und Nintendo 3DS-Konsolen kann diese Option zur Rückkehr ins Home-Menü benutzt werden</li>
+        <li><strong>Home-Menü</strong>: Auf den Nintendo DSi- und Nintendo 3DS-Konsolen kann diese Option zur Rückkehr ins Home-Menü verwendet werden</li>
         <li><strong>Einstellungen</strong>: Auswahl öffnet ein Menü zum Einstellen von Einstellungen für TWiLight Menu++ und dessen Launcher</li>
         <li><strong>Spielkarten-Optionen</strong>: Auf einem original-DS oder -DS Lite kannst du Slot-2-Cartridges von hier aus starten. Auf einem Nintendo DSi und Nintendo 3DS auf dem TWiLightMenu++ von der SD-Karte läuft, kannst du entweder deine Slot-1-Karte starten oder, auf bestimmten Flashkarten, umstellen welche SD-Karte TWiLight Menu++ navigiert</li>
-        <li><strong>Manuell</strong>: Damit wird die Anleitung für TWiLight Menu++ gestartet, es ist das, was du gerade ansiehst :P</li>
+        <li><strong>Manuell</strong>: Damit wird die Anleitung für TWiLight Menu++ geöffnet. Du siehst sie gerade an :P</li>
     </ul>
 </div>

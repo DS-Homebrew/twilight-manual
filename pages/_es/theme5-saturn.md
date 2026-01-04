@@ -60,14 +60,14 @@ title: Tema SEGA Saturn
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Sistema de páginas</div>
+<div id="page-system" class="section-title">Sistema de Páginas</div>
 <div class="section-body">
     <p>
-        El tema SEGA Saturn divide elementos en páginas con un máximo de 40 elementos por página. Puedes navegar a través de las páginas con los gatillos &#xE004; y &#xE005;:
+        El tema SEGA Saturn divide los elementos en páginas con un máximo de 40 elementos por página. Puedes navegar a través de las páginas con los gatillos &#xE004; y &#xE005;:
     </p>
     <ul>
-        <li><p>Al pulsar &#xE004; en la página más a la izquierda llegarás a la primera entrada de la página.</p></li>
-        <li><p>Al pulsar &#xE005; en la página más a la derecha llegarás a la última entrada de la página.</p></li>
+        <li><p>Al pulsar &#xE004; en la página más a la izquierda saltarás al primer elemento de la página</p></li>
+        <li><p>Al pulsar &#xE005; en la página más a la derecha saltarás al último elemento de la página</p></li>
     </ul>
     <p>
         Si los gatillos no funcionan, puedes usar SELECT + &#xE07E; en su lugar.
@@ -77,12 +77,12 @@ title: Tema SEGA Saturn
 <div id="select-menu" class="section-title">Menú SELECT</div>
 <div class="section-body">
     <p>
-        Presiona SELECT en el tema SEGA Saturn para mostrar el Menú Clásico DS por defecto. Sin embargo, en los ajustes de TWiLight Menu++ puedes cambiarlo para lanzar el Menú SELECT, un menú en miniatura dentro del propio tema. Estas son las opciones del Menú SELECT.
+        Pulsa SELECT en el tema SEGA Saturn para que, por defecto, aparezca el Menú Clásico DS. Sin embargo, en los ajustes de TWiLight Menu++, puedes cambiarlo por el Menú SELECT, un menú en miniatura dentro del propio tema. Estas son las opciones del Menú SELECT:
     </p>
     <ul>
-        <li><strong>Menú de Inicio:</strong> En las consolas Nintendo DSi y Nintendo 3DS, esta opción aparecerá para volver al menú de inicio.</li>
-        <li><strong>Ajustes:</strong> Selecciona esto para abrir el menú de configuración de TWiLight Menu++ y sus lanzadores.</li>
-        <li><strong>Opciones de cartucho:</strong> En una DS o DS Lite, puedes lanzar tus cartuchos de la Slot-2 desde aquí. En una Nintendo DSi y Nintendo 3DS ejecutándose desde la tarjeta SD puedes ejecutar tu tarjeta en Slot-1 o, en ciertas flashcards, cambiar qué tarjeta SD navega TWiLight Menu++.</li>
-        <li><strong>Manual</strong>: Esto abrirá el manual para TWiLight Menu++, es lo que estás viendo ahora mismo :P</li>
+        <li><strong>Menú de Inicio:</strong> En las consolas Nintendo DSi y Nintendo 3DS, esta opción aparecerá para volver al menú HOME</li>
+        <li><strong>Ajustes:</strong> Selecciona esto para abrir el menú de configuración de TWiLight Menu++ y sus lanzadores</li>
+        <li><strong>Opciones de Cartucho:</strong> En una DS o DS Lite, puedes lanzar tus cartuchos de la Slot-2 desde aquí. En una Nintendo DSi y Nintendo 3DS, ejecutándose desde una tarjeta SD, puedes correr tu cartucho en Slot-1 o, en ciertas flashcards, cambiar la tarjeta SD por la que navega TWiLight Menu++</li>
+        <li><strong>Manual</strong>: Esto abrirá el manual para TWiLight Menu++, que es lo que estás viendo ahora mismo :P</li>
     </ul>
 </div>

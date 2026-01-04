@@ -3,7 +3,7 @@ banner: /assets/images/manual-home.png
 title: Home
 ---
 
-<div id="button-controls" class="section-title">Controlli dei Pulsanti</div>
+<div id="button-controls" class="section-title">Controlli dei pulsanti</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -26,7 +26,7 @@ title: Home
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Controlli Touch</div>
+<div id="touch-controls" class="section-title">Controlli touch</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/up-down.png" alt="Scorri verso l'alto o verso il basso sul touch screen"></p>
@@ -39,10 +39,10 @@ title: Home
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Scorciatoie d'avvio</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Scorciatoie d'avvio di TWiLight Menu++</div>
 <div class="section-body">
     <p>
-        Tieni premuto &#xE000;, &#xE001;, &#xE002; e &#xE003; per resettare le impostazioni TWiLight Menu++.
+        Tieni premuto &#xE000;, &#xE001;, &#xE002; e &#xE003; per resettare le impostazioni di TWiLight Menu++.
     </p>
     <hr>
     <p>
@@ -54,7 +54,7 @@ title: Home
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Informazioni Temi</div>
+<div id="theme-information" class="section-title">Informazioni temi</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ ha 6 temi diversi tra cui puoi scegliere. Sono dei menu alternativi che hanno tutti design differenti, alcuni dei quali hanno stili di navigazione completamente separati.</p>
     <div class="grid-container-3">
@@ -97,9 +97,9 @@ title: Home
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Caricatori dei Giochi</div>
+<div id="game-loaders" class="section-title">Caricatori dei giochi</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, come suggerisce il nome, è solo un menù. In realtà non avvia le ROM. Ecco le pagine del manuale per ogni caricatore di ROM che abbiamo:</p>
+    <p class="mb-2">TWiLight Menu++, come suggerisce il nome, è solo un menu. In realtà non avvia le ROM. Ecco le pagine del manuale per ogni caricatore di ROM che abbiamo:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -122,7 +122,7 @@ title: Home
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">Menù DS Classico</a>
+                <a href="ds-classic-menu">Menu DS classico</a>
             </p>
         </div>
         <div class="grid-item">

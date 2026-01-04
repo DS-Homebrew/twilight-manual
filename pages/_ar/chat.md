@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/chat.png
-title: Chat
+title: دردشة
 ---
 
 <div id="discord" class="section-title">
@@ -13,9 +13,9 @@ title: Chat
 </div>
 <div class="section-body">
     <p>
-        Looking for a community of TWiLight Menu++ users? Join the DS<sup>(i)</sup> Mode Hacking Discord server on a compatible device in order to meet up with other TWLMenu++ users like yourself!
+        أتبحث عن مجتمع لمستخدمي TWiLight Menu++؟ انضم إلى سيرفر DS<sup>(i)</sup> Mode Hacking على جهازٍ متوافقٍ للالتقاء بمستخدمي TWiLight Menu++ الآخرين!
     </p>
     <p>
-        Server invite code: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
+        رابط دخول السيرفر: <a href="https://discord.gg/fCzqcWteC4">fCzqcWteC4</a>
     </p>
 </div>

@@ -3,7 +3,7 @@ banner: /assets/images/manual-home.png
 title: Startseite
 ---
 
-<div id="button-controls" class="section-title">Tasten-Steuerung</div>
+<div id="button-controls" class="section-title">Tastensteuerung</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
@@ -12,7 +12,7 @@ title: Startseite
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Vorherige / Nächste Seite</p>
+        <p class="button-action-text">Vorherige/Nächste Seite</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -29,24 +29,24 @@ title: Startseite
 <div id="touch-controls" class="section-title">Touch-Steuerung</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Auf dem Touchscreen hoch/runter scrollen"></p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Auf dem Touchscreen nach oben/unten scrollen"></p>
         <p class="button-action-text">Nach oben und unten scrollen</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action"><img src="/assets/images/tap.png" alt="Tippe auf den Touchscreen"></p>
-        <p class="button-action-text">Tippe auf einen Link, um zu seiner Seite zu gehen</p>
+        <p class="button-action-text">Tippe auf einen Link, um die entsprechende Seite aufzurufen</p>
     </div>
 </div>
 
 <div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Start-Tastenkürzel</div>
 <div class="section-body">
     <p>
-        Halte &#xE000;, &#xE001;, &#xE002;, und &#xE003; gedrückt, um die TWiLight Menu++ Einstellungen zurückzusetzen.
+        Halte &#xE000;, &#xE001;, &#xE002; und &#xE003; gedrückt, um die Einstellungen von TWiLight Menu++ zurückzusetzen.
     </p>
     <hr>
     <p>
-        Halte SELECT um direkt zum Einstellungsmenü zu gehen.
+        Halte SELECT gedrückt, um das Einstellungsmenü aufzurufen.
     </p>
     <hr>
     <p>
@@ -56,7 +56,7 @@ title: Startseite
 
 <div id="theme-information" class="section-title">Information zu Themes</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ hat 6 verschiedene Themes, aus denen du auswählen kannst. Diese sind alternative Menüs, die alle verschiedene Designs haben, einige von ihnen haben völlig eigene Navigationsstile.</p>
+    <p class="mb-2">TWiLight Menu++ hat 6 verschiedene Themes zur Auswahl. Hierbei handelt es sich um alternative Menüs mit unterschiedlichen Designs. Einige von ihnen haben völlig eigene Navigationsstile.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -99,7 +99,7 @@ title: Startseite
 
 <div id="game-loaders" class="section-title">Spiellader</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ ist, wie der Name schon sagt, nur ein Menü. Es startet die ROMs nicht wirklich selbst. Hier sind die Anleitungs-Seiten für die ROM-Lader:</p>
+    <p class="mb-2">TWiLight Menu++ ist, wie der Name schon sagt, nur ein Menü. Es startet die ROMs nicht wirklich selbst. Hier sind die Anleitungen für die ROM-Lader:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">

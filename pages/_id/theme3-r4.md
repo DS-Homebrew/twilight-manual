@@ -31,7 +31,7 @@ title: Tema R4 Original
     </div>
 </div>
 
-<div id="file-browser" class="section-title">Peramban Berkas</div>
+<div id="file-browser" class="section-title">Perambah Berkas</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>

@@ -7,7 +7,7 @@ title: 主頁
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">向上/下滾動頁面</p>
+        <p class="button-action-text">向上/向下滾動頁面</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -17,7 +17,7 @@ title: 主頁
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">回到上一頁面</p>
+        <p class="button-action-text">返回之前選擇的頁面</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -26,23 +26,23 @@ title: 主頁
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">點擊控制方法</div>
+<div id="touch-controls" class="section-title">點觸控制</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="拖動以上下滾動屏幕。"></p>
-        <p class="button-action-text">向上/下滾動頁面</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="在觸控​​螢幕上向上/向下捲動"></p>
+        <p class="button-action-text">向上/向下滾動頁面</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="點觸觸摸熒幕"></p>
-        <p class="button-action-text">點觸藍色超鏈接可以前往對應頁面</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="輕觸觸控螢幕"></p>
+        <p class="button-action-text">點觸連結即可前往其頁面</p>
     </div>
 </div>
 
 <div id="twilight-menu-boot-shortcuts" class="section-title">TWiLightMenu++啟動捷徑</div>
 <div class="section-body">
     <p>
-        同時按下&#xE000;, &#xE001;, &#xE002;, 和&#xE003; 來重置TWiLight Menu++設定。
+        同時按下&#xE000;, &#xE001;, &#xE002;, 和&#xE003; 以重置TWiLight Menu++的設定。
     </p>
     <hr>
     <p>
@@ -50,13 +50,13 @@ title: 主頁
     </p>
     <hr>
     <p>
-        按住&#xE001; 來加載上一遊玩的ROM。
+        按住&#xE001; 載入上一次玩的遊戲。
     </p>
 </div>
 
-<div id="theme-information" class="section-title">主題信息</div>
+<div id="theme-information" class="section-title">主題資訊</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ 有6種不同的主題可供使用 這些主題可以被選擇，並且會因介面不同變換控制方法。</p>
+    <p class="mb-2">TWiLight Menu++ 有6種不同的主題可供選擇。 這些主題是備選的選單，均具有不同的設計，其中一些具有完全獨立的導航風格。</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -85,7 +85,7 @@ title: 主頁
         <div class="grid-item">
             <img src="/assets/images/r4-icon.png">
             <p>
-                <a href="theme3-r4">R4主題</a>
+                <a href="theme3-r4">原始 R4</a>
             </p>
         </div>
         <div class="grid-item">
@@ -97,9 +97,9 @@ title: 主頁
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">載入遊戲</div>
+<div id="game-loaders" class="section-title">遊戲引導器</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++正如其名，只是一個選單而已。 不是自己來啟動遊戲ROM的。 此為我們使用的Rom載入工具的說明：</p>
+    <p class="mb-2">TWiLight Menu++正如其名，只是一個選單而已。 不是自己來啟動遊戲ROM的。 此為我們使用的ROM載入工具的說明：</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -122,13 +122,13 @@ title: 主頁
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic選單</a>
+                <a href="ds-classic-menu">DS懷舊選單</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">聯繫我們</a>
+                <a href="chat">聊天</a>
             </p>
         </div>
         <div class="grid-item">

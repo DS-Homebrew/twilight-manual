@@ -17,7 +17,7 @@ title: Ustawienia
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Zmień wartość<br>Wprowadź podmenu</p>
+        <p class="button-action-text">Zmień wartość<br>Otwórz podmenu</p>
     </div>
     <hr>
     <div class="button-action-group">
