@@ -20,7 +20,10 @@ jobs:
           deno-version: 2.2.11
 
       - name: Install Dependencies
-        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+        run: |
+          sudo apt-get update
+          sudo apt-get install ffmpeg
+          echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
 
       - uses: actions/setup-node@v4
 
