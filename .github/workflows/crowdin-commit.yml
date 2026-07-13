@@ -1,0 +1,52 @@
+name: Import translations from Crowdin
+
+on:
+  schedule:
+    - cron: "0 0 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: 2.2.11
+
+      - name: Install Dependencies
+        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+
+      - uses: actions/setup-node@v4
+
+      - name: Setup Crowdin CLI
+        run: npm i -g @crowdin/cli
+
+      - name: Pull from Crowdin
+        run: crowdin pull
+
+      - name: Pull origin
+        run: git pull origin main --ff-only # Pull origin in case a commit has been done while updating
+
+      - name: Test build
+        run: deno run --unstable --allow-env --allow-run --allow-net --allow-read --allow-write deno.ts web
+
+      - name: Commit changes
+        continue-on-error: true
+        run: |
+          git config user.email "twlbot@flashcarts.net"
+          git config user.name "TWLBot"
+
+          git checkout master
+          git commit -a -m "Automatic translation import"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master
+          github_token: ${{ secrets.TWLBOT_TOKEN }}
