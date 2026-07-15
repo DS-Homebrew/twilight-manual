@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Téma Homebrew Launcher
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Ovládání tlačítky</div>
@@ -63,7 +63,7 @@ title: Téma Homebrew Launcher
 <div id="page-system" class="section-title">Systém stránek</div>
 <div class="section-body">
     <p>
-        Téma Homebrew Launcher rozděluje položky na stránky s maximálním počtem 40 položek na stránku. Stránky můžete procházet pomocí triggerů &#xE004; a &#xE005;.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. Stránky můžete procházet pomocí triggerů &#xE004; a &#xE005;.
     </p>
     <ul>
         <li><p>Stisknutím tlačítka &#xE004; na stránce úplně vlevo přejdete na první položku na stránce</p></li>
@@ -77,7 +77,7 @@ title: Téma Homebrew Launcher
 <div id="select-menu" class="section-title">Nabídka SELECT</div>
 <div class="section-body">
     <p>
-        Stisknutím tlačítka SELECT v motivu Homebrew Launcher se ve výchozím nastavení zobrazí klasická nabídka DS. V nastavení TWiLight Menu++ jej však můžete změnit tak, aby spouštělo menu SELECT, miniaturní menu vložené do samotného motivu. Zde jsou možnosti nabídky SELECT Menu.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Zde jsou možnosti nabídky SELECT Menu.
     </p>
     <ul>
         <li><strong>Domovská nabídka</strong>: Na konzolích Nintendo DSi a Nintendo 3DS lze tuto možnost použít pro návrat do domovské nabídky</li>

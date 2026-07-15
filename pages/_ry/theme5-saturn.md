@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: セガサターンテーマ
+title: SEGA Saturn UI
 ---
 
 <div id="button-controls" class="section-title">ボタンコントロール</div>
@@ -63,7 +63,7 @@ title: セガサターンテーマ
 <div id="page-system" class="section-title">ページシステム</div>
 <div class="section-body">
     <p>
-        セガサターンテーマー、項目最大40項目ぬページんかい分ちゃびーん。 &#xE004;とぅ&#xE005;トリガーちかてぃ、ページ間ナビゲートなやびーん。
+        The SEGA Saturn UI splits items into pages with a maximum of 40 items per page. &#xE004;とぅ&#xE005;トリガーちかてぃ、ページ間ナビゲートなやびーん。
     </p>
     <ul>
         <li><p>左端ぬページっし&#xE004;うち、ページぬ最初ぬ項目んかい移動さびーん。</p></li>
@@ -77,7 +77,7 @@ title: セガサターンテーマ
 <div id="select-menu" class="section-title">SELECTメニュー</div>
 <div class="section-body">
     <p>
-        セガサターンテーマっしSELECTうしねー、デフォルトっしDSクラシックメニューぬ表示さりやびーん。 ただし、TWiLight Menu++ぬ設定っしぇー、テーマ自体んかい埋み込まったるミニメニューぬSELECTメニューふぃらちゅんが変更なやびーん。 くまうぅてー、SELECTメニューぬメニューオプションやいびーん：
+        Pressing SELECT in the SEGA Saturn UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. くまうぅてー、SELECTメニューぬメニューオプションやいびーん：
     </p>
     <ul>
         <li><strong>HOMEメニュー</strong>：ニンテンドーDSiとぅニンテンドー3DS本体っしぇー、くぬオプションちかてぃHOMEメニューんかいむどぅいるくとぅがなやびーん。</li>

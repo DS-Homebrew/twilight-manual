@@ -54,9 +54,9 @@ title: Startpagina
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Thema informatie</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ heeft 6 verschillende thema's waar je uit kunt kiezen. Dit zijn alternatieve menu's die allemaal een ander ontwerp hebben, waarbij sommige een volledig eigen navigatiestijl hebben.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Dit zijn alternatieve menu's die allemaal een ander ontwerp hebben, waarbij sommige een volledig eigen navigatiestijl hebben.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

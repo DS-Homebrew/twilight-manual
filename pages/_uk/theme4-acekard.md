@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Тема Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Тимчасово вимкнено</div>
-<div class="section-body">
-    <p>
-        Ця тема тимчасово вимкнена через пошкодження SD-карти. Щоб повернути тему назад, потрібно створити новий драйвер SD карти, що займає багато часу і зусиль.
-    </p>
-    <p>
-        Будь ласка, наберіться терпіння; її може не бути ще деякий час.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Керування</div>
 <div class="section-body">

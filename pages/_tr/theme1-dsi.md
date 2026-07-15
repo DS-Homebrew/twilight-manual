@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi Teması
+title: Nintendo DSi UI
 ---
 
 <div id="button-controls" class="section-title">Tuş Kontrolleri</div>
@@ -63,7 +63,7 @@ title: Nintendo DSi Teması
 <div id="page-system" class="section-title">Sayfa sistemi</div>
 <div class="section-body">
     <p>
-        Nintendo DSi teması, öğeleri sayfa başına maksimum 40 öğe olarak böler. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
+        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
     </p>
     <ul>
         <li><p>&#xE004; tuşu sizi sayfalardaki ilk öğeye götürür</p></li>
@@ -92,7 +92,7 @@ title: Nintendo DSi Teması
 <div id="select-menu" class="section-title">SELECT Menüsü</div>
 <div class="section-body">
     <p>
-        Nintendo DSi temasında SELECT düğmesine basmak, sizi DS Klasik menüsüne götürecektir. Ancak TWiLight Menu++ ayarlarında SELECT Menüsünü tema içerisine gömülü minyatür bir menü haline getirebilirsiniz. Burada SELECT menüsündeki menü seçeneklerini sıraladık.
+        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Burada SELECT menüsündeki menü seçeneklerini sıraladık.
     </p>
     <ul>
         <li><strong>Ana Menü</strong>: Nintendo DSi'da ve 3DS'te bu seçenek, ana menüye geri dönmek için kullanılır</li>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4 Eredeti téma
+title: R4 Eredeti felület
 ---
 
 <div id="main-menu" class="section-title">Főmenü</div>

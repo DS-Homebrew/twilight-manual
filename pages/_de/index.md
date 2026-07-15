@@ -46,7 +46,7 @@ title: Startseite
     </p>
     <hr>
     <p>
-        Halte SELECT gedrückt, um das Einstellungsmenü aufzurufen.
+        Halte SELECT gedrückt, um das Einstellungsmenü direkt aufzurufen.
     </p>
     <hr>
     <p>
@@ -54,9 +54,9 @@ title: Startseite
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Information zu Themes</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ hat 6 verschiedene Themes zur Auswahl. Hierbei handelt es sich um alternative Menüs mit unterschiedlichen Designs. Einige von ihnen haben völlig eigene Navigationsstile.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Hierbei handelt es sich um alternative Menüs mit unterschiedlichen Designs. Einige von ihnen haben völlig eigene Navigationsstile.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -97,9 +97,9 @@ title: Startseite
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Spiellader</div>
+<div id="game-loaders" class="section-title">Ladeprogramm</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ ist, wie der Name schon sagt, nur ein Menü. Es startet die ROMs nicht wirklich selbst. Hier sind die Anleitungen für die ROM-Lader:</p>
+    <p class="mb-2">TWiLight Menu++ ist nur ein Menü. Es startet die ROMs nicht selbst. Hier sind die Anleitungen für die ROM-Ladeprogramme:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">

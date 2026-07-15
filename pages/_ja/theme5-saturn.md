@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: セガサターンテーマ
+title: セガサターンのUI
 ---
 
 <div id="button-controls" class="section-title">ボタンコントロール</div>
@@ -63,7 +63,7 @@ title: セガサターンテーマ
 <div id="page-system" class="section-title">ページシステム</div>
 <div class="section-body">
     <p>
-        セガサターンテーマは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
+        セガサターンのUIは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
     </p>
     <ul>
         <li><p>左端のページで&#xE004;を押して、ページの最初の項目に移動します。</p></li>
@@ -77,7 +77,7 @@ title: セガサターンテーマ
 <div id="select-menu" class="section-title">SELECTメニュー</div>
 <div class="section-body">
     <p>
-        セガサターンテーマでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、テーマ自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：
+        セガサターンのUIでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、UI自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：
     </p>
     <ul>
         <li><strong>HOMEメニュー</strong>：ニンテンドーDSiとニンテンドー3DS本体では、このオプションを使ってHOMEメニューに戻れる。</li>

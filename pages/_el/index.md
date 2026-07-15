@@ -54,9 +54,9 @@ title: Αρχική
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Πληροφορίες Θέματος</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Μενού + + έχει 6 διαφορετικά θέματα από τα οποία μπορείτε να διαλέξετε. Αυτά είναι εναλλακτικά μενού που όλα έχουν διαφορετικά σχέδια, μερικά από αυτά έχουν εντελώς ξεχωριστά στυλ πλοήγησης.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Αυτά είναι εναλλακτικά μενού που όλα έχουν διαφορετικά σχέδια, μερικά από αυτά έχουν εντελώς ξεχωριστά στυλ πλοήγησης.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

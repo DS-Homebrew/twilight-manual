@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS主题
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">按键控制</div>
@@ -58,7 +58,7 @@ title: Nintendo 3DS主题
 <div id="page-system" class="section-title">页面系统</div>
 <div class="section-body">
     <p>
-        Nintendo 3DS 主题将条目分割成页面，每页最多40项。 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
     </p>
     <ul>
         <li><p>在最左侧的页面按下&#xE004; 来回到该页的第一个图标。</p></li>

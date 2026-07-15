@@ -1,68 +1,68 @@
 ---
 banner: /assets/images/settings.png
-title: Settings
+title: Asetukset
 ---
 
-<div id="conrols" class="section-title">Controls</div>
+<div id="conrols" class="section-title">Näppäinkomennot</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Previous / next option</p>
+        <p class="button-action-text">Edellinen / seuraava valinta</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Change value</p>
+        <p class="button-action-text">Muuta arvoa</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE000;</p>
-        <p class="button-action-text">Change value<br>Enter submenu</p>
+        <p class="button-action-text">Muuta arvoa<br>Siirry alivalikkoon</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Exit settings</p>
+        <p class="button-action-text">Poistu asetuksista</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE004; / &#xE002;</p>
-        <p class="button-action-text">Previous page</p>
+        <p class="button-action-text">Edellinen sivu</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003; / &#xE005;</p>
-        <p class="button-action-text">Next page</p>
+        <p class="button-action-text">Seuraava sivu</p>
     </div>
 </div>
 
-<div id="gui-settings" class="section-title">GUI settings</div>
+<div id="gui-settings" class="section-title">GUI-asetukset</div>
 <div class="section-body">
-    <p>On this page you can select which theme to use and other options that affect the look of TWiLight Menu++.</p>
+    <p>Tällä sivulla voit valita käytettävän teeman ja muita asetuksia, jotka vaikuttavat TWiLight Menu++:n ulkoasuun.</p>
 </div>
 
-<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap settings</div>
+<div id="nds-bootstrap-settings" class="section-title">nds-bootstrap asetukset</div>
 <div class="section-body">
-    <p>These are the global settings for games run by nds-bootstrap. Some additional settings are available per-game by pressing &#xE003; on DS games in the file browser.</p>
+    <p>Nämä ovat nds-bootstrapin suorittamien pelien yleiset asetukset. Joitakin lisäasetuksia on saatavilla pelikohtaisesti painamalla &#xE003; DS-pelien kohdalla tiedostoselaimessa.</p>
 </div>
 
-<div id="gbarunner2-settings" class="section-title">GBARunner2 settings</div>
+<div id="gbarunner2-settings" class="section-title">GBARunner2-asetukset</div>
 <div class="section-body">
-    <p>These settings let you select how games are displayed and for running faster or having better compatibility.</p>
+    <p>Näillä asetuksilla voit valita, miten pelit näytetään, ja toimivatko ne nopeammin vai ovat paremmin yhteensopivia.</p>
 </div>
 
-<div id="unlaunch-settings" class="section-title">Unlaunch settings</div>
+<div id="unlaunch-settings" class="section-title">Unlaunch asetukset</div>
 <div class="section-body">
-    <p>The settings here let you change how Unlaunch works, they work by patching the Unlaunch installer so you will have to reinstall it for these settings to take affect.</p>
-    <p>This page only appears on Nintendo DSi consoles when not launched from a flashcard. Flashcard and 3DS users will not see this page.</p>
+    <p>Näillä asetuksilla voit muuttaa Unlaunchin toimintaa. Ne toimivat päivittämällä Unlaunchin asennusohjelman, joten sinun on asennettava se uudelleen, jotta asetukset tulevat voimaan.</p>
+    <p>Tämä sivu näkyy Nintendo DSi -konsoleilla vain, kun sitä ei käynnistetä Flash-kortilta. Flash-korttien ja 3DS:n käyttäjät eivät näe tätä sivua.</p>
 </div>
 
-<div id="games-and-apps-settings" class="section-title">Games and Apps settings</div>
+<div id="games-and-apps-settings" class="section-title">Pelien ja sovellusten asetukset</div>
 <div class="section-body">
-    <p>Here you can select which emulator should be used for systems with multiple emulators and other settings that affect how games and apps are run that aren't using nds-bootstrap.</p>
+    <p>Tässä voit valita, mitä emulaattoria käytetään järjestelmissä, joissa on useita emulaattoreita ja muita asetuksia, jotka vaikuttavat pelien ja sovellusten suorittamiseen, jotka eivät käytä nds-bootstrapia.</p>
 </div>
 
-<div id="misc-settings" class="section-title">Misc. settings</div>
+<div id="misc-settings" class="section-title">Sekalaiset asetukset</div>
 <div class="section-body">
-    <p>This is where all the settings that don't fit elsewhere go, such as which language to use, whether to automatically boot the last played game, and whether to show the splash screens on startup, amongst others.</p>
+    <p>Tänne menevät kaikki asetukset, jotka eivät sovi muualle, kuten käytettävä kieli, viimeksi pelatun pelin automaattinen käynnistys ja aloitusnäyttöjen näyttäminen käynnistyksen yhteydessä, muiden muassa.</p>
 </div>

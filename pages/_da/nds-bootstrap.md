@@ -9,24 +9,21 @@ title: nds-selvstart
         nds-selvstart er en hjemmebrændt applikation, som bruges af TWiLight Menu++, til at indlæse DS(i)-kassettedump, DSiWare, og DS-tilstands hjemmebrændt fra Nintendo DSi / 3DS SD-kortet.
     </p>
     <p>
-        Det kan også bruges på flashkort men kompatibiliteten på flashkort er lavere, så det er hovedsageligt tiltænkt flashkort, der kun kan kører hjemmebrændt, og flashkort med lav kompatibilitet.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        For at se om et spil er kompatibelt med nds-selvstart, kontroller kompatibilitetslisten:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        For den bedste kompatibilitet med flashkort, foreslår vi, at anskaffe en "DS Memory Expansion Pak".
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Spilkontrol</div>
 <div class="section-body">
     <p>
-        Tryk på &#xE004;, &#xE07A; og SELECT, for at åbne spilmenuen.
+        Tryk på &#xE004;, &#xE07A; og SELECT, for at åbne spilmenuen. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Dette kan omlægges med <code>Menu-genvejstast</code> i siden for nds-selvstart, i TWiLight Menu++ indstillinger.
@@ -40,15 +37,7 @@ title: nds-selvstart
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A; og &#xE000; nede i 2 sekunder, for oprette et RAM-dump.
-    </p>
-    <hr>
-    <p>
         Hold &#xE004;, &#xE005;, &#xE07A; og &#xE001; nede i 2 sekunder, for at vende tilbage til TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE002; og &#xE079; nede i 1 sekund, for at ombytte skærmene.
     </p>
 </div>
 

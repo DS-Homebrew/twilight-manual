@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: ערכת הנושא SEGA Saturn
+title: SEGA Saturn UI
 ---
 
 <div id="button-controls" class="section-title">שליטה באמצעות הכפתורים</div>
@@ -63,7 +63,7 @@ title: ערכת הנושא SEGA Saturn
 <div id="page-system" class="section-title">מערכת העמודים</div>
 <div class="section-body">
     <p>
-        ערכת הנושא SEGA Saturn מחלקת את הפריטים לעמודים, עם מקסימום של 40 פריטים בעמוד. ניתן לנווט בין העמודים בעזרת הטריגרים &#xE004; ו-&#xE005;.
+        The SEGA Saturn UI splits items into pages with a maximum of 40 items per page. ניתן לנווט בין העמודים בעזרת הטריגרים &#xE004; ו-&#xE005;.
     </p>
     <ul>
         <li><p>לחיצה על &#xE004; בעמוד השמאלי ביותר תיקח אתכם לפריט הראשון בעמוד</p></li>
@@ -77,7 +77,7 @@ title: ערכת הנושא SEGA Saturn
 <div id="select-menu" class="section-title">תפריט SELECT</div>
 <div class="section-body">
     <p>
-        לחיצה על SELECT בערכת הנושא SEGA Saturn תעלה את תפריט ה-DS הקלאסי כברירת-מחדל. למרות זאת, בהגדרות ++TWiLight Menu ניתן לשנות זאת כדי להפעיל את תפריט ה-SELECT, תפריט קטן המוטמע בתוך ערכת הנושא עצמה. להלן האפשרויות בתפריט ה-SELECT.
+        Pressing SELECT in the SEGA Saturn UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. להלן האפשרויות בתפריט ה-SELECT.
     </p>
     <ul>
         <li><strong>תפריט הבית:</strong> בקונסולות Nintendo DSi ו-Nintendo 3DS ניתן להשתמש באפשרות זו לחזרה לתפריט הבית</li>

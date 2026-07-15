@@ -49,9 +49,11 @@ title: GBARunner2
     </p>
     <hr>
     <p>
-        請確認您GBA的BIOS檔案能對應以下CRC32 Hash碼:<code>81977335</code>
+        You can use our guide on the DS Homebrew wiki to learn how to dump it yourself:<br>
+        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
     </p>
     <p>
-        您可以前往此網站查詢:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Otherwise, ensure it matches the CRC32 hash of <code>81977335</code>, which you can do by uploading your dump to the following website:<br>
+        <a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>

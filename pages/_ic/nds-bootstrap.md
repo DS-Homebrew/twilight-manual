@@ -9,24 +9,21 @@ title: crwdns21114:0crwdne21114:0
         crwdns22258:0crwdne22258:0
     </p>
     <p>
-        crwdns20472:0crwdne20472:0
+        crwdns46943:0crwdne46943:0
     </p>
 </div>
 
 <div id="compatibility" class="section-title">crwdns20474:0crwdne20474:0</div>
 <div class="section-body">
     <p>
-        crwdns28599:0crwdne28599:0
-    </p>
-    <p>
-        crwdns20476:0crwdne20476:0
+        crwdns46945:0crwdne46945:0
     </p>
 </div>
 
 <div id="controls" class="section-title">crwdns24377:0crwdne24377:0</div>
 <div class="section-body">
     <p>
-        crwdns20480:0crwdne20480:0
+        crwdns20480:0crwdne20480:0 crwdns46947:0crwdne46947:0
     </p>
     <p>
         crwdns29182:0crwdne29182:0
@@ -40,15 +37,7 @@ title: crwdns21114:0crwdne21114:0
     </p>
     <hr>
     <p>
-        crwdns24367:0crwdne24367:0
-    </p>
-    <hr>
-    <p>
         crwdns24369:0crwdne24369:0
-    </p>
-    <hr>
-    <p>
-        crwdns24365:0crwdne24365:0
     </p>
 </div>
 

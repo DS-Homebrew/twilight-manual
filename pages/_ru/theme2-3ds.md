@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Тема Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Управление</div>
@@ -58,7 +58,7 @@ title: Тема Nintendo 3DS
 <div id="page-system" class="section-title">Система страниц</div>
 <div class="section-body">
     <p>
-        Тема Nintendo 3DS отображает максимум 40 элементов на каждой странице. Вы можете перемещаться по страницам, используя &#xE004; и &#xE005; триггеры.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Вы можете перемещаться по страницам, используя &#xE004; и &#xE005; триггеры.
     </p>
     <ul>
         <li><p>Нажмите &#xE004; на самой левой странице, чтобы перейти к первому элементу на этой странице</p></li>

@@ -54,9 +54,9 @@ title: Hjem
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Temainformasjon</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ har 6 forskjellige bakgrunnstemaer du kan velge fra. Dette er alternative menyer som alle har forskjellige design og noen av dem har helt individuelle navigasjonsstiler.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Dette er alternative menyer som alle har forskjellige design og noen av dem har helt individuelle navigasjonsstiler.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

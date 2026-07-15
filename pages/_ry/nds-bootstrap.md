@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrapー、ニンテンドーDSi・3DSぬSDカードからDSカートリッジダンプ、DSiウェアとぅDSモードぬ自作ソフト読み取いたみぬ、TWiLight Menu++っしちからりーる自作アプリやいびーん。
     </p>
     <p>
-        フラッシュカードんかいんちからりやびーしが、互換性がふぃくさるたみ、主に自作ソフトぬみぬフラッシュカードてぃがろーふぃくさる互換性ぬフラッシュカード対象とぅそーいびーん。
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">互換性</div>
 <div class="section-body">
     <p>
-        ゲームぬnds-bootstrapとぅ互換性があがちゃーが確認すんがー、互換性リスト確認しくぃみそーれー：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        フラッシュカードっしじょーとぅーな互換性ぬたみに、DSメモリー拡張カートリッジう勧めいさびーん。
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">ゲーム内コントロール</div>
 <div class="section-body">
     <p>
-        &#xE004;、&#xE07A;、SELECTうちゲーム内メニューふぃらちゃびーん。
+        &#xE004;、&#xE07A;、SELECTうちゲーム内メニューふぃらちゃびーん。 This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         くれー、TWiLight Menu++設定ぬnds-bootstrapぬページぬ<code>メニューホットキー</code>っし変更なやびーん。
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        &#xE004;、&#xE005;、&#xE07A;、&#xE000;2秒っし長押しRAMダンプ作成さびーん。
-    </p>
-    <hr>
-    <p>
         &#xE004;, &#xE005;, &#xE07A;, &#xE001; 2 秒間うし続けいねー、TWiLight Menu++ んかいむどぅやびーん。
-    </p>
-    <hr>
-    <p>
-        &#xE004;, &#xE005;, &#xE002;, &#xE079; 1秒間長押しーしーねー、画面ぬ入りちがーやびーん。
     </p>
 </div>
 

@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap是TWiLight Menu++所使用的一种自制程序，用于读取DS/DSi卡带ROM，DSiWare（DSi创软）以及在Nintendo DSi/3DS主机一侧的SD卡内DS自制程序。
     </p>
     <p>
-        它也可以用于烧录卡，但烧录卡上的兼容性较低，所以它主要是用于自制烧录卡和兼容性较低的烧录卡。
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">兼容性</div>
 <div class="section-body">
     <p>
-        要检索nds-bootstrap对于游戏的兼容性，请查看兼容表：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        为了最大限度保证在烧录卡上的兼容性，我们建议您同时使用DS Memory Expansion Pak。(DS/DS Lite专用内存扩展卡)
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">游戏内菜单控制</div>
 <div class="section-body">
     <p>
-        按 &#xE004;, &#xE07A;, 和 SELECT 打开游戏内菜单。
+        按 &#xE004;, &#xE07A;, 和 SELECT 打开游戏内菜单。 This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         可以在本软件的设置菜单中的“nds-bootstrap设置”中进行<code>菜单快捷键</code>的设定。
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE000; 2秒来创建内存转储。
-    </p>
-    <hr>
-    <p>
         按住 &#xE004;, &#xE005;, &#xE07A;, 和 &#xE001; 2秒后返回到 TWiLight Menu++。
-    </p>
-    <hr>
-    <p>
-        按住&#xE004;, &#xE005;, &#xE002;, and &#xE079; 1秒来切换屏幕。
     </p>
 </div>
 

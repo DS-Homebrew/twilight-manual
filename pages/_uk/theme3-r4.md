@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Оригінальна тема R4
+title: R4 Original UI
 ---
 
 <div id="main-menu" class="section-title">Головне меню</div>

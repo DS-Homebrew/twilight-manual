@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap هو تطبيق الـ homebrew الذي يستخدمه TWiLight Menu++ لتحميل العاب DS(i) DSiWare, وHomebrew على وضع DS من بطاقة SD.
     </p>
     <p>
-        يمكن أيضا استخدامها على الفلاش كارد، ولكن بتوافق أقل لذلك فهي مخصصة أساسا لبطاقات الـ homebrew فقط والفلاش كارد ذات التوافق المنخفض.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">التوافق</div>
 <div class="section-body">
     <p>
-        لمعرفة إذا ما كانت اللعبة متوافقة مع nds-bootstrap، تحقق من قائمة التوافق: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        للحصول على أفضل توافق مع البطاقات التعليمية، ننصحك بالحصول على DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">عناصر التحكم داخل اللعبة</div>
 <div class="section-body">
     <p>
-        اضغط على &#xE004;، &#xE07A;، وSELECT لفتح القائمة داخل اللعبة.
+        اضغط على &#xE004;، &#xE07A;، وSELECT لفتح القائمة داخل اللعبة. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         يمكن إعادة تعيين ذلك باستخدام <code>مفتاح القائمة السريعة</code> في صفحة nds-bootstrap في إعدادات قائمة ++TwiLight Menu ++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        اضغط مع الاستمرار على &#xE004; و &#xE005; و &#xE07A; و &#xE000; لمدة ثانيتين لإنشاء نسخة من ذاكرة الوصول العشوائي.
-    </p>
-    <hr>
-    <p>
         اضغط مع الاستمرار على &#xE004;,&#xE005;,&#xE07A; و &#xE001; لمدة ثانيتين للعودة إلى TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        اضغط مع الاستمرار على &#xE004;, &#xE005;, &#xE002; و&#xE079; لمدة ثانية واحدة لتبديل الشاشات.
     </p>
 </div>
 

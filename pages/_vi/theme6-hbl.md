@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Giao diện Homebrew Launcher
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Nút điều khiển</div>
@@ -63,7 +63,7 @@ title: Giao diện Homebrew Launcher
 <div id="page-system" class="section-title">Trang hệ thống</div>
 <div class="section-body">
     <p>
-        Giao diện Homebrew Launcher chia đối tượng thành các trang với tối đa 40 đối tượng 1 trang. Bạn có thể chuyển trang bằng cách dùng &#xE004; và &#xE005;.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. Bạn có thể chuyển trang bằng cách dùng &#xE004; và &#xE005;.
     </p>
     <ul>
         <li><p>Nhấn &#xE004; ở dưới cùng bên trái để nhảy về đối tượng đầu trang</p></li>
@@ -77,7 +77,7 @@ title: Giao diện Homebrew Launcher
 <div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
-        Nhấn SELECT ở giao diện Homebrew Launcher để đặt Menu DS cổ điển làm mặc định. Tuy nhiên, trong cài đặt Twilight Menu ++, bạn có thể thay đổi nó bằng cách khởi chạy SELECT Menu, menu thu nhỏ được nhúng bên trong chính giao diện. Đây là những tùy chọn của SELECT Menu.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Đây là những tùy chọn của SELECT Menu.
     </p>
     <ul>
         <li><strong>Menu chính</strong>: Trên máy Nintendo DSi và Nintendo 3DS, lựa chọn này có thể dùng để quay lại Menu chính</li>

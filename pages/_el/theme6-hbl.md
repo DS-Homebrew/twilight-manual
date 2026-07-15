@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Θέμα Homebrew Launcher
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Χειρισμός κουμπιών</div>
@@ -63,7 +63,7 @@ title: Θέμα Homebrew Launcher
 <div id="page-system" class="section-title">Σύστημα Σελίδας</div>
 <div class="section-body">
     <p>
-        Το Sega Saturn θέμα χωρίζει τα αντικείμενα σε σελίδες με 40 αντικείμενα ανα σελίδα. Μπορείτε να περιηγηθείτε στις σελίδες χρησιμοποιώντας τα &#xE004; και &#xE005; κουμπιά.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. Μπορείτε να περιηγηθείτε στις σελίδες χρησιμοποιώντας τα &#xE004; και &#xE005; κουμπιά.
     </p>
     <ul>
         <li><p>Πατώντας &#xE004; στην πιο αριστερή σελίδα θα μεταφερθείτε στο πρώτο αντικείμενο της σελίδας</p></li>
@@ -77,7 +77,7 @@ title: Θέμα Homebrew Launcher
 <div id="select-menu" class="section-title">Επιλογή Μενού</div>
 <div class="section-body">
     <p>
-        Πατώντας το SELECT στο SEGA Saturn theme θα εμφανιστεί το κλασικό μενού DS από προεπιλογή. Ωστόσο, στις παραμέτρους TWiLight Menu++, μπορείτε να το αλλάξετε για να ανοίξετε το μενού SELECT, ένα μικροσκοπικό μενού ενσωματωμένο μέσα στο ίδιο το θέμα. Εδώ είναι οι επιλογές μενού για το SELECT Menu.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Εδώ είναι οι επιλογές μενού για το SELECT Menu.
     </p>
     <ul>
         <li><strong>Home Menu</strong>: Στις κονσόλες Nintendo DSi και Nintendo 3DS, αυτή η επιλογή μπορεί να χρησιμοποιηθεί για να επιστρέψετε στο αρχικό μενού</li>

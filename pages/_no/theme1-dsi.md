@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi-tema
+title: Nintendo DSi UI
 ---
 
 <div id="button-controls" class="section-title">Knappestyring</div>
@@ -17,7 +17,7 @@ title: Nintendo DSi-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action"><span class="button">&#xE000; /</span> START</p>
-        <p class="button-action-text">Start valgt applikasjon</p>
+        <p class="button-action-text">Start det valgte programmet</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -32,7 +32,7 @@ title: Nintendo DSi-tema
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE003;</p>
-        <p class="button-action-text">Åpne innstillinger for per-spill</p>
+        <p class="button-action-text">Åpne instillinger for hvert spill</p>
     </div>
     <hr>
     <div class="button-action-group">
@@ -60,10 +60,10 @@ title: Nintendo DSi-tema
     </div> -->
 </div>
 
-<div id="page-system" class="section-title">Side System</div>
+<div id="page-system" class="section-title">Sidesystem</div>
 <div class="section-body">
     <p>
-        Nintendo DSi tema deler inn i sider med maksimalt 40 elementer per side. Du kan navigere gjennom sidene ved å bruke &#xE004; og &#xE005; utløsere.
+        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. Du kan navigere gjennom sidene ved å bruke &#xE004; og &#xE005; utløsere.
     </p>
     <ul>
         <li><p>Ved å trykke &#xE004; på venstre side vil du bli tatt til det første elementet på siden</p></li>
@@ -91,7 +91,7 @@ title: Nintendo DSi-tema
 <div id="select-menu" class="section-title">SELECT-meny</div>
 <div class="section-body">
     <p>
-        Ved å trykke på SELECT i Nintendo DSi-temaet, vises DS Classic-menyen som standard. Men i TWiLight Menu++ innstillingene, kan du endre den for å åpne SELECT menyen, en minimaturmeny innebygd i selve temaet. Her er menyalternativene for SELECT-menyen.
+        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Her er menyalternativene for SELECT-menyen.
     </p>
     <ul>
         <li><strong>Hjem Meny:</strong> På Nintendo DSi og Nintendo 3DS konsoller, vil dette alternativet for å returnere til Hjem-menyen vises</li>

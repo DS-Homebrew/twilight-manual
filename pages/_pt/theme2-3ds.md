@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Tema Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Controlos de Botão</div>
@@ -58,7 +58,7 @@ title: Tema Nintendo 3DS
 <div id="page-system" class="section-title">Sistema de Páginas</div>
 <div class="section-body">
     <p>
-        O tema Nintendo 3DS divide itens em páginas com um máximo de 40 itens por página. Podes mudar páginas com os botões &#xE004; e &#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Podes mudar páginas com os botões &#xE004; e &#xE005;.
     </p>
     <ul>
         <li><p>Carrega no botão &#xE004; na secção mais à esquerda para saltar para o primeiro ícone na página</p></li>

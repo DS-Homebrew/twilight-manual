@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Tema Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Temporalmente non dispoñíbel</div>
-<div class="section-body">
-    <p>
-        Este tema retirouse de xeito temporal debido á corrupción da tarxeta SD. Traelo de volta require dun novo driver para as tarxetas SD, o cal toma moito tempo e esforzo.
-    </p>
-    <p>
-        Por favor sexa paciente; pode que non esté dispoñíbel por unha tempada.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Botóns</div>
 <div class="section-body">

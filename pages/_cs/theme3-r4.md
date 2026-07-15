@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Původní R4 - Téma
+title: R4 Original UI
 ---
 
 <div id="main-menu" class="section-title">Hlavní nabídka</div>

@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UIテーマ
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">一時的に無効なさびたん</div>
-<div class="section-body">
-    <p>
-        くぬテーマー、SDカードぬ破損ぬたみに一時的に無効なさびたん。 うりとぅいむどぅすんがー、みーさるSDカードドライバーぬ作成ぬいりゆーやいびーん。くれーうふぉーくぬ時間とぅ労力ぬかかやびーん。
-    </p>
-    <p>
-        むどぅてぃくるか待っちくぃみそーれー。いちゅたーむどぅてぃくーんかむしりやびらん。
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">ボタンコントロール</div>
 <div class="section-body">

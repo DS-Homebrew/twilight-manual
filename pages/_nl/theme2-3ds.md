@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Thema
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Knopbesturing</div>
@@ -58,7 +58,7 @@ title: Nintendo 3DS Thema
 <div id="page-system" class="section-title">Pagina systeem</div>
 <div class="section-body">
     <p>
-        Het Nintendo 3DS-thema verdeelt items over pagina's met een maximum van 40 items per pagina. Je kunt door de pagina's navigeren met de &#xE004; en &#xE005; triggers.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Je kunt door de pagina's navigeren met de &#xE004; en &#xE005; triggers.
     </p>
     <ul>
         <li><p>Als je op &#xE004; drukt op de meest linkse pagina, ga je naar het eerste item op de pagina</p></li>

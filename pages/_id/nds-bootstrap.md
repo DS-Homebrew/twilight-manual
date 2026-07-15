@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap adalah homebrew yang digunakan TWiLight Menu++ untuk memuat hasil dump DS(i), DSiWare, dan homebrew mode-DS dari kartu SD Nintendo DSi / 3DS.
     </p>
     <p>
-        Aplikasi ini juga bisa digunakan di flashcard, tapi kesesuaiannya lebih rendah, maka lebih ditujukan untuk flashcard cuma-homebrew atau flashcard berkesesuaian rendah.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilitas</div>
 <div class="section-body">
     <p>
-        Untuk melihat jika permainannya kompatibel di nds-bootstrap, periksa di daftar kompatibilitas:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Untuk kompatibilitas lebih baik di flashcard, kami sarankan gunakan DS Memory Expansion Pak (Slot-2) untuk menambah RAM.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Kendali In-Game</div>
 <div class="section-body">
     <p>
-        Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game.
+        Tekan &#xE004;, &#xE07A;, dan SELECT untuk membuka menu in-game. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Tombol bisa dipeta ulang dengan <code>Ubah hotkey menu</code> pada halaman nds-bootstrap di TWLMenu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE000; selama 2 detik untuk membuat dump RAM.
-    </p>
-    <hr>
-    <p>
         Tahan &#xE004;, &#xE005;, &#xE07A;, dan &#xE001; selama 2 detik untuk balik ke TWLMenu++.
-    </p>
-    <hr>
-    <p>
-        Tahan &#xE004;, &#xE005;, &#xE002;, dan &#xE079; selama 1 detik untuk menukar layar.
     </p>
 </div>
 

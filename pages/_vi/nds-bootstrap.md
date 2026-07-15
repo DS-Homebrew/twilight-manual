@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap là một homebrew mà TWiLight Menu++ dùng để chạy trò chơi, DSiWare(i) và homebrew của DS từ thẻ SD của Nintendo DSi / 3DS.
     </p>
     <p>
-        Nó cũng có thể được sử dụng trên Flashcards, tuy nhiên khả năng tương thích trên Flashcards thấp hơn vì vậy nó chủ yếu dành cho các flashcards và homebrew chỉ chạy trên flashcards với khả năng tương thích thấp.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Tương thích</div>
 <div class="section-body">
     <p>
-        Để xem một game có tương thích với nds-bootstrap không, kiểm tra ở danh sách:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Để tương thích tốt nhất với flashcards, chúng tôi đề xuất bạn nên có 1 bộ nhớ DS mở rộng Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Điều khiển trong trò chơi</div>
 <div class="section-body">
     <p>
-        Nhấn &#xE004;, &#xE07A;, và SELECT để mở menu trong game.
+        Nhấn &#xE004;, &#xE07A;, và SELECT để mở menu trong game. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Có thể gắn lại phím với <code>Menu phím nóng</code> trong trang Games và Apps của cài đặt TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Giữ &#xE004;, &#xE005;, &#xE07A;, và &#xE000; khoảng 2 giây để tạo một RAM dump.
-    </p>
-    <hr>
-    <p>
         Giữ &#xE004;, &#xE005;, &#xE07A;, and &#xE001; khoảng 2 giây để trở lại TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Giữ &#xE004;, &#xE005;, &#xE002;, và &#xE079; khoàng 1 giây để đổi màn hình.
     </p>
 </div>
 

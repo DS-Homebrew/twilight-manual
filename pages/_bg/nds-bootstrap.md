@@ -3,30 +3,27 @@ banner: /assets/images/nds-bootstrap.png
 title: nds-bootstrap
 ---
 
-<div id="about" class="section-title">About</div>
+<div id="about" class="section-title">Относно</div>
 <div class="section-body">
     <p>
-        nds-bootstrap is a homebrew application used by TWiLight Menu++ to load DS(i) cartridge dumps, DSiWare, and DS-mode homebrew from the Nintendo DSi / 3DS SD card.
+        TWiLight Menu++ използва nds-bootstrap. Това е homebrew приложение, което се използва за зареждане на DS(i) касети, DSiWare и homebrew за DS от Nintendo DSi / 3DS SD картата.
     </p>
     <p>
-        It can also be used on flashcards, however compatibility on flashcards is lower so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
-<div id="compatibility" class="section-title">Compatibility</div>
+<div id="compatibility" class="section-title">Съвместимост</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        For the best compatibility on flashcards, we recommend getting a DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
-<div id="controls" class="section-title">In-Game Controls</div>
+<div id="controls" class="section-title">Контроли в играта</div>
 <div class="section-body">
     <p>
-        Press &#xE004;, &#xE07A;, and SELECT to open the in-game menu.
+        Натиснете &#xE004;, &#xE07A;, и SELECT, за да отворите менюто. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         This can be remapped with <code>Menu hotkey</code> in the nds-bootstrap page of TWiLight Menu++ settings.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE000; for 2 seconds to create a RAM dump.
-    </p>
-    <hr>
-    <p>
         Hold &#xE004;, &#xE005;, &#xE07A;, and &#xE001; for 2 seconds to return to TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Hold &#xE004;, &#xE005;, &#xE002;, and &#xE079; for 1 second to swap the screens.
     </p>
 </div>
 

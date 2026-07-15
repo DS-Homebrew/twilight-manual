@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: ערכת הנושא Nintendo DSi
+title: Nintendo DSi UI
 ---
 
 <div id="button-controls" class="section-title">שליטה באמצעות הכפתורים</div>
@@ -63,7 +63,7 @@ title: ערכת הנושא Nintendo DSi
 <div id="page-system" class="section-title">מערכת העמודים</div>
 <div class="section-body">
     <p>
-        ערכת הנושא Nintendo DSi מחלקת את הפריטים לעמודים, עם מקסימום של 40 פריטים בעמוד. ניתן לנווט בין העמודים בעזרת הטריגרים &#xE004; ו-&#xE005;.
+        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. ניתן לנווט בין העמודים בעזרת הטריגרים &#xE004; ו-&#xE005;.
     </p>
     <ul>
         <li><p>לחיצה על &#xE004; בעמוד השמאלי ביותר תיקח אתכם לפריט הראשון בעמוד</p></li>
@@ -91,7 +91,7 @@ title: ערכת הנושא Nintendo DSi
 <div id="select-menu" class="section-title">תפריט SELECT</div>
 <div class="section-body">
     <p>
-        לחיצה על SELECT בערכת הנושא Nintendo DSi תעלה את ה-DS Classic Menu כברירת-מחדל. למרות זאת, בהגדרות ++TWiLight Menu ניתן לשנות זאת כדי להפעיל את תפריט ה-SELECT, תפריט קטן המוטמע בתוך ערכת הנושא עצמה. להלן האפשרויות בתפריט ה-SELECT.
+        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. להלן האפשרויות בתפריט ה-SELECT.
     </p>
     <ul>
         <li><strong>תפריט הבית:</strong> בקונסולות Nintendo DSi ו-Nintendo 3DS ניתן להשתמש באפשרות זו לחזרה לתפריט הבית</li>

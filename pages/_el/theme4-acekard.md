@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Θέμα
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Προσωρινά απενεργοποιημένο</div>
-<div class="section-body">
-    <p>
-        Αυτό το θέμα έχει απενεργοποιηθεί προσωρινά λόγω διαφθοράς στην κάρτα SD. Φέρνοντας πίσω απαιτεί να κάνει ένα νέο πρόγραμμα οδήγησης κάρτα SD, η οποία παίρνει πολύ χρόνο και προσπάθεια.
-    </p>
-    <p>
-        Παρακαλώ να είστε υπομονετικοί· μπορεί να μην επιστρέψει για λίγο.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Χειρισμός κουμπιών</div>
 <div class="section-body">

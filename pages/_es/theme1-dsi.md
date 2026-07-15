@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Tema Nintendo DSi
+title: Nintendo DSi UI
 ---
 
 <div id="button-controls" class="section-title">Botones</div>
@@ -63,7 +63,7 @@ title: Tema Nintendo DSi
 <div id="page-system" class="section-title">Sistema de Páginas</div>
 <div class="section-body">
     <p>
-        El tema Nintendo DSi divide los elementos en páginas con un máximo de 40 elementos por página. Puedes navegar a través de las páginas con los gatillos &#xE004; y &#xE005;:
+        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. Puedes navegar a través de las páginas con los gatillos &#xE004; y &#xE005;:
     </p>
     <ul>
         <li><p>Al pulsar &#xE004; en la página más a la izquierda saltarás al primer elemento de la página</p></li>
@@ -91,7 +91,7 @@ title: Tema Nintendo DSi
 <div id="select-menu" class="section-title">Menú SELECT</div>
 <div class="section-body">
     <p>
-        Pulsa SELECT en el tema Nintendo DSi para que, por defecto, aparezca el Menú Clásico DS. Sin embargo, en los ajustes de TWiLight Menu++, puedes cambiarlo por el Menú SELECT, un menú en miniatura dentro del propio tema. Estas son las opciones del Menú SELECT:
+        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Estas son las opciones del Menú SELECT:
     </p>
     <ul>
         <li><strong>Menú de Inicio:</strong> En las consolas Nintendo DSi y Nintendo 3DS, esta opción aparecerá para volver al menú HOME</li>

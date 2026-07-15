@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap är ett homebrew-program som används av TWiLight Menu++ för att ladda DS(i) kassettdumpar, DSiWare och DS-mode homebrew från Nintendo DSi / 3DS SD-kortet.
     </p>
     <p>
-        Det kan också användas på minneskort, men kompatibilitetet på minneskort är lägre så det är främst avsett för homebrew-endast minneskort och dom med låg kompatibilitet.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilitet</div>
 <div class="section-body">
     <p>
-        För att se om ett spel är kompatibelt med nds-bootstrap, kontrollera kompatibilitetslistan:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        För bästa kompatibilitet på minneskort rekommenderar vi att du skaffar ett DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Kontroller i spel</div>
 <div class="section-body">
     <p>
-        Tryck på &#xE004;, &#xE07A;, och SELECT för att öppna menyn i spelet.
+        Tryck på &#xE004;, &#xE07A;, och SELECT för att öppna menyn i spelet. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Detta kan ändras med hjälp av <code>Meny-hotkey</code> på sidan nds-bootstrap i TWiLight Menu++-inställningarna.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Håll &#xE004;, &#xE005;, &#xE07A;, och &#xE000; i 2 sekunder för att skapa en RAM-dump.
-    </p>
-    <hr>
-    <p>
         Håll &#xE004;, &#xE005;, &#xE07A;, och &#xE001; i 2 sekunder för att återgå till TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Håll &#xE004;, &#xE005;, &#xE002;, och &#xE079; för 1 sekund för att byta skärmar.
     </p>
 </div>
 

@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap; TWiLight Menu++ tarafından kart yedeklerinin ve DS modundaki homebrew yazılımının Nintendo DSi/3DS SD kartından yüklenmesine yarayan bir homebrew uygulamasıdır.
     </p>
     <p>
-        Aynı zamanda flashcard'larda da kullanılabilirler, ancak flashcard'lardaki uyumluluk daha düşüktür. Bu yüzden öncelik olarak yalnızca homebrew için ve düşük uyumluluğa sahip kartlar için düşünülmüştür.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Uyumluluk</div>
 <div class="section-body">
     <p>
-        Bir oyunun nds-bootsrap ile uyumlu olup olmadığını görmek için şu uyumluluk listesine bakın: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Flashcard'lar ile en iyi uyumluluk için bir tane DS Memory Expansion Pak edinmenizi öneriyoruz.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Oyun içi Kontroller</div>
 <div class="section-body">
     <p>
-        Oyun içi menüyü açmak için &#xE004; &#xE07A; ve SELECT tuşlarına basın.
+        Oyun içi menüyü açmak için &#xE004; &#xE07A; ve SELECT tuşlarına basın. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Bu tuş kombinasyonu, TWiLight Menu++ Ayarları'ndaki nds-bootstrap Oyun ve Uygulama Ayarları sayfasından <code>Menü Kısayolu</code> seçeneğinden değiştirilebilir.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Bellek dökümü almak için &#xE004;, &#xE005;, &#xE07A; ve &#xE000; tuşlarına 2 saniye basılı tutun.
-    </p>
-    <hr>
-    <p>
         TWiLight Menu++'ye geri dönmek için &#xE004;, &#xE005;, &#xE07A; ve &#xE001; tuşlarına 2 saniye boyunca basılı tutun.
-    </p>
-    <hr>
-    <p>
-        Ekranları değiş tokuş etmek için &#xE004;, &#xE005;, &#xE002; ve &#xE079; tuşlarına 1 saniye boyunca basılı tutun.
     </p>
 </div>
 

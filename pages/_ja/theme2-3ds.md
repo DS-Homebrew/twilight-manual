@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: ニンテンドー3DSテーマ
+title: ニンテンドー3DSのUI
 ---
 
 <div id="button-controls" class="section-title">ボタンコントロール</div>
@@ -58,7 +58,7 @@ title: ニンテンドー3DSテーマ
 <div id="page-system" class="section-title">ページシステム</div>
 <div class="section-body">
     <p>
-        ニンテンドー3DSテーマは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
+        ニンテンドー3DSのUIは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
     </p>
     <ul>
         <li><p>左端のページで&#xE004;を押して、ページの最初の項目に移動します。</p></li>

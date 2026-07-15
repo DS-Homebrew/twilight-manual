@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher téma
+title: Homebrew Launcher felület
 ---
 
 <div id="button-controls" class="section-title">Gombvezérlés</div>
@@ -63,7 +63,7 @@ title: Homebrew Launcher téma
 <div id="page-system" class="section-title">Oldal rendszer</div>
 <div class="section-body">
     <p>
-        A Homebrew Launcher téma az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
+        A Homebrew Launcher felület az elemeket oldalakra bontja, oldalanként maximum 40 elemmel. Az oldalak közt navigálhatsz az &#xE004; és &#xE005; gombokkal.
     </p>
     <ul>
         <li><p>A &#xE004; megnyomása a balszélső oldalon az oldal első elemére visz</p></li>
@@ -77,7 +77,7 @@ title: Homebrew Launcher téma
 <div id="select-menu" class="section-title">SELECT menü</div>
 <div class="section-body">
     <p>
-        A SELECT megnyomása a Homebrew Launcher témában a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatja a SELECT menüre, egy miniatűr menüre, ami a témába van beágyazva. Az alábbiak a SELECT menü opciói.
+        A SELECT megnyomása a Homebrew Launcher felületben a DS Classic menüt hozza fel alapértelmezésben. Azonban a TWiLight Menu++ beállításokban megváltoztathatod a SELECT menüre, egy miniatűr menüre, ami a felületbe van beágyazva. Az alábbiak a SELECT menü opciói.
     </p>
     <ul>
         <li><strong>Kezdőlap menü:</strong> Nintendo DSi és Nintendo 3DS konzolokon ez az opció a kezdőlapra visszatéréshez jelenik meg</li>

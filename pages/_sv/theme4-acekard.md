@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Tema
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Tillfälligt inaktiverad</div>
-<div class="section-body">
-    <p>
-        Detta tema har tillfälligt inaktiverats på grund av att den korrumperar SD-kort. Att få tillbaka temat kräver att man skapar en ny SD-kort drivrutin, vilket skulle ta en hel del tid.
-    </p>
-    <p>
-        Ha tålamod, temat kommer nog inte återvända för ett tag.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Knappstyrning</div>
 <div class="section-body">

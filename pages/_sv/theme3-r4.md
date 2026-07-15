@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4 Original Teman
+title: R4 Original UI
 ---
 
 <div id="main-menu" class="section-title">Huvudmeny</div>

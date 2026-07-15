@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS téma
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Ovládání tlačítky</div>
@@ -58,7 +58,7 @@ title: Nintendo 3DS téma
 <div id="page-system" class="section-title">Systém stránek</div>
 <div class="section-body">
     <p>
-        Motiv Nintendo 3DS rozděluje položky na stránky s maximálním počtem 40 položek na stránku. Stránky můžete procházet pomocí triggerů &#xE004; a &#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Stránky můžete procházet pomocí triggerů &#xE004; a &#xE005;.
     </p>
     <ul>
         <li><p>Stisknutím tlačítka &#xE004; na stránce úplně vlevo přejdete na první položku na stránce</p></li>

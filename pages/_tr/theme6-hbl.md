@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher Teması
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Tuş Kontrolleri</div>
@@ -63,7 +63,7 @@ title: Homebrew Launcher Teması
 <div id="page-system" class="section-title">Sayfa sistemi</div>
 <div class="section-body">
     <p>
-        Homebrew Launcher teması, öğeleri sayfa başına maksimum 40 öğe olarak böler. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
     </p>
     <ul>
         <li><p>&#xE004; tuşu sizi sayfalardaki ilk öğeye götürür</p></li>
@@ -77,7 +77,7 @@ title: Homebrew Launcher Teması
 <div id="select-menu" class="section-title">SELECT Menüsü</div>
 <div class="section-body">
     <p>
-        Homebrew Launcher temasında SELECT düğmesine basmak, sizi DS Klasik menüsüne götürecektir. Ancak TWiLight Menu++ ayarlarında SELECT Menüsünü tema içerisine gömülü minyatür bir menü haline getirebilirsiniz. Burada SELECT Menüsündeki menü seçeneklerini sıraladık.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Burada SELECT Menüsündeki menü seçeneklerini sıraladık.
     </p>
     <ul>
         <li><strong>Ana Menü</strong>: Nintendo DSi'da ve 3DS'te bu seçenek, ana menüye geri dönmek için kullanılmaktadır</li>

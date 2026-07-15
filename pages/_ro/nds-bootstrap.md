@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap este o aplicație homebrew folosită de TWiLight Menu++ pentru a rula jocuri pentru DS(i), DSiWare, și homebrew pentru Modul DS de pe cardul SD pentru Nintendo DSi/3DS.
     </p>
     <p>
-        Poate fi folosit de asemenea pe flashcard-uri, dar compatibilatea pe acesta este mai scăzută deci este în principal menită pentru flashcard-uri numai pentru homebrew și cele cu compatibilitate scăzută.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibilitate</div>
 <div class="section-body">
     <p>
-        Pentru a vedea dacă un joc este compatibil cu nds-bootstrap, verifică lista de compatibilitate:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Pentru cea mai bună compatibilitate pe flashcard-uri, vă recomandăm să luați un DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Controale în jocuri</div>
 <div class="section-body">
     <p>
-        Apăsați &#xE004;, &#xE07A;, și SELECT pentru a deschide meniul din joc.
+        Apăsați &#xE004;, &#xE07A;, și SELECT pentru a deschide meniul din joc. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Aceasta poate schimbată cu <code>Hotkey-uri de Meniu</code> în pagina nds-bootstrap din setările TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Apăsați lung &#xE004;, &#xE005;, &#xE07A;, și &#xE000; pentru 2 secunde pentru a crea o copie RAM.
-    </p>
-    <hr>
-    <p>
         Apăsați lung &#xE004;, &#xE005;, &#xE07A;, and &#xE001; pentru 2 secunde pentru a vă întoarce în TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Apăsați lung &#xE004;, &#xE005;, &#xE002;, și &#xE079; pentru o secundă pentru a schimba ecranele.
     </p>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: 닌텐도 3DS 테마
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">버튼 조작</div>
@@ -58,7 +58,7 @@ title: 닌텐도 3DS 테마
 <div id="page-system" class="section-title">페이지 시스템</div>
 <div class="section-body">
     <p>
-        닌텐도 3DS 테마는 한 페이지당 최대 40개로 항목을 분할합니다. &#xE004; 와 &#xE005; 트리거를 이용해서 페이지를 탐색할 수 있습니다.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. &#xE004; 와 &#xE005; 트리거를 이용해서 페이지를 탐색할 수 있습니다.
     </p>
     <ul>
         <li><p>맨 왼쪽 페이지에서 &#xE004; 버튼을 누르면 페이지의 첫 번째 항목으로 이동하게 됩니다.</p></li>

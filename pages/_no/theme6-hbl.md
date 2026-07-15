@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher tema
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Knappestyring</div>
@@ -63,7 +63,7 @@ title: Homebrew Launcher tema
 <div id="page-system" class="section-title">Side System</div>
 <div class="section-body">
     <p>
-        Homebrew Launcher tema deler opp elementer til sider med maksimalt 40 elementer per side. Du kan navigere gjennom sidene ved å bruke &#xE004; og &#xE005; utløsere.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. Du kan navigere gjennom sidene ved å bruke &#xE004; og &#xE005; utløsere.
     </p>
     <ul>
         <li><p>Ved å trykke &#xE004; på venstre side vil du bli tatt til det første elementet på siden</p></li>
@@ -77,7 +77,7 @@ title: Homebrew Launcher tema
 <div id="select-menu" class="section-title">SELECT-meny</div>
 <div class="section-body">
     <p>
-        Ved å trykke på SELECT i Homebrew Launcher temaet vil bruke DS Classic Menu som standard. Men i TWiLight Menu++ innstillingene, kan du endre den for å åpne SELECT menyen, en minimaturmeny innebygd i selve temaet. Her er menyalternativene for SELECT-menyen.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Her er menyalternativene for SELECT-menyen.
     </p>
     <ul>
         <li><strong>Hjem Meny:</strong> På Nintendo DSi og Nintendo 3DS konsoller, vil dette alternativet for å returnere til Hjem-menyen vises</li>

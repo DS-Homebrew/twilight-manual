@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Originalt R4-tema
+title: R4 Original UI
 ---
 
 <div id="main-menu" class="section-title">Hovedmenu</div>

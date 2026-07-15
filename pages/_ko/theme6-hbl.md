@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: 홈브류 런처 테마
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">버튼 조작</div>
@@ -63,7 +63,7 @@ title: 홈브류 런처 테마
 <div id="page-system" class="section-title">페이지 시스템</div>
 <div class="section-body">
     <p>
-        홈브류 런처 테마는 한 페이지당 최대 40개로 항목을 분할합니다. &#xE004; 와 &#xE005; 트리거를 이용해서 페이지를 탐색할 수 있습니다.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. &#xE004; 와 &#xE005; 트리거를 이용해서 페이지를 탐색할 수 있습니다.
     </p>
     <ul>
         <li><p>맨 왼쪽 페이지에서 &#xE004; 버튼을 누르면 페이지의 첫 번째 항목으로 이동하게 됩니다.</p></li>
@@ -77,7 +77,7 @@ title: 홈브류 런처 테마
 <div id="select-menu" class="section-title">SELECT 메뉴</div>
 <div class="section-body">
     <p>
-        홈브류 런처 테마에서 SELECT 버튼을 누르면, 기본적으로 DS 클래식 메뉴가 나옵니다. 단, TWiLight Menu++ 설정에서는 테마 자체에 내장된 메뉴인 SELECT 메뉴를 실행하도록 변경할 수 있습니다. SELECT 메뉴에 대한 옵션은 다음과 같습니다.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. SELECT 메뉴에 대한 옵션은 다음과 같습니다.
     </p>
     <ul>
         <li><strong>홈 메뉴:</strong> 닌텐도 DSi 또는 닌텐도 3DS 본체에서 이 옵션을 선택하면 홈 메뉴로 돌아갑니다</li>

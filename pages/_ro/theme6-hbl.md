@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Tema Homebrew Launcher
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Controale cu Butoane</div>
@@ -63,7 +63,7 @@ title: Tema Homebrew Launcher
 <div id="page-system" class="section-title">Sistem de Pagini</div>
 <div class="section-body">
     <p>
-        Tema Homebrew Launcher împarte obiectele în pagini cu maxim 40 de elemente. Puteți naviga paginile folosind trigger-ele &#xE004; și &#xE005;.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. Puteți naviga paginile folosind trigger-ele &#xE004; și &#xE005;.
     </p>
     <ul>
         <li><p>Apăsând &#xE004; din partea cea mai din stânga a paginii vă va duce la primul obiect de pe pagină</p></li>
@@ -77,7 +77,7 @@ title: Tema Homebrew Launcher
 <div id="select-menu" class="section-title">Meniul SELECT</div>
 <div class="section-body">
     <p>
-        Apăsând SELECT în tema Homebrew Launcher va face să apară Meniul DS Classic implicit. Însă, în setările TWiLight Menu, puteți schimba aceasta pentru a lansa Meniul SELECT, un meniu miniatură încorporat în tema însăși. Aici sunt opțiunile pentru Meniul SELECT.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Aici sunt opțiunile pentru Meniul SELECT.
     </p>
     <ul>
         <li><strong>Meniul Home</strong>: Pe consolele Nintendo DSi și Nintendo 3DS, această opțiune poate fi folosită pentru a vă întoarce la meniul HOME</li>

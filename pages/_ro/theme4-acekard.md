@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Tema Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Dezactivat temporar</div>
-<div class="section-body">
-    <p>
-        Această temă a fost dezactivată temporar datorită unei corupții a cardului SD. Pentru a o aduce înapoi este necesar să creați un now driver SD, ce necesită mult timp și efort.
-    </p>
-    <p>
-        Vă rugăm aveți răbdare; nu va reveni pentru o vreme.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Controale cu Butoane</div>
 <div class="section-body">

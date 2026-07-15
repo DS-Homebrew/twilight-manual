@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Тема Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Временно отключено</div>
-<div class="section-body">
-    <p>
-        Эта тема временно отключена, так как она повреждает SD-карту. Для его восстановления работоспособности темы требуется создать новый драйвер SD-карты, что отнимает много времени и усилий.
-    </p>
-    <p>
-        Пожалуйста, наберитесь терпения; возможно, она еще не скоро будет возвращена.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Управление</div>
 <div class="section-body">

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcherテーマ
+title: Homebrew LauncherのUI
 ---
 
 <div id="button-controls" class="section-title">ボタンコントロール</div>
@@ -63,7 +63,7 @@ title: Homebrew Launcherテーマ
 <div id="page-system" class="section-title">ページシステム</div>
 <div class="section-body">
     <p>
-        Homebrew Launcherテーマは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
+        Homebrew LauncherのUIは、項目を最大40項目のページに分割します。 &#xE004;と&#xE005;トリガーを使って、ページ間をナビゲートできます。
     </p>
     <ul>
         <li><p>左端のページで&#xE004;を押して、ページの最初の項目に移動します。</p></li>
@@ -77,7 +77,7 @@ title: Homebrew Launcherテーマ
 <div id="select-menu" class="section-title">SELECTメニュー</div>
 <div class="section-body">
     <p>
-        Homebrew LauncherテーマでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、テーマ自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：
+        Homebrew LauncherのUIでSELECTを押すと、デフォルトでDSクラシックメニューが表示されます。 ただし、TWiLight Menu++の設定では、UI自体に埋め込まれたミニメニューのSELECTメニューを開くに変更できます。 ここでは、SELECTメニューのメニューオプションです：
     </p>
     <ul>
         <li><strong>HOMEメニュー</strong>：ニンテンドーDSiとニンテンドー3DS本体では、このオプションを使ってHOMEメニューに戻れる。</li>

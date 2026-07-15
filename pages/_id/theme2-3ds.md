@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Tema Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Tombol Kendali</div>
@@ -58,7 +58,7 @@ title: Tema Nintendo 3DS
 <div id="page-system" class="section-title">Sistem Halaman</div>
 <div class="section-body">
     <p>
-        Tema Nintendo 3DS membagi berkasnya 40 butir tiap halaman. Anda bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Anda bisa menavigasi halaman dengan tombol &#xE004; dan &#xE005;.
     </p>
     <ul>
         <li><p>Menekan &#xE004; di pojok kanan halaman akan langsung ke butir pertama halamannya</p></li>

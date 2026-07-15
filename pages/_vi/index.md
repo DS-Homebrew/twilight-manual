@@ -54,9 +54,9 @@ title: Trang chủ
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Thông tin giao diện</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ có 6 giao diện khác nhau. Đây là những giao diện với cách thiết kế khác nhau, một số chúng có cách điều hướng riêng biệt.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Đây là những giao diện với cách thiết kế khác nhau, một số chúng có cách điều hướng riêng biệt.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

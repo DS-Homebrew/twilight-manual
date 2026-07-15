@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Téma UI dřeva
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Dočasně nedostupné</div>
-<div class="section-body">
-    <p>
-        Toto téma bylo dočasně vypnuto z důvodu možnosti poškození karty SD. Obnovení vyžaduje vytvoření nového ovladače karty SD, což zabere spoustu času a úsilí.
-    </p>
-    <p>
-        Buďte prosím trpěliví; je možné, že se na nějakou dobu nevrátí.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Ovládání tlačítky</div>
 <div class="section-body">

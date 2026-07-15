@@ -54,9 +54,9 @@ title: דף הבית
     </p>
 </div>
 
-<div id="theme-information" class="section-title">מידע על ערכות נושא</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">++TWiLight Menu מכיל 6 ערכות נושא שונות שביכולתכם לבחור. אלו הם תפריטים חלופיים בעלי עיצובים שונים, לחלקם סגנונות ניווט שונים לגמרי.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. אלו הם תפריטים חלופיים בעלי עיצובים שונים, לחלקם סגנונות ניווט שונים לגמרי.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

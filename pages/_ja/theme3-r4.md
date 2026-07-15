@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4オリジナルテーマ
+title: R4オリジナルのUI
 ---
 
 <div id="main-menu" class="section-title">メインメニュー</div>

@@ -9,24 +9,21 @@ title: nds-bootstrap
         O nds-bootstrap é uma aplicação homebrew usado pelo TWiLight Menu++ para carregar dumps de Game Cards DS(i), DSiWare e homebrew no modo DS através de um Cartão SD nos sistemas Nintendo DSi / 3DS.
     </p>
     <p>
-        Também pode ser usado em flashcards, no entanto, a compatibilidade com flashcards é pouca, por isso, só se é designado para flashcards para Homebrew, ou flashcards com pouca compatibilidade.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibilidade</div>
 <div class="section-body">
     <p>
-        Para ver se o teu jogo é compatível com o nds-bootstrap, visite o website e veja se o teu jogo é compatível em:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Para melhor compatibilidade com o B4DS, recomendamos que compre/use um DS Memory Expansion Pak. (só para Nintendo DS Original ou DS Lite)
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Controlos In-game</div>
 <div class="section-body">
     <p>
-        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu in-game.
+        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu in-game. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Isto pode ser alterado com a <code>Tecla de macro</code> na página nds-bootstrap nas definições do TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Mantenha premido os botões &#xE004;, &#xE005;, &#xE07A;, e &#xE000; por 2 segundos para criar uma RAM dump.
-    </p>
-    <hr>
-    <p>
         Mantenha premido os botões &#xE004;, &#xE005;, &#xE07A;, e &#xE001; por 2 segundos para voltar ao TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Mantenha premido os botões &#xE004;, &#xE005;, &#xE002;, e &#xE079; por 1 segundo para trocar ecrãs.
     </p>
 </div>
 

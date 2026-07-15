@@ -54,9 +54,9 @@ title: Kezdőlap
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Téma információ</div>
+<div id="ui-information" class="section-title">Fwlület infomációk</div>
 <div class="section-body">
-    <p class="mb-2">A TWiLight Menu++ 6 különböző választható témával rendelkezik. Ezek alternatív menük, amik más-más dizájnnal rendelkeznek, néhány egészen más navigálási stílussal rendelkezik.</p>
+    <p class="mb-2">A TWiLight Menu++ 6 különböző választható felülettel rendelkezik. Ezek alternatív menük, amik más-más dizájnnal rendelkeznek, néhány egészen más navigálási stílussal rendelkezik.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

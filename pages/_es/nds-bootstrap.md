@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap es una aplicación homebrew usada por TWiLight Menu++ para ejecutar copias de seguridad de cartuchos de DS(i), homebrew en Modo DS y DSiWare desde la tarjeta SD de la Nintendo DSi/3DS.
     </p>
     <p>
-        También puede usarse con flashcards aunque la compatibilidad será menor, por lo que se enfoca principalmente para las dedicadas únicamente al homebrew y flashcard con baja compatibilidad.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibilidad</div>
 <div class="section-body">
     <p>
-        Para ver si un juego es compatible con nds-bootstrap, chequea la lista de compatibilidad:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Para tener una mejor compatibilidad en flashcards, recomendamos tener un Memory Expansion Pak de DS.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Controles en el Juego</div>
 <div class="section-body">
     <p>
-        Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú dentro del juego.
+        Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú dentro del juego. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Esto se puede remapear con el <code>Atajo al menú</code> en la página de nds-bootstrap de los ajustes de TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE000; por 2 segundos para crear un volcado de RAM.
-    </p>
-    <hr>
-    <p>
         Mantén pulsado &#xE004;, &#xE005;, &#xE07A; y &#xE001; por 2 segundos para volver a TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Mantén pulsado &#xE004;, &#xE005;, &#xE002; y &#xE079; por 1 segundo para intercambiar las pantallas.
     </p>
 </div>
 

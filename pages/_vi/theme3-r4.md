@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: Chủ đề R4 gốc
+title: R4 Original UI
 ---
 
 <div id="main-menu" class="section-title">Menu Chính</div>

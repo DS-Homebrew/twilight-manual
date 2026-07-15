@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap je homebrew aplikace, kterou používá TWiLight Menu++ k načítání dump kazet DS(i), DSiWare a homebrew v režimu DS z SD karty Nintendo DSi / 3DS.
     </p>
     <p>
-        Lze jej použít i na flashkarty, avšak kompatibilita na flashkarty je nižší, takže je určen především pro flashkarty určené pouze pro domácí použití a flashkarty s nízkou kompatibilitou.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilita</div>
 <div class="section-body">
     <p>
-        Chcete-li zjistit, zda je hra kompatibilní s nds-bootstrap, podívejte se do seznamu kompatibility:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>.
-    </p>
-    <p>
-        Pro nejlepší kompatibilitu flash karet doporučujeme pořídit si rozšiřující balíček DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Ovládání ve hře</div>
 <div class="section-body">
     <p>
-        Stisknutím tlačítek &#xE004;, &#xE07A; a SELECT otevřete herní nabídku.
+        Stisknutím tlačítek &#xE004;, &#xE07A; a SELECT otevřete herní nabídku. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         To lze přemapovat pomocí klávesové zkratky <code>Menu</code> na stránce nds-bootstrap v nastavení TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Podržením &#xE004;, &#xE005;, &#xE07A; a &#xE000; po dobu 2 sekund vytvoříte dump paměti RAM.
-    </p>
-    <hr>
-    <p>
         Podržením &#xE004;, &#xE005;, &#xE07A; a &#xE001; po dobu 2 sekund se vrátíte do nabídky TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Podržením tlačítek &#xE004;, &#xE005;, &#xE002; a &#xE079; po dobu 1 sekundy vyměníte obrazovky.
     </p>
 </div>
 

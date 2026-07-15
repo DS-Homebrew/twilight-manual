@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Θέμα Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Χειρισμός κουμπιών</div>
@@ -58,7 +58,7 @@ title: Θέμα Nintendo 3DS
 <div id="page-system" class="section-title">Σύστημα Σελίδας</div>
 <div class="section-body">
     <p>
-        Το θέμα Nintendo 3DS χωρίζει τα στοιχεία σε σελίδες με μέγιστο όριο 40 στοιχεία ανά σελίδα. Μπορείτε να περιηγηθείτε στις σελίδες χρησιμοποιώντας τα &#xE004; και &#xE005; κουμπιά.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Μπορείτε να περιηγηθείτε στις σελίδες χρησιμοποιώντας τα &#xE004; και &#xE005; κουμπιά.
     </p>
     <ul>
         <li><p>Πατώντας &#xE004; στην πιο αριστερή σελίδα θα μεταφερθείτε στο πρώτο αντικείμενο της σελίδας</p></li>

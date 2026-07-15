@@ -49,9 +49,11 @@ title: GBARunner2
     </p>
     <hr>
     <p>
-        Győződj meg arról, hogy a GBA BIOS dump megfelel a következő CRC32 hash-nak: <code>81977335</code>
+        A DS Homebrew wiki-n található útmutatónkból megtudhatod, hogyan készítheted el magad a BIOS-dumpot:<br>
+        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">        wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
     </p>
     <p>
-        Ezt ellenőrizheted ezen a weboldalon:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Egyéb esetben győződj meg arról, hogy egyezik-e a <code>81977335-ös</code> CRC32-hashértékkel; ezt úgy teheted meg, hogy feltöltöd a mentésedet a következő weboldalra:<br>
+        <a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>

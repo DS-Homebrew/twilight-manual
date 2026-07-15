@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Тема Середовища Доморобок
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">Керування</div>
@@ -63,7 +63,7 @@ title: Тема Середовища Доморобок
 <div id="page-system" class="section-title">Система сторінок</div>
 <div class="section-body">
     <p>
-        Тема Середовища Доморобок розбиває елементи на сторінки з максимум 40 елементів на сторінці. Ви можете переміщатися по сторінках за допомогою тригерів &#xE004; і &#xE005;.
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. Ви можете переміщатися по сторінках за допомогою тригерів &#xE004; і &#xE005;.
     </p>
     <ul>
         <li><p>Натиснувши &#xE004; на найлівішій сторінці, ви перейдете до першого елементу на сторінці</p></li>
@@ -77,7 +77,7 @@ title: Тема Середовища Доморобок
 <div id="select-menu" class="section-title">Меню SELECT</div>
 <div class="section-body">
     <p>
-        Натискання кнопки SELECT у темі Середовища Доморобок за замовчуванням відкриває Класичне DS меню. Однак у налаштуваннях TWiLight Menu++ ви можете змінити його, щоб запустити меню SELECT - мініатюрне меню, вбудоване в саму тему. Нижче наведено пункти для меню SELECT.
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Нижче наведено пункти для меню SELECT.
     </p>
     <ul>
         <li><strong>Головне меню</strong>: На консолях Nintendo DSi та Nintendo 3DS за допомогою цієї опції можна повернутися до головного меню</li>

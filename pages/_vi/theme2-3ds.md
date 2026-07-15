@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Giao diện Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Nút điều khiển</div>
@@ -58,7 +58,7 @@ title: Giao diện Nintendo 3DS
 <div id="page-system" class="section-title">Trang hệ thống</div>
 <div class="section-body">
     <p>
-        Giao diện Nintendo 3DS chia đối tượng thành các trang với tối đa 40 đối tượng 1 trang. Bạn có thể chuyển trang bằng cách dùng &#xE004; và &#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Bạn có thể chuyển trang bằng cách dùng &#xE004; và &#xE005;.
     </p>
     <ul>
         <li><p>Nhấn &#xE004; ở dưới cùng bên trái để nhảy về đối tượng đầu trang</p></li>

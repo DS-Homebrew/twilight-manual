@@ -54,9 +54,9 @@ title: Ana Menü
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Tema bilgileri</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, seçebileceğiniz 6 farklı temaya sahiptir. Bunlar farklı tasarımlara sahip alternatif menülerdir ve bazılarının tamamen farklı bir arayüzü vardır.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Bunlar farklı tasarımlara sahip alternatif menülerdir ve bazılarının tamamen farklı bir arayüzü vardır.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Giao diện Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Tạm thời bị vô hiệu hóa</div>
-<div class="section-body">
-    <p>
-        Giao diện này đã bị vô hiệu hóa tạm thời do thẻ SD bị hỏng. Để đưa nó trở lại đòi hỏi phải tạo ra một driver thẻ SD mới, mất rất nhiều thời gian và công sức.
-    </p>
-    <p>
-        Xin hãy kiên nhẫn; Nó có thể không được quay lại nhất thời.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Nút điều khiển</div>
 <div class="section-body">

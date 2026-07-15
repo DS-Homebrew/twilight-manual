@@ -9,27 +9,24 @@ title: nds-bootstrap
         nds-bootstrap ist eine Homebrew-Anwendung, die von TWiLight Menu++ verwendet wird, um DS(i)-Karten-Dumps, DSiWare und DS-Modus-Homebrew von der Nintendo DSi-/3DS-SD-Karte zu starten.
     </p>
     <p>
-        Es kann auch auf Flashcards verwendet werden, allerdings ist die Kompatibilität auf Flashcards geringer. Daher ist es hauptsächlich für Homebrew-Flashcards und Flashcards mit geringer Kompatibilität gedacht.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilität</div>
 <div class="section-body">
     <p>
-        Überprüfe die Kompatibilitätsliste, um herauszufinden, ob ein Spiel mit nds-bootstrap kompatibel ist:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Wir empfehlen für die beste Kompatibilität mit Flashcards ein DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Steuerung im Spiel</div>
 <div class="section-body">
     <p>
-        Drücke &#xE004;, &#xE07A; und SELECT, um das Menü im Spiel zu öffnen.
+        Drücke &#xE004;, &#xE07A; und SELECT, um das Menü im Spiel zu öffnen. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
-        Dies kann mit <code>Menü-Hotkey</code> auf der nds-bootstrap-Seite der TWiLight Menu++ Einstellungen erneut festgelegt werden.
+        Kann später mit <code>Menü-Hotkey</code> auf der nds-bootstrap-Seite der TWiLight Menu++-Einstellungen neu festgelegt werden.
     </p>
     <hr>
     <p>
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Halte &#xE004;, &#xE005;, &#xE07A; und &#xE000; für 2 Sekunden gedrückt, um einen RAM-Dump zu erstellen.
-    </p>
-    <hr>
-    <p>
         Halte &#xE004;, &#xE005;, &#xE07A; und &#xE001; für 2 Sekunden gedrückt, um zu TWiLight Menu++ zurückzukehren.
-    </p>
-    <hr>
-    <p>
-        Halte &#xE004;, &#xE005;, &#xE002; und &#xE079; für 1 Sekunde gedrückt, um die Bildschirme zu tauschen.
     </p>
 </div>
 

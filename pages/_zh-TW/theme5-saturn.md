@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn主題
+title: SEGA Saturn UI
 ---
 
 <div id="button-controls" class="section-title">按鈕控制</div>
@@ -63,7 +63,7 @@ title: SEGA Saturn主題
 <div id="page-system" class="section-title">翻頁系統</div>
 <div class="section-body">
     <p>
-        SEGA Saturn主題中，每頁可存放最多40個軟體。 您可以通過&#xE004; 和&#xE005; 來切換頁面。
+        The SEGA Saturn UI splits items into pages with a maximum of 40 items per page. 您可以通過&#xE004; 和&#xE005; 來切換頁面。
     </p>
     <ul>
         <li><p>在最初頁按下&#xE004; 會定位到本頁第一個項目。</p></li>
@@ -77,7 +77,7 @@ title: SEGA Saturn主題
 <div id="select-menu" class="section-title">SELECT選單</div>
 <div class="section-body">
     <p>
-        沒有更改設定時, 在SEGA Seturn主題下, 按SELECT進入DS Classic選單. 但是, 當設定為"Select選單"時, 按下SELECT會顯示一個小選單. 下為SELECT選單的說明
+        Pressing SELECT in the SEGA Saturn UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. 下為SELECT選單的說明
     </p>
     <ul>
         <li><strong>Home選單</strong>僅在Nintendo DSi或者NIntendo 3DS中，按下會自動退出程式, 然後返回主機Home選單</li>

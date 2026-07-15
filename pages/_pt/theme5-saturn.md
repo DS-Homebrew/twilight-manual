@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: Tema SEGA Saturn
+title: SEGA Saturn UI
 ---
 
 <div id="button-controls" class="section-title">Controlos de Botão</div>
@@ -63,7 +63,7 @@ title: Tema SEGA Saturn
 <div id="page-system" class="section-title">Sistema de Páginas</div>
 <div class="section-body">
     <p>
-        O tema SEGA Saturn divide itens em páginas com um máximo de 40 itens por página. Podes mudar páginas com os botões &#xE004; e &#xE005;.
+        The SEGA Saturn UI splits items into pages with a maximum of 40 items per page. Podes mudar páginas com os botões &#xE004; e &#xE005;.
     </p>
     <ul>
         <li><p>Carrega no botão &#xE004; na secção mais à esquerda para saltar para o primeiro ícone na página</p></li>
@@ -77,7 +77,7 @@ title: Tema SEGA Saturn
 <div id="select-menu" class="section-title">Menu SELECT</div>
 <div class="section-body">
     <p>
-        Ao carregar no botão SELECT no tema SEGA Saturn, irá abrir o Menu Clássico DS por defeito. No entanto, nas Definições do TWiLight Menu++, tu podes mudar isso para que abra o Menu SELECT, um menu miniatura incluído no tema. Aqui estão as opções incluídas no Menu SELECT.
+        Pressing SELECT in the SEGA Saturn UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Aqui estão as opções incluídas no Menu SELECT.
     </p>
     <ul>
         <li><strong>Menu HOME:</strong> Nos sistemas Nintendo DSi e Nintendo 3DS, esta opção irá ser visível para voltar para o Menu HOME dos sistemas em questão</li>

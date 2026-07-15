@@ -9,24 +9,21 @@ title: nds-bootstrap
         O nds-bootstrap é um aplicativo homebrew usado pelo TWiLight Menu++ para carregar dumps de cartuchos DS(i), DSiWare, e homebrews em modo DS do Nintendo DSi / cartões SD do 3DS.
     </p>
     <p>
-        Ele também pode ser usado em flashcards, no entanto a compatibilidade com eles é menor, sendo recomendado apenas para flashcards homebrew ou flashcards de baixa compatibilidade.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibilidade</div>
 <div class="section-body">
     <p>
-        Para conferir se o jogo é compatível com nds-bootstrap, acesse <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Para ter melhor compatibilidade com flashcards, recomendamos obter um DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Controles em jogo</div>
 <div class="section-body">
     <p>
-        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu em jogo.
+        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu em jogo. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Isso pode ser alterado no <code>menu de atalhos</code> na seção de Jogos e Aplicativos das configurações do TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Segure &#xE004;, &#xE005;, &#xE07A;, e &#xE000; por 2 segundos para criar um dump de RAM.
-    </p>
-    <hr>
-    <p>
         Segure &#xE004;, &#xE005;, &#xE07A;, e &#xE001; por 2 segundos para retornar ao TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Segure &#xE004;, &#xE005;, &#xE002;, e &#xE079; por 1 segundo para alternar as telas.
     </p>
 </div>
 

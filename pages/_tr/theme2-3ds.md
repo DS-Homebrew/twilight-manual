@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS Teması
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Tuş Kontrolleri</div>
@@ -58,7 +58,7 @@ title: Nintendo 3DS Teması
 <div id="page-system" class="section-title">Sayfa sistemi</div>
 <div class="section-body">
     <p>
-        Nintendo 3DS teması, öğeleri sayfa başına maksimum 40 öğe olarak böler. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. &#xE004; ve &#xE005; tuşları ile sayfalar arasında gezinebilirsiniz.
     </p>
     <ul>
         <li><p>&#xE004; tuşu sizi sayfalardaki ilk öğeye götürür</p></li>

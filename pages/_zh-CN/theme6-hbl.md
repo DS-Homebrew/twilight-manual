@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher主题
+title: Homebrew Launcher UI
 ---
 
 <div id="button-controls" class="section-title">按键控制</div>
@@ -63,7 +63,7 @@ title: Homebrew Launcher主题
 <div id="page-system" class="section-title">页面系统</div>
 <div class="section-body">
     <p>
-        Nintendo DSi 主题将条目分割成页面，每页最多40项。 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
+        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. 您可以通过&#xE004; 和&#xE005; 来触发导航页面。
     </p>
     <ul>
         <li><p>在最左侧的页面按下&#xE004; 来回到该页的第一个图标。</p></li>
@@ -77,7 +77,7 @@ title: Homebrew Launcher主题
 <div id="select-menu" class="section-title">SELECT菜单</div>
 <div class="section-body">
     <p>
-        按Select键启动时会默认使用DS经典菜单。 但是，如果您在TWiLight Menu++设置中将此项目设定为"SELECT菜单"，按下SELECT键后将会显示一个小型菜单。 以下为SELECT菜单内选项的说明。
+        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. 以下为SELECT菜单内选项的说明。
     </p>
     <ul>
         <li><strong>HOME菜单</strong>: 仅在Nintendo DSi或是Nintendo 3DS主机中出现，点击后主机将自动退出软件，并返回到主机的HOME菜单。</li>

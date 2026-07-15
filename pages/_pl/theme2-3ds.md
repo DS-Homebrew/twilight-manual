@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Motyw Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">Sterowanie przyciskami</div>
@@ -58,7 +58,7 @@ title: Motyw Nintendo 3DS
 <div id="page-system" class="section-title">Podział na strony</div>
 <div class="section-body">
     <p>
-        Motyw Nintendo 3DS dzieli elementy na strony maksymalnie 40 elementów na stronę. Możesz nawigować przez strony za pomocą analogów &#xE004; i &#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. Możesz nawigować przez strony za pomocą analogów &#xE004; i &#xE005;.
     </p>
     <ul>
         <li><p>Naciśnięcie &#xE004; na lewej stronie zabierze cię do pierwszego elementu na stronie</p></li>

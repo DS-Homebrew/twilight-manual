@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Trægrænseflade-Tema
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Midlertidigt deaktiveret</div>
-<div class="section-body">
-    <p>
-        Dette tema er blevet midlertidigt deaktiveret, på grund af skade på SD-kort. At få det tilbage, kræver at lave en ny SD-kortdriver, hvilket kræver megen tid og kraft.
-    </p>
-    <p>
-        Vær venligst tålmodig, det kommer muligvis ikke tilbage, i en rum tid.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Knapfunktioner</div>
 <div class="section-body">

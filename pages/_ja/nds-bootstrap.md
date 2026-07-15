@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrapは、ニンテンドーDSi・3DSのSDカードからDSカートリッジダンプ、DSiウェアとDSモードの自作ソフトを読み取りための、TWiLight Menu++で使われる自作アプリです。
     </p>
     <p>
-        フラッシュカードにも使えますが、互換性が低いため、主に自作ソフトのみのフラッシュカードや低い互換性のフラッシュカードを対象としています。
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">互換性</div>
 <div class="section-body">
     <p>
-        ゲームがnds-bootstrapと互換性があるかどうかを確認するには、互換性リストを確認してください：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        フラッシュカードで最高な互換性のために、DSメモリー拡張カートリッジを取得するをお勧めます。
+        ゲームがnds-bootstrapと互換性があるかどうかを確認するには、互換性リストを確認してください：<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">ゲーム内コントロール</div>
 <div class="section-body">
     <p>
-        &#xE004;、&#xE07A;、SELECTを押してゲーム内メニューを開きます。
+        &#xE004;、&#xE07A;、SELECTを押してゲーム内メニューを開きます。 This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         これは、TWiLight Menu++設定のnds-bootstrapのページの<code>メニューホットキー</code>で変更できます。
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        &#xE004;、&#xE005;、&#xE07A;、&#xE000;を2秒で長押してRAMダンプを作成します。
-    </p>
-    <hr>
-    <p>
         &#xE004;、&#xE005;、&#xE07A;、&#xE001;を2秒で長押してTWILight Menu++に戻ります。
-    </p>
-    <hr>
-    <p>
-        &#xE004;, &#xE005;, &#xE002;, &#xE079; を1秒間長押しすると、画面が入れ替わります。
     </p>
 </div>
 

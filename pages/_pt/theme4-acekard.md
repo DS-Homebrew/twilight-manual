@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Tema Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Temporariamente desactivado</div>
-<div class="section-body">
-    <p>
-        Este tema foi temporariamente desactivado devido à corrupção do Cartão SD. Para voltar a implementar o tema, é preciso um novo driver para o cartão SD, e isso demora tempo e muito esforço.
-    </p>
-    <p>
-        Por favor seja paciente, pois o tema pode não voltar.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Controlos de Botão</div>
 <div class="section-body">

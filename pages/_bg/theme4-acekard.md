@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI Theme
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Temporarily disabled</div>
-<div class="section-body">
-    <p>
-        This theme has been temporarily disabled due to SD card corruption. Bringing it back requires making a new SD card driver, which takes a lot of time and effort.
-    </p>
-    <p>
-        Please be patient; it may not be back for a while.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Button Controls</div>
 <div class="section-body">

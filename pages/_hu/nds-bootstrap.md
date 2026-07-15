@@ -9,24 +9,21 @@ title: nds-bootstrap
         Az nds-bootstrap egy homebrew alkalmazás, amit a TWiLight Menu++ használ a DS(i) cartridge mentések, DSiWare és DS-mód homebrew alkalmazások betöltésére a Nintendo DSi / 3DS SD kártyájáról.
     </p>
     <p>
-        Használható továbbá flashcard-okon, habár a kompatibilitás flashcard-okon alacsonyabb, így elsősorban csak homebrew-only flashcard-ok és alacsony kompatibilitású flashcard-ok esetén.
+        Használható továbbá flashcard-okon, habár a DS játék kompatibilitás flashcard-okon némileg alacsonyabb, és eltérhet a különböző flashcard-ok esetében, így elsősorban csak homebrew-only flashcard-ok és alacsony kompatibilitású flashcard-ok esetén.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Kompatibilitás</div>
 <div class="section-body">
     <p>
-        Ahhoz, hogy lásd, mely játékok kompatibilisek az nds-bootstrap-pel, tekintsd meg a kompatibilitási listát:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        A legjobb flashcard kompatibilitáshoz javasoljuk a DS Memory Expansion Pak beszerzését.
+        Ahhoz, hogy lásd, mely játékok kompatibilisek az nds-bootstrap-pel, tekintsd meg a kompatibilitási listát:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Irányítás a játékokban</div>
 <div class="section-body">
     <p>
-        Nyomj &#xE004;, &#xE07A;, és SELECT gombot a játékon belüli menü megnyitáshoz.
+        Nyomj &#xE004;, &#xE07A;, és SELECT gombot a játékon belüli menü megnyitáshoz. Ez ismert, hogy nem működik az Ace3DS+ flashcard-okon és klónjaikon, ha a TWLMenu++ lett beállítva autoboot-ra.
     </p>
     <p>
         Ez átdefiniálható a <code>Menu hotkey</code>-jel az nds-bootstrap oldalon a TWiLight Menu++ beállításaiban.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE000; gombokat 2 másodpercig, hogy készíts egy RAM dumpot.
-    </p>
-    <hr>
-    <p>
         Tartsd nyomva a &#xE004;, &#xE005;, &#xE07A; és a &#xE001; gombokat 2 másodpercig, hogy visszatérj a TWiLight Menu++-ba.
-    </p>
-    <hr>
-    <p>
-        Tartsd nyomva a &#xE004;, &#xE005;,&#xE002; és a &#xE079; gombokat 1 másodpercig, hogy váltsd a képernyőket.
     </p>
 </div>
 

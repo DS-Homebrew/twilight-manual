@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: سمة Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">أزرار التحكم</div>
@@ -58,7 +58,7 @@ title: سمة Nintendo 3DS
 <div id="page-system" class="section-title">نظام الصفحات</div>
 <div class="section-body">
     <p>
-        تقسم سمة Nintendo 3DS العناصر إلى صفحات بحد أقصى 40 عنصرًا في كل صفحة. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
     </p>
     <ul>
         <li><p>سيؤدي الضغط على &#xE004; في أقصى يسار الصفحة إلى نقلك إلى العنصر الأول في الصفحة</p></li>

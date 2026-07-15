@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Tema Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">Sementara nonaktif</div>
-<div class="section-body">
-    <p>
-        Tema ini sementara dinonaktifkan karena bermasalah bisa merusak kartu SD. Jika dikembalikan harus membuat pengandar (driver) kartu SD baru, yang mana perlu banyak waktu dan usaha.
-    </p>
-    <p>
-        Mohon bersabar ya; masih belum selesai dibetulkan.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Tombol Kendali</div>
 <div class="section-body">

@@ -49,10 +49,11 @@ title: GBARunner2
     </p>
     <hr>
     <p>
-        GBA BIOS'unuzun aşağıdaki CRC32 hash'i ile eşleştiğine emin olun.
- <code>81977335</code>
+        You can use our guide on the DS Homebrew wiki to learn how to dump it yourself:<br>
+        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
     </p>
     <p>
-        Yandaki siteden kontrol edebilirsiniz:<br><a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        Otherwise, ensure it matches the CRC32 hash of <code>81977335</code>, which you can do by uploading your dump to the following website:<br>
+        <a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>

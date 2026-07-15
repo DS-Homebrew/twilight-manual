@@ -54,9 +54,9 @@ title: ホーム
     </p>
 </div>
 
-<div id="theme-information" class="section-title">テーマ情報</div>
+<div id="ui-information" class="section-title">UIの情報</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ には6種類のテーマがあります。 これらはすべて異なるデザインを持つメニューで、中にはまったく別のナビゲーションスタイルを持つものもあります。</p>
+    <p class="mb-2">TWiLight Menu++ には6種類のUIがあります。 これらはすべて異なるデザインを持つメニューで、中にはまったく別のナビゲーションスタイルを持つものもあります。</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

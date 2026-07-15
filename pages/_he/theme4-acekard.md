@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: ערכת הנושא Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">מושבתת זמנית</div>
-<div class="section-body">
-    <p>
-        ערכת נושא זו הושבתה זמנית בשל השחתת כרטיסי SD. החזרתה דורשת יצירת מנהל התקן (Driver) חדש לכרטיסי SD, דבר הלוקח זמן רב והשקעה.
-    </p>
-    <p>
-        אנא היעזרו בסבלנות. ייתכן שהיא לא תחזור לזמן מה.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">שליטה באמצעות הכפתורים</div>
 <div class="section-body">

@@ -54,9 +54,9 @@ title: Головна
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Інформація про теми</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ має 6 різних тем на вибір. Це альтернативні меню, що мають різний дизайн, а деякі мають абсолютно окремі стилі навігації.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Це альтернативні меню, що мають різний дизайн, а деякі мають абсолютно окремі стилі навігації.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

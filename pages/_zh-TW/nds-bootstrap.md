@@ -9,24 +9,21 @@ title: nds-bootstrap
         tWiLight Menu++使用nds-bootstrap，该軟體可使Nintendo DSi/Nintendo 3DS在SD卡中載入Nintendo DS ROM或Homebrew軟體。
     </p>
     <p>
-        該軟體同樣可用於燒錄卡中，但其相容性較差。因此建議在只使用自製程式的燒錄卡，或是相容性差的燒錄卡中使用本軟體。
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">相容性</div>
 <div class="section-body">
     <p>
-        想確認玩的遊戲与nds-bootstrap的相容性，請查閱：<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        为保證相容性，建議使用DS Memory Expansion Pak.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">統一選單控制</div>
 <div class="section-body">
     <p>
-        按下&#xE004;, &#xE07A;, 和選擇鍵開啟遊戲子選單。
+        按下&#xE004;, &#xE07A;, 和選擇鍵開啟遊戲子選單。 This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         可在本軟體設定選單內進行<code>熱鍵</code>的設定。
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        同時按下&#xE004;, &#xE005;, &#xE07A;, 和 &#xE000; 2秒來創建RAM Dump。
-    </p>
-    <hr>
-    <p>
         同時按下&#xE004;, &#xE005;, &#xE07A;, 和 &#xE001; 2秒來返回至TWiLight Menu++
-    </p>
-    <hr>
-    <p>
-        同時按下&#xE004;, &#xE005;, &#xE002;, 和 &#xE079; 1秒來切換熒幕。
     </p>
 </div>
 

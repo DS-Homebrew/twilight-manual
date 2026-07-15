@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: سمة Wood UI
+title: Wood UI
 ---
-
-<div id="temporarily-disabled" class="section-title">معطلة مؤقتًا</div>
-<div class="section-body">
-    <p>
-        تم تعطيل هذه السمة لوجود تلف في بطاقة SD. إعادته تتطلّب إنشاء برنامج تشغيل (Driver) جديد لبطاقة SD، وهو أمر يستغرق الكثير من الوقت والجهد.
-    </p>
-    <p>
-        تحل بالصبر؛ قد يستغرق الأمر وقتًا طويلًا.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">أزرار التحكم</div>
 <div class="section-body">

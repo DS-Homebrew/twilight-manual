@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap is een homebrew-applicatie die wordt gebruikt door TWiLight Menu++ om DS(i)-cartridgedumps, DSiWare en DS-mode homebrew te laden van de Nintendo DSi / 3DS SD-kaart.
     </p>
     <p>
-        Het kan ook gebruikt worden op flashcards, maar de compatibiliteit op flashcards is lager, dus het is in de eerste plaats bedoeld voor homebrew-only flashcards en flashcards met een lage compatibiliteit.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibiliteit</div>
 <div class="section-body">
     <p>
-        Om te zien of een spel compatibel is met nds-bootstrap, controleer je de compatibiliteitlijst:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Voor de beste compatibiliteit met flashcards raden wij aan een DS Memory Expansion Pak te gebruiken.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">In-Game besturing</div>
 <div class="section-body">
     <p>
-        Druk op &#xE004;, &#xE07A;, en SELECT om het in-game menu te openen.
+        Druk op &#xE004;, &#xE07A;, en SELECT om het in-game menu te openen. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Dit kan opnieuw worden toegewezen met <code>Menu sneltoets</code> in de nds-bootstrap pagina van TWiLight Menu++ instellingen.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Houd &#xE004;, &#xE005;, &#xE07A;, en &#xE000; gedurende 2 seconden ingedrukt om een RAM dump te maken.
-    </p>
-    <hr>
-    <p>
         Houd &#xE004;, &#xE005;, &#xE07A;, en &#xE001; gedurende 2 seconden ingedrukt om terug te keren naar TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Houd &#xE004;, &#xE005;, &#xE002;, en &#xE079; gedurende 1 seconde ingedrukt om de schermen te verwisselen.
     </p>
 </div>
 

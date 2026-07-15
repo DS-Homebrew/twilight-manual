@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Tema Nintendo DSi
+title: Nintendo DSi UI
 ---
 
 <div id="button-controls" class="section-title">Controale cu Butoane</div>
@@ -63,7 +63,7 @@ title: Tema Nintendo DSi
 <div id="page-system" class="section-title">Sistemul de Pagini</div>
 <div class="section-body">
     <p>
-        Tema Nintendo DSi împarte obiectele în pagini cu un maxim de 40 de obiecte pe pagină. Puteți naviga paginile folosind trigger-ele &#xE004; și &#xE005;.
+        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. Puteți naviga paginile folosind trigger-ele &#xE004; și &#xE005;.
     </p>
     <ul>
         <li><p>Apăsând &#xE004; pe partea cea mai din stânga a paginii vă va duce la primul obiect de pe pagină</p></li>
@@ -91,7 +91,7 @@ title: Tema Nintendo DSi
 <div id="select-menu" class="section-title">Meniul SELECT</div>
 <div class="section-body">
     <p>
-        Apăsând SELECT in tema Nintendo DSi va face să apară Meniul DS Classic implicit. Însă, în setările TWiLight Menu++, puteți schimba aceasta pentru a lansa Meniul SELECT, un meniu miniatură încorporat în tema în sine. Aici sunt opțiunile pentru Meniul SELECT.
+        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Aici sunt opțiunile pentru Meniul SELECT.
     </p>
     <ul>
         <li><strong>Meniul Home</strong>: Pe consolele Nintendo DSi și Nintendo 3DS, această opțiune poste fi folosită pentru a vă întoarce la meniul HOME</li>

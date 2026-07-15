@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap은 TWiLight Menu++가 사용하는 홈브류 애플리케이션이며, DS(i) 게임 카드 덤프 및 DSi 웨어, DS 모드 홈브류를 닌텐도 DSi / 3DS의 SD 카드에서 로딩 합니다.
     </p>
     <p>
-        이는 플래시카드에도 사용될 수 있지만, 플래시카드에서의 호환성이 낮기 때문에, 주로 호환성이 낮은 홈브류 전용 플래시 카드 및 호환성이 낮은 플래시 카드를 대상으로 합니다.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">호환성</div>
 <div class="section-body">
     <p>
-        게임이 nds-bootstrap과 호환되는지 확인하려면, 호환성 리스트를 확인해보세요: <br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        플래시카드와의 최고 호환성을 위해 DS 메모리 확장 팩을 사용하는 것을 추천합니다.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">게임 내 메뉴 컨트롤</div>
 <div class="section-body">
     <p>
-        인게임 메뉴를 열기 위해 &#xE004;와 &#xE07A;, SELECT 버튼을 누릅니다.
+        인게임 메뉴를 열기 위해 &#xE004;와 &#xE07A;, SELECT 버튼을 누릅니다. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         이는 TWiLight Menu++ 설정 내 nds-bootstrap 페이지의 <code>메뉴 단축키</code>에서 변경할 수 있습니다.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        &#xE004;, &#xE005;, &#xE07A; 와 &#xE000; 를 2초 동안 눌러 RAM 덤프를 만듭니다.
-    </p>
-    <hr>
-    <p>
         &#xE004;, &#xE005;, &#xE07A; 와 &#xE001; 를 2초 동안 눌러 TWiLight Menu++로 돌아갑니다.
-    </p>
-    <hr>
-    <p>
-        &#xE004;, &#xE005;, &#xE002; 와 &#xE079; 를 1초 동안 눌러 화면 위아래를 변경합니다.
     </p>
 </div>
 

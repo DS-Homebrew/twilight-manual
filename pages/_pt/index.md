@@ -54,9 +54,9 @@ title: Início
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Informações sobre os temas</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">O TWiLight Menu++ tem 6 temas diferentes à escolha. Estes são menus alternativos com diferentes estilos de visualização, alguns tendo estilos de navegação completamente separados.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Estes são menus alternativos com diferentes estilos de visualização, alguns tendo estilos de navegação completamente separados.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

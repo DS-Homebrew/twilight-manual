@@ -1,62 +1,62 @@
 ---
 banner: /assets/images/manual-home.png
-title: Home
+title: Начало
 ---
 
-<div id="button-controls" class="section-title">Button Controls</div>
+<div id="button-controls" class="section-title">Управление на бутоните</div>
 <div class="section-body">
     <div class="button-action-group">
         <p class="button-action button">&#xE07D;</p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action-text">Превъртане нагоре и надолу</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE07E;</p>
-        <p class="button-action-text">Previous / next page</p>
+        <p class="button-action-text">Предишна / следваща страница</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action button">&#xE001;</p>
-        <p class="button-action-text">Return to the previously selected page</p>
+        <p class="button-action-text">Връщане към предишната страница</p>
     </div>
     <hr>
     <div class="button-action-group">
         <p class="button-action">START</p>
-        <p class="button-action-text">Close manual</p>
+        <p class="button-action-text">Затваряне на ръководството</p>
     </div>
 </div>
 
-<div id="touch-controls" class="section-title">Touch Controls</div>
+<div id="touch-controls" class="section-title">Контроли на докосване</div>
 <div class="section-body">
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/up-down.png" alt="Scroll up/down on the touch screen"></p>
-        <p class="button-action-text">Scroll up and down</p>
+        <p class="button-action"><img src="/assets/images/up-down.png" alt="Превъртане нагоре/надолу на сензорния екран"></p>
+        <p class="button-action-text">Превъртане нагоре и надолу</p>
     </div>
     <hr>
     <div class="button-action-group">
-        <p class="button-action"><img src="/assets/images/tap.png" alt="Tap the touch screen"></p>
-        <p class="button-action-text">Tap on a link to go to its page</p>
+        <p class="button-action"><img src="/assets/images/tap.png" alt="Докоснете екрана"></p>
+        <p class="button-action-text">Докоснете връзка, за да отидете на съответната страница</p>
     </div>
 </div>
 
-<div id="twilight-menu-boot-shortcuts" class="section-title">TWiLight Menu++ Boot Shortcuts</div>
+<div id="twilight-menu-boot-shortcuts" class="section-title">Преки пътища за зареждане на TWiLight Menu++</div>
 <div class="section-body">
     <p>
-        Hold &#xE000;, &#xE001;, &#xE002;, and &#xE003; to reset TWiLight Menu++ Settings.
+        Задръжте &#xE000;, &#xE001;, &#xE002;, и &#xE003;, за да върнете настройките по подразбиране на TWiLight Menu++.
     </p>
     <hr>
     <p>
-        Hold SELECT to directly go to the settings menu.
+        Задръжте SELECT, за да преминете директно към менюто с настройки.
     </p>
     <hr>
     <p>
-        Hold &#xE001; to load the last ran ROM.
+        Задръжте &#xE001;, за да заредите последния стартиран ROM.
     </p>
 </div>
 
-<div id="theme-information" class="section-title">Theme Information</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different themes you can pick from. These are alternative menus which all have different designs, some of them having completely separate navigational styles.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Това са алтернативни менюта с различни дизайни, като някои от тях имат напълно отделни методи на навигация.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -97,9 +97,9 @@ title: Home
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">Game Loaders</div>
+<div id="game-loaders" class="section-title">Програми за зареждане на игри</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++, as the name implies, is just a menu. It doesn't actually load the ROMs itself. Here are the manual pages for the ROM loaders:</p>
+    <p class="mb-2">TWiLight Menu++, както подсказва името, е просто меню. Менюто не зарежда самите ROM-ове. Това са страниците с ръководства за зареждане на ROM:</p>
     <div class="grid-container-2">
         <div class="grid-item">
             <img src="/assets/images/ndsb-icon.png">
@@ -116,29 +116,29 @@ title: Home
     </div>
 </div>
 
-<div id="other-information" class="section-title">Other Information</div>
+<div id="other-information" class="section-title">Друга информация</div>
 <div class="section-body">
     <div class="grid-container-3 mb-2">
         <div class="grid-item">
             <img src="/assets/images/ds-icon.png">
             <p>
-                <a href="ds-classic-menu">DS Classic Menu</a>
+                <a href="ds-classic-menu">Класическо меню на DS</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/chat-icon.png">
             <p>
-                <a href="chat">Chat</a>
+                <a href="chat">Чат</a>
             </p>
         </div>
         <div class="grid-item">
             <img src="/assets/images/settings-icon.png">
             <p>
-                <a href="settings">Settings</a>
+                <a href="settings">Настройки</a>
             </p>
         </div>
     </div>
     <p>
-        Want more information on TWiLight Menu++? Check out the Wiki:<br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
+        Искате повече информация за TWiLight Menu++? Посетете <br><a href="https://wiki.ds-homebrew.com">wiki.ds-homebrew.com</a>
     </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/saturn-theme.png
-title: SEGA Saturn-Tema
+title: SEGA Saturn UI
 ---
 
 <div id="button-controls" class="section-title">Knapfunktioner</div>
@@ -63,7 +63,7 @@ title: SEGA Saturn-Tema
 <div id="page-system" class="section-title">Paginasystem</div>
 <div class="section-body">
     <p>
-        SEGA Saturn-temaet deler elementer op i pagina med maksimalt 40 elementer pr. side. Man kan navigere gennem siderne, ved hjælp af &#xE004;- og &#xE005;-skulderknapperne.
+        The SEGA Saturn UI splits items into pages with a maximum of 40 items per page. Man kan navigere gennem siderne, ved hjælp af &#xE004;- og &#xE005;-skulderknapperne.
     </p>
     <ul>
         <li><p>Tryk på &#xE004; på paginaen længst til venstre, vil bringe dig til det første element på siden</p></li>
@@ -77,7 +77,7 @@ title: SEGA Saturn-Tema
 <div id="select-menu" class="section-title">SELECT-Menu</div>
 <div class="section-body">
     <p>
-        Tryk på SELECT i SEGA Saturn-temaet, vil frembringe DS Klassisk Menu, som standard. Men i TWiLight Menu++-indstillingerne, kan du ændre det til, at starte SELECT-Menuen, en miniature-menu, som er indbygget i selve temaet. Her er menu-valgmulighederne for SELECT-Menuen.
+        Pressing SELECT in the SEGA Saturn UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Her er menu-valgmulighederne for SELECT-Menuen.
     </p>
     <ul>
         <li><strong>Hjem-Menu</strong>: På Nintendo DSi- og Nintendo 3DS-konsollerne kan denne valgmulighed bruges, til at vende tilbage, til hjem-menuen</li>

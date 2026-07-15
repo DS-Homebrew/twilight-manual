@@ -1,17 +1,7 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Tema Wood IU
+title: UI Wood
 ---
-
-<div id="temporarily-disabled" class="section-title">Disabilitato temporaneamente</div>
-<div class="section-body">
-    <p>
-        Questo tema è stato temporaneamente disabilitato, poiché causava la corruzione della scheda SD. Per rimetterlo bisognerebbe rifare daccapo un nuovo driver della scheda SD, che richiede molto tempo e sforzi.
-    </p>
-    <p>
-        Si prega di essere pazienti; potrebbe non esserci di nuovo per un po'.
-    </p>
-</div>
 
 <div id="button-controls" class="section-title">Controlli dei pulsanti</div>
 <div class="section-body">

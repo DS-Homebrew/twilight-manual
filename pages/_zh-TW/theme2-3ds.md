@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS主題
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">按鈕控制</div>
@@ -58,7 +58,7 @@ title: Nintendo 3DS主題
 <div id="page-system" class="section-title">翻頁系統</div>
 <div class="section-body">
     <p>
-        Nintendo 3DS主題中，每頁可存放最多40個軟體。 您可以通過&#xE004; 和&#xE005; 來切換頁面。
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. 您可以通過&#xE004; 和&#xE005; 來切換頁面。
     </p>
     <ul>
         <li><p>在最初頁按下&#xE004; 會定位到本頁第一個項目。</p></li>

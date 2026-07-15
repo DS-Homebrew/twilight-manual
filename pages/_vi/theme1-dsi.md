@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Giao diện Nintendo DSi
+title: Nintendo DSi UI
 ---
 
 <div id="button-controls" class="section-title">Nút điều khiển</div>
@@ -63,7 +63,7 @@ title: Giao diện Nintendo DSi
 <div id="page-system" class="section-title">Trang hệ thống</div>
 <div class="section-body">
     <p>
-        Giao diện Nintendo DSi chia đối tượng thành các trang với tối đa 40 đối tượng 1 trang. Bạn có thể chuyển qua các trang bằng &#xE004; và &#xE005;.
+        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. Bạn có thể chuyển qua các trang bằng &#xE004; và &#xE005;.
     </p>
     <ul>
         <li><p>Nhấn &#xE004; ở ngoài cùng bên trái sẽ đưa bạn đến mục đầu tiên của trang</p></li>
@@ -91,7 +91,7 @@ title: Giao diện Nintendo DSi
 <div id="select-menu" class="section-title">SELECT Menu</div>
 <div class="section-body">
     <p>
-        Nhấn SELECT ở giao diện Nintendo DSi để đặt Menu DS cổ điển làm mặc định. Tuy nhiên, trong cài đặt Twilight Menu ++, bạn có thể thay đổi nó bằng cách khởi chạy SELECT Menu, menu thu nhỏ được nhúng bên trong chính giao diện. Đây là những tùy chọn của SELECT Menu.
+        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. Đây là những tùy chọn của SELECT Menu.
     </p>
     <ul>
         <li><strong>Menu chính</strong>: Trên máy Nintendo DSi và Nintendo 3DS, lựa chọn này có thể dùng để quay lại Menu chính</li>

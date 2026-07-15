@@ -9,24 +9,21 @@ title: nds-bootstrap
         nds-bootstrap - це доморобна програма, що використовується TWiLight Menu++ для завантаження дампів картриджів DS(i), DSiWare та доморобних програм в DS-режимі з SD-карти Nintendo DSi / 3DS.
     </p>
     <p>
-        Програму можна також використовувати на флешкартах, хоча сумісність нижча, тому такий спосіб призначений насамперед для доморобних флешкарт і флешкарт з низькою сумісністю.
+        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Сумісність</div>
 <div class="section-body">
     <p>
-        Щоб дізнатися, чи сумісна гра з nds-bootstrap, перевірте список сумісності:<br><a href="https://r.pk11.us/nds-compatibility">r.pk11.us/nds-compatibility</a>
-    </p>
-    <p>
-        Для найкращої сумісності з флешкартами рекомендуємо придбати DS Memory Expansion Pack.
+        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Ігрове Керування</div>
 <div class="section-body">
     <p>
-        Натисніть &#xE004;, &#xE07A; та SELECT, щоб відкрити ігрове меню.
+        Натисніть &#xE004;, &#xE07A; та SELECT, щоб відкрити ігрове меню. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
     </p>
     <p>
         Поєднання клавіш можна змінити в опції <code>Menu hotkey</code> на сторінці nds-bootstrap у налаштуваннях TWiLight Menu++.
@@ -40,15 +37,7 @@ title: nds-bootstrap
     </p>
     <hr>
     <p>
-        Утримуйте &#xE004;, &#xE005;, &#xE07A; та &#xE000; протягом 2 секунд, щоб створити дамп RAM.
-    </p>
-    <hr>
-    <p>
         Утримуйте &#xE004;, &#xE005;, &#xE07A;, та &#xE001; протягом 2 секунд, щоб повернутися до TWiLight Menu++.
-    </p>
-    <hr>
-    <p>
-        Утримуйте &#xE004;, &#xE005;, &#xE002;, та &#xE079; протягом 1 секунди, щоб поміняти екрани місцями.
     </p>
 </div>
 

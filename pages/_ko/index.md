@@ -54,9 +54,9 @@ title: 홈
     </p>
 </div>
 
-<div id="theme-information" class="section-title">테마 정보</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++는 6개의 선택 가능한 테마를 가지고 있습니다. 모두 각기 다른 디자인의 메뉴들이고, 그 중 몇 개는 완전히 다른 검색 스타일을 갖고 있습니다.</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. 모두 각기 다른 디자인의 메뉴들이고, 그 중 몇 개는 완전히 다른 검색 스타일을 갖고 있습니다.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">

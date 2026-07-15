@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: ערכת הנושא Nintendo 3DS
+title: Nintendo 3DS UI
 ---
 
 <div id="button-controls" class="section-title">שליטה באמצעות הכפתורים</div>
@@ -58,7 +58,7 @@ title: ערכת הנושא Nintendo 3DS
 <div id="page-system" class="section-title">מערכת העמודים</div>
 <div class="section-body">
     <p>
-        ערכת הנושא Nintendo 3DS מחלקת את הפריטים לעמודים, עם מקסימום של 40 פריטים בעמוד. ניתן לנווט בין העמודים בעזרת הטריגרים &#xE004; ו-&#xE005;.
+        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. ניתן לנווט בין העמודים בעזרת הטריגרים &#xE004; ו-&#xE005;.
     </p>
     <ul>
         <li><p>לחיצה על &#xE004; בעמוד השמאלי ביותר תיקח אתכם לפריט הראשון בעמוד</p></li>

@@ -54,9 +54,9 @@ title: 主页
     </p>
 </div>
 
-<div id="theme-information" class="section-title">主题信息</div>
+<div id="ui-information" class="section-title">UI Information</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ 有6种不同的主题可以使用。 这些都是可选的，并且都有着各自的UI设计，其中一些主题会使得本软件的操作方式出现很大变化。</p>
+    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. 这些都是可选的，并且都有着各自的UI设计，其中一些主题会使得本软件的操作方式出现很大变化。</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
