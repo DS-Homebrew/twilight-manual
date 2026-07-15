@@ -31,6 +31,8 @@ jobs:
         run: npm i -g @crowdin/cli
 
       - name: Pull from Crowdin
+        env:
+          CROWDIN_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
         run: crowdin pull
 
       - name: Pull origin
