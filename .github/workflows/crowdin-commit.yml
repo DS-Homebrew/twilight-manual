@@ -47,11 +47,12 @@ jobs:
           git config user.email "twlbot@flashcarts.net"
           git config user.name "TWLBot"
 
-          git checkout master
-          git commit -a -m "Automatic translation import"
+          git checkout main
+          git stage .
+          git commit -m "Automatic translation import"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: master
+          branch: main
           github_token: ${{ secrets.TWLBOT_TOKEN }}
