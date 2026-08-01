@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: UI Wood
+title: Wood IU
 ---
 
 <div id="button-controls" class="section-title">Controlli dei pulsanti</div>

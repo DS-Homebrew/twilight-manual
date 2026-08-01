@@ -9,21 +9,21 @@ title: nds-bootstrap
         nds-bootstrap es una aplicación homebrew usada por TWiLight Menu++ para ejecutar copias de seguridad de cartuchos de DS(i), homebrew en Modo DS y DSiWare desde la tarjeta SD de la Nintendo DSi/3DS.
     </p>
     <p>
-        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        También se puede usar en flashcards, sin embargo la compatibilidad de los juegos de DS en las flashcards es ligeramente menor, y puede variar según el modelo, por lo que está destinado principalmente a flashcards diseñadas exclusivamente para homebrew y flashcards con baja compatibilidad.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibilidad</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
+        Para ver si un juego es compatible con nds-bootstrap, chequea la lista de compatibilidad:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Controles en el Juego</div>
 <div class="section-body">
     <p>
-        Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú dentro del juego. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
+        Pulsa &#xE004;, &#xE07A; y SELECT para abrir el menú dentro del juego. Se sabe que esto no funciona en las tarjetas Ace3DS+ y sus clones si se configura el arranque automático de TWLMenu++.
     </p>
     <p>
         Esto se puede remapear con el <code>Atajo al menú</code> en la página de nds-bootstrap de los ajustes de TWiLight Menu++.

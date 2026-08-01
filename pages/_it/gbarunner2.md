@@ -49,7 +49,7 @@ title: GBARunner2
     </p>
     <hr>
     <p>
-        Puoi usare la nostra guida su DS Homebrew wiki per imparare a dumparlo da solo:<br>
+        Puoi usare la nostra guida su DS Homebrew wiki per imparare a effettuare il dump da solo:<br>
         <a href="https://wiki.ds-homebrew.com/it-IT/gbarunner2/bios-dump">https://wiki.ds-homebrew.com/it-IT/gbarunner2/bios-dump</a>
     </p>
     <p>

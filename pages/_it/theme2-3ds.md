@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: UI Nintendo 3DS
+title: IU Nintendo 3DS
 ---
 
 <div id="button-controls" class="section-title">Controlli dei pulsanti</div>
@@ -58,7 +58,7 @@ title: UI Nintendo 3DS
 <div id="page-system" class="section-title">Sistema a pagine</div>
 <div class="section-body">
     <p>
-        L'UI Nintendo 3DS divide le icone in pagine con un massimo di 40 icone per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
+        L'IU Nintendo 3DS divide le icone in pagine con un massimo di 40 icone per pagina. È possibile navigare attraverso le pagine utilizzando i grilletti &#xE004; e &#xE005;.
     </p>
     <ul>
         <li><p>Premere &#xE004; sulla pagina più a sinistra ti porterà al primo elemento della pagina</p></li>

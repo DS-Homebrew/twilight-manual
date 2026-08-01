@@ -45,15 +45,13 @@ title: GBARunner2
 <div id="bios-file" class="section-title">Archivo BIOS</div>
 <div class="section-body">
     <p>
-        GBARunner2 puede usar un volcado de la BIOS de GBA oficial para mejorar la compatibilidad. El archivo debe llamarse <code>bios.bin</code> y puede ubicarse en la raíz de la tarjeta SD, en <code>sd:/gba</code> o en <code>sd:/_gba</code>.
+        GBARunner2 puede usar un volcado de la BIOS oficial de GBA para mejorar la compatibilidad. El archivo debe llamarse <code>bios.bin</code> y puede ubicarse en la raíz de la tarjeta SD, en <code>sd:/gba</code> o en <code>sd:/_gba</code>.
     </p>
     <hr>
     <p>
-        You can use our guide on the DS Homebrew wiki to learn how to dump it yourself:<br>
-        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
+        Puedes consultar nuestra guía en la wiki de DS Homebrew para aprender cómo hacer el volcado tú mismo:<br>        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
     </p>
     <p>
-        Otherwise, ensure it matches the CRC32 hash of <code>81977335</code>, which you can do by uploading your dump to the following website:<br>
-        <a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        De lo contrario, asegúrate de que tu volcado coincida con el hash CRC32 de <code>asegúrate de que coincida con el hash CRC32 </code>, el cual puedes comprobar subiéndolo a esta web:<br>        <a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
     </p>
 </div>

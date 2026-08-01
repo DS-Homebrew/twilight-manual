@@ -54,7 +54,7 @@ title: Home
     </p>
 </div>
 
-<div id="ui-information" class="section-title">Informazioni UI</div>
+<div id="ui-information" class="section-title">Informazioni IU</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ ha 6 interfacce diverse tra cui puoi scegliere. Sono dei menu alternativi che hanno tutti design differenti, alcuni dei quali hanno stili di navigazione completamente separati.</p>
     <div class="grid-container-3">

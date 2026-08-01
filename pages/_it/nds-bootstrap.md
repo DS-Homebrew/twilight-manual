@@ -9,7 +9,7 @@ title: nds-bootstrap
         nds-bootstrap è un applicazione homebrew utilizzata da TWiLight Menu++ per avviare dump delle cartuccie del DS(i), DSiWare e dell'homebrew in modalità DS dalla scheda SD del Nintendo DSi / Nintendo 3DS.
     </p>
     <p>
-        Può anche essere utilizzato su flashcard, Tuttavia la compatibilità dei giochi DS è leggermente minore, dipendentemente dalla flashcard usata, e perciò destinato principalmente per quelle dedicate agli homebrew o con bassa compatibilità.
+        Può anche essere utilizzato su flashcard, Tuttavia la compatibilità dei giochi DS è leggermente minore e varia a seconda dalla flashcard usata, perciò è destinato principalmente per flashcard dedicate agli homebrew o a bassa compatibilità.
     </p>
 </div>
 
@@ -23,7 +23,7 @@ title: nds-bootstrap
 <div id="controls" class="section-title">Controlli nel gioco</div>
 <div class="section-body">
     <p>
-        Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco. Non funzionerà su flashcard Ace3DS+ e cloni, se impostato per l'auto-avvio su TWLMenu++.
+        Premi &#xE004;, &#xE07A; e SELECT per aprire il menu di gioco. Non funzionerà su flashcard Ace3DS+ e i suoi cloni, se impostato per l'auto-avvio su TWLMenu++.
     </p>
     <p>
         Può essere rimappato con la <code>Scorciatoia menu</code> nella pagina nds-bootstrap delle impostazioni di Twilight Menu++.
