@@ -9,21 +9,21 @@ title: nds-bootstrap
         O nds-bootstrap é um aplicativo homebrew usado pelo TWiLight Menu++ para carregar dumps de cartuchos DS(i), DSiWare, e homebrews em modo DS do Nintendo DSi / cartões SD do 3DS.
     </p>
     <p>
-        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Ele também pode ser usado em flashcards, no entanto a compatibilidade com jogos de DS nesses cartões é menor e pode variar de acordo com o tipo de cartão, sendo recomendado apenas para flashcards homebrew ou flashcards de baixa compatibilidade.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Compatibilidade</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
+        Para verificar se um jogo é compatível com o nds-bootstrap, verifique a lista de compatibilidade:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Controles em jogo</div>
 <div class="section-body">
     <p>
-        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu em jogo. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
+        Pressione &#xE004;, &#xE07A;, e SELECT para abrir o menu em jogo. Essa função não funciona nos flashcards Ace3DS+ e seus clones se estiverem configurados para inicialização automática do TWLMenu++
     </p>
     <p>
         Isso pode ser alterado no <code>menu de atalhos</code> na seção de Jogos e Aplicativos das configurações do TWiLight Menu++.
