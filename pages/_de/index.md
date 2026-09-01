@@ -54,7 +54,7 @@ title: Startseite
     </p>
 </div>
 
-<div id="ui-information" class="section-title">UI Information</div>
+<div id="ui-information" class="section-title">UI-Informationen</div>
 <div class="section-body">
     <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. Hierbei handelt es sich um alternative Menüs mit unterschiedlichen Designs. Einige von ihnen haben völlig eigene Navigationsstile.</p>
     <div class="grid-container-3">
@@ -79,7 +79,7 @@ title: Startseite
         <div class="grid-item">
             <img src="/assets/images/ak-icon.png">
             <p>
-                <a href="theme4-acekard">Wood-UI</a>
+                <a href="theme4-acekard">Wood UI</a>
             </p>
         </div>
         <div class="grid-item">

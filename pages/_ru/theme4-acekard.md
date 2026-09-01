@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/theme4-acekard.png
-title: Wood UI
+title: Интерфейс Wood
 ---
 
 <div id="button-controls" class="section-title">Управление</div>

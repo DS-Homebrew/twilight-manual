@@ -9,21 +9,21 @@ title: nds-bootstrap
         nds-bootstrap - это Nintendo DS(i) homebrew программа, используемая в TWiLight Menu++ для запуска дампов картриджей, DSiWare и DS homebrew с SD-карты Nintendo DSi / 3DS.
     </p>
     <p>
-        It can also be used on flashcards, however DS game compatibility on flashcards is slightly lower, and can vary between different flashcards, so it's primarily intended for homebrew-only flashcards and flashcards with low compatibility.
+        Также поддерживается использование на флешкартриджах, однако совместимость с играми DS на них несколько ниже и может отличаться у разных моделей флешкартриджей. В первую очередь функция предназначена для homebrew-only флешкартриджей и флешкартриджей с низкой совместимостью.
     </p>
 </div>
 
 <div id="compatibility" class="section-title">Совместимость</div>
 <div class="section-body">
     <p>
-        To see if a game is compatible with nds-bootstrap, check the compatibility list:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
+        Чтобы узнать, совместима ли игра с nds-bootstrap, проверьте список совместимости:<br><a href="https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc">docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc</a>
     </p>
 </div>
 
 <div id="controls" class="section-title">Управление в игре</div>
 <div class="section-body">
     <p>
-        Нажмите &#xE004;, &#xE07A;, и SELECT, чтобы открыть внутриигровое меню. This is known to not work on Ace3DS+ flashcards and it's clones, if set to autoboot TWLMenu++.
+        Нажмите &#xE004;, &#xE07A;, и SELECT, чтобы открыть внутриигровое меню. Известно, что эта функция не работает на флешкартриджах Ace3DS+ и их клонах, если установлен автозапуск TWLMenu++.
     </p>
     <p>
         Сочетание можно изменить в <code>меню горячих клавиш</code> на странице nds-bootstrap в настройках TWiLight Menu++.
