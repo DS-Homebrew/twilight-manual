@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/hbl-theme.png
-title: Homebrew Launcher UI
+title: واجهة Homebrew Launcher
 ---
 
 <div id="button-controls" class="section-title">أزرار التحكم</div>
@@ -63,21 +63,21 @@ title: Homebrew Launcher UI
 <div id="page-system" class="section-title">نظام الصفحات</div>
 <div class="section-body">
     <p>
-        The Homebrew Launcher UI splits items into pages with a maximum of 40 items per page. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
+        تقسم واجهة Homebrew Launcher العناصر إلى صفحات مع 40 عنصرا في كل صفحة. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
     </p>
     <ul>
         <li><p>سيؤدي الضغط على &#xE004; في أقصى يسار الصفحة إلى نقلك إلى العنصر الأول في الصفحة</p></li>
         <li><p>سيؤدي الضغط على &#xE005; في أقصى يمين الصفحة إلى نقلك إلى آخر عنصر في الصفحة</p></li>
     </ul>
     <p>
-        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلاً من ذلك.
+        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلا من ذلك.
     </p>
 </div>
 
 <div id="select-menu" class="section-title">قائمة SELECT</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the Homebrew Launcher UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. فيما يلي خيارات القائمة الخاصة بقائمة SELECT.
+        سيؤدي الضغط على SELECT في واجهة HBL إلى إظهار قائمة DS الكلاسيكية بشكل افتراضي. يمكنك تغييرها في إعدادات TWiLight Menu++ لتشغيل قائمة SELECT، وهي قائمة مصغرة مدمجة داخل الواجهة نفسها. فيما يلي خيارات القائمة الخاصة بقائمة SELECT.
     </p>
     <ul>
         <li><strong>القائمة الرئيسية</strong>: على أجهزة Nintendo DSi و Nintendo 3DS، يمكن استخدام هذا الخيار للعودة إلى القائمة الرئيسية</li>

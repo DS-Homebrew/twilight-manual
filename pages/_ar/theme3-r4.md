@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/r4-theme.png
-title: R4 Original UI
+title: واجهة R4 Original
 ---
 
 <div id="main-menu" class="section-title">القائمة الرئيسية</div>

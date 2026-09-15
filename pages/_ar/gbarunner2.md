@@ -49,11 +49,11 @@ title: GBARunner2
     </p>
     <hr>
     <p>
-        You can use our guide on the DS Homebrew wiki to learn how to dump it yourself:<br>
-        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
+        يمكنك الاستعانة بالدليل الموجود على ويكي DS Homebrew لتتعلم كيفية نسخ محتوياته بنفسك:<br>
+        <a href="https://wiki.ds-homebrew.com/gbarunner2/bios-dump">        wiki.ds-homebrew.com/gbarunner2/bios-dump</a>
     </p>
     <p>
-        Otherwise, ensure it matches the CRC32 hash of <code>81977335</code>, which you can do by uploading your dump to the following website:<br>
-        <a href="https://simplycalc.com/crc32-file.php">simplycalc.com/crc32-file.php</a>
+        وإلا، فتأكد من تطابقه مع قيمة CRC32 التي <code>تبلغ 81977335،</code> ويمكنك القيام بذلك عن طريق تحميل ملف النسخة الاحتياطية الخاص بك إلى الموقع الإلكتروني التالي:<br>
+        <a href="https://simplycalc.com/crc32-file.php">        simplycalc.com/crc32-file.php</a>
     </p>
 </div>

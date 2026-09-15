@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/3ds-theme.png
-title: Nintendo 3DS UI
+title: واجهة Nintendo 3DS
 ---
 
 <div id="button-controls" class="section-title">أزرار التحكم</div>
@@ -58,13 +58,13 @@ title: Nintendo 3DS UI
 <div id="page-system" class="section-title">نظام الصفحات</div>
 <div class="section-body">
     <p>
-        The Nintendo 3DS UI splits items into pages with a maximum of 40 items per page. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
+        تقسم واجهة Nintendo 3DS العناصر إلى صفحات مع 40 عنصرا في كل صفحة. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
     </p>
     <ul>
         <li><p>سيؤدي الضغط على &#xE004; في أقصى يسار الصفحة إلى نقلك إلى العنصر الأول في الصفحة</p></li>
         <li><p>سيؤدي الضغط على &#xE005; في أقصى يمين الصفحة إلى نقلك إلى آخر عنصر في الصفحة</p></li>
     </ul>
     <p>
-        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلاً من ذلك.
+        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلا من ذلك.
     </p>
 </div>

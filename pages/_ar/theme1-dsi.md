@@ -1,6 +1,6 @@
 ---
 banner: /assets/images/dsi-theme.png
-title: Nintendo DSi UI
+title: واجهة Nintendo DSi
 ---
 
 <div id="button-controls" class="section-title">أزرار التحكم</div>
@@ -63,24 +63,24 @@ title: Nintendo DSi UI
 <div id="page-system" class="section-title">نظام الصفحات</div>
 <div class="section-body">
     <p>
-        The Nintendo DSi UI splits items into pages with a maximum of 40 items per page. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
+        تقسم واجهة Nintendo DSi العناصر إلى صفحات مع 40 عنصرا في كل صفحة. يمكنك التنقل عبر الصفحات باستخدام &#xE004; و &#xE005;.
     </p>
     <ul>
         <li><p>سيؤدي الضغط على &#xE004; في أقصى يسار الصفحة إلى نقلك إلى العنصر الأول في الصفحة</p></li>
         <li><p>سيؤدي الضغط على &#xE005; في أقصى يمين الصفحة إلى نقلك إلى آخر عنصر في الصفحة</p></li>
     </ul>
     <p>
-        شريط التمرير الموجود في الأسفل يُمثّل جميع العناصر في الصفحة، ويمكنك الضغط عليه للانتقال بسرعة إلى موقع محدد داخل الصفحة.
+        شريط التمرير الموجود في الأسفل يمثل جميع العناصر في الصفحة، ويمكنك الضغط عليه للانتقال بسرعة إلى موقع محدد داخل الصفحة.
     </p>
     <p>
-        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلاً من ذلك.
+        إذا لم تعمل أزرار الأكتاف، يمكنك استخدام SELECT + &#xE07E; بدلا من ذلك.
     </p>
 </div>
 
 <div id="custom-top-screen-image" class="section-title">صورة مخصصة للشاشة العلوية</div>
 <div class="section-body">
     <div style="text-align: center;"><img style="border-color: black; border-width: 1px; border-style: dashed;" src="https://raw.githubusercontent.com/DS-Homebrew/TWiLightMenu/master/romsel_dsimenutheme/nitrofiles/languages/{{ page.collection }}/photo_default.png"></div>
-    <p>تدعم قائمة TWiLight Menu++ عرض صور مخصصة على الشاشة العلوية، تمامًا مثل قائمة Nintendo DSi الرسمية. ومع ذلك، بدلاً من سحبها من تطبيق كاميرا Nintendo DSi Camera، يمكنك وضع صور PNG في <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
+    <p>تدعم قائمة TWiLight Menu++ عرض صور مخصصة على الشاشة العلوية، تماما مثل قائمة Nintendo DSi الرسمية. يمكنك أيضا وضع صور PNG في <code class="language-plaintext wrap">sd:/_nds/TWiLightMenu/dsimenu/photos</code></p>
     <ul>
         <li>أقصى عرض: 208 بكسل</li>
         <li>أقصى ارتفاع: 156 بكسل</li>
@@ -91,7 +91,7 @@ title: Nintendo DSi UI
 <div id="select-menu" class="section-title">قائمة SELECT</div>
 <div class="section-body">
     <p>
-        Pressing SELECT in the Nintendo DSi UI will bring up the DS Classic Menu by default. However, in the TWiLight Menu++ settings, you can change it to launch the SELECT Menu, a miniature menu embedded inside the UI itself. فيما يلي خيارات القائمة الخاصة بقائمة SELECT.
+        سيؤدي الضغط على SELECT في واجهة Nintendo DSi إلى إظهار قائمة DS الكلاسيكية بشكل افتراضي. يمكنك تغييرها في إعدادات TWiLight Menu++ لتشغيل قائمة SELECT، وهي قائمة مصغرة مدمجة داخل الواجهة نفسها. فيما يلي خيارات القائمة الخاصة بقائمة SELECT.
     </p>
     <ul>
         <li><strong>القائمة الرئيسية</strong>: على أجهزة Nintendo DSi و Nintendo 3DS، يمكن استخدام هذا الخيار للعودة إلى القائمة الرئيسية</li>

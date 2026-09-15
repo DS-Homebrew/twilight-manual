@@ -46,17 +46,17 @@ title: الشاشة الرئيسية
     </p>
     <hr>
     <p>
-        اضغط مطولًا على SELECT للانتقال مباشرة إلى الإعدادات.
+        اضغط مطولا على SELECT للانتقال مباشرة إلى الإعدادات.
     </p>
     <hr>
     <p>
-        اضغط مطولًا على &#xE001; لفتح آخر ROM تم تشغيله.
+        اضغط مطولا على &#xE001; لفتح آخر ROM تم تشغيله.
     </p>
 </div>
 
-<div id="ui-information" class="section-title">UI Information</div>
+<div id="ui-information" class="section-title">معلومات الواجهة</div>
 <div class="section-body">
-    <p class="mb-2">TWiLight Menu++ has 6 different user interfaces you can pick from. هذه هي القوائم البديلة التي تحتوي جميعها على تصميمات مختلفة، وبعضها له أنماط تنقل منفصلة تماماً.</p>
+    <p class="mb-2">لدى TWiLight Menu++ ست واجهات مختلفة, اختر منها الواجهة التي تناسبك. هذه هي القوائم البديلة التي تحتوي جميعها على تصميمات مختلفة، وبعضها له أنماط تنقل منفصلة تماما.</p>
     <div class="grid-container-3">
         <div class="grid-item">
             <img src="/assets/images/dsi-icon.png">
@@ -97,7 +97,7 @@ title: الشاشة الرئيسية
     </div>
 </div>
 
-<div id="game-loaders" class="section-title">مشغّل الألعاب</div>
+<div id="game-loaders" class="section-title">مشغل الألعاب</div>
 <div class="section-body">
     <p class="mb-2">قائمة TWiLight Menu++، كما يوحي الاسم، هي مجرد قائمة. لا تقوم بتشغيل الROMs. فيما يلي الصفحات الإرشادية لمشغلات الـROM:</p>
     <div class="grid-container-2">
