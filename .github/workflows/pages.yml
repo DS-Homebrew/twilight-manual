@@ -28,11 +28,10 @@ jobs:
       contents: write # needed to update the release; read-only for fork PRs regardless
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # deno.ts (without the `web` argument) builds the site with Jekyll and
       # screenshots that, so the output always matches this commit.
-      # If Ruby can't be detected, add a .ruby-version file or set ruby-version here.
       - name: Set up Ruby and gems
         uses: ruby/setup-ruby@v1
         with:
@@ -61,7 +60,7 @@ jobs:
 
       # Only main saves the cache; PRs restore from it read-only.
       - name: Restore generated pages
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: |
             nitrofiles/pages
@@ -86,7 +85,7 @@ jobs:
           7z a ../pages.7z pages
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: pages
           path: pages.7z
@@ -94,7 +93,7 @@ jobs:
 
       - name: Save generated pages to cache
         if: success() && github.ref == 'refs/heads/main'
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: |
             nitrofiles/pages
