@@ -2,54 +2,112 @@ name: Build pages for TWiLight Menu++
 
 on:
   push:
-    branches: ["*"]
+    branches: [main]
+    paths-ignore: [README.md, crowdin.yml]
+  pull_request:
     paths-ignore: [README.md, crowdin.yml]
   workflow_dispatch:
+
+# Serialise runs per ref so two main builds can't race on the release upload.
+# Superseded PR builds are cancelled; main builds queue instead.
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  # The release that always holds the latest page files.
+  RELEASE_ID: 35207926
+  DENO_VERSION: 2.2.11
 
 jobs:
   build:
     name: Build pages
-
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        deno-version: [2.2.11]
-
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    permissions:
+      contents: write # needed to update the release; read-only for fork PRs regardless
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
-      - name: Install tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install ffmpeg jq p7zip-full -y
-      - name: Use Deno Version ${{ matrix.deno-version }}
-        uses: denoland/setup-deno@v1
+        uses: actions/checkout@v4
+
+      # deno.ts (without the `web` argument) builds the site with Jekyll and
+      # screenshots that, so the output always matches this commit.
+      # If Ruby can't be detected, add a .ruby-version file or set ruby-version here.
+      - name: Set up Ruby and gems
+        uses: ruby/setup-ruby@v1
         with:
-          deno-version: ${{ matrix.deno-version }}
-      - name: Install Dependencies
+          bundler-cache: true
+
+      - name: Set up Deno ${{ env.DENO_VERSION }}
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: ${{ env.DENO_VERSION }}
+          cache: true
+          cache-hash: ${{ hashFiles('deno.ts') }}
+
+      - name: Install missing tools
+        run: |
+          missing=()
+          command -v ffmpeg >/dev/null || missing+=(ffmpeg)
+          command -v 7z >/dev/null || missing+=(p7zip-full)
+          if [ ${#missing[@]} -gt 0 ]; then
+            sudo apt-get update
+            sudo apt-get install -y --no-install-recommends "${missing[@]}"
+          fi
+
+      # Ubuntu 24.04 restricts unprivileged user namespaces, which Chrome's sandbox needs.
+      - name: Allow Chrome sandbox
         run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
-      - name: Run Application
-        run: deno run --unstable --allow-env --allow-run --allow-net --allow-read --allow-write deno.ts web
-      - name: Pack 7z Package for nightly
+
+      # Only main saves the cache; PRs restore from it read-only.
+      - name: Restore generated pages
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            nitrofiles/pages
+            .cache/pages-manifest.json
+          key: pages-${{ runner.os }}-${{ github.sha }}
+          restore-keys: |
+            pages-${{ runner.os }}-
+
+      - name: Generate pages
+        env:
+          # Use the Chrome preinstalled on the runner instead of downloading one.
+          CHROME_PATH: /usr/bin/google-chrome
+        run: >
+          deno run
+          --allow-env --allow-run --allow-net --allow-read --allow-write
+          --allow-sys=systemMemoryInfo
+          deno.ts
+
+      - name: Pack 7z package
         run: |
           cd nitrofiles
           7z a ../pages.7z pages
-      - name: Upload to pages release
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pages
+          path: pages.7z
+          retention-days: 7
+
+      - name: Save generated pages to cache
+        if: success() && github.ref == 'refs/heads/main'
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            nitrofiles/pages
+            .cache/pages-manifest.json
+          key: pages-${{ runner.os }}-${{ github.sha }}
+
+      # Only builds of main update the shared release.
+      - name: Update pages release
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ID=35207926
-          AUTH_HEADER="Authorization: token ${{ secrets.GITHUB_TOKEN }}"
-
-          # Update description
-          UPLOAD_URL="https://api.github.com/repos/${{ github.repository }}/releases/$ID"
-          curl -XPATCH -H "$AUTH_HEADER" "$UPLOAD_URL" -d "{\"body\": \"This release always has the latest page files\n\nLast updated: $(git rev-parse --short HEAD)\"}"
-
-          # Delete old file
-          ASSET_ID=$(curl https://api.github.com/repos/${{ github.repository }}/releases/$ID/assets | jq --raw-output '.[0].id')
-          UPLOAD_URL="https://api.github.com/repos/${{ github.repository }}/releases/assets/$ASSET_ID"
-          curl -XDELETE -H "$AUTH_HEADER" "$UPLOAD_URL"
-
-          # Upload new file
-          CONTENT_LENGTH="Content-Length: $(stat -c%s pages.7z)"
-          CONTENT_TYPE="Content-Type: application/7z-x-compressed"
-          UPLOAD_URL="https://uploads.github.com/repos/${{ github.repository }}/releases/$ID/assets?name=pages.7z"
-          curl -XPOST -H "$AUTH_HEADER" -H "$CONTENT_LENGTH" -H "$CONTENT_TYPE" --upload-file pages.7z "$UPLOAD_URL"
+          TAG=$(gh api "repos/$GITHUB_REPOSITORY/releases/$RELEASE_ID" --jq .tag_name)
+          gh release upload "$TAG" pages.7z --clobber
+          BODY=$(printf 'This release always has the latest page files\n\nLast updated: %s' "$(git rev-parse --short HEAD)")
+          gh api -X PATCH "repos/$GITHUB_REPOSITORY/releases/$RELEASE_ID" -f body="$BODY"
